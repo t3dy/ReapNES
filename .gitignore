@@ -48,6 +48,12 @@ studio/presets/jsfx_data/
 # Test cache
 .pytest_cache/
 
+# Reference repos (cloned for study, not part of our codebase)
+references/
+
+# Distribution builds
+*.zip
+
 # Distribution builds
 *.zip
 *.tar.gz
