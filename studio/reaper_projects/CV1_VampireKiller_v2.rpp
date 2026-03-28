@@ -11,7 +11,7 @@
     |ReapNES Studio Project
     |Castlevania - Vampire Killer (ROM Extracted v2)
   >
-  <TRACK {7DAAF936-FAFE-497B-9963-0019B0D81FAA}
+  <TRACK {96677647-72ED-4C54-8DA2-E7B9EA36B76F}
     NAME "NES - Pulse 1 [extracted v2]"
     PEAKCOL 16576606
     BEAT -1
@@ -24,7 +24,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {7DAAF936-FAFE-497B-9963-0019B0D81FAA}
+    TRACKID {96677647-72ED-4C54-8DA2-E7B9EA36B76F}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -39,7 +39,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {DCD10D4E-EF85-45A5-A05D-F6FA13168678}
+      FXID {EA7094BF-A578-4BD9-8E93-FCEEA6D2F55A}
       WAK 0 0
     >
     <ITEM
@@ -51,13 +51,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {33CC1E8F-0C84-451D-A064-6A4C7453E131}
+      IGUID {467997AB-823D-4F7F-B846-8EC540FEC43D}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/extraction/exports/midi/castlevania/vk_v2_ch0_pulse1.mid"
       >
     >
   >
-  <TRACK {E1F29A47-4EA6-442D-9D21-00AD9D8B9BD7}
+  <TRACK {61A77B99-5CEE-4EA2-B5BD-5A8CA2D46B72}
     NAME "NES - Pulse 2 [extracted v2]"
     PEAKCOL 10092441
     BEAT -1
@@ -70,7 +70,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E1F29A47-4EA6-442D-9D21-00AD9D8B9BD7}
+    TRACKID {61A77B99-5CEE-4EA2-B5BD-5A8CA2D46B72}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -85,7 +85,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {5D0A2512-AEA4-421E-AC80-B26F64F7EB3E}
+      FXID {B4841B6A-05C7-4752-A771-AD9A9507B34D}
       WAK 0 0
     >
     <ITEM
@@ -97,13 +97,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {14A7C7C7-17E4-47EB-B2CC-834518A1DC15}
+      IGUID {86E720EF-E433-40E1-8BCD-DE2F78C2C269}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/extraction/exports/midi/castlevania/vk_v2_ch1_pulse2.mid"
       >
     >
   >
-  <TRACK {0269E11B-A302-4A02-BF74-18F5033E07ED}
+  <TRACK {77300F6E-3043-428B-9F9A-B5845C48B77A}
     NAME "NES - Triangle [extracted v2]"
     PEAKCOL 16744192
     BEAT -1
@@ -116,7 +116,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {0269E11B-A302-4A02-BF74-18F5033E07ED}
+    TRACKID {77300F6E-3043-428B-9F9A-B5845C48B77A}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -131,7 +131,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C4C3C74F-41B9-4FEF-886C-DB9DEE6571DC}
+      FXID {0D2EBBEA-9D21-4F95-82CC-B66239651784}
       WAK 0 0
     >
     <ITEM
@@ -143,13 +143,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {44567B3F-290C-4FBA-99AE-52DCF4CD5516}
+      IGUID {479E9F6C-AB0D-46CF-B7F6-B5E7F126404B}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/extraction/exports/midi/castlevania/vk_v2_ch2_triangle.mid"
       >
     >
   >
-  <TRACK {3DA37B34-6657-4AEE-8C74-73439141917D}
+  <TRACK {0ADDC153-1D92-419F-867A-A555D69752EC}
     NAME "NES - Noise / Drums [extracted v2]"
     PEAKCOL 11184810
     BEAT -1
@@ -162,7 +162,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {3DA37B34-6657-4AEE-8C74-73439141917D}
+    TRACKID {0ADDC153-1D92-419F-867A-A555D69752EC}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -177,7 +177,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {1AC17D7F-CAF3-415A-BCCD-79D616E8E668}
+      FXID {9B00C54A-28E4-4F8E-A169-82991B1AC0C0}
       WAK 0 0
     >
     <ITEM
@@ -189,7 +189,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EABA00A5-C5A1-4847-BB04-DDB41FF6CF30}
+      IGUID {B70F59F3-01E6-4EB3-89A6-932852C972E2}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/extraction/exports/midi/castlevania/vk_v2_ch3_noise.mid"
       >

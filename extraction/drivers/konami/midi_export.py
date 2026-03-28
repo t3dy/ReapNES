@@ -154,6 +154,7 @@ def export_to_midi(song: ParsedSong, output_path: str | Path,
         abs_tick = 0
         current_note = -1
         current_duty = -1
+        current_volume = 15  # NES volume 0-15
         last_tick = 0
 
         for ev in ch_data.events:
@@ -168,9 +169,12 @@ def export_to_midi(song: ParsedSong, output_path: str | Path,
                                               time=delta))
                     last_tick = abs_tick
 
-                # Note on
+                # Note on with velocity from current instrument volume
                 delta = abs_tick - last_tick
-                velocity = 100  # default; will be refined with instrument data
+                velocity = nes_vol_to_velocity(current_volume)
+                # Triangle has no volume control — always max
+                if ch_type == "triangle":
+                    velocity = 127
                 track.append(mido.Message('note_on', channel=midi_ch,
                                           note=ev.midi_note, velocity=velocity,
                                           time=delta))
@@ -192,6 +196,17 @@ def export_to_midi(song: ParsedSong, output_path: str | Path,
                 abs_tick += dur_ticks
 
             elif isinstance(ev, InstrumentChange):
+                # Update volume state
+                if ev.volume != current_volume:
+                    current_volume = ev.volume
+                    # Emit CC11 (expression) for volume change
+                    delta = abs_tick - last_tick
+                    track.append(mido.Message('control_change', channel=midi_ch,
+                                              control=CC_VELOCITY,
+                                              value=nes_vol_to_velocity(current_volume),
+                                              time=delta))
+                    last_tick = abs_tick
+
                 # Send CC12 for duty cycle change
                 if ev.duty_cycle != current_duty and ch_type != "triangle":
                     delta = abs_tick - last_tick
