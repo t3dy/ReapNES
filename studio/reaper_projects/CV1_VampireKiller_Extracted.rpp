@@ -2,17 +2,17 @@
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
-  TEMPO 128.60027177524103 4 4
+  TEMPO 129 4 4
   PLAYRATE 1 0 0.25 4
   MASTERAUTOMODE 0
   MASTER_VOLUME 1 0 -1 -1 1
   MASTER_NCH 2 2
   <NOTES
     |ReapNES Studio Project
-    |MIDI Import - vampire_killer_extracted
+    |Castlevania - Vampire Killer (ROM Extracted)
   >
-  <TRACK {33570720-5F36-4322-B038-55EA0E4ABCE5}
-    NAME "NES - Pulse 1 [ch2]"
+  <TRACK {EAD2EA00-1055-404B-B2C3-718FFD893CDE}
+    NAME "NES - Pulse 1 [extracted]"
     PEAKCOL 16576606
     BEAT -1
     AUTOMODE 0
@@ -24,7 +24,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {33570720-5F36-4322-B038-55EA0E4ABCE5}
+    TRACKID {EAD2EA00-1055-404B-B2C3-718FFD893CDE}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -39,26 +39,26 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {E58BF185-3090-4CE6-8202-B6F8446E0974}
+      FXID {B984BDB0-A676-448A-9A15-E56A0558805B}
       WAK 0 0
     >
     <ITEM
       POSITION 0
-      LENGTH 26.133304024999997
+      LENGTH 26.1
       LOOP 0
       ALLTAKES 0
       FADEIN 0 0 0 0 0 0 0
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A943A93B-1940-4A1C-AF18-1EBEC20A95B0}
+      IGUID {6B2A8F78-323D-490A-9A35-216E365BC087}
       <SOURCE MIDI
-        FILE "C:/Dev/NESMusicStudio/studio/reaper_projects/midi_remapped/vampire_killer_extracted_nes.mid"
+        FILE "C:/Dev/NESMusicStudio/extraction/exports/midi/castlevania/vampire_killer_ch0_pulse1.mid"
       >
     >
   >
-  <TRACK {24E4111B-E7DB-4CCF-85D8-2DC709146DD7}
-    NAME "NES - Pulse 2 [ch1]"
+  <TRACK {6CDAA1C0-F33C-4AA5-99A5-2B22D1E2C398}
+    NAME "NES - Pulse 2 [extracted]"
     PEAKCOL 10092441
     BEAT -1
     AUTOMODE 0
@@ -70,7 +70,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {24E4111B-E7DB-4CCF-85D8-2DC709146DD7}
+    TRACKID {6CDAA1C0-F33C-4AA5-99A5-2B22D1E2C398}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -85,26 +85,26 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {15844782-7040-4CBD-8855-8DA1BDA9F69D}
+      FXID {C5195748-E8CD-49C5-9942-D4AF40CBA276}
       WAK 0 0
     >
     <ITEM
       POSITION 0
-      LENGTH 26.133304024999997
+      LENGTH 26.1
       LOOP 0
       ALLTAKES 0
       FADEIN 0 0 0 0 0 0 0
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5B19FCEE-8D38-47AA-BB47-0B1637AF14D1}
+      IGUID {61191102-71AC-4D00-B1E8-86284A01EAFD}
       <SOURCE MIDI
-        FILE "C:/Dev/NESMusicStudio/studio/reaper_projects/midi_remapped/vampire_killer_extracted_nes.mid"
+        FILE "C:/Dev/NESMusicStudio/extraction/exports/midi/castlevania/vampire_killer_ch1_pulse2.mid"
       >
     >
   >
-  <TRACK {07ED0E4C-CBEE-4F23-AE64-D909970DD7AD}
-    NAME "NES - Triangle [ch3]"
+  <TRACK {F1AC83AF-DA65-4157-BA8C-05939D73C529}
+    NAME "NES - Triangle [extracted]"
     PEAKCOL 16744192
     BEAT -1
     AUTOMODE 0
@@ -116,7 +116,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {07ED0E4C-CBEE-4F23-AE64-D909970DD7AD}
+    TRACKID {F1AC83AF-DA65-4157-BA8C-05939D73C529}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -131,26 +131,26 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {44E35A26-E9C6-4354-9127-A799C9238A13}
+      FXID {D44C811F-BBBA-4CE8-8215-6CA45B997110}
       WAK 0 0
     >
     <ITEM
       POSITION 0
-      LENGTH 26.133304024999997
+      LENGTH 26.1
       LOOP 0
       ALLTAKES 0
       FADEIN 0 0 0 0 0 0 0
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {46A2E07F-E0A0-4F3C-9046-6362D7EC9D72}
+      IGUID {0E9D14D1-1DBB-4F6C-A621-EDC19A97B75D}
       <SOURCE MIDI
-        FILE "C:/Dev/NESMusicStudio/studio/reaper_projects/midi_remapped/vampire_killer_extracted_nes.mid"
+        FILE "C:/Dev/NESMusicStudio/extraction/exports/midi/castlevania/vampire_killer_ch2_triangle.mid"
       >
     >
   >
-  <TRACK {136A3CAE-936E-4F66-9B05-53AF11449C09}
-    NAME "NES - Noise / Drums"
+  <TRACK {2CA5134F-5F66-4A0A-83F8-9C37D7C19702}
+    NAME "NES - Noise / Drums [extracted]"
     PEAKCOL 11184810
     BEAT -1
     AUTOMODE 0
@@ -162,11 +162,11 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {136A3CAE-936E-4F66-9B05-53AF11449C09}
+    TRACKID {2CA5134F-5F66-4A0A-83F8-9C37D7C19702}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-    REC 1 5088 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0 0
     VU 2
     <FXCHAIN
       SHOW 0
@@ -177,8 +177,22 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {B52FDBDB-3AD3-4C22-8717-480B1ACA3775}
+      FXID {60869566-6309-4D8A-9A00-8ABE719989FA}
       WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 26.1
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5BF25AA5-4FBF-433B-BD1D-084596F0ED35}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/extraction/exports/midi/castlevania/vampire_killer_ch3_noise.mid"
+      >
     >
   >
 >

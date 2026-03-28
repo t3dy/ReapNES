@@ -368,15 +368,19 @@ def generate_song_set_project(song_set_path: Path, output_path: Path) -> None:
     print(f"  {game} - {song} ({tempo} BPM)")
 
 
-def generate_midi_project(midi_path: Path, output_path: Path, song_set_path: Path | None = None) -> None:
-    """Generate project with MIDI items, remapping channels to 0-3.
+def generate_midi_project(midi_path: Path, output_path: Path,
+                          song_set_path: Path | None = None,
+                          nes_native: bool = False) -> None:
+    """Generate project with MIDI items, optionally remapping channels to 0-3.
 
     Creates a remapped MIDI copy where active channels are assigned to
     NES roles (0=Pulse1, 1=Pulse2, 2=Triangle, 3=Noise) and references
     that file from each track via SOURCE MIDI FILE.
+
+    If nes_native=True, skip remapping — MIDI already uses channels 0-3
+    in NES standard format (from ROM extraction). Channel 3 = drums.
     """
     midi_info = analyze_midi(midi_path)
-    role_map = auto_map_channels(midi_info)
     tempo = midi_info["tempo_bpm"]
     duration = midi_info["duration_seconds"]
     stats = midi_info["channel_stats"]
@@ -387,16 +391,22 @@ def generate_midi_project(midi_path: Path, output_path: Path, song_set_path: Pat
             ss = json.load(f)
         title = f"{ss['game']['title']} - {ss['song']['title']}"
 
-    # Build channel remap: original_ch -> nes_ch (0-3)
     nes_ch = {"pulse1": 0, "pulse2": 1, "triangle": 2, "noise": 3}
-    ch_remap: dict[int, int] = {}
-    for role, orig_ch in role_map.items():
-        if orig_ch is not None:
-            ch_remap[orig_ch] = nes_ch[role]
 
-    # Create remapped MIDI
-    remapped_dir = output_path.parent / "midi_remapped"
-    remapped_path = create_remapped_midi(midi_path, ch_remap, remapped_dir)
+    if nes_native:
+        # NES-native MIDI: channels already at 0-3, no remapping needed
+        role_map = {"pulse1": 0, "pulse2": 1, "triangle": 2, "noise": 3}
+        ch_remap = {0: 0, 1: 1, 2: 2, 3: 3}  # identity
+        remapped_path = midi_path  # use original file directly
+    else:
+        role_map = auto_map_channels(midi_info)
+        ch_remap = {}
+        for role, orig_ch in role_map.items():
+            if orig_ch is not None:
+                ch_remap[orig_ch] = nes_ch[role]
+        # Create remapped MIDI
+        remapped_dir = output_path.parent / "midi_remapped"
+        remapped_path = create_remapped_midi(midi_path, ch_remap, remapped_dir)
 
     print(f"  MIDI: {midi_path.name} ({duration:.0f}s, {tempo:.0f} BPM)")
     print(f"  Channel mapping:")
@@ -468,6 +478,8 @@ def main() -> None:
     group.add_argument("--all", action="store_true", help="Rebuild all")
     parser.add_argument("-o", "--output", metavar="PATH", help="Output .RPP path")
     parser.add_argument("--palette", metavar="NAME", help="Song set to use with --midi")
+    parser.add_argument("--nes-native", action="store_true",
+                        help="MIDI already uses NES channels 0-3 (skip remapping)")
 
     args = parser.parse_args()
 
@@ -490,7 +502,7 @@ def main() -> None:
             sys.exit(1)
         ss = SONG_SETS_DIR / f"{args.palette}.json" if args.palette else None
         out = Path(args.output) if args.output else PROJECTS_DIR / f"{midi.stem}_nes.rpp"
-        generate_midi_project(midi, out, ss)
+        generate_midi_project(midi, out, ss, nes_native=args.nes_native)
     elif args.all:
         generate_all()
     else:
