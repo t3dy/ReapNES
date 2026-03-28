@@ -225,10 +225,11 @@ class ChannelParser:
         self.envelope_enabled = False
         self.events: list[Event] = []
         self.return_stack: list[int] = []
+        self.repeat_counters: dict[int, int] = {}  # rom_offset -> remaining count
 
         # Safety limits
-        self.max_events = 2000
-        self.max_bytes = 4000
+        self.max_events = 5000
+        self.max_bytes = 8000
 
     def parse(self) -> list[Event]:
         """Parse the entire channel data stream. Returns list of events."""
@@ -380,15 +381,36 @@ class ChannelParser:
             return False
 
         elif byte == 0xFE:
-            # Repeat
+            # Repeat: FE count ptr_lo ptr_hi
             if self.pos + 3 < len(self.rom):
                 count = self.rom[self.pos + 1]
                 ptr = read_ptr_le(self.rom, self.pos + 2)
-                self.events.append(RepeatMarker(count, ptr, cpu_to_rom(ptr), offset))
-                self.pos += 4
-                # For infinite loops ($FF), treat as end of song
+                target_rom = cpu_to_rom(ptr)
+
+                # Infinite loop = end of song
                 if count == 0xFF:
+                    self.events.append(RepeatMarker(count, ptr, target_rom, offset))
+                    self.pos += 4
                     return True
+
+                # Finite repeat: track how many times we've looped back
+                if offset not in self.repeat_counters:
+                    # First encounter: set counter to (count - 1) remaining
+                    # because we already played through once to get here
+                    self.repeat_counters[offset] = count - 1
+                    self.events.append(RepeatMarker(count, ptr, target_rom, offset))
+                    # Jump back to repeat target
+                    self.pos = target_rom
+                else:
+                    remaining = self.repeat_counters[offset]
+                    if remaining > 0:
+                        self.repeat_counters[offset] = remaining - 1
+                        # Jump back again
+                        self.pos = target_rom
+                    else:
+                        # Done repeating, move past the FE command
+                        del self.repeat_counters[offset]
+                        self.pos += 4
             else:
                 self.pos += 4
             return False

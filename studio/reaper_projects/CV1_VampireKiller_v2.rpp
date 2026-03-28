@@ -1,0 +1,198 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 129 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio Project
+    |Castlevania - Vampire Killer (ROM Extracted v2)
+  >
+  <TRACK {7DAAF936-FAFE-497B-9963-0019B0D81FAA}
+    NAME "NES - Pulse 1 [extracted v2]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {7DAAF936-FAFE-497B-9963-0019B0D81FAA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DCD10D4E-EF85-45A5-A05D-F6FA13168678}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 33.6
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {33CC1E8F-0C84-451D-A064-6A4C7453E131}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/extraction/exports/midi/castlevania/vk_v2_ch0_pulse1.mid"
+      >
+    >
+  >
+  <TRACK {E1F29A47-4EA6-442D-9D21-00AD9D8B9BD7}
+    NAME "NES - Pulse 2 [extracted v2]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {E1F29A47-4EA6-442D-9D21-00AD9D8B9BD7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5D0A2512-AEA4-421E-AC80-B26F64F7EB3E}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 33.6
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {14A7C7C7-17E4-47EB-B2CC-834518A1DC15}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/extraction/exports/midi/castlevania/vk_v2_ch1_pulse2.mid"
+      >
+    >
+  >
+  <TRACK {0269E11B-A302-4A02-BF74-18F5033E07ED}
+    NAME "NES - Triangle [extracted v2]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {0269E11B-A302-4A02-BF74-18F5033E07ED}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C4C3C74F-41B9-4FEF-886C-DB9DEE6571DC}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 33.6
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {44567B3F-290C-4FBA-99AE-52DCF4CD5516}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/extraction/exports/midi/castlevania/vk_v2_ch2_triangle.mid"
+      >
+    >
+  >
+  <TRACK {3DA37B34-6657-4AEE-8C74-73439141917D}
+    NAME "NES - Noise / Drums [extracted v2]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {3DA37B34-6657-4AEE-8C74-73439141917D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1AC17D7F-CAF3-415A-BCCD-79D616E8E668}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 33.6
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EABA00A5-C5A1-4847-BB04-DDB41FF6CF30}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/extraction/exports/midi/castlevania/vk_v2_ch3_noise.mid"
+      >
+    >
+  >
+>
