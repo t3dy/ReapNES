@@ -133,8 +133,10 @@ class ParsedSong:
 
 PITCH_NAMES = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
 
-# Base MIDI notes at octave 4 (E4 = lowest, C2)
-BASE_MIDI_OCTAVE4 = 36  # C2
+# Base MIDI notes at octave 4 (E4 = lowest, C1)
+# Verified against APU trace: A at E2 must produce MIDI 57 (A3)
+# 24 + 9 + (4-2)*12 = 57 ✓
+BASE_MIDI_OCTAVE4 = 24  # C1
 
 
 def pitch_to_midi(pitch: int, octave: int) -> int:
