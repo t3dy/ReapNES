@@ -1,0 +1,25 @@
+{
+  "format": "reapnes-midi-mapping",
+  "version": 1,
+  "description": "Example MIDI-to-NES channel mapping configuration. Use with: generate_project.py --mapping this_file.json",
+  "channel_map": {
+    "pulse1": 0,
+    "pulse2": 1,
+    "triangle": 2,
+    "noise": 9
+  },
+  "notes": {
+    "pulse1": "MIDI track index for lead melody → Pulse 1",
+    "pulse2": "MIDI track index for harmony → Pulse 2",
+    "triangle": "MIDI track index for bass → Triangle",
+    "noise": "MIDI track index for drums → Noise (GM channel 10 = index 9)"
+  },
+  "auto_mapping_rules": {
+    "description": "When no mapping config is provided, auto-mapping works as follows:",
+    "drum_detection": "Tracks on MIDI channel 10 (0-indexed: 9) are assigned to noise",
+    "bass_detection": "Lowest average pitch melodic track → triangle",
+    "lead_detection": "Highest note-count melodic track → pulse1",
+    "harmony_detection": "Second highest note-count → pulse2",
+    "overflow": "Additional tracks are dropped with a warning"
+  }
+}

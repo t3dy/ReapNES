@@ -1,0 +1,26 @@
+{
+  "format": "reapnes-drum-kit",
+  "version": 1,
+  "name": "Default NES Drum Kit",
+  "description": "Standard noise-based drum kit using generic presets. Maps GM drum notes to NES noise instruments.",
+  "provenance": {
+    "source": "hand-authored",
+    "confidence": "approximate",
+    "notes": "Built from generic noise presets. Noise channel only — no DMC samples."
+  },
+  "mapping": {
+    "35": { "preset": "generic/noise_kick.reapnes-data", "name": "Acoustic Bass Drum", "noise_period": 10, "noise_mode": 0 },
+    "36": { "preset": "generic/noise_kick.reapnes-data", "name": "Bass Drum 1", "noise_period": 10, "noise_mode": 0 },
+    "37": { "preset": "generic/noise_snare.reapnes-data", "name": "Side Stick", "noise_period": 3, "noise_mode": 1 },
+    "38": { "preset": "generic/noise_snare.reapnes-data", "name": "Acoustic Snare", "noise_period": 6, "noise_mode": 0 },
+    "39": { "preset": "generic/noise_snare.reapnes-data", "name": "Hand Clap", "noise_period": 4, "noise_mode": 0 },
+    "40": { "preset": "generic/noise_snare.reapnes-data", "name": "Electric Snare", "noise_period": 5, "noise_mode": 0 },
+    "42": { "preset": "generic/noise_hihat_closed.reapnes-data", "name": "Closed Hi-Hat", "noise_period": 1, "noise_mode": 1 },
+    "44": { "preset": "generic/noise_hihat_closed.reapnes-data", "name": "Pedal Hi-Hat", "noise_period": 1, "noise_mode": 1 },
+    "46": { "preset": "generic/noise_hihat_open.reapnes-data", "name": "Open Hi-Hat", "noise_period": 1, "noise_mode": 1 },
+    "49": { "preset": "generic/noise_crash.reapnes-data", "name": "Crash Cymbal 1", "noise_period": 2, "noise_mode": 1 },
+    "51": { "preset": "generic/noise_crash.reapnes-data", "name": "Ride Cymbal 1", "noise_period": 0, "noise_mode": 1 },
+    "57": { "preset": "generic/noise_crash.reapnes-data", "name": "Crash Cymbal 2", "noise_period": 2, "noise_mode": 1 }
+  },
+  "notes": "NES noise channel has 16 period values (0-15) and 2 modes (long=0, short=1). Short mode produces metallic/pitched tones. Long mode produces hiss/white noise. MIDI note number selects period via floor(note/8) in ReapNES_Full. This kit uses envelope-driven presets for more expressive playback."
+}

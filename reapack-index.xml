@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="ReapNES Studio">
+  <category name="Synthesizers">
+    <reapack name="ReapNES_Pulse.jsfx" type="effect">
+      <version name="0.1.0">
+        <changelog><![CDATA[Initial release — wire-accurate 2A03 pulse channel synthesis.]]></changelog>
+        <source main="main">jsfx/ReapNES_Pulse.jsfx</source>
+        <source>jsfx/lib/apu_core.jsfx-inc</source>
+        <source>jsfx/lib/lfsr_noise.jsfx-inc</source>
+        <source>jsfx/lib/mixer_nonlinear.jsfx-inc</source>
+      </version>
+    </reapack>
+  </category>
+</index>
