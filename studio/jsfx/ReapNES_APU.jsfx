@@ -200,9 +200,23 @@ while (midirecv(offset, msg1, msg2, msg3)) (
     ch == 3 && !drum_active && msg2 == noi_note ? ( noi_en = 0; noi_note = -1; );
   );
 
+  // CC1 (mod wheel): duty cycle via 0-127 range (legacy)
   use_msg && status == 0xB0 && msg2 == 1 ? (
     ch == 0 ? ( p1_duty = floor(msg3 / 32); slider1 = p1_duty; );
     ch == 1 ? ( p2_duty = floor(msg3 / 32); slider4 = p2_duty; );
+  );
+
+  // CC11 (expression): volume change mid-note (nesmdb standard, 0-127)
+  use_msg && status == 0xB0 && msg2 == 11 ? (
+    ch == 0 ? ( p1_vol = floor(msg3 / 127 * 15 + 0.5); slider2 = p1_vol; );
+    ch == 1 ? ( p2_vol = floor(msg3 / 127 * 15 + 0.5); slider5 = p2_vol; );
+    ch == 3 ? ( noi_vol = floor(msg3 / 127 * 15 + 0.5); slider10 = noi_vol; );
+  );
+
+  // CC12 (timbre): duty cycle via NES value 0-3 (nesmdb standard)
+  use_msg && status == 0xB0 && msg2 == 12 ? (
+    ch == 0 ? ( p1_duty = min(3, msg3); slider1 = p1_duty; );
+    ch == 1 ? ( p2_duty = min(3, msg3); slider4 = p2_duty; );
   );
 
   // Pitch bend
