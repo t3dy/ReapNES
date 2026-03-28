@@ -8,9 +8,9 @@ Frames compared: 2016
 
 | Channel | Pitch Mismatches | Volume Mismatches | Duty Mismatches | Sounding Mismatches | First Pitch Error |
 |---------|-----------------|-------------------|-----------------|--------------------|--------------------|
-| pulse1 | 354 | 996 | 395 | 445 | frame 910 |
-| pulse2 | 523 | 1773 | 461 | 477 | frame 910 |
-| triangle | 294 | 525 | 0 | 525 | frame 896 |
+| pulse1 | 0 | 687 | 192 | 373 | none |
+| pulse2 | 0 | 1728 | 210 | 546 | none |
+| triangle | 0 | 742 | 0 | 742 | none |
 
 ## Mismatch Regions
 
@@ -35,7 +35,7 @@ Frames compared: 2016
 - frames 328-328 (1 frames, 0.02s)
 - frames 335-335 (1 frames, 0.02s)
 - frames 356-356 (1 frames, 0.02s)
-- ... (60 more regions)
+- ... (92 more regions)
 
 ### pulse2
 - frames 230-230 (1 frames, 0.02s)
@@ -58,30 +58,30 @@ Frames compared: 2016
 - frames 530-559 (30 frames, 0.50s)
 - frames 579-580 (2 frames, 0.03s)
 - frames 586-587 (2 frames, 0.03s)
-- ... (50 more regions)
+- ... (74 more regions)
 
 ### triangle
 - frames 616-622 (7 frames, 0.12s)
 - frames 840-846 (7 frames, 0.12s)
-- frames 896-951 (56 frames, 0.93s)
-- frames 1008-1119 (112 frames, 1.87s)
+- frames 924-951 (28 frames, 0.47s)
+- frames 980-1007 (28 frames, 0.47s)
+- frames 1036-1063 (28 frames, 0.47s)
+- frames 1092-1119 (28 frames, 0.47s)
 - frames 1148-1175 (28 frames, 0.47s)
 - frames 1204-1231 (28 frames, 0.47s)
-- frames 1260-1399 (140 frames, 2.33s)
-- frames 1428-1567 (140 frames, 2.33s)
+- frames 1260-1287 (28 frames, 0.47s)
+- frames 1316-1343 (28 frames, 0.47s)
+- frames 1351-1357 (7 frames, 0.12s)
+- frames 1365-1378 (14 frames, 0.23s)
+- frames 1393-1399 (7 frames, 0.12s)
+- frames 1414-1455 (42 frames, 0.70s)
+- frames 1463-1469 (7 frames, 0.12s)
+- frames 1477-1511 (35 frames, 0.58s)
+- frames 1519-1525 (7 frames, 0.12s)
+- frames 1533-1567 (35 frames, 0.58s)
 - frames 1575-1581 (7 frames, 0.12s)
 - frames 1589-1602 (14 frames, 0.23s)
-- frames 1617-1623 (7 frames, 0.12s)
-- frames 1638-1679 (42 frames, 0.70s)
-- frames 1687-1693 (7 frames, 0.12s)
-- frames 1701-1735 (35 frames, 0.58s)
-- frames 1743-1749 (7 frames, 0.12s)
-- frames 1757-1791 (35 frames, 0.58s)
-- frames 1799-1805 (7 frames, 0.12s)
-- frames 1813-1826 (14 frames, 0.23s)
-- frames 1834-1847 (14 frames, 0.23s)
-- frames 1862-1903 (42 frames, 0.70s)
-- ... (3 more regions)
+- ... (7 more regions)
 
 ## First Frame Diffs (per channel)
 
@@ -173,19 +173,19 @@ Frames compared: 2016
 | 844 | --- | A#2 | 0 | 15 | False | True |
 | 845 | --- | A#2 | 0 | 15 | False | True |
 | 846 | --- | A#2 | 0 | 15 | False | True |
-| 896 | D3 | C#3 | 15 | 15 | True | True |
-| 897 | D3 | C#3 | 15 | 15 | True | True |
-| 898 | D3 | C#3 | 15 | 15 | True | True |
-| 899 | D3 | C#3 | 15 | 15 | True | True |
-| 900 | D3 | C#3 | 15 | 15 | True | True |
-| 901 | D3 | C#3 | 15 | 15 | True | True |
-| 902 | D3 | C#3 | 15 | 15 | True | True |
-| 903 | D3 | C#3 | 15 | 15 | True | True |
-| 904 | D3 | C#3 | 15 | 15 | True | True |
-| 905 | D3 | C#3 | 15 | 15 | True | True |
-| 906 | D3 | C#3 | 15 | 15 | True | True |
-| 907 | D3 | C#3 | 15 | 15 | True | True |
-| 908 | D3 | C#3 | 15 | 15 | True | True |
-| 909 | D3 | C#3 | 15 | 15 | True | True |
-| 910 | D3 | C#3 | 15 | 15 | True | True |
-| 911 | D3 | C#3 | 15 | 15 | True | True |
+| 924 | --- | C#3 | 0 | 15 | False | True |
+| 925 | --- | C#3 | 0 | 15 | False | True |
+| 926 | --- | C#3 | 0 | 15 | False | True |
+| 927 | --- | C#3 | 0 | 15 | False | True |
+| 928 | --- | C#3 | 0 | 15 | False | True |
+| 929 | --- | C#3 | 0 | 15 | False | True |
+| 930 | --- | C#3 | 0 | 15 | False | True |
+| 931 | --- | C#3 | 0 | 15 | False | True |
+| 932 | --- | C#3 | 0 | 15 | False | True |
+| 933 | --- | C#3 | 0 | 15 | False | True |
+| 934 | --- | C#3 | 0 | 15 | False | True |
+| 935 | --- | C#3 | 0 | 15 | False | True |
+| 936 | --- | C#3 | 0 | 15 | False | True |
+| 937 | --- | C#3 | 0 | 15 | False | True |
+| 938 | --- | C#3 | 0 | 15 | False | True |
+| 939 | --- | C#3 | 0 | 15 | False | True |

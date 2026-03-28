@@ -395,22 +395,34 @@ class ChannelParser:
                     self.pos += 4
                     return True
 
-                # Finite repeat: track how many times we've looped back
+                # Finite repeat semantics (from disassembly _loc_0352):
+                # Driver has counter at $06,x starting at 0.
+                # Each FE hit: counter++, compare with count byte.
+                # counter == count -> done (skip past FE)
+                # counter < count -> loop back
+                #
+                # count=2: pass1 (0->1,loop), pass2 (1->2,done) = 2 passes, 1 loop-back
+                # count=3: 3 passes, 2 loop-backs
+                # count=N: N passes, N-1 loop-backs
+                #
+                # Parser first encounters FE at end of pass 1.
+                # Need (count-1) total loop-backs. First encounter does 1,
+                # so (count-2) more needed after that.
                 if offset not in self.repeat_counters:
-                    # First encounter: set counter to (count - 1) remaining
-                    # because we already played through once to get here
-                    self.repeat_counters[offset] = count - 1
+                    self.repeat_counters[offset] = max(0, count - 2)
                     self.events.append(RepeatMarker(count, ptr, target_rom, offset))
-                    # Jump back to repeat target
-                    self.pos = target_rom
+                    if count >= 2:
+                        self.pos = target_rom  # loop back (loop-back #1)
+                    else:
+                        # count=1: 1 pass total, 0 loop-backs. Skip past.
+                        del self.repeat_counters[offset]
+                        self.pos += 4
                 else:
                     remaining = self.repeat_counters[offset]
                     if remaining > 0:
                         self.repeat_counters[offset] = remaining - 1
-                        # Jump back again
                         self.pos = target_rom
                     else:
-                        # Done repeating, move past the FE command
                         del self.repeat_counters[offset]
                         self.pos += 4
             else:
