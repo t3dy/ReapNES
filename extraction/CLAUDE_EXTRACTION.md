@@ -10,6 +10,21 @@ Treat NES commercial game music as **driver-specific code plus data**, not as
 a universal score format. Every driver family has its own command bytes, its
 own instrument table format, and its own playback behavior.
 
+## Fidelity Methodology
+
+The driver is a **stateful frame-based interpreter**. Do not treat it as a
+simple parse-and-convert format. The canonical time model is **NES frames**
+(1/60s NTSC). Only convert to MIDI ticks at the final export stage.
+
+The APU emulator trace (`extraction/traces/castlevania/stage1.csv`) is **ground truth**.
+All extraction work must be validated against the trace, not just by ear.
+
+Tools:
+- `scripts/trace_compare.py` — frame-by-frame diff against trace
+- `extraction/drivers/konami/frame_ir.py` — frame-accurate IR with envelope model
+- `docs/FidelityAudit_CV1.md` — current audit of all fidelity risks
+- `docs/HANDOVER_FIDELITY.md` — current state and next steps for fidelity work
+
 ## Evidence Hierarchy (never violate)
 
 1. **Manually verified reverse-engineering findings** -- highest authority

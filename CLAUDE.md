@@ -39,11 +39,23 @@ python scripts/validate.py --all
 - A working single-note test beats a speculative framework
 - Run validation after every change, not just at the end
 
+## Current Focus: Fidelity
+
+The end-to-end pipeline works (ROM -> parser -> MIDI -> REAPER). The current
+task is **closing the fidelity gap** between extracted output and the real
+game audio. See `docs/HANDOVER_FIDELITY.md` for detailed current state,
+identified bugs, and prioritized next steps.
+
+Key rule: **Use the APU trace as ground truth.** Run `scripts/trace_compare.py`
+after any parser or export change to verify against the emulator trace.
+
 ## First Milestone
 
 **"Castlevania Stage 1 from ROM to REAPER"**
 
-1. Complete Konami driver parser for Castlevania Stage 1
-2. Extract MIDI sequence + instrument presets from ROM
-3. Generate RPP project with per-channel instruments
-4. Open in REAPER, press play, hear Vampire Killer
+1. ~~Complete Konami driver parser for Castlevania Stage 1~~ DONE
+2. ~~Extract MIDI sequence + instrument presets from ROM~~ DONE
+3. ~~Generate RPP project with per-channel instruments~~ DONE
+4. ~~Open in REAPER, press play, hear Vampire Killer~~ DONE
+5. Close fidelity gap: fix repeat count, B section alignment, envelope accuracy
+6. Rebuild MIDI export from frame IR for proper staccato articulation
