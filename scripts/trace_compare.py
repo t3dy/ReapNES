@@ -5,12 +5,21 @@ Produces a frame-by-frame diff showing pitch, volume, duty, and
 sounding-state mismatches between our parser output and ground truth.
 
 Usage:
-    python scripts/trace_compare.py [--frames N] [--start-frame F]
+    python scripts/trace_compare.py [--frames N] [--start-frame F] [--game cv1|contra]
 
 Outputs:
-    docs/TraceComparison_CV1.md  (human-readable report)
-    data/trace_diff_cv1.json     (machine-readable)
+    docs/TraceComparison_<game>.md  (human-readable report)
+    data/trace_diff_<game>.json     (machine-readable)
 """
+# ---------------------------------------------------------------
+# STATUS: MULTI_GAME (supports --game parameter)
+# SCOPE: cv1, contra
+# VALIDATED: 2026-03-28
+# TRACE_RESULT: produces 0-mismatch reports for CV1 pulse
+# KNOWN_LIMITATIONS:
+#   - Contra trace validation is provisional (~91% pitch match)
+# LAYER: tooling
+# ---------------------------------------------------------------
 
 from __future__ import annotations
 
@@ -22,14 +31,39 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO_ROOT))
 
 from extraction.drivers.konami.parser import KonamiCV1Parser
+from extraction.drivers.konami.contra_parser import ContraParser
 from extraction.drivers.konami.frame_ir import (
     parser_to_frame_ir, trace_to_frame_ir, SongIR, FrameState, PITCH_NAMES,
+    DriverCapability,
 )
 
-ROM_PATH = REPO_ROOT / "extraction" / "roms" / "Castlevania (U) (V1.0) [!].nes"
-TRACE_PATH = REPO_ROOT / "extraction" / "traces" / "castlevania" / "stage1.csv"
+# ---------------------------------------------------------------------------
+# Per-game configuration
+# ---------------------------------------------------------------------------
+GAME_CONFIGS = {
+    "cv1": {
+        "rom_path": REPO_ROOT / "extraction" / "roms" / "Castlevania (U) (V1.0) [!].nes",
+        "trace_path": REPO_ROOT / "extraction" / "traces" / "castlevania" / "stage1.csv",
+        "trace_start_frame": 111,
+        "track": 2,
+        "parser_class": "KonamiCV1Parser",
+        "driver": None,  # uses default CV1 driver
+        "report_path": REPO_ROOT / "docs" / "TraceComparison_CV1.md",
+        "diff_path": REPO_ROOT / "data" / "trace_diff_cv1.json",
+    },
+    "contra": {
+        "rom_path": REPO_ROOT / "AllNESRoms" / "All NES Roms (GoodNES)" / "USA" / "Contra (U) [!].nes",
+        "trace_path": REPO_ROOT / "extraction" / "traces" / "contra" / "jungle.csv",
+        "trace_start_frame": 155,
+        "track": "jungle",
+        "parser_class": "ContraParser",
+        "driver": "contra",  # signals to use DriverCapability.contra()
+        "report_path": REPO_ROOT / "docs" / "TraceComparison_Contra.md",
+        "diff_path": REPO_ROOT / "data" / "trace_diff_contra.json",
+    },
+}
 
-# Vampire Killer starts at approximately frame 111 in the trace
+# Legacy constants kept for backward compat with --start-frame default
 TRACE_START_FRAME = 111
 
 
@@ -120,13 +154,16 @@ def compare_channels(extracted: SongIR, trace: SongIR, max_frames: int) -> dict:
     return results
 
 
-def generate_report(results: dict, max_frames: int) -> str:
+def generate_report(results: dict, max_frames: int, config: dict) -> str:
     """Generate a human-readable markdown report."""
+    game_name = [k for k, v in GAME_CONFIGS.items() if v is config][0]
+    trace_start = config["trace_start_frame"]
+
     lines = [
-        "# Trace Comparison: Castlevania 1 Vampire Killer",
+        f"# Trace Comparison: {game_name.upper()} (track: {config['track']})",
         "",
         f"Comparing parser output against emulator APU trace.",
-        f"Trace start offset: frame {TRACE_START_FRAME}",
+        f"Trace start offset: frame {trace_start}",
         f"Frames compared: {max_frames}",
         "",
     ]
@@ -138,6 +175,8 @@ def generate_report(results: dict, max_frames: int) -> str:
     lines.append("|---------|-----------------|-------------------|-----------------|--------------------|--------------------|")
 
     for ch_name in ["pulse1", "pulse2", "triangle"]:
+        if ch_name not in results:
+            continue
         d = results[ch_name]
         fp = f"frame {d['first_pitch_mismatch']}" if d['first_pitch_mismatch'] is not None else "none"
         lines.append(
@@ -151,6 +190,8 @@ def generate_report(results: dict, max_frames: int) -> str:
     lines.append("## Mismatch Regions")
     lines.append("")
     for ch_name in ["pulse1", "pulse2", "triangle"]:
+        if ch_name not in results:
+            continue
         d = results[ch_name]
         if d["mismatch_regions"]:
             lines.append(f"### {ch_name}")
@@ -165,6 +206,8 @@ def generate_report(results: dict, max_frames: int) -> str:
     lines.append("## First Frame Diffs (per channel)")
     lines.append("")
     for ch_name in ["pulse1", "pulse2", "triangle"]:
+        if ch_name not in results:
+            continue
         d = results[ch_name]
         if d["frame_diffs"]:
             lines.append(f"### {ch_name}")
@@ -186,13 +229,19 @@ def main():
     import argparse
 
     ap = argparse.ArgumentParser(description="Compare extraction vs APU trace")
+    ap.add_argument("--game", default="cv1", choices=list(GAME_CONFIGS.keys()),
+                    help="Game to compare (default: cv1)")
     ap.add_argument("--frames", type=int, default=600, help="Number of frames to compare")
-    ap.add_argument("--start-frame", type=int, default=TRACE_START_FRAME,
-                    help="Trace frame where Vampire Killer starts")
+    ap.add_argument("--start-frame", type=int, default=None,
+                    help="Trace frame where music starts (default: from game config)")
     ap.add_argument("--dump-frames", help="Dump raw trace values for frame range (e.g. 0-20)")
     ap.add_argument("--channel", default="all",
                     help="Channel to dump: pulse1, pulse2, triangle, all")
     args = ap.parse_args()
+
+    config = GAME_CONFIGS[args.game]
+    trace_path = config["trace_path"]
+    trace_start = args.start_frame if args.start_frame is not None else config["trace_start_frame"]
 
     if args.dump_frames:
         # Dump mode: show raw trace values without parser comparison
@@ -201,9 +250,9 @@ def main():
         dump_end = int(parts[1]) if len(parts) > 1 else dump_start + 20
 
         trace_ir = trace_to_frame_ir(
-            str(TRACE_PATH),
-            start_frame=args.start_frame,
-            end_frame=args.start_frame + dump_end + 1,
+            str(trace_path),
+            start_frame=trace_start,
+            end_frame=trace_start + dump_end + 1,
         )
 
         channels = ["pulse1", "pulse2", "triangle"] if args.channel == "all" \
@@ -222,18 +271,26 @@ def main():
             print()
         sys.exit(0)
 
-    print("Loading ROM and parsing track 2 (Vampire Killer)...")
-    parser = KonamiCV1Parser(str(ROM_PATH))
-    song = parser.parse_track(2)
+    # Parse track using the appropriate parser
+    if config["parser_class"] == "ContraParser":
+        print(f"Loading ROM and parsing track '{config['track']}' (Contra)...")
+        parser_obj = ContraParser(str(config["rom_path"]))
+        song = parser_obj.parse_track(config["track"])
+        driver = DriverCapability.contra(parser_obj.envelope_tables)
+        print("Converting to frame IR...")
+        extracted_ir = parser_to_frame_ir(song, driver=driver)
+    else:
+        print(f"Loading ROM and parsing track {config['track']}...")
+        parser_obj = KonamiCV1Parser(str(config["rom_path"]))
+        song = parser_obj.parse_track(config["track"])
+        print("Converting to frame IR...")
+        extracted_ir = parser_to_frame_ir(song)
 
-    print("Converting to frame IR...")
-    extracted_ir = parser_to_frame_ir(song)
-
-    print(f"Loading trace from {TRACE_PATH}...")
+    print(f"Loading trace from {trace_path}...")
     trace_ir = trace_to_frame_ir(
-        str(TRACE_PATH),
-        start_frame=args.start_frame,
-        end_frame=args.start_frame + args.frames,
+        str(trace_path),
+        start_frame=trace_start,
+        end_frame=trace_start + args.frames,
     )
 
     print(f"Comparing {args.frames} frames...")
@@ -241,18 +298,20 @@ def main():
 
     # Print summary
     for ch_name in ["pulse1", "pulse2", "triangle"]:
+        if ch_name not in results:
+            continue
         d = results[ch_name]
         print(f"  {ch_name}: pitch={d['pitch_mismatches']} vol={d['volume_mismatches']} "
               f"sounding={d['sounding_mismatches']} mismatches")
 
     # Write report
-    report = generate_report(results, args.frames)
-    report_path = REPO_ROOT / "docs" / "TraceComparison_CV1.md"
+    report = generate_report(results, args.frames, config)
+    report_path = config["report_path"]
     report_path.write_text(report, encoding="utf-8")
     print(f"\nReport: {report_path}")
 
     # Write machine-readable diff
-    diff_path = REPO_ROOT / "data" / "trace_diff_cv1.json"
+    diff_path = config["diff_path"]
     diff_path.parent.mkdir(parents=True, exist_ok=True)
     # Convert tuples to lists for JSON
     json_results = {}
