@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Has This Been Done Before? A Survey of NES Music Extraction"
+---
+
 # Has This Been Done Before? A Survey of NES Music Extraction
 
 ## Summary

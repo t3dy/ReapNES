@@ -1,0 +1,33 @@
+title: ReapNES
+description: NES Music Reverse Engineering Studio — Extract, validate, and reproduce NES game music at frame-level fidelity
+url: "https://t3dy.github.io"
+baseurl: "/ReapNES"
+theme: jekyll-theme-hacker
+markdown: kramdown
+
+exclude:
+  - AllNESRoms/
+  - references/
+  - output/
+  - extraction/roms/
+  - extraction/traces/
+  - studio/presets/
+  - "*.nes"
+  - "*.wav"
+  - "*.mp4"
+  - "*.mid"
+  - __pycache__/
+  - .pytest_cache/
+  - venv/
+  - node_modules/
+  - capture_contra.csv
+  - CLAUDE.md
+  - extraction/CLAUDE_EXTRACTION.md
+  - .claude/
+
+defaults:
+  - scope:
+      path: "docs"
+    values:
+      layout: "default"
+      nav_order: 10

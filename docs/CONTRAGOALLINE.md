@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Contra — The Goal Line"
+---
+
 # Contra — The Goal Line
 
 ## Where We Are

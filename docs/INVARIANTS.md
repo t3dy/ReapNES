@@ -1,3 +1,8 @@
+---
+layout: default
+title: "NES Music Studio -- Invariants Registry"
+---
+
 # NES Music Studio -- Invariants Registry
 
 This document catalogs every invariant that the extraction pipeline

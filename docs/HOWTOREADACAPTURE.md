@@ -1,3 +1,8 @@
+---
+layout: default
+title: "How to Read an APU Capture File"
+---
+
 # How to Read an APU Capture File
 
 ## For Humans

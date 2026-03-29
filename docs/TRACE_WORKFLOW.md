@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Trace Comparison Workflow"
+---
+
 # Trace Comparison Workflow
 
 This document covers how to capture APU traces from the emulator,

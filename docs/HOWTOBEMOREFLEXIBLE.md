@@ -1,3 +1,8 @@
+---
+layout: default
+title: "How to Be More Flexible in NES Music Reverse Engineering"
+---
+
 # How to Be More Flexible in NES Music Reverse Engineering
 
 ## The Pattern That Keeps Burning Us

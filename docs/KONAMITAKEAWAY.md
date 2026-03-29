@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Konami NES Music Coding: What We Know"
+---
+
 # Konami NES Music Coding: What We Know
 
 Takeaways from reverse engineering Castlevania 1 (1986) and

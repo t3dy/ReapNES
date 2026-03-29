@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Mesen APU Trace Capture — Workflow Guide"
+---
+
 # Mesen APU Trace Capture — Workflow Guide
 
 ## Overview

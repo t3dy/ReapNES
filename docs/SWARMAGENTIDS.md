@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Swarm Agent Roster — Methodological Refactor"
+---
+
 # Swarm Agent Roster — Methodological Refactor
 
 Ten agents launched in parallel on 2026-03-28 to restructure the

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "NES Music Studio -- Research Log"
+---
+
 # NES Music Studio -- Research Log
 
 A chronological record of discoveries made while reverse engineering

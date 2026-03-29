@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Musical Parameter Checklist"
+---
+
 # Musical Parameter Checklist
 
 Every parameter that shapes how NES music sounds, whether we model

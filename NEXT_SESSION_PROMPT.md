@@ -3,34 +3,76 @@
 ---
 
 You are continuing work on NES Music Studio at C:/Dev/NESMusicStudio/.
+GitHub: https://github.com/t3dy/ReapNES
 
 Read these files in order:
 
-C:/Dev/NESMusicStudio/CLAUDE.md
-C:/Dev/NESMusicStudio/docs/HANDOVER.md
-C:/Dev/NESMusicStudio/extraction/manifests/contra.json
+1. C:/Dev/NESMusicStudio/CLAUDE.md
+2. C:/Dev/NESMusicStudio/docs/HANDOVER_SESSION2.md
+3. C:/Dev/NESMusicStudio/docs/INVARIANTS.md
 
-Then read the Contra parser:
+Then skim:
+4. C:/Dev/NESMusicStudio/docs/UNKNOWNS.md (open questions)
+5. C:/Dev/NESMusicStudio/extraction/manifests/contra.json
 
-C:/Dev/NESMusicStudio/extraction/drivers/konami/contra_parser.py
+## Context
 
-Context: Castlevania 1 is COMPLETE (15 tracks, verified). Contra is at v4 — notes and timing are close but volume dynamics are flat. The project now has deterministic tooling (`rom_identify.py`, `trace_compare.py --dump-frames`) and per-game manifests that distinguish verified facts from hypotheses.
+Two Konami NES soundtracks extracted and validated:
 
-Priority work:
+**Castlevania 1** — COMPLETE. 15/15 tracks. Pulse channels: 0 pitch, 0 volume,
+0 sounding mismatches across 1792 frames. Triangle has 195 sounding mismatches
+(linear counter approximation, labeled APPROXIMATE in INVARIANTS.md INV-007).
 
-1. Implement Contra's volume envelope lookup tables — the `pulse_volume_ptr_tbl` in the Contra disassembly (`references/nes-contra-us/src/bank1.asm` lines 23-95). Extract the envelope data from the ROM, apply per-frame volume shaping in the frame IR. This is the #1 Contra fidelity gap. The contra.json manifest marks this as status: HYPOTHESIS.
+**Contra** — 11/11 tracks at v8. Trace-validated: 0 real pitch mismatches,
+96.6% volume match on Jungle. Key fixes this session: EC pitch adjustment,
+envelope lookup tables (54 extracted from ROM), bounce-at-1, vol_duration.
 
-2. Once Jungle sounds right (user ear-check), batch all 11 Contra tracks.
+**Architecture** — DriverCapability schema dispatches envelope strategies.
+Parsers emit full-duration events (INV-002). Frame IR handles all volume shaping.
+17 invariant tests pass. Status labels on all driver modules.
 
-3. Investigate next Konami game — run `PYTHONPATH=. python scripts/rom_identify.py <rom>` first, then follow the workflow gates in CLAUDE.md.
+**Docs** — 7 structured docs (DRIVER_MODEL, GAME_MATRIX, COMMAND_MANIFEST,
+INVARIANTS, TRACE_WORKFLOW, RESEARCH_LOG, UNKNOWNS) plus 15+ narrative docs.
+All written as ROM hacker tutorials with machine-readable status values.
 
-Rules:
-- CLAUDE.md has ordered workflow gates — follow the sequence, don't skip steps.
-- Per-game manifests in extraction/manifests/ carry structured state. Read them. Update them when you verify or disprove something.
-- Path-specific rules in .claude/rules/ load automatically. They contain checklists and protocols.
-- Run `PYTHONPATH=. python scripts/trace_compare.py --frames 1792` after parser/frame_ir changes.
-- Use `--dump-frames N-M --channel X` to extract trace data. Never write ad hoc extraction scripts.
+## What Was Left Incomplete
+
+1. **Website** — User wants a site showing both projects with docs,
+   version-by-version audio comparisons, and ROM hacker tutorial framing.
+   README.md is website-ready. Docs are structured markdown. No site
+   generator configured yet. User said "go build and deploy the website."
+
+2. **trace_compare.py --game parameter** — Currently hardcoded to CV1.
+   Needs GAME_CONFIGS dict, --game CLI arg, ContraParser branching.
+   Backward compatible (default=cv1). See HANDOVER_SESSION2.md for spec.
+
+3. **Triangle fidelity** — 195 mismatches on CV1. Hardware layer issue
+   (quarter-frame sequencer). Labeled APPROXIMATE. Not blocking but the
+   most interesting open research problem.
+
+4. **Contra remaining gaps** — UNKNOWN_SOUND_01 subtraction (~3.4% vol),
+   Base Sq2 early loop (correct behavior but needs loop extension for
+   full-length MIDI), EB vibrato (unused in Contra but needed for future).
+
+5. **Apply lessons to Castlevania** — The user asked whether Contra
+   insights could improve CV1 further. The phase2_start fix already
+   eliminated 45 mismatches. Triangle is the remaining frontier.
+
+## Rules
+
+- CLAUDE.md has ordered workflow gates — follow the sequence
+- Per-game manifests carry structured state — read them, update them
+- Run `PYTHONPATH=. python scripts/trace_compare.py --frames 1792` after changes
+- 17 invariant tests must pass: `PYTHONPATH=. python -m pytest tests/test_envelope_invariants.py tests/test_parser_invariants.py -v`
+- Architecture rules in `.claude/rules/architecture.md`
 - Version output files. Never overwrite tested files.
-- The Contra disassembly at references/nes-contra-us/ is primary source. Read before guessing.
+
+## Key Commands
+
+```bash
+PYTHONPATH=. python scripts/trace_compare.py --frames 1792           # CV1 validation
+PYTHONPATH=. python -m pytest tests/test_envelope_invariants.py tests/test_parser_invariants.py -v  # invariants
+PYTHONPATH=. python scripts/rom_identify.py <rom>                     # identify ROM
+```
 
 ---

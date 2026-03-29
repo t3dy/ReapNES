@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Contra — Trace Comparison Results"
+---
+
 # Contra — Trace Comparison Results
 
 ## What the Capture Proved

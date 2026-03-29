@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Konami Maezawa NES Sound Driver -- Byte-Level Command Reference"
+---
+
 # Konami Maezawa NES Sound Driver -- Byte-Level Command Reference
 
 ## Overview

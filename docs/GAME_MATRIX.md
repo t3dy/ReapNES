@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Konami Maezawa-Family NES Game Matrix"
+---
+
 # Konami Maezawa-Family NES Game Matrix
 
 Status matrix for every known or suspected Konami Maezawa-family NES

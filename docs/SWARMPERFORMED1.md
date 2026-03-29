@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Swarm Performance Analysis — First Deployment"
+---
+
 # Swarm Performance Analysis — First Deployment
 
 ## What We Attempted

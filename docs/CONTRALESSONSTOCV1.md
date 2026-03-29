@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Applying Contra Lessons to Castlevania 1"
+---
+
 # Applying Contra Lessons to Castlevania 1
 
 ## The Result

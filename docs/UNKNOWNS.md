@@ -1,3 +1,8 @@
+---
+layout: default
+title: "NES Music Studio -- Open Unknowns"
+---
+
 # NES Music Studio -- Open Unknowns
 
 A structured list of unsolved problems in this project. Each entry is a

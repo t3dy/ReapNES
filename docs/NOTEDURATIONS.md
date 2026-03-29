@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Note Duration Dynamics — Everything That Affects What You Hear"
+---
+
 # Note Duration Dynamics — Everything That Affects What You Hear
 
 ## Why Notes Sound Shorter or Longer Than Expected
