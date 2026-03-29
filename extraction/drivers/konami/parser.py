@@ -12,6 +12,17 @@ Usage:
     for ch in song.channels:
         print(ch.name, len(ch.events), "events")
 """
+# ---------------------------------------------------------------
+# STATUS: VERIFIED (CV1)
+# SCOPE: cv1 + shared event types used by contra_parser
+# VALIDATED: 2026-03-28
+# TRACE_RESULT: 0 pitch, 0 volume, 0 sounding mismatches (CV1 pulse, 1792 frames)
+# KNOWN_LIMITATIONS:
+#   - pitch_to_midi uses BASE_MIDI_OCTAVE4=36, CV1-specific
+#   - E5-E7 treated as invalid (may be valid in other games)
+#   - Pointer table layout hardcoded for CV1 (9-byte entries, 15 tracks)
+# LAYER: mixed (shared types + CV1-specific parser)
+# ---------------------------------------------------------------
 
 from __future__ import annotations
 

@@ -16,6 +16,16 @@ Usage:
     song = parser.parse_track(2)
     export_to_midi(song, "vampire_killer.mid")
 """
+# ---------------------------------------------------------------
+# STATUS: VERIFIED
+# SCOPE: shared
+# VALIDATED: 2026-03-28
+# TRACE_RESULT: N/A (MIDI export, not directly trace-comparable)
+# KNOWN_LIMITATIONS:
+#   - CC11 automation quantized to MIDI ticks (slight timing rounding)
+#   - Drum mapping uses GM percussion (approximate timbral match)
+# LAYER: data (export format, not engine or hardware)
+# ---------------------------------------------------------------
 
 from __future__ import annotations
 

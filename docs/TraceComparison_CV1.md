@@ -1,4 +1,4 @@
-# Trace Comparison: Castlevania 1 Vampire Killer
+# Trace Comparison: CV1 (track: 2)
 
 Comparing parser output against emulator APU trace.
 Trace start offset: frame 111

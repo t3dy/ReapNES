@@ -15,6 +15,17 @@ Usage:
     parser = ContraParser("Contra.nes")
     song = parser.parse_track("jungle")
 """
+# ---------------------------------------------------------------
+# STATUS: IN_PROGRESS
+# SCOPE: contra
+# VALIDATED: 2026-03-28
+# TRACE_RESULT: 0 real pitch mismatches, 96.6% volume match (Jungle pulse, 2976 frames)
+# KNOWN_LIMITATIONS:
+#   - EB vibrato parameters skipped (not implemented)
+#   - Auto-decrescendo PULSE_VOL_DURATION model is approximate
+#   - UNKNOWN_SOUND_01 subtraction not modeled
+# LAYER: data (Contra-specific command semantics)
+# ---------------------------------------------------------------
 
 from __future__ import annotations
 

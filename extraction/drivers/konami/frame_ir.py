@@ -21,6 +21,17 @@ Usage:
     for ch in ir.channels:
         print(ch.name, len(ch.frames), "active frames")
 """
+# ---------------------------------------------------------------
+# STATUS: VERIFIED (CV1 pulse) / PROVISIONAL (Contra, triangle)
+# SCOPE: shared (engine-level volume strategies + hardware approximations)
+# VALIDATED: 2026-03-28
+# TRACE_RESULT: CV1 pulse 0 mismatches; Contra 96.6% vol; triangle 195 sounding mismatches
+# KNOWN_LIMITATIONS:
+#   - Triangle linear counter: APPROXIMATION (reload+3)//4, off by ~1 frame per note
+#   - Contra decrescendo threshold: PROVISIONAL, (mul*dur)>>4 not fully trace-validated
+#   - UNKNOWN_SOUND_01 subtraction: NOT MODELED
+# LAYER: mixed (engine envelope strategies + hardware period/freq conversion)
+# ---------------------------------------------------------------
 
 from __future__ import annotations
 
@@ -354,6 +365,11 @@ def parser_to_frame_ir(
                     if tri_control:
                         sounding_frames = duration
                     elif tri_reload > 0:
+                        # APPROXIMATION: (reload+3)//4 models quarter-frame
+                        # clocking at ~4 decrements/frame. Real APU uses 240Hz
+                        # sequencer that doesn't divide evenly into 60fps frames.
+                        # Status: APPROXIMATE — 195 sounding mismatches on CV1.
+                        # See INVARIANTS.md INV-007.
                         sounding_frames = min(duration, (tri_reload + 3) // 4)
                     else:
                         sounding_frames = 0
