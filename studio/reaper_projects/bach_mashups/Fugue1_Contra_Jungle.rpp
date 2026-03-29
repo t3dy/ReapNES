@@ -1,0 +1,199 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 64.0 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio — Bach x NES Mashup
+    |Bach × Contra Jungle — WTC Fugue No.1 in C
+    |Stage preset: Wide asymmetric pulses - punchy, military feel
+  >
+  <TRACK {07A9EB70-8C72-4515-85C6-9D52CDF16054}
+    NAME "NES - Pulse 1 [Contra Jungle]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {07A9EB70-8C72-4515-85C6-9D52CDF16054}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F43F0F03-784F-4204-A8F9-F9170784BCE4}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 103.139321375
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D4689159-F61B-4005-A4FF-F6CEB96D6EB7}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Fugue1.mid"
+      >
+    >
+  >
+  <TRACK {452BC0E2-349C-4B87-97EA-9164C7855C29}
+    NAME "NES - Pulse 2 [Contra Jungle]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {452BC0E2-349C-4B87-97EA-9164C7855C29}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {21906128-C8B2-4CF7-85E2-9225803BC096}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 103.139321375
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ED97E33F-6BD9-40A8-9560-534938374C9E}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Fugue1.mid"
+      >
+    >
+  >
+  <TRACK {7A4D4130-5D65-4B73-8B58-D77BB9B1DE76}
+    NAME "NES - Triangle [Contra Jungle]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {7A4D4130-5D65-4B73-8B58-D77BB9B1DE76}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {98F9232D-C3D1-4BD0-85A8-E48574FACB79}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 103.139321375
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7E59B7EF-0227-4A7D-ABBC-8C4D6134A904}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Fugue1.mid"
+      >
+    >
+  >
+  <TRACK {B22F04EE-2EE3-4550-8CBB-F949D5647224}
+    NAME "NES - Noise / Drums [Contra Jungle]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {B22F04EE-2EE3-4550-8CBB-F949D5647224}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3B0D243C-A279-4CAF-8120-01120127E5FC}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 103.139321375
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B626A233-90B3-4B52-A6BF-A004A5A174D5}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Fugue1.mid"
+      >
+    >
+  >
+>

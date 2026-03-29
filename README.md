@@ -2,6 +2,8 @@
 
 **Extract, validate, and reproduce NES game music at frame-level fidelity**
 
+**[Browse the documentation site →](https://t3dy.github.io/ReapNES/)**
+
 ---
 
 ## What This Project Does

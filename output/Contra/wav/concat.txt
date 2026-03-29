@@ -1,0 +1,3 @@
+file 'C:/Dev/NESMusicStudio/output/Contra/wav/Contra_track_07.wav'
+file 'C:/Dev/NESMusicStudio/output/Contra/wav/silence_1s.wav'
+file 'C:/Dev/NESMusicStudio/output/Contra/wav/Contra_track_11.wav'

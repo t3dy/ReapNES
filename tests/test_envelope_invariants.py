@@ -130,3 +130,121 @@ class TestEnvelopeLayerSeparation:
         a = _contra_lookup_envelope(10, 0, 2, 5, [table])
         b = _contra_lookup_envelope(10, 0, 2, 5, [table])
         assert a == b
+
+
+class TestTriangleExpectedMismatch:
+    """Triangle linear counter is known APPROXIMATE.
+
+    Layer: HARDWARE
+    Evidence: 195 sounding mismatches on CV1 Vampire Killer (1792 frames).
+    Purpose: Prevent accidental "false fixes" — if someone changes the
+    triangle model, these tests catch unintended regressions or false
+    improvements that break the documented behavior.
+    """
+
+    def test_triangle_linear_counter_approximation(self):
+        """INV-007: (reload+3)//4 is approximate, not exact.
+
+        The formula is correct to within 1 frame for all observed reload
+        values. Verify it produces the documented approximation.
+        """
+        from extraction.drivers.konami.frame_ir import parser_to_frame_ir, DriverCapability
+        from extraction.drivers.konami.parser import (
+            ParsedSong, ChannelData, NoteEvent, InstrumentChange,
+        )
+
+        # Build a triangle note with known linear counter reload
+        # tri_config = 0x1C means control=0, reload=28
+        # Expected sounding: (28+3)//4 = 7 frames
+        song = ParsedSong(track_number=1)
+        ch = ChannelData(
+            name="Triangle", channel_type="triangle",
+            events=[
+                InstrumentChange(
+                    tempo=6, raw_instrument=0x1C,  # control=0, reload=28
+                    duty_cycle=0, volume=0, length_halt=0, constant_vol=0,
+                    fade_start=0, fade_step=0, has_sweep=False, sweep_value=0,
+                    offset=0,
+                ),
+                NoteEvent(pitch=0, octave=2, duration_nibble=3,
+                         duration_frames=24, midi_note=36, offset=1),
+            ],
+            start_offset=0, start_cpu=0,
+        )
+        song.channels.append(ch)
+
+        ir = parser_to_frame_ir(song, DriverCapability.cv1())
+        tri_ch = ir.channels[0]
+
+        # Count sounding frames
+        sounding = sum(1 for f in range(24) if tri_ch.get_frame(f).sounding)
+        assert sounding == 7, f"Expected 7 sounding frames, got {sounding}"
+
+        # Verify non-sounding frames have volume 0
+        for f in range(7, 24):
+            assert tri_ch.get_frame(f).volume == 0
+
+    def test_triangle_control_bit_overrides_counter(self):
+        """When control bit is set, triangle sounds for full duration."""
+        from extraction.drivers.konami.frame_ir import parser_to_frame_ir, DriverCapability
+        from extraction.drivers.konami.parser import (
+            ParsedSong, ChannelData, NoteEvent, InstrumentChange,
+        )
+
+        # tri_config = 0x9C means control=1, reload=28
+        song = ParsedSong(track_number=1)
+        ch = ChannelData(
+            name="Triangle", channel_type="triangle",
+            events=[
+                InstrumentChange(
+                    tempo=6, raw_instrument=0x9C,  # control=1, reload=28
+                    duty_cycle=0, volume=0, length_halt=0, constant_vol=0,
+                    fade_start=0, fade_step=0, has_sweep=False, sweep_value=0,
+                    offset=0,
+                ),
+                NoteEvent(pitch=0, octave=2, duration_nibble=3,
+                         duration_frames=24, midi_note=36, offset=1),
+            ],
+            start_offset=0, start_cpu=0,
+        )
+        song.channels.append(ch)
+
+        ir = parser_to_frame_ir(song, DriverCapability.cv1())
+        tri_ch = ir.channels[0]
+
+        sounding = sum(1 for f in range(24) if tri_ch.get_frame(f).sounding)
+        assert sounding == 24, f"Control=1 should sound full duration, got {sounding}"
+
+
+class TestDecrescendoThreshold:
+    """INV-009: Decrescendo end pause formula (PROVISIONAL).
+
+    Layer: ENGINE
+    Evidence: Derived from Contra disassembly resume_decrescendo routine.
+    """
+
+    def test_decrescendo_threshold_formula(self):
+        """INV-009: threshold = (mul * duration) >> 4."""
+        # mul=4, duration=60: threshold = (4*60)>>4 = 15
+        table = [5, 4, 3, 2]
+        vols = _contra_lookup_envelope(
+            duration=60, vol_env_index=0, decrescendo_mul=4,
+            initial_volume=5, envelope_tables=[table],
+        )
+        # Decrescendo starts at frame 60-15=45
+        # Before that, hold at last table vol (2)
+        assert vols[44] == 2, f"Frame 44 should hold at 2, got {vols[44]}"
+        # After decrescendo start, volume should decrease
+        assert vols[45] < vols[44], (
+            f"Frame 45 should start decrescendo: {vols[44]} -> {vols[45]}"
+        )
+
+    def test_decrescendo_mul_zero_no_tail(self):
+        """When mul=0, no decrescendo tail (threshold = 0)."""
+        table = [5, 4, 3]
+        vols = _contra_lookup_envelope(
+            duration=30, vol_env_index=0, decrescendo_mul=0,
+            initial_volume=5, envelope_tables=[table],
+        )
+        # After table exhausted, should hold at last value forever
+        assert all(v == 3 for v in vols[3:])

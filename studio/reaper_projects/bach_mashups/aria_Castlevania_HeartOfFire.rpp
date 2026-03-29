@@ -1,0 +1,199 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 50.0 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio — Bach x NES Mashup
+    |Bach × CV1 Heart of Fire — Goldberg Aria
+    |Stage preset: Both pulses at 25% duty - bright, intense, cutting
+  >
+  <TRACK {4A0ACE94-3137-4809-82A2-56CE03C09DDD}
+    NAME "NES - Pulse 1 [CV1 Heart of Fire]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {4A0ACE94-3137-4809-82A2-56CE03C09DDD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {57FF686A-DABD-4BC5-9C30-9DC0B0659E32}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 169.18788316666667
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CE505DCB-75B4-4066-A103-2DE31052B469}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/aria.mid"
+      >
+    >
+  >
+  <TRACK {C5FDE10E-B330-4532-946C-D80BC6DF6107}
+    NAME "NES - Pulse 2 [CV1 Heart of Fire]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {C5FDE10E-B330-4532-946C-D80BC6DF6107}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {71C886D9-B34B-4EAC-9FC2-DD7817FC1097}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 169.18788316666667
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C3B27088-CF95-43DD-B315-D44AF6B8EB3C}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/aria.mid"
+      >
+    >
+  >
+  <TRACK {97C97B75-2C82-420A-8CC3-7F8861E1D4F6}
+    NAME "NES - Triangle [CV1 Heart of Fire]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {97C97B75-2C82-420A-8CC3-7F8861E1D4F6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {455346C8-EA68-42B7-9DC6-C89788748CF6}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 169.18788316666667
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {03617AA2-385B-42A5-9CB5-C7B8D8BC4985}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/aria.mid"
+      >
+    >
+  >
+  <TRACK {22A59180-E541-4C43-8576-EB8DEE45C14E}
+    NAME "NES - Noise / Drums [CV1 Heart of Fire]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {22A59180-E541-4C43-8576-EB8DEE45C14E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9776F666-9B23-4793-A474-56B660D0E1E3}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 169.18788316666667
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EA370D43-2865-4038-AE44-631838368091}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/aria.mid"
+      >
+    >
+  >
+>

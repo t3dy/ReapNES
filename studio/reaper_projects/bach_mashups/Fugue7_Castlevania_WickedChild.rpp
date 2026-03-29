@@ -1,0 +1,199 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 75.99996960001216 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio — Bach x NES Mashup
+    |Bach × CV1 Wicked Child — WTC Fugue No.7 in Eb
+    |Stage preset: Bright punchy lead with warm square harmony
+  >
+  <TRACK {7144C146-1CAC-4E04-AFFD-48B3B09D6FB6}
+    NAME "NES - Pulse 1 [CV1 Wicked Child]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {7144C146-1CAC-4E04-AFFD-48B3B09D6FB6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C29FDB18-9421-406D-876B-38E0F735189D}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 117.7913075875
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F069085D-60A9-4343-9AE3-096DCA35D517}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Fugue7.mid"
+      >
+    >
+  >
+  <TRACK {7344357E-BD38-490D-81FE-77A55DAD880D}
+    NAME "NES - Pulse 2 [CV1 Wicked Child]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {7344357E-BD38-490D-81FE-77A55DAD880D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3C422F6E-34B6-4111-8512-64673175F78F}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 117.7913075875
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {25D54486-68CF-4AD3-B55E-0E28AC79761B}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Fugue7.mid"
+      >
+    >
+  >
+  <TRACK {92AF129A-7958-47D3-BB12-EA8104C20710}
+    NAME "NES - Triangle [CV1 Wicked Child]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {92AF129A-7958-47D3-BB12-EA8104C20710}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3EC59461-3ECA-4B52-AC65-4D16D0E8F2D9}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 117.7913075875
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {859844AC-D5A6-4247-9620-6B04E57EBCC5}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Fugue7.mid"
+      >
+    >
+  >
+  <TRACK {6D641E9B-B1B6-4470-94B9-708FFBD8B857}
+    NAME "NES - Noise / Drums [CV1 Wicked Child]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {6D641E9B-B1B6-4470-94B9-708FFBD8B857}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9369396F-4F05-40FD-A245-5F8FBA82B850}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 117.7913075875
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BBA5131C-FFF3-4FC7-8122-2EB70B6276F1}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Fugue7.mid"
+      >
+    >
+  >
+>

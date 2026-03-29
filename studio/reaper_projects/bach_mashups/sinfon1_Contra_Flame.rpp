@@ -1,0 +1,199 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 88.00002346667293 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio — Bach x NES Mashup
+    |Bach × Contra Flame Fortress — Three-Part Sinfonia No.1 in C
+    |Stage preset: Both thin pulses for claustrophobic tension
+  >
+  <TRACK {5CCBC7A2-EAAB-4D8C-A713-11285F5EE43E}
+    NAME "NES - Pulse 1 [Contra Flame Fortress]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {5CCBC7A2-EAAB-4D8C-A713-11285F5EE43E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DB6F4399-875D-4AE5-8014-457A5B344D52}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 59.072951633333325
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {397C7BE2-CACD-4779-82ED-B90AA4ED4DC1}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/sinfon1.mid"
+      >
+    >
+  >
+  <TRACK {34C4602C-E611-40D8-B95B-41341559B52E}
+    NAME "NES - Pulse 2 [Contra Flame Fortress]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {34C4602C-E611-40D8-B95B-41341559B52E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F939A828-B42C-48C5-BF95-6113B28664C5}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 59.072951633333325
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {81773F7D-B969-43D9-9F26-102A577B6E80}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/sinfon1.mid"
+      >
+    >
+  >
+  <TRACK {90E8F274-E6A1-4693-8AAF-6FB442B2102E}
+    NAME "NES - Triangle [Contra Flame Fortress]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {90E8F274-E6A1-4693-8AAF-6FB442B2102E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B2D9CE3F-BAD1-4F9A-8193-F3A08FC67BD7}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 59.072951633333325
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6B787AEA-1B46-4D32-B72B-97DEFD7A4C0B}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/sinfon1.mid"
+      >
+    >
+  >
+  <TRACK {206468A1-D249-4ADD-B2CC-8F7314B5F66F}
+    NAME "NES - Noise / Drums [Contra Flame Fortress]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {206468A1-D249-4ADD-B2CC-8F7314B5F66F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {30DCA6B7-8766-4AFC-9FC7-4EED4ED3279A}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 59.072951633333325
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8A14B4B0-596F-4B10-9D0B-D6B16FE5D0EA}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/sinfon1.mid"
+      >
+    >
+  >
+>

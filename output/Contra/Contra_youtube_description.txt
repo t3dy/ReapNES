@@ -1,0 +1,20 @@
+Contra (NES) — Complete Soundtrack
+Extracted directly from the ROM using NES Music Studio
+
+Every track in this video was parsed from the original Contra ROM data.
+The Konami pre-VRC sound driver (Maezawa variant) was reverse-engineered
+and each channel's note data, volume envelopes, and timing were decoded
+from the raw bytes.
+
+Track Listing:
+
+0:00 Track 07
+2:50 Track 11
+
+Technical Details:
+
+- Source: Contra NES ROM
+- Driver: Konami Pre-VRC (Maezawa variant)
+- Extraction: Static ROM parsing with frame-accurate IR
+- Synthesis: Python NES APU emulation
+- Tools: NES Music Studio

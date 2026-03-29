@@ -1,0 +1,36 @@
+Castlevania (NES, 1986) — Complete Soundtrack
+Extracted directly from the ROM using NES Music Studio
+
+Every track in this video was parsed from the original Castlevania ROM data — no audio recording, no emulator capture. The Konami pre-VRC sound driver (Maezawa variant) was reverse-engineered and each channel's note data, volume envelopes, and timing were decoded from the raw bytes.
+
+The audio is synthesized from a frame-accurate intermediate representation that models the NES APU's pulse wave duty cycles, triangle wave, and noise channel. Volume envelopes use the two-phase parametric model decoded from the driver: fast attack decay controlled by fade_start, followed by a release phase controlled by fade_step. Triangle channel articulation is modeled via the APU linear counter.
+
+Track Listing:
+
+0:00 Prologue
+0:07 Vampire Killer
+0:38 Stalker
+1:13 Wicked Child
+2:22 Walking on the Edge
+2:55 Heart of Fire
+3:56 Out of Time
+4:38 Nothing to Lose
+5:14 Poison Mind
+5:23 Black Night
+5:42 Voyager
+6:35 Game Over
+6:40 Boss Fight
+6:45 Stage Clear
+6:47 Death SFX
+
+Technical Details:
+
+- Source: Castlevania (U) (V1.0) NES ROM
+- Driver: Konami Pre-VRC (Maezawa variant, ~1986)
+- Extraction: Static ROM parsing (Pipeline A) with frame-accurate IR
+- Validation: Zero pitch mismatches against Mesen APU trace on Vampire Killer
+- Synthesis: Python NES APU emulation (pulse duty cycles, triangle 32-step, noise LFSR)
+- Tools: NES Music Studio (github.com/t3dy/NESMusicStudio)
+
+Music composed by Kinuyo Yamashita.
+Castlevania is a trademark of Konami.

@@ -1,0 +1,27 @@
+Contra (NES, 1987) — Complete Soundtrack
+Extracted directly from the ROM using NES Music Studio
+
+Track Listing:
+
+0:00 Title
+0:09 Jungle (Level 1)
+1:14 Waterfall (Level 3)
+2:10 Snow Field (Level 5)
+3:13 Energy Zone (Level 6)
+3:40 Alien's Lair (Level 8)
+4:20 Base (Levels 2 & 4)
+5:38 Boss
+6:15 Stage Clear
+6:20 Ending
+7:43 Game Over
+
+Technical Details:
+
+- Source: Contra (U) NES ROM
+- Driver: Konami Pre-VRC (Maezawa variant)
+- Music: Kazuki Muraoka, Hidenori Maezawa
+- Extraction: Static ROM parsing with annotated disassembly addresses
+- Synthesis: Python NES APU emulation
+- Tools: NES Music Studio
+
+Contra is a trademark of Konami.

@@ -48,6 +48,15 @@ The pipeline has three layers:
 
 ---
 
+## Explore
+
+| Section | Description |
+|---------|-------------|
+| [Annotated Source Code](code/) | The full pipeline source with inline tutorial comments |
+| [Using LLMs for NES RE](docs/LLM_METHODOLOGY) | How AI assistants were used to research and reverse engineer these soundtracks |
+
+---
+
 ## Documentation
 
 ### Architecture and Reference

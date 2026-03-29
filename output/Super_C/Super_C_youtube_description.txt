@@ -1,0 +1,27 @@
+Super C (NES) — Complete Soundtrack
+Extracted directly from the ROM using NES Music Studio
+
+Every track in this video was parsed from the original Super C ROM data.
+The Konami pre-VRC sound driver (Maezawa variant) was reverse-engineered
+and each channel's note data, volume envelopes, and timing were decoded
+from the raw bytes.
+
+Track Listing:
+
+0:00 Track 01
+5:35 Track 03
+7:27 Track 05
+12:21 Track 08
+21:48 Track 11
+22:51 Track 12
+25:18 Track 13
+26:20 Track 14
+27:43 Track 15
+
+Technical Details:
+
+- Source: Super C NES ROM
+- Driver: Konami Pre-VRC (Maezawa variant)
+- Extraction: Static ROM parsing with frame-accurate IR
+- Synthesis: Python NES APU emulation
+- Tools: NES Music Studio

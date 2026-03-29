@@ -28,9 +28,9 @@ from collections import defaultdict
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-BANK_PATH = REPO_ROOT / "presets" / "preset_bank.json"
-JSFX_DATA_DIR = REPO_ROOT / "presets" / "jsfx_data"
-SONG_SETS_DIR = REPO_ROOT / "song_sets"
+BANK_PATH = REPO_ROOT / "studio" / "presets" / "preset_bank.json"
+JSFX_DATA_DIR = REPO_ROOT / "studio" / "presets" / "jsfx_data"
+SONG_SETS_DIR = REPO_ROOT / "studio" / "song_sets"
 
 # Channel type to REAPER channel mapping
 CHANNEL_ROLES = {
