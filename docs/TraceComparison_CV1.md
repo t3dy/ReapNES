@@ -8,8 +8,8 @@ Frames compared: 1792
 
 | Channel | Pitch Mismatches | Volume Mismatches | Duty Mismatches | Sounding Mismatches | First Pitch Error |
 |---------|-----------------|-------------------|-----------------|--------------------|--------------------|
-| pulse1 | 0 | 45 | 0 | 9 | none |
-| pulse2 | 0 | 50 | 0 | 10 | none |
+| pulse1 | 0 | 0 | 0 | 0 | none |
+| pulse2 | 0 | 0 | 0 | 0 | none |
 | triangle | 0 | 195 | 0 | 195 | none |
 
 ## Mismatch Regions

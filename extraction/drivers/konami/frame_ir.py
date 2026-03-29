@@ -166,20 +166,23 @@ def _cv1_parametric_envelope(
     """CV1 two-phase parametric volume envelope.
 
     Phase 1 (attack decay): decrement vol by 1/frame for fade_start
-    frames, starting at frame 1.
+    frames, starting at frame 1. Frame 0 is always initial volume.
     Hold: maintain volume at (initial - fade_start).
     Phase 2 (release): decrement vol by 1/frame for the last fade_step
-    frames. If fade_step is 0, hold indefinitely.
+    frames. If fade_step is 0, hold indefinitely. Phase 2 cannot
+    start before frame 1 (prevents overlap with frame 0).
+    Bounce-at-1: volume holds at 1, never reaches 0 during phase 2
+    (same resume_decrescendo behavior as Contra).
 
     Verified against APU trace:
         $B5 (vol=5,fade=2/3): 5→4→3→[hold]→2→1→0
-        $B4 (vol=4,fade=3/1): 4→3→2→1→[hold]→0
-        $F3 (vol=3,fade=1/0): 3→2→[hold forever]
+        $F5 (vol=5,fade=2/9,dur=7): 5→4→3→2→1→0→0 (trace confirmed)
     """
     volumes = []
     vol = initial_volume
     decrements_remaining = fade_start
-    phase2_start = duration - fade_step if fade_step > 0 else duration
+    # Phase 2 cannot start before frame 1 — frame 0 is always initial vol
+    phase2_start = max(1, duration - fade_step) if fade_step > 0 else duration
 
     for f in range(duration):
         if f >= 1 and decrements_remaining > 0 and vol > 0:

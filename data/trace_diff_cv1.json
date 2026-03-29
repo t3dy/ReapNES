@@ -3,11 +3,11 @@
     "channel": "pulse1",
     "total_frames": 1792,
     "pitch_mismatches": 0,
-    "volume_mismatches": 45,
+    "volume_mismatches": 0,
     "duty_mismatches": 0,
-    "sounding_mismatches": 9,
+    "sounding_mismatches": 0,
     "first_pitch_mismatch": null,
-    "first_sounding_mismatch": 1348,
+    "first_sounding_mismatch": null,
     "mismatch_regions": [
       [
         4,
@@ -326,15 +326,15 @@
         1343
       ],
       [
-        1348,
+        1349,
         1350
       ],
       [
-        1355,
+        1356,
         1357
       ],
       [
-        1362,
+        1363,
         1364
       ],
       [
@@ -350,7 +350,7 @@
         1483
       ],
       [
-        1488,
+        1489,
         1490
       ],
       [
@@ -366,7 +366,7 @@
         1539
       ],
       [
-        1544,
+        1545,
         1546
       ],
       [
@@ -374,15 +374,15 @@
         1567
       ],
       [
-        1572,
+        1573,
         1574
       ],
       [
-        1579,
+        1580,
         1581
       ],
       [
-        1586,
+        1587,
         1588
       ],
       [
@@ -398,7 +398,7 @@
         1707
       ],
       [
-        1712,
+        1713,
         1714
       ],
       [
@@ -967,11 +967,11 @@
     "channel": "pulse2",
     "total_frames": 1792,
     "pitch_mismatches": 0,
-    "volume_mismatches": 50,
+    "volume_mismatches": 0,
     "duty_mismatches": 0,
-    "sounding_mismatches": 10,
+    "sounding_mismatches": 0,
     "first_pitch_mismatch": null,
-    "first_sounding_mismatch": 1348,
+    "first_sounding_mismatch": null,
     "mismatch_regions": [
       [
         230,
@@ -1250,15 +1250,15 @@
         1343
       ],
       [
-        1348,
+        1349,
         1350
       ],
       [
-        1355,
+        1356,
         1357
       ],
       [
-        1362,
+        1363,
         1364
       ],
       [
@@ -1274,7 +1274,7 @@
         1483
       ],
       [
-        1488,
+        1489,
         1490
       ],
       [
@@ -1290,7 +1290,7 @@
         1539
       ],
       [
-        1544,
+        1545,
         1546
       ],
       [
@@ -1298,15 +1298,15 @@
         1567
       ],
       [
-        1572,
+        1573,
         1574
       ],
       [
-        1579,
+        1580,
         1581
       ],
       [
-        1586,
+        1587,
         1588
       ],
       [
@@ -1322,7 +1322,7 @@
         1707
       ],
       [
-        1712,
+        1713,
         1714
       ],
       [
@@ -1334,7 +1334,7 @@
         1749
       ],
       [
-        1768,
+        1769,
         1770
       ],
       [
