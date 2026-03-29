@@ -1,61 +1,41 @@
-# NES Music Studio -- Claude Code Instructions
+# NES Music Studio
 
-## Project Identity
+ROM → parser → frame IR → MIDI → REAPER/WAV/MP4.
 
-NES Music Studio is a full-pipeline NES music system:
-ROM -> extraction -> MIDI + presets -> REAPER project -> playable music.
+## Workflow: New Game (follow this order)
 
-Two halves:
-- **Extraction engine** (`extraction/`) -- ROM analysis, driver parsing, APU trace processing
-- **Studio environment** (`studio/`) -- JSFX synths, project generation, preset management
+1. **Identify** — run `PYTHONPATH=. python scripts/rom_identify.py <rom>`. This reports mapper, period table, driver signature, and manifest status. Do not skip this.
+2. **Check manifest** — look in `extraction/manifests/` for an existing JSON. If found, read it for known facts, hypotheses, and anomalies before doing anything else.
+3. **Find disassembly** — check `references/` for annotated source. If one exists, read the sound engine code. This is not optional. 10 minutes reading saves hours guessing.
+4. **Configure address resolver** — mapper 0 = linear, mapper 2 = bank-switched. Never hardcode; use the manifest's resolver_method.
+5. **Determine command format** — DX byte count, $C0 semantics, percussion type. Read from disassembly or infer from data. Record findings in manifest as `verified` or `hypothesis`.
+6. **Parse ONE track, listen** — user compares to game. Do not batch-extract before this gate passes.
+7. **Iterate on fidelity** — dump trace frames (`trace_compare.py --dump-frames N-M`), fix one thing at a time, re-listen.
+8. **Batch extract** — only after the reference track sounds right.
 
-## Context Routing
+## Hard Invariants
 
-**If working on extraction/ or drivers/:** Read `extraction/CLAUDE_EXTRACTION.md`
-**If working on studio/, scripts/, or JSFX/RPP/MIDI:** Read `studio/CLAUDE_STUDIO.md`
-**If unsure which docs to read:** See `DOCUMENTAIRTRAFFICCONTROL.md`
+- **Trace is ground truth.** Run `PYTHONPATH=. python scripts/trace_compare.py --frames 1792` after any parser or frame_ir change.
+- **Same driver ≠ same ROM layout.** Pointer tables, byte counts, and bank mappings are per-game. Check the manifest.
+- **Same period table ≠ same driver.** Period table is universal NES tuning. Verify with DX/FE/FD command signatures.
+- **Automated tests miss systematic errors.** User MUST listen after pitch/octave changes. Zero trace mismatches ≠ correct.
+- **Triangle is 1 octave lower than pulse** (32-step vs 16-step hardware). Account for this in any pitch mapping change.
+- **Version output files** (v1, v2...). Never overwrite a tested file.
+- **Dump trace data before modeling.** 20 real frames first, then fit. Never guess at envelope shapes.
+- **Check all channels, not just one.** Cross-channel verification catches false assumptions (E8 gate incident).
 
-## MANDATORY: Run Validation
+## State
 
-After ANY change to JSFX, RPP generation, MIDI handling, or extraction code:
+Per-game structured truth: `extraction/manifests/*.json` — verified facts, hypotheses, anomalies, validation status.
+Current priorities: @docs/HANDOVER.md
+Mistake narratives: @docs/MISTAKEBAKED.md
+
+## Key Commands
+
+```bash
+PYTHONPATH=. python scripts/rom_identify.py <rom>                          # identify ROM
+PYTHONPATH=. python scripts/trace_compare.py --frames 1792                 # validate CV1
+PYTHONPATH=. python scripts/trace_compare.py --dump-frames 0-20 --channel pulse1  # dump trace
+PYTHONPATH=. python scripts/full_pipeline.py <rom> --game-name X           # full pipeline
+python scripts/generate_project.py --midi <f> --nes-native -o <out>        # REAPER project
 ```
-python scripts/validate.py --all
-```
-
-## Key Scripts
-
-| Script | Purpose | Example |
-|--------|---------|---------|
-| `scripts/generate_project.py` | Create .RPP projects | `--generic`, `--midi FILE` |
-| `scripts/validate.py` | Lint JSFX/RPP/MIDI/extraction | `--all`, `--jsfx`, `--rpp`, `--midi` |
-| `scripts/preset_catalog.py` | Browse preset corpus | `games`, `search --tag X` |
-| `scripts/pipeline.py` | End-to-end ROM->RPP | `--rom FILE --song NAME` |
-
-## Anti-Creep Rules
-
-- Do not build speculative features before the basic pipeline works
-- Do not deepen low-level emulation without user-facing payoff
-- Verify the simplest case first, always
-- A working single-note test beats a speculative framework
-- Run validation after every change, not just at the end
-
-## Current Focus: Fidelity
-
-The end-to-end pipeline works (ROM -> parser -> MIDI -> REAPER). The current
-task is **closing the fidelity gap** between extracted output and the real
-game audio. See `docs/HANDOVER_FIDELITY.md` for detailed current state,
-identified bugs, and prioritized next steps.
-
-Key rule: **Use the APU trace as ground truth.** Run `scripts/trace_compare.py`
-after any parser or export change to verify against the emulator trace.
-
-## First Milestone
-
-**"Castlevania Stage 1 from ROM to REAPER"**
-
-1. ~~Complete Konami driver parser for Castlevania Stage 1~~ DONE
-2. ~~Extract MIDI sequence + instrument presets from ROM~~ DONE
-3. ~~Generate RPP project with per-channel instruments~~ DONE
-4. ~~Open in REAPER, press play, hear Vampire Killer~~ DONE
-5. Close fidelity gap: fix repeat count, B section alignment, envelope accuracy
-6. Rebuild MIDI export from frame IR for proper staccato articulation

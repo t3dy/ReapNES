@@ -2,15 +2,15 @@
 
 Comparing parser output against emulator APU trace.
 Trace start offset: frame 111
-Frames compared: 2016
+Frames compared: 1792
 
 ## Summary
 
 | Channel | Pitch Mismatches | Volume Mismatches | Duty Mismatches | Sounding Mismatches | First Pitch Error |
 |---------|-----------------|-------------------|-----------------|--------------------|--------------------|
-| pulse1 | 0 | 687 | 192 | 373 | none |
-| pulse2 | 0 | 1728 | 210 | 546 | none |
-| triangle | 0 | 742 | 0 | 742 | none |
+| pulse1 | 0 | 45 | 0 | 9 | none |
+| pulse2 | 0 | 50 | 0 | 10 | none |
+| triangle | 0 | 195 | 0 | 195 | none |
 
 ## Mismatch Regions
 
@@ -35,7 +35,7 @@ Frames compared: 2016
 - frames 328-328 (1 frames, 0.02s)
 - frames 335-335 (1 frames, 0.02s)
 - frames 356-356 (1 frames, 0.02s)
-- ... (92 more regions)
+- ... (80 more regions)
 
 ### pulse2
 - frames 230-230 (1 frames, 0.02s)
@@ -58,30 +58,30 @@ Frames compared: 2016
 - frames 530-559 (30 frames, 0.50s)
 - frames 579-580 (2 frames, 0.03s)
 - frames 586-587 (2 frames, 0.03s)
-- ... (74 more regions)
+- ... (72 more regions)
 
 ### triangle
-- frames 616-622 (7 frames, 0.12s)
-- frames 840-846 (7 frames, 0.12s)
-- frames 924-951 (28 frames, 0.47s)
-- frames 980-1007 (28 frames, 0.47s)
-- frames 1036-1063 (28 frames, 0.47s)
-- frames 1092-1119 (28 frames, 0.47s)
-- frames 1148-1175 (28 frames, 0.47s)
-- frames 1204-1231 (28 frames, 0.47s)
-- frames 1260-1287 (28 frames, 0.47s)
-- frames 1316-1343 (28 frames, 0.47s)
-- frames 1351-1357 (7 frames, 0.12s)
-- frames 1365-1378 (14 frames, 0.23s)
-- frames 1393-1399 (7 frames, 0.12s)
-- frames 1414-1455 (42 frames, 0.70s)
-- frames 1463-1469 (7 frames, 0.12s)
-- frames 1477-1511 (35 frames, 0.58s)
-- frames 1519-1525 (7 frames, 0.12s)
-- frames 1533-1567 (35 frames, 0.58s)
-- frames 1575-1581 (7 frames, 0.12s)
-- frames 1589-1602 (14 frames, 0.23s)
-- ... (7 more regions)
+- frames 4-13 (10 frames, 0.17s)
+- frames 18-20 (3 frames, 0.05s)
+- frames 25-27 (3 frames, 0.05s)
+- frames 32-48 (17 frames, 0.28s)
+- frames 53-55 (3 frames, 0.05s)
+- frames 60-69 (10 frames, 0.17s)
+- frames 74-76 (3 frames, 0.05s)
+- frames 81-83 (3 frames, 0.05s)
+- frames 88-90 (3 frames, 0.05s)
+- frames 95-97 (3 frames, 0.05s)
+- frames 102-104 (3 frames, 0.05s)
+- frames 109-111 (3 frames, 0.05s)
+- frames 116-125 (10 frames, 0.17s)
+- frames 130-132 (3 frames, 0.05s)
+- frames 137-139 (3 frames, 0.05s)
+- frames 144-167 (24 frames, 0.40s)
+- frames 172-174 (3 frames, 0.05s)
+- frames 179-181 (3 frames, 0.05s)
+- frames 186-188 (3 frames, 0.05s)
+- frames 193-195 (3 frames, 0.05s)
+- ... (97 more regions)
 
 ## First Frame Diffs (per channel)
 
@@ -89,103 +89,103 @@ Frames compared: 2016
 
 | Frame | Extracted | Trace | Ext Vol | Tr Vol | Ext Snd | Tr Snd |
 |-------|-----------|-------|---------|--------|---------|--------|
-| 4 | A3 | --- | 1 | 0 | True | False |
-| 5 | A3 | --- | 0 | 0 | False | False |
-| 6 | A3 | --- | 0 | 0 | False | False |
-| 11 | A3 | --- | 1 | 0 | True | False |
-| 12 | A3 | --- | 0 | 0 | False | False |
-| 13 | A3 | --- | 0 | 0 | False | False |
-| 25 | G3 | --- | 1 | 0 | True | False |
-| 26 | G3 | --- | 0 | 0 | False | False |
-| 27 | G3 | --- | 0 | 0 | False | False |
-| 90 | D3 | --- | 1 | 0 | True | False |
-| 97 | D3 | --- | 1 | 0 | True | False |
-| 104 | C3 | --- | 1 | 0 | True | False |
-| 111 | C3 | --- | 1 | 0 | True | False |
-| 132 | D3 | --- | 1 | 0 | True | False |
-| 153 | A#2 | --- | 1 | 0 | True | False |
-| 167 | D3 | --- | 1 | 0 | True | False |
-| 174 | C3 | --- | 1 | 0 | True | False |
-| 223 | G3 | --- | 1 | 0 | True | False |
-| 228 | A3 | --- | 1 | 0 | True | False |
-| 229 | A3 | --- | 0 | 0 | False | False |
-| 230 | A3 | --- | 0 | 0 | False | False |
-| 235 | A3 | --- | 1 | 0 | True | False |
-| 236 | A3 | --- | 0 | 0 | False | False |
-| 237 | A3 | --- | 0 | 0 | False | False |
-| 249 | G3 | --- | 1 | 0 | True | False |
-| 250 | G3 | --- | 0 | 0 | False | False |
-| 251 | G3 | --- | 0 | 0 | False | False |
-| 314 | D3 | --- | 1 | 0 | True | False |
-| 321 | D3 | --- | 1 | 0 | True | False |
-| 328 | C3 | --- | 1 | 0 | True | False |
+| 4 | A4 | --- | 0 | 0 | False | False |
+| 5 | A4 | --- | 0 | 0 | False | False |
+| 6 | A4 | --- | 0 | 0 | False | False |
+| 11 | A4 | --- | 0 | 0 | False | False |
+| 12 | A4 | --- | 0 | 0 | False | False |
+| 13 | A4 | --- | 0 | 0 | False | False |
+| 25 | G4 | --- | 0 | 0 | False | False |
+| 26 | G4 | --- | 0 | 0 | False | False |
+| 27 | G4 | --- | 0 | 0 | False | False |
+| 90 | D4 | --- | 0 | 0 | False | False |
+| 97 | D4 | --- | 0 | 0 | False | False |
+| 104 | C4 | --- | 0 | 0 | False | False |
+| 111 | C4 | --- | 0 | 0 | False | False |
+| 132 | D4 | --- | 0 | 0 | False | False |
+| 153 | A#3 | --- | 0 | 0 | False | False |
+| 167 | D4 | --- | 0 | 0 | False | False |
+| 174 | C4 | --- | 0 | 0 | False | False |
+| 223 | G4 | --- | 0 | 0 | False | False |
+| 228 | A4 | --- | 0 | 0 | False | False |
+| 229 | A4 | --- | 0 | 0 | False | False |
+| 230 | A4 | --- | 0 | 0 | False | False |
+| 235 | A4 | --- | 0 | 0 | False | False |
+| 236 | A4 | --- | 0 | 0 | False | False |
+| 237 | A4 | --- | 0 | 0 | False | False |
+| 249 | G4 | --- | 0 | 0 | False | False |
+| 250 | G4 | --- | 0 | 0 | False | False |
+| 251 | G4 | --- | 0 | 0 | False | False |
+| 314 | D4 | --- | 0 | 0 | False | False |
+| 321 | D4 | --- | 0 | 0 | False | False |
+| 328 | C4 | --- | 0 | 0 | False | False |
 
 ### pulse2
 
 | Frame | Extracted | Trace | Ext Vol | Tr Vol | Ext Snd | Tr Snd |
 |-------|-----------|-------|---------|--------|---------|--------|
-| 230 | D4 | --- | 5 | 0 | True | False |
-| 237 | D4 | --- | 5 | 0 | True | False |
-| 251 | C4 | --- | 5 | 0 | True | False |
-| 314 | D3 | --- | 5 | 0 | True | False |
-| 321 | E3 | --- | 5 | 0 | True | False |
-| 328 | F3 | --- | 5 | 0 | True | False |
-| 335 | G3 | --- | 5 | 0 | True | False |
-| 356 | A3 | --- | 5 | 0 | True | False |
-| 377 | D3 | --- | 5 | 0 | True | False |
-| 391 | A3 | --- | 5 | 0 | True | False |
-| 398 | G3 | --- | 5 | 0 | True | False |
-| 447 | C3 | --- | 5 | 0 | True | False |
-| 467 | D4 | --- | 5 | 0 | True | False |
-| 468 | D4 | --- | 5 | 0 | True | False |
-| 469 | D4 | --- | 5 | 0 | True | False |
-| 470 | D4 | --- | 5 | 0 | True | False |
-| 471 | D4 | --- | 5 | 0 | True | False |
-| 472 | D4 | --- | 5 | 0 | True | False |
-| 473 | D4 | --- | 5 | 0 | True | False |
-| 474 | D4 | --- | 5 | 0 | True | False |
-| 475 | D4 | --- | 5 | 0 | True | False |
-| 476 | D4 | --- | 5 | 0 | True | False |
-| 477 | D4 | --- | 5 | 0 | True | False |
-| 478 | D4 | --- | 5 | 0 | True | False |
-| 479 | D4 | --- | 5 | 0 | True | False |
-| 480 | D4 | --- | 5 | 0 | True | False |
-| 481 | D4 | --- | 5 | 0 | True | False |
-| 482 | D4 | --- | 5 | 0 | True | False |
-| 488 | A4 | --- | 5 | 0 | True | False |
-| 489 | A4 | --- | 5 | 0 | True | False |
+| 230 | D5 | --- | 0 | 0 | False | False |
+| 237 | D5 | --- | 0 | 0 | False | False |
+| 251 | C5 | --- | 0 | 0 | False | False |
+| 314 | D4 | --- | 0 | 0 | False | False |
+| 321 | E4 | --- | 0 | 0 | False | False |
+| 328 | F4 | --- | 0 | 0 | False | False |
+| 335 | G4 | --- | 0 | 0 | False | False |
+| 356 | A4 | --- | 0 | 0 | False | False |
+| 377 | D4 | --- | 0 | 0 | False | False |
+| 391 | A4 | --- | 0 | 0 | False | False |
+| 398 | G4 | --- | 0 | 0 | False | False |
+| 447 | C4 | --- | 0 | 0 | False | False |
+| 467 | D5 | --- | 0 | 0 | False | False |
+| 468 | D5 | --- | 0 | 0 | False | False |
+| 469 | D5 | --- | 0 | 0 | False | False |
+| 470 | D5 | --- | 0 | 0 | False | False |
+| 471 | D5 | --- | 0 | 0 | False | False |
+| 472 | D5 | --- | 0 | 0 | False | False |
+| 473 | D5 | --- | 0 | 0 | False | False |
+| 474 | D5 | --- | 0 | 0 | False | False |
+| 475 | D5 | --- | 0 | 0 | False | False |
+| 476 | D5 | --- | 0 | 0 | False | False |
+| 477 | D5 | --- | 0 | 0 | False | False |
+| 478 | D5 | --- | 0 | 0 | False | False |
+| 479 | D5 | --- | 0 | 0 | False | False |
+| 480 | D5 | --- | 0 | 0 | False | False |
+| 481 | D5 | --- | 0 | 0 | False | False |
+| 482 | D5 | --- | 0 | 0 | False | False |
+| 488 | A5 | --- | 0 | 0 | False | False |
+| 489 | A5 | --- | 0 | 0 | False | False |
 
 ### triangle
 
 | Frame | Extracted | Trace | Ext Vol | Tr Vol | Ext Snd | Tr Snd |
 |-------|-----------|-------|---------|--------|---------|--------|
-| 616 | --- | A#2 | 0 | 15 | False | True |
-| 617 | --- | A#2 | 0 | 15 | False | True |
-| 618 | --- | A#2 | 0 | 15 | False | True |
-| 619 | --- | A#2 | 0 | 15 | False | True |
-| 620 | --- | A#2 | 0 | 15 | False | True |
-| 621 | --- | A#2 | 0 | 15 | False | True |
-| 622 | --- | A#2 | 0 | 15 | False | True |
-| 840 | --- | A#2 | 0 | 15 | False | True |
-| 841 | --- | A#2 | 0 | 15 | False | True |
-| 842 | --- | A#2 | 0 | 15 | False | True |
-| 843 | --- | A#2 | 0 | 15 | False | True |
-| 844 | --- | A#2 | 0 | 15 | False | True |
-| 845 | --- | A#2 | 0 | 15 | False | True |
-| 846 | --- | A#2 | 0 | 15 | False | True |
-| 924 | --- | C#3 | 0 | 15 | False | True |
-| 925 | --- | C#3 | 0 | 15 | False | True |
-| 926 | --- | C#3 | 0 | 15 | False | True |
-| 927 | --- | C#3 | 0 | 15 | False | True |
-| 928 | --- | C#3 | 0 | 15 | False | True |
-| 929 | --- | C#3 | 0 | 15 | False | True |
-| 930 | --- | C#3 | 0 | 15 | False | True |
-| 931 | --- | C#3 | 0 | 15 | False | True |
-| 932 | --- | C#3 | 0 | 15 | False | True |
-| 933 | --- | C#3 | 0 | 15 | False | True |
-| 934 | --- | C#3 | 0 | 15 | False | True |
-| 935 | --- | C#3 | 0 | 15 | False | True |
-| 936 | --- | C#3 | 0 | 15 | False | True |
-| 937 | --- | C#3 | 0 | 15 | False | True |
-| 938 | --- | C#3 | 0 | 15 | False | True |
-| 939 | --- | C#3 | 0 | 15 | False | True |
+| 4 | D3 | D3 | 0 | 15 | False | True |
+| 5 | D3 | --- | 0 | 0 | False | False |
+| 6 | D3 | --- | 0 | 0 | False | False |
+| 7 | D3 | --- | 0 | 0 | False | False |
+| 8 | D3 | --- | 0 | 0 | False | False |
+| 9 | D3 | --- | 0 | 0 | False | False |
+| 10 | D3 | --- | 0 | 0 | False | False |
+| 11 | D3 | --- | 0 | 0 | False | False |
+| 12 | D3 | --- | 0 | 0 | False | False |
+| 13 | D3 | --- | 0 | 0 | False | False |
+| 18 | D3 | D3 | 0 | 15 | False | True |
+| 19 | D3 | --- | 0 | 0 | False | False |
+| 20 | D3 | --- | 0 | 0 | False | False |
+| 25 | D3 | D3 | 0 | 15 | False | True |
+| 26 | D3 | --- | 0 | 0 | False | False |
+| 27 | D3 | --- | 0 | 0 | False | False |
+| 32 | D3 | D3 | 0 | 15 | False | True |
+| 33 | D3 | --- | 0 | 0 | False | False |
+| 34 | D3 | --- | 0 | 0 | False | False |
+| 35 | D3 | --- | 0 | 0 | False | False |
+| 36 | D3 | --- | 0 | 0 | False | False |
+| 37 | D3 | --- | 0 | 0 | False | False |
+| 38 | D3 | --- | 0 | 0 | False | False |
+| 39 | D3 | --- | 0 | 0 | False | False |
+| 40 | D3 | --- | 0 | 0 | False | False |
+| 41 | D3 | --- | 0 | 0 | False | False |
+| 42 | D3 | --- | 0 | 0 | False | False |
+| 43 | D3 | --- | 0 | 0 | False | False |
+| 44 | D3 | --- | 0 | 0 | False | False |
+| 45 | D3 | --- | 0 | 0 | False | False |

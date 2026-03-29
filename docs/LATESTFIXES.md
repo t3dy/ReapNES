@@ -52,6 +52,41 @@ CC11 (expression/volume) or CC12 (timbre/duty in nesmdb standard).
 **Fix**: Added CC11 and CC12 handlers to the @block section of ReapNES_APU.jsfx.
 CC11 maps 0-127 to NES vol 0-15. CC12 maps raw 0-3 to duty cycle.
 
+### Fix 6: Envelope Off-By-One (v5)
+**Problem**: Volume mismatch at frame 4 of notes with vol=4, fade=4/1.
+Our IR showed vol=1, trace showed vol=0.
+**Cause**: Volume decrement was applied AFTER writing the frame state.
+**Fix**: Apply decrement BEFORE writing — so frame 4 gets the decremented value.
+
+### Fix 7: E8 Gate Removal (v5)
+**Problem**: Sq2 had 1518 volume mismatches because fading wasn't applied.
+**Cause**: The E8 (EnvelopeEnable) command was gating the fade system, but Sq2
+has zero E8 commands. E8 does NOT gate fading.
+**Fix**: Removed `envelope_enabled` check. Fading always active when fade_start > 0.
+
+### Fix 8: fade_step Decoded (v5)
+**Problem**: Instruments with fade_step > 0 showed vol=1 at the last frame of
+notes where the trace showed vol=0.
+**Cause**: `fade_step` was undocumented. It controls a RELEASE phase at the end
+of each note: `fade_step` 1-per-frame decrements on the last `fade_step` frames.
+**Evidence**: $B5 (fade=2/3) shows 3 decrements on the last 3 frames of every note.
+$B4 (fade=3/1) shows 1 decrement on the last frame. $F3 (fade=1/0) holds forever.
+**Fix**: Added Phase 2 release to envelope model.
+
+### Fix 9: Triangle Linear Counter (v5)
+**Problem**: Triangle had 518 sounding-state mismatches — notes sounding for
+their full duration instead of silencing when the linear counter expired.
+**Cause**: Triangle notes are gated by $4008 (linear counter), not volume.
+The instrument byte IS the $4008 register value.
+**Fix**: Model linear counter decay as `(reload + 3) // 4` sounding frames.
+Control bit (bit 7) = sustain for full duration.
+
+### Fix 10: MIDI Export Rebuilt from Frame IR (v5)
+**Problem**: MIDI notes played at constant volume for full duration — too legato.
+**Cause**: Export used raw parser events, not the frame IR with envelope data.
+**Fix**: Complete rewrite: walks frame IR, emits shortened notes with CC11
+volume automation per-frame. Staccato articulation matches game audio.
+
 ---
 
 ## What We Learned About the ROM Structure
@@ -93,10 +128,16 @@ Each "instrument" is the raw APU register 0 value (DDLCVVVV):
 - C (bit 4) = constant volume flag
 - VVVV (bits 3-0) = volume (0-15)
 
-There are NO envelope tables in ROM. Envelopes are parametric:
-- `fade_start` = number of volume decrements after note onset
-- Volume decrements by 1 per frame starting at frame 1
-- After all decrements, volume holds at the remainder
+There are NO envelope tables in ROM. Envelopes are two-phase parametric:
+- Phase 1: `fade_start` = number of volume decrements (1/frame from frame 1)
+- Hold: volume maintains at `(initial_vol - fade_start)`
+- Phase 2: `fade_step` = number of 1/frame decrements on the LAST frames
+- If `fade_step=0`, hold indefinitely (no release)
+- E8 command does NOT gate fading — fading is always active
+
+For triangle: the instrument byte IS $4008 (linear counter register):
+- Bit 7: control (1=sustain/reload, sounds full duration)
+- Bits 6-0: reload value; triangle sounds ~(reload/4) frames
 
 ### The Note Period Table
 

@@ -51,8 +51,14 @@ studio/presets/jsfx_data/
 # Reference repos (cloned for study, not part of our codebase)
 references/
 
-# Distribution builds
-*.zip
+# ROM collection (copyrighted)
+AllNESRoms/
+
+# Rendered output (WAV/MP4 too large for git, MIDIs are versioned in output/)
+*.mp4
+
+# Temporary capture files
+capture_contra.csv
 
 # Distribution builds
 *.zip

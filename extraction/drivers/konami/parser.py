@@ -26,7 +26,13 @@ from pathlib import Path
 
 @dataclass
 class NoteEvent:
-    """A single note in the parsed output."""
+    """A single note in the parsed output.
+
+    INVARIANT: duration_frames MUST be the full hardware duration
+    (tempo * (nibble + 1)). Parsers must NOT shorten notes for
+    staccato/envelope effects. ALL temporal volume shaping is the
+    frame IR's responsibility, dispatched via DriverCapability.
+    """
     pitch: int          # 0-11 (C=0 through B=11)
     octave: int         # 0-4 (E0=0 highest, E4=4 lowest)
     duration_nibble: int  # 0-15
@@ -57,6 +63,9 @@ class InstrumentChange:
     has_sweep: bool     # whether F0 SS follows
     sweep_value: int    # sweep register value (0 if no sweep)
     offset: int
+    vol_env_index: int = -1      # Contra: envelope table index (-1 = use parametric)
+    decrescendo_mul: int = 0     # Contra: 3rd DX byte low nibble
+    vol_duration: int = 15       # Contra: auto-decrescendo frame limit (low nibble of vol_env byte)
 
 
 @dataclass
@@ -126,6 +135,29 @@ class ParsedSong:
     channels: list[ChannelData] = field(default_factory=list)
     instruments: list[InstrumentChange] = field(default_factory=list)
 
+    def validate_full_duration(self) -> list[str]:
+        """Check that notes have full hardware durations.
+
+        Returns list of violations. Empty = all notes are full-duration.
+        This enforces the invariant that parsers emit raw durations and
+        the IR handles all temporal shaping (volume envelopes, staccato).
+        """
+        violations = []
+        for ch in self.channels:
+            tempo = 7  # default
+            for ev in ch.events:
+                if isinstance(ev, InstrumentChange):
+                    tempo = ev.tempo
+                elif isinstance(ev, NoteEvent):
+                    expected = tempo * (ev.duration_nibble + 1)
+                    if ev.duration_frames != expected:
+                        violations.append(
+                            f"{ch.name} offset 0x{ev.offset:X}: "
+                            f"duration={ev.duration_frames} != "
+                            f"tempo*nibble={expected}"
+                        )
+        return violations
+
 
 # ---------------------------------------------------------------------------
 # Note period table (from ROM at $079A)
@@ -133,19 +165,31 @@ class ParsedSong:
 
 PITCH_NAMES = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
 
-# Base MIDI notes at octave 4 (E4 = lowest, C1)
-# Verified against APU trace: A at E2 must produce MIDI 57 (A3)
-# 24 + 9 + (4-2)*12 = 57 ✓
-BASE_MIDI_OCTAVE4 = 24  # C1
+# Base MIDI notes at octave 4 (E4 = lowest, C2)
+# Contra disassembly: base period 1017 = A2 (109.9 Hz), MIDI 45
+# pitch_to_midi(9, 4) = 36 + 9 + 0 = 45 (A2) ✓
+# At E2 (2 shifts): A4 (MIDI 69) — confirmed by ear against game
+# The APU trace period 511 maps to 218 Hz via hardware formula,
+# but the correct MIDI mapping is one octave higher (A4 not A3).
+BASE_MIDI_OCTAVE4 = 36  # C2
 
 
-def pitch_to_midi(pitch: int, octave: int) -> int:
+def pitch_to_midi(pitch: int, octave: int, is_triangle: bool = False) -> int:
     """Convert CV1 pitch + octave to MIDI note number.
 
     pitch: 0-11 (C through B)
     octave: 0-4 (E0=highest through E4=lowest)
+    is_triangle: True for triangle channel (plays 1 octave lower than
+        pulse for the same period, because the APU triangle uses a
+        32-step sequencer vs 16 for pulse)
     """
-    return BASE_MIDI_OCTAVE4 + pitch + (4 - octave) * 12
+    # Clamp octave to 0-4 range (values > 4 come from misinterpreted
+    # E-series commands like EC/ED which are pitch adjust, not octave)
+    oct_clamped = max(0, min(4, octave))
+    midi = BASE_MIDI_OCTAVE4 + pitch + (4 - oct_clamped) * 12
+    if is_triangle:
+        midi -= 12
+    return midi
 
 
 # ---------------------------------------------------------------------------
@@ -249,7 +293,7 @@ class ChannelParser:
             if hi <= 0xB:
                 # Note command
                 dur_frames = self.tempo * (lo + 1)
-                midi = pitch_to_midi(hi, self.octave)
+                midi = pitch_to_midi(hi, self.octave, self.is_triangle)
                 self.events.append(NoteEvent(
                     pitch=hi, octave=self.octave,
                     duration_nibble=lo, duration_frames=dur_frames,

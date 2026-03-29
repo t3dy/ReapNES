@@ -1,13 +1,13 @@
 {
   "pulse1": {
     "channel": "pulse1",
-    "total_frames": 2016,
+    "total_frames": 1792,
     "pitch_mismatches": 0,
-    "volume_mismatches": 687,
-    "duty_mismatches": 192,
-    "sounding_mismatches": 373,
+    "volume_mismatches": 45,
+    "duty_mismatches": 0,
+    "sounding_mismatches": 9,
     "first_pitch_mismatch": null,
-    "first_sounding_mismatch": 4,
+    "first_sounding_mismatch": 1348,
     "mismatch_regions": [
       [
         4,
@@ -326,15 +326,15 @@
         1343
       ],
       [
-        1349,
+        1348,
         1350
       ],
       [
-        1356,
+        1355,
         1357
       ],
       [
-        1363,
+        1362,
         1364
       ],
       [
@@ -350,7 +350,7 @@
         1483
       ],
       [
-        1489,
+        1488,
         1490
       ],
       [
@@ -366,7 +366,7 @@
         1539
       ],
       [
-        1545,
+        1544,
         1546
       ],
       [
@@ -374,15 +374,15 @@
         1567
       ],
       [
-        1573,
+        1572,
         1574
       ],
       [
-        1580,
+        1579,
         1581
       ],
       [
-        1587,
+        1586,
         1588
       ],
       [
@@ -398,7 +398,7 @@
         1707
       ],
       [
-        1713,
+        1712,
         1714
       ],
       [
@@ -408,71 +408,23 @@
       [
         1743,
         1749
-      ],
-      [
-        1792,
-        1795
-      ],
-      [
-        1799,
-        1802
-      ],
-      [
-        1813,
-        1816
-      ],
-      [
-        1827,
-        1881
-      ],
-      [
-        1883,
-        1888
-      ],
-      [
-        1890,
-        1895
-      ],
-      [
-        1897,
-        1902
-      ],
-      [
-        1904,
-        1923
-      ],
-      [
-        1925,
-        1944
-      ],
-      [
-        1946,
-        1958
-      ],
-      [
-        1960,
-        1965
-      ],
-      [
-        1967,
-        2014
       ]
     ],
     "frame_diffs": [
       {
         "frame": 4,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 3,
         "tr_duty": 3,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 5,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -483,7 +435,7 @@
       },
       {
         "frame": 6,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -494,18 +446,18 @@
       },
       {
         "frame": 11,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 3,
         "tr_duty": 3,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 12,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -516,7 +468,7 @@
       },
       {
         "frame": 13,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -527,18 +479,18 @@
       },
       {
         "frame": 25,
-        "ext_note": "G3",
+        "ext_note": "G4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 3,
         "tr_duty": 3,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 26,
-        "ext_note": "G3",
+        "ext_note": "G4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -549,7 +501,7 @@
       },
       {
         "frame": 27,
-        "ext_note": "G3",
+        "ext_note": "G4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -560,117 +512,117 @@
       },
       {
         "frame": 90,
-        "ext_note": "D3",
+        "ext_note": "D4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 97,
-        "ext_note": "D3",
+        "ext_note": "D4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 104,
-        "ext_note": "C3",
+        "ext_note": "C4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 111,
-        "ext_note": "C3",
+        "ext_note": "C4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 132,
-        "ext_note": "D3",
+        "ext_note": "D4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 153,
-        "ext_note": "A#2",
+        "ext_note": "A#3",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 167,
-        "ext_note": "D3",
+        "ext_note": "D4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 174,
-        "ext_note": "C3",
+        "ext_note": "C4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 223,
-        "ext_note": "G3",
+        "ext_note": "G4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 228,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 3,
         "tr_duty": 3,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 229,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -681,7 +633,7 @@
       },
       {
         "frame": 230,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -692,18 +644,18 @@
       },
       {
         "frame": 235,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 3,
         "tr_duty": 3,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 236,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -714,7 +666,7 @@
       },
       {
         "frame": 237,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -725,18 +677,18 @@
       },
       {
         "frame": 249,
-        "ext_note": "G3",
+        "ext_note": "G4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 3,
         "tr_duty": 3,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 250,
-        "ext_note": "G3",
+        "ext_note": "G4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -747,7 +699,7 @@
       },
       {
         "frame": 251,
-        "ext_note": "G3",
+        "ext_note": "G4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -758,117 +710,117 @@
       },
       {
         "frame": 314,
-        "ext_note": "D3",
+        "ext_note": "D4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 321,
-        "ext_note": "D3",
+        "ext_note": "D4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 328,
-        "ext_note": "C3",
+        "ext_note": "C4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 335,
-        "ext_note": "C3",
+        "ext_note": "C4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 356,
-        "ext_note": "D3",
+        "ext_note": "D4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 377,
-        "ext_note": "A#2",
+        "ext_note": "A#3",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 391,
-        "ext_note": "D3",
+        "ext_note": "D4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 398,
-        "ext_note": "C3",
+        "ext_note": "C4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 447,
-        "ext_note": "G3",
+        "ext_note": "G4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 465,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
-        "ext_vol": 1,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 466,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -879,7 +831,7 @@
       },
       {
         "frame": 467,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -890,7 +842,7 @@
       },
       {
         "frame": 468,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -901,7 +853,7 @@
       },
       {
         "frame": 469,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -912,7 +864,7 @@
       },
       {
         "frame": 470,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -923,7 +875,7 @@
       },
       {
         "frame": 471,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -934,7 +886,7 @@
       },
       {
         "frame": 472,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -945,7 +897,7 @@
       },
       {
         "frame": 473,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -956,7 +908,7 @@
       },
       {
         "frame": 474,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -967,7 +919,7 @@
       },
       {
         "frame": 475,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -978,7 +930,7 @@
       },
       {
         "frame": 476,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -989,7 +941,7 @@
       },
       {
         "frame": 477,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -1000,7 +952,7 @@
       },
       {
         "frame": 478,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
         "ext_vol": 0,
         "tr_vol": 0,
@@ -1013,13 +965,13 @@
   },
   "pulse2": {
     "channel": "pulse2",
-    "total_frames": 2016,
+    "total_frames": 1792,
     "pitch_mismatches": 0,
-    "volume_mismatches": 1728,
-    "duty_mismatches": 210,
-    "sounding_mismatches": 546,
+    "volume_mismatches": 50,
+    "duty_mismatches": 0,
+    "sounding_mismatches": 10,
     "first_pitch_mismatch": null,
-    "first_sounding_mismatch": 230,
+    "first_sounding_mismatch": 1348,
     "mismatch_regions": [
       [
         230,
@@ -1298,15 +1250,15 @@
         1343
       ],
       [
-        1349,
+        1348,
         1350
       ],
       [
-        1356,
+        1355,
         1357
       ],
       [
-        1363,
+        1362,
         1364
       ],
       [
@@ -1322,7 +1274,7 @@
         1483
       ],
       [
-        1489,
+        1488,
         1490
       ],
       [
@@ -1338,7 +1290,7 @@
         1539
       ],
       [
-        1545,
+        1544,
         1546
       ],
       [
@@ -1346,15 +1298,15 @@
         1567
       ],
       [
-        1573,
+        1572,
         1574
       ],
       [
-        1580,
+        1579,
         1581
       ],
       [
-        1587,
+        1586,
         1588
       ],
       [
@@ -1370,7 +1322,7 @@
         1707
       ],
       [
-        1713,
+        1712,
         1714
       ],
       [
@@ -1382,1241 +1334,1593 @@
         1749
       ],
       [
-        1769,
+        1768,
         1770
       ],
       [
         1785,
-        1805
-      ],
-      [
-        1813,
-        1819
-      ],
-      [
-        1827,
-        2015
+        1791
       ]
     ],
     "frame_diffs": [
       {
         "frame": 230,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 0,
         "tr_duty": 0,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 237,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 0,
         "tr_duty": 0,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 251,
-        "ext_note": "C4",
+        "ext_note": "C5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 0,
         "tr_duty": 0,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 314,
-        "ext_note": "D3",
+        "ext_note": "D4",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 321,
-        "ext_note": "E3",
+        "ext_note": "E4",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 328,
-        "ext_note": "F3",
+        "ext_note": "F4",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 335,
-        "ext_note": "G3",
+        "ext_note": "G4",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 356,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 377,
-        "ext_note": "D3",
+        "ext_note": "D4",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 391,
-        "ext_note": "A3",
+        "ext_note": "A4",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 398,
-        "ext_note": "G3",
+        "ext_note": "G4",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 447,
-        "ext_note": "C3",
+        "ext_note": "C4",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 467,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 468,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 469,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 470,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 471,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 472,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 473,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 474,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 475,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 476,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 477,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 478,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 479,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 480,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 481,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 482,
-        "ext_note": "D4",
+        "ext_note": "D5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 488,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 489,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 490,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 491,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 492,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 493,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 494,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 495,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 496,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 497,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 498,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 499,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 500,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 501,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 502,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 503,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 509,
-        "ext_note": "G#4",
+        "ext_note": "G#5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 510,
-        "ext_note": "G#4",
+        "ext_note": "G#5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 516,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 517,
-        "ext_note": "A4",
+        "ext_note": "A5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 523,
-        "ext_note": "G#4",
+        "ext_note": "G#5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       },
       {
         "frame": 524,
-        "ext_note": "G#4",
+        "ext_note": "G#5",
         "tr_note": "---",
-        "ext_vol": 5,
+        "ext_vol": 0,
         "tr_vol": 0,
         "ext_duty": 2,
         "tr_duty": 2,
-        "ext_sounding": true,
+        "ext_sounding": false,
         "tr_sounding": false
       }
     ]
   },
   "triangle": {
     "channel": "triangle",
-    "total_frames": 2016,
+    "total_frames": 1792,
     "pitch_mismatches": 0,
-    "volume_mismatches": 742,
+    "volume_mismatches": 195,
     "duty_mismatches": 0,
-    "sounding_mismatches": 742,
+    "sounding_mismatches": 195,
     "first_pitch_mismatch": null,
-    "first_sounding_mismatch": 616,
+    "first_sounding_mismatch": 4,
     "mismatch_regions": [
       [
-        616,
-        622
+        4,
+        13
       ],
       [
-        840,
-        846
+        18,
+        20
+      ],
+      [
+        25,
+        27
+      ],
+      [
+        32,
+        48
+      ],
+      [
+        53,
+        55
+      ],
+      [
+        60,
+        69
+      ],
+      [
+        74,
+        76
+      ],
+      [
+        81,
+        83
+      ],
+      [
+        88,
+        90
+      ],
+      [
+        95,
+        97
+      ],
+      [
+        102,
+        104
+      ],
+      [
+        109,
+        111
+      ],
+      [
+        116,
+        125
+      ],
+      [
+        130,
+        132
+      ],
+      [
+        137,
+        139
+      ],
+      [
+        144,
+        167
+      ],
+      [
+        172,
+        174
+      ],
+      [
+        179,
+        181
+      ],
+      [
+        186,
+        188
+      ],
+      [
+        193,
+        195
+      ],
+      [
+        200,
+        202
+      ],
+      [
+        207,
+        209
+      ],
+      [
+        214,
+        216
+      ],
+      [
+        221,
+        223
+      ],
+      [
+        228,
+        237
+      ],
+      [
+        242,
+        244
+      ],
+      [
+        249,
+        251
+      ],
+      [
+        256,
+        272
+      ],
+      [
+        277,
+        279
+      ],
+      [
+        284,
+        293
+      ],
+      [
+        298,
+        300
+      ],
+      [
+        305,
+        307
+      ],
+      [
+        312,
+        314
+      ],
+      [
+        319,
+        321
+      ],
+      [
+        326,
+        328
+      ],
+      [
+        333,
+        335
+      ],
+      [
+        340,
+        349
+      ],
+      [
+        354,
+        356
+      ],
+      [
+        361,
+        363
+      ],
+      [
+        368,
+        391
+      ],
+      [
+        396,
+        398
+      ],
+      [
+        403,
+        405
+      ],
+      [
+        410,
+        412
+      ],
+      [
+        417,
+        419
+      ],
+      [
+        424,
+        426
+      ],
+      [
+        431,
+        433
+      ],
+      [
+        438,
+        440
+      ],
+      [
+        445,
+        447
+      ],
+      [
+        453,
+        461
+      ],
+      [
+        467,
+        468
+      ],
+      [
+        474,
+        475
+      ],
+      [
+        481,
+        496
+      ],
+      [
+        502,
+        503
+      ],
+      [
+        509,
+        517
+      ],
+      [
+        523,
+        524
+      ],
+      [
+        530,
+        531
+      ],
+      [
+        537,
+        538
+      ],
+      [
+        544,
+        545
+      ],
+      [
+        551,
+        552
+      ],
+      [
+        558,
+        559
+      ],
+      [
+        565,
+        573
+      ],
+      [
+        579,
+        580
+      ],
+      [
+        586,
+        587
+      ],
+      [
+        593,
+        594
+      ],
+      [
+        600,
+        608
+      ],
+      [
+        614,
+        615
+      ],
+      [
+        628,
+        629
+      ],
+      [
+        635,
+        643
+      ],
+      [
+        649,
+        657
+      ],
+      [
+        663,
+        671
+      ],
+      [
+        677,
+        685
+      ],
+      [
+        691,
+        692
+      ],
+      [
+        698,
+        699
+      ],
+      [
+        705,
+        720
+      ],
+      [
+        726,
+        727
+      ],
+      [
+        733,
+        741
+      ],
+      [
+        747,
+        748
+      ],
+      [
+        754,
+        755
+      ],
+      [
+        761,
+        762
+      ],
+      [
+        768,
+        769
+      ],
+      [
+        775,
+        776
+      ],
+      [
+        782,
+        783
+      ],
+      [
+        789,
+        797
+      ],
+      [
+        803,
+        804
+      ],
+      [
+        810,
+        811
+      ],
+      [
+        817,
+        818
+      ],
+      [
+        824,
+        832
+      ],
+      [
+        838,
+        839
+      ],
+      [
+        852,
+        853
+      ],
+      [
+        859,
+        867
+      ],
+      [
+        873,
+        881
+      ],
+      [
+        887,
+        895
       ],
       [
         924,
-        951
+        938
       ],
       [
         980,
-        1007
+        994
       ],
       [
         1036,
-        1063
+        1050
       ],
       [
         1092,
-        1119
+        1106
       ],
       [
         1148,
-        1175
+        1162
       ],
       [
         1204,
-        1231
+        1218
       ],
       [
         1260,
-        1287
+        1274
       ],
       [
         1316,
-        1343
+        1330
       ],
       [
-        1351,
-        1357
+        1350,
+        1350
       ],
       [
-        1365,
-        1378
+        1364,
+        1364
       ],
       [
         1393,
         1399
       ],
       [
-        1414,
-        1455
+        1406,
+        1413
       ],
       [
-        1463,
-        1469
+        1462,
+        1462
       ],
       [
-        1477,
-        1511
+        1476,
+        1476
       ],
       [
-        1519,
-        1525
+        1518,
+        1518
       ],
       [
-        1533,
-        1567
+        1532,
+        1532
       ],
       [
-        1575,
-        1581
+        1574,
+        1574
       ],
       [
-        1589,
-        1602
+        1588,
+        1588
       ],
       [
         1617,
         1623
       ],
       [
-        1638,
-        1679
+        1630,
+        1637
       ],
       [
-        1687,
-        1693
+        1686,
+        1686
       ],
       [
-        1701,
-        1735
+        1700,
+        1700
       ],
       [
-        1743,
-        1749
+        1742,
+        1742
       ],
       [
-        1757,
-        1763
+        1756,
+        1756
       ],
       [
-        1792,
-        2015
+        1770,
+        1770
       ]
     ],
     "frame_diffs": [
       {
-        "frame": 616,
-        "ext_note": "---",
-        "tr_note": "A#2",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 0,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 617,
-        "ext_note": "---",
-        "tr_note": "A#2",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 0,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 618,
-        "ext_note": "---",
-        "tr_note": "A#2",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 0,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 619,
-        "ext_note": "---",
-        "tr_note": "A#2",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 0,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 620,
-        "ext_note": "---",
-        "tr_note": "A#2",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 0,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 621,
-        "ext_note": "---",
-        "tr_note": "A#2",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 0,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 622,
-        "ext_note": "---",
-        "tr_note": "A#2",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 0,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 840,
-        "ext_note": "---",
-        "tr_note": "A#2",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 0,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 841,
-        "ext_note": "---",
-        "tr_note": "A#2",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 0,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 842,
-        "ext_note": "---",
-        "tr_note": "A#2",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 0,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 843,
-        "ext_note": "---",
-        "tr_note": "A#2",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 0,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 844,
-        "ext_note": "---",
-        "tr_note": "A#2",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 0,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 845,
-        "ext_note": "---",
-        "tr_note": "A#2",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 0,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 846,
-        "ext_note": "---",
-        "tr_note": "A#2",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 0,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 924,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 925,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 926,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 927,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 928,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 929,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 930,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 931,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 932,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 933,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 934,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 935,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 936,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 937,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 938,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 939,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 940,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 941,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 942,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 943,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 944,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 945,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 946,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 947,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 948,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 949,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 950,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 951,
-        "ext_note": "---",
-        "tr_note": "C#3",
-        "ext_vol": 0,
-        "tr_vol": 15,
-        "ext_duty": 3,
-        "tr_duty": 0,
-        "ext_sounding": false,
-        "tr_sounding": true
-      },
-      {
-        "frame": 980,
-        "ext_note": "---",
+        "frame": 4,
+        "ext_note": "D3",
         "tr_note": "D3",
         "ext_vol": 0,
         "tr_vol": 15,
-        "ext_duty": 3,
+        "ext_duty": 0,
         "tr_duty": 0,
         "ext_sounding": false,
         "tr_sounding": true
       },
       {
-        "frame": 981,
-        "ext_note": "---",
+        "frame": 5,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 6,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 7,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 8,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 9,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 10,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 11,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 12,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 13,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 18,
+        "ext_note": "D3",
         "tr_note": "D3",
         "ext_vol": 0,
         "tr_vol": 15,
-        "ext_duty": 3,
+        "ext_duty": 0,
         "tr_duty": 0,
         "ext_sounding": false,
         "tr_sounding": true
       },
       {
-        "frame": 982,
-        "ext_note": "---",
+        "frame": 19,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 20,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 25,
+        "ext_note": "D3",
         "tr_note": "D3",
         "ext_vol": 0,
         "tr_vol": 15,
-        "ext_duty": 3,
+        "ext_duty": 0,
         "tr_duty": 0,
         "ext_sounding": false,
         "tr_sounding": true
       },
       {
-        "frame": 983,
-        "ext_note": "---",
+        "frame": 26,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 27,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 32,
+        "ext_note": "D3",
         "tr_note": "D3",
         "ext_vol": 0,
         "tr_vol": 15,
-        "ext_duty": 3,
+        "ext_duty": 0,
         "tr_duty": 0,
         "ext_sounding": false,
         "tr_sounding": true
       },
       {
-        "frame": 984,
-        "ext_note": "---",
+        "frame": 33,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 34,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 35,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 36,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 37,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 38,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 39,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 40,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 41,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 42,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 43,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 44,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 45,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 46,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 47,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 48,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 53,
+        "ext_note": "D3",
         "tr_note": "D3",
         "ext_vol": 0,
         "tr_vol": 15,
-        "ext_duty": 3,
+        "ext_duty": 0,
         "tr_duty": 0,
         "ext_sounding": false,
         "tr_sounding": true
       },
       {
-        "frame": 985,
-        "ext_note": "---",
+        "frame": 54,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 55,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 60,
+        "ext_note": "D3",
         "tr_note": "D3",
         "ext_vol": 0,
         "tr_vol": 15,
-        "ext_duty": 3,
+        "ext_duty": 0,
         "tr_duty": 0,
         "ext_sounding": false,
         "tr_sounding": true
       },
       {
-        "frame": 986,
-        "ext_note": "---",
+        "frame": 61,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 62,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 63,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 64,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 65,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 66,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 67,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 68,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 69,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 74,
+        "ext_note": "D3",
         "tr_note": "D3",
         "ext_vol": 0,
         "tr_vol": 15,
-        "ext_duty": 3,
+        "ext_duty": 0,
         "tr_duty": 0,
         "ext_sounding": false,
         "tr_sounding": true
       },
       {
-        "frame": 987,
-        "ext_note": "---",
+        "frame": 75,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 76,
+        "ext_note": "D3",
+        "tr_note": "---",
+        "ext_vol": 0,
+        "tr_vol": 0,
+        "ext_duty": 0,
+        "tr_duty": 0,
+        "ext_sounding": false,
+        "tr_sounding": false
+      },
+      {
+        "frame": 81,
+        "ext_note": "D3",
         "tr_note": "D3",
         "ext_vol": 0,
         "tr_vol": 15,
-        "ext_duty": 3,
+        "ext_duty": 0,
         "tr_duty": 0,
         "ext_sounding": false,
         "tr_sounding": true

@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find C:/Dev/NESMusicStudio -name *ontra* -o -name *ONTRA*)",
+      "Bash(PYTHONPATH=. python3 -c \":*)",
+      "Bash(PYTHONPATH=. python3 scripts/trace_compare.py --frames 1792)",
+      "Bash(find C:/Dev/NESMusicStudio/AllNESRoms -name *astlevania*PRG0*)",
+      "Bash(find C:/Dev/NESMusicStudio/AllNESRoms -name *astlevania* -not -name *II* -not -name *III*)",
+      "Bash(find /c/Dev/NESMusicStudio -type f -name *trace*)",
+      "Bash(xargs grep:*)",
+      "Bash(find /c/Dev/NESMusicStudio -name *.csv -type f)",
+      "Read(//c/Users/PC/Documents/Mesen2//**)",
+      "Read(//c/Users/PC/Documents//**)",
+      "Bash(find C:DevNESMusicStudioreferencesnes-contra-us -name *.asm)",
+      "Bash(python3:*)"
+    ]
+  }
+}

@@ -13,6 +13,28 @@ Primary sources:
 - **Primary target**: Castlevania (U) (V1.0) -- UxROM, mapper 2
 - **Same driver family**: Contra, Super C, TMNT, Goonies II, Gradius II
 - **Different driver**: Castlevania II uses Fujio variant (NOT compatible)
+- **WARNING**: Same period table does NOT prove same driver. CV2 has
+  identical period values but a completely different sound engine.
+
+## Per-Game Differences (CRITICAL — read before adding a game)
+
+The note/octave/repeat commands are shared, but these aspects VARY:
+
+| Aspect | CV1 | Contra |
+|--------|-----|--------|
+| Mapper | 0 (NROM, 32KB) | 2 (UNROM, 128KB bank-switched) |
+| Sound bank | N/A (linear) | Bank 1 ($4010-$8010) |
+| Pointer table format | 9 bytes/track (3 ptrs + 3 seps) | Flat sound_table_00 (3 bytes/entry) |
+| Pointer table addr | ROM $0825 | ROM $48F8 (CPU $88E8 in bank 1) |
+| DX extra bytes (pulse) | 2 (instrument + fade) | 3 (config + vol_env + decrescendo) |
+| DX extra bytes (triangle) | 0 | 1 (triangle config) |
+| $C0-$CF | Rest with duration | Rest with duration (same) |
+| Percussion | Inline E9/EA triggers | Separate channel, DMC samples |
+| Volume envelopes | Parametric (fade_start/fade_step) | Lookup tables per level |
+| Period table addr | ROM $079A | ROM $46E5 (bank 1) |
+
+**BEFORE writing a parser for a new game**: complete the checklist in
+`extraction/CLAUDE_EXTRACTION.md` section "Per-Game Parser Checklist."
 
 ---
 

@@ -189,7 +189,38 @@ def main():
     ap.add_argument("--frames", type=int, default=600, help="Number of frames to compare")
     ap.add_argument("--start-frame", type=int, default=TRACE_START_FRAME,
                     help="Trace frame where Vampire Killer starts")
+    ap.add_argument("--dump-frames", help="Dump raw trace values for frame range (e.g. 0-20)")
+    ap.add_argument("--channel", default="all",
+                    help="Channel to dump: pulse1, pulse2, triangle, all")
     args = ap.parse_args()
+
+    if args.dump_frames:
+        # Dump mode: show raw trace values without parser comparison
+        parts = args.dump_frames.split("-")
+        dump_start = int(parts[0])
+        dump_end = int(parts[1]) if len(parts) > 1 else dump_start + 20
+
+        trace_ir = trace_to_frame_ir(
+            str(TRACE_PATH),
+            start_frame=args.start_frame,
+            end_frame=args.start_frame + dump_end + 1,
+        )
+
+        channels = ["pulse1", "pulse2", "triangle"] if args.channel == "all" \
+            else [args.channel]
+
+        for ch_ir in trace_ir.channels:
+            if ch_ir.channel_type not in channels:
+                continue
+            print(f"=== {ch_ir.name} (frames {dump_start}-{dump_end}) ===")
+            print(f"{'frame':>5s} {'note':>5s} {'vol':>4s} {'duty':>4s} {'snd':>4s} {'period':>6s}")
+            for f in range(dump_start, dump_end + 1):
+                fs = ch_ir.get_frame(f)
+                nn = note_name(fs.midi_note)
+                print(f"{f:5d} {nn:>5s} {fs.volume:4d} {fs.duty:4d} "
+                      f"{'Y' if fs.sounding else '.':>4s} {fs.period:6d}")
+            print()
+        sys.exit(0)
 
     print("Loading ROM and parsing track 2 (Vampire Killer)...")
     parser = KonamiCV1Parser(str(ROM_PATH))
