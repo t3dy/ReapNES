@@ -1,0 +1,1737 @@
+NSF: Blaster Master by Naoki Kodaka, Marumo
+Songs: 16
+
+=== Song 1: Intro ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Blaster_Master\midi\Blaster_Master_01_Intro_v1.mid
+    Notes: P1=450 P2=449 Tri=57 Noise=49
+    CCs:   P1=1351 P2=2 Tri=57
+  REAPER: C:\Dev\NESMusicStudio\output\Blaster_Master\reaper\Blaster_Master_01_Intro_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Blaster_Master\wav\Blaster_Master_01_Intro_v1.wav (90.0s)
+
+=== Song 2: Area 1 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Blaster_Master\midi\Blaster_Master_02_Area_1_v1.mid
+    Notes: P1=162 P2=159 Tri=1246 Noise=0
+    CCs:   P1=2561 P2=2257 Tri=1246
+  REAPER: C:\Dev\NESMusicStudio\output\Blaster_Master\reaper\Blaster_Master_02_Area_1_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Blaster_Master\wav\Blaster_Master_02_Area_1_v1.wav (90.0s)
+
+=== Song 3: Area 2 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Blaster_Master\midi\Blaster_Master_03_Area_2_v1.mid
+    Notes: P1=193 P2=151 Tri=975 Noise=123
+    CCs:   P1=3301 P2=2950 Tri=975
+  REAPER: C:\Dev\NESMusicStudio\output\Blaster_Master\reaper\Blaster_Master_03_Area_2_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Blaster_Master\wav\Blaster_Master_03_Area_2_v1.wav (90.0s)
+
+=== Song 4: Area 3 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Blaster_Master\midi\Blaster_Master_04_Area_3_v1.mid
+    Notes: P1=439 P2=178 Tri=689 Noise=65
+    CCs:   P1=1529 P2=754 Tri=689
+  REAPER: C:\Dev\NESMusicStudio\output\Blaster_Master\reaper\Blaster_Master_04_Area_3_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Blaster_Master\wav\Blaster_Master_04_Area_3_v1.wav (90.0s)
+
+=== Song 5: Area 4 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Blaster_Master\midi\Blaster_Master_05_Area_4_v1.mid
+    Notes: P1=327 P2=326 Tri=411 Noise=0
+    CCs:   P1=5400 P2=34 Tri=411
+  REAPER: C:\Dev\NESMusicStudio\output\Blaster_Master\reaper\Blaster_Master_05_Area_4_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Blaster_Master\wav\Blaster_Master_05_Area_4_v1.wav (90.0s)
+
+=== Song 6: Area 5 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Blaster_Master\midi\Blaster_Master_06_Area_5_v1.mid
+    Notes: P1=250 P2=256 Tri=514 Noise=49
+    CCs:   P1=2904 P2=162 Tri=514
+  REAPER: C:\Dev\NESMusicStudio\output\Blaster_Master\reaper\Blaster_Master_06_Area_5_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Blaster_Master\wav\Blaster_Master_06_Area_5_v1.wav (90.0s)
+
+=== Song 7: Area 6 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Blaster_Master\midi\Blaster_Master_07_Area_6_v1.mid
+    Notes: P1=361 P2=360 Tri=722 Noise=0
+    CCs:   P1=2463 P2=2127 Tri=722
+  REAPER: C:\Dev\NESMusicStudio\output\Blaster_Master\reaper\Blaster_Master_07_Area_6_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Blaster_Master\wav\Blaster_Master_07_Area_6_v1.wav (90.0s)
+
+=== Song 8: Area 8 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Blaster_Master\midi\Blaster_Master_08_Area_8_v1.mid
+    Notes: P1=106 P2=0 Tri=83 Noise=1
+    CCs:   P1=808 P2=0 Tri=83
+  REAPER: C:\Dev\NESMusicStudio\output\Blaster_Master\reaper\Blaster_Master_08_Area_8_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Blaster_Master\wav\Blaster_Master_08_Area_8_v1.wav (90.0s)
+
+=== Song 9: Boss (se) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Blaster_Master\midi\Blaster_Master_09_Boss_(se)_v1.mid
+    Notes: P1=1 P2=1 Tri=0 Noise=0
+    CCs:   P1=2 P2=2 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Blaster_Master\reaper\Blaster_Master_09_Boss_(se)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Blaster_Master\wav\Blaster_Master_09_Boss_(se)_v1.wav (90.0s)
+
+=== Song 10: Boss1 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Blaster_Master\midi\Blaster_Master_10_Boss1_v1.mid
+    Notes: P1=1 P2=1 Tri=75 Noise=1
+    CCs:   P1=2 P2=2 Tri=75
+  REAPER: C:\Dev\NESMusicStudio\output\Blaster_Master\reaper\Blaster_Master_10_Boss1_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Blaster_Master\wav\Blaster_Master_10_Boss1_v1.wav (90.0s)
+
+=== Song 11: Boss2 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Blaster_Master\midi\Blaster_Master_11_Boss2_v1.mid
+    Notes: P1=367 P2=367 Tri=1378 Noise=1
+    CCs:   P1=4920 P2=4808 Tri=1378
+  REAPER: C:\Dev\NESMusicStudio\output\Blaster_Master\reaper\Blaster_Master_11_Boss2_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Blaster_Master\wav\Blaster_Master_11_Boss2_v1.wav (90.0s)
+
+=== Song 12: Boss3 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Blaster_Master\midi\Blaster_Master_12_Boss3_v1.mid
+    Notes: P1=472 P2=472 Tri=1465 Noise=196
+    CCs:   P1=5352 P2=5352 Tri=1465
+  REAPER: C:\Dev\NESMusicStudio\output\Blaster_Master\reaper\Blaster_Master_12_Boss3_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Blaster_Master\wav\Blaster_Master_12_Boss3_v1.wav (90.0s)
+
+=== Song 13: Area 7 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Blaster_Master\midi\Blaster_Master_13_Area_7_v1.mid
+    Notes: P1=551 P2=558 Tri=1445 Noise=269
+    CCs:   P1=4575 P2=106 Tri=1445
+  REAPER: C:\Dev\NESMusicStudio\output\Blaster_Master\reaper\Blaster_Master_13_Area_7_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Blaster_Master\wav\Blaster_Master_13_Area_7_v1.wav (90.0s)
+
+=== Song 14: Victory ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Blaster_Master\midi\Blaster_Master_14_Victory_v1.mid
+    Notes: P1=7 P2=2 Tri=3 Noise=3
+    CCs:   P1=186 P2=256 Tri=3
+  REAPER: C:\Dev\NESMusicStudio\output\Blaster_Master\reaper\Blaster_Master_14_Victory_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Blaster_Master\wav\Blaster_Master_14_Victory_v1.wav (90.0s)
+
+=== Song 15: Ending ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Blaster_Master\midi\Blaster_Master_15_Ending_v1.mid
+    Notes: P1=114 P2=410 Tri=496 Noise=97
+    CCs:   P1=1694 P2=2130 Tri=496
+  REAPER: C:\Dev\NESMusicStudio\output\Blaster_Master\reaper\Blaster_Master_15_Ending_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Blaster_Master\wav\Blaster_Master_15_Ending_v1.wav (90.0s)
+
+=== Song 16: Game Over ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Blaster_Master\midi\Blaster_Master_16_Game_Over_v1.mid
+    Notes: P1=17 P2=13 Tri=58 Noise=1
+    CCs:   P1=2 P2=2 Tri=58
+  REAPER: C:\Dev\NESMusicStudio\output\Blaster_Master\reaper\Blaster_Master_16_Game_Over_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Blaster_Master\wav\Blaster_Master_16_Game_Over_v1.wav (90.0s)
+NSF: Castlevania by <?>
+Songs: 54
+
+=== Song 1: Introduction (Castle Gate) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_01_Introduction_(Castle_Gate)_v1.mid
+    Notes: P1=16 P2=15 Tri=26 Noise=30
+    CCs:   P1=81 P2=70 Tri=26
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_01_Introduction_(Castle_Gate)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_01_Introduction_(Castle_Gate)_v1.wav (90.0s)
+
+=== Song 2: Vampire Killer (Courtyard) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_02_Vampire_Killer_(Courtyard)_v1.mid
+    Notes: P1=309 P2=317 Tri=127 Noise=468
+    CCs:   P1=1272 P2=1568 Tri=127
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_02_Vampire_Killer_(Courtyard)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_02_Vampire_Killer_(Courtyard)_v1.wav (90.0s)
+
+=== Song 3: Stalker (Armory) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_03_Stalker_(Armory)_v1.mid
+    Notes: P1=228 P2=221 Tri=193 Noise=479
+    CCs:   P1=1052 P2=1355 Tri=193
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_03_Stalker_(Armory)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_03_Stalker_(Armory)_v1.wav (90.0s)
+
+=== Song 4: Wicked Child (Upper Yard) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_04_Wicked_Child_(Upper_Yard)_v1.mid
+    Notes: P1=313 P2=288 Tri=203 Noise=545
+    CCs:   P1=1660 P2=1593 Tri=203
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_04_Wicked_Child_(Upper_Yard)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_04_Wicked_Child_(Upper_Yard)_v1.wav (90.0s)
+
+=== Song 5: Walking Edge (Castle Swamp) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_05_Walking_Edge_(Castle_Swamp)_v1.mid
+    Notes: P1=288 P2=282 Tri=212 Noise=646
+    CCs:   P1=1488 P2=1426 Tri=212
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_05_Walking_Edge_(Castle_Swamp)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_05_Walking_Edge_(Castle_Swamp)_v1.wav (90.0s)
+
+=== Song 6: Heart of Fire (Prisonhold) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_06_Heart_of_Fire_(Prisonhold)_v1.mid
+    Notes: P1=333 P2=380 Tri=190 Noise=375
+    CCs:   P1=1881 P2=1869 Tri=190
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_06_Heart_of_Fire_(Prisonhold)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_06_Heart_of_Fire_(Prisonhold)_v1.wav (90.0s)
+
+=== Song 7: Out of Time (Upper Terrace) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_07_Out_of_Time_(Upper_Terrace)_v1.mid
+    Notes: P1=179 P2=153 Tri=332 Noise=465
+    CCs:   P1=925 P2=830 Tri=332
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_07_Out_of_Time_(Upper_Terrace)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_07_Out_of_Time_(Upper_Terrace)_v1.wav (90.0s)
+
+=== Song 8: Nightmare (Dracula's Quarters) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_08_Nightmare_(Draculas_Quarters)_v1.mid
+    Notes: P1=221 P2=603 Tri=147 Noise=185
+    CCs:   P1=1355 P2=3559 Tri=147
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_08_Nightmare_(Draculas_Quarters)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_08_Nightmare_(Draculas_Quarters)_v1.wav (90.0s)
+
+=== Song 9: Poison Mind (Boss Theme) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_09_Poison_Mind_(Boss_Theme)_v1.mid
+    Notes: P1=193 P2=772 Tri=85 Noise=97
+    CCs:   P1=772 P2=5401 Tri=85
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_09_Poison_Mind_(Boss_Theme)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_09_Poison_Mind_(Boss_Theme)_v1.wav (90.0s)
+
+=== Song 10: Black Night (Final Battle) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_10_Black_Night_(Final_Battle)_v1.mid
+    Notes: P1=343 P2=796 Tri=332 Noise=369
+    CCs:   P1=2733 P2=4766 Tri=332
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_10_Black_Night_(Final_Battle)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_10_Black_Night_(Final_Battle)_v1.wav (90.0s)
+
+=== Song 11: Victory ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_11_Victory_v1.mid
+    Notes: P1=84 P2=98 Tri=56 Noise=137
+    CCs:   P1=235 P2=254 Tri=56
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_11_Victory_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_11_Victory_v1.wav (90.0s)
+
+=== Song 12: Game Complete ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_12_Game_Complete_v1.mid
+    Notes: P1=16 P2=16 Tri=19 Noise=19
+    CCs:   P1=113 P2=97 Tri=19
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_12_Game_Complete_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_12_Game_Complete_v1.wav (90.0s)
+
+=== Song 13: Voyager (Ending) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_13_Voyager_(Ending)_v1.mid
+    Notes: P1=15 P2=16 Tri=30 Noise=26
+    CCs:   P1=76 P2=96 Tri=30
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_13_Voyager_(Ending)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_13_Voyager_(Ending)_v1.wav (90.0s)
+
+=== Song 14: Death ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_14_Death_v1.mid
+    Notes: P1=8 P2=8 Tri=1 Noise=0
+    CCs:   P1=41 P2=41 Tri=1
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_14_Death_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_14_Death_v1.wav (90.0s)
+
+=== Song 15: Game Over ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_15_Game_Over_v1.mid
+    Notes: P1=15 P2=15 Tri=4 Noise=18
+    CCs:   P1=91 P2=76 Tri=4
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_15_Game_Over_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_15_Game_Over_v1.wav (90.0s)
+
+=== Song 16: Song 16 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_16_Song_16_v1.mid
+    Notes: P1=4 P2=0 Tri=0 Noise=0
+    CCs:   P1=10 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_16_Song_16_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_16_Song_16_v1.wav (90.0s)
+
+=== Song 17: Song 17 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_17_Song_17_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_17_Song_17_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_17_Song_17_v1.wav (90.0s)
+
+=== Song 18: Song 18 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_18_Song_18_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_18_Song_18_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_18_Song_18_v1.wav (90.0s)
+
+=== Song 19: Song 19 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_19_Song_19_v1.mid
+    Notes: P1=0 P2=0 Tri=18 Noise=0
+    CCs:   P1=0 P2=0 Tri=18
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_19_Song_19_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_19_Song_19_v1.wav (90.0s)
+
+=== Song 20: Song 20 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_20_Song_20_v1.mid
+    Notes: P1=2 P2=2 Tri=0 Noise=0
+    CCs:   P1=6 P2=6 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_20_Song_20_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_20_Song_20_v1.wav (90.0s)
+
+=== Song 21: Song 21 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_21_Song_21_v1.mid
+    Notes: P1=0 P2=2 Tri=0 Noise=0
+    CCs:   P1=0 P2=6 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_21_Song_21_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_21_Song_21_v1.wav (90.0s)
+
+=== Song 22: Song 22 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_22_Song_22_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_22_Song_22_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_22_Song_22_v1.wav (90.0s)
+
+=== Song 23: Song 23 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_23_Song_23_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_23_Song_23_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_23_Song_23_v1.wav (90.0s)
+
+=== Song 24: Song 24 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_24_Song_24_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_24_Song_24_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_24_Song_24_v1.wav (90.0s)
+
+=== Song 25: Song 25 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_25_Song_25_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_25_Song_25_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_25_Song_25_v1.wav (90.0s)
+
+=== Song 26: Song 26 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_26_Song_26_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_26_Song_26_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_26_Song_26_v1.wav (90.0s)
+
+=== Song 27: Song 27 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_27_Song_27_v1.mid
+    Notes: P1=9 P2=9 Tri=0 Noise=0
+    CCs:   P1=16 P2=16 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_27_Song_27_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_27_Song_27_v1.wav (90.0s)
+
+=== Song 28: Song 28 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_28_Song_28_v1.mid
+    Notes: P1=0 P2=9 Tri=0 Noise=0
+    CCs:   P1=0 P2=16 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_28_Song_28_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_28_Song_28_v1.wav (90.0s)
+
+=== Song 29: Song 29 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_29_Song_29_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=2
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_29_Song_29_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_29_Song_29_v1.wav (90.0s)
+
+=== Song 30: Song 30 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_30_Song_30_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=3
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_30_Song_30_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_30_Song_30_v1.wav (90.0s)
+
+=== Song 31: Song 31 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_31_Song_31_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=2
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_31_Song_31_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_31_Song_31_v1.wav (90.0s)
+
+=== Song 32: Song 32 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_32_Song_32_v1.mid
+    Notes: P1=5 P2=0 Tri=0 Noise=0
+    CCs:   P1=2 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_32_Song_32_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_32_Song_32_v1.wav (90.0s)
+
+=== Song 33: Song 33 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_33_Song_33_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_33_Song_33_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_33_Song_33_v1.wav (90.0s)
+
+=== Song 34: Song 34 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_34_Song_34_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_34_Song_34_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_34_Song_34_v1.wav (90.0s)
+
+=== Song 35: Song 35 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_35_Song_35_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_35_Song_35_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_35_Song_35_v1.wav (90.0s)
+
+=== Song 36: Song 36 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_36_Song_36_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_36_Song_36_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_36_Song_36_v1.wav (90.0s)
+
+=== Song 37: Song 37 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_37_Song_37_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=6
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_37_Song_37_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_37_Song_37_v1.wav (90.0s)
+
+=== Song 38: Song 38 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_38_Song_38_v1.mid
+    Notes: P1=8 P2=0 Tri=0 Noise=0
+    CCs:   P1=11 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_38_Song_38_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_38_Song_38_v1.wav (90.0s)
+
+=== Song 39: Song 39 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_39_Song_39_v1.mid
+    Notes: P1=15 P2=0 Tri=0 Noise=0
+    CCs:   P1=16 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_39_Song_39_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_39_Song_39_v1.wav (90.0s)
+
+=== Song 40: Song 40 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_40_Song_40_v1.mid
+    Notes: P1=6 P2=0 Tri=0 Noise=0
+    CCs:   P1=7 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_40_Song_40_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_40_Song_40_v1.wav (90.0s)
+
+=== Song 41: Song 41 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_41_Song_41_v1.mid
+    Notes: P1=8 P2=0 Tri=0 Noise=0
+    CCs:   P1=14 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_41_Song_41_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_41_Song_41_v1.wav (90.0s)
+
+=== Song 42: Song 42 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_42_Song_42_v1.mid
+    Notes: P1=3 P2=0 Tri=0 Noise=0
+    CCs:   P1=16 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_42_Song_42_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_42_Song_42_v1.wav (90.0s)
+
+=== Song 43: Song 43 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_43_Song_43_v1.mid
+    Notes: P1=1 P2=0 Tri=0 Noise=0
+    CCs:   P1=17 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_43_Song_43_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_43_Song_43_v1.wav (90.0s)
+
+=== Song 44: Song 44 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_44_Song_44_v1.mid
+    Notes: P1=1 P2=0 Tri=0 Noise=0
+    CCs:   P1=17 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_44_Song_44_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_44_Song_44_v1.wav (90.0s)
+
+=== Song 45: Song 45 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_45_Song_45_v1.mid
+    Notes: P1=19 P2=0 Tri=0 Noise=0
+    CCs:   P1=21 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_45_Song_45_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_45_Song_45_v1.wav (90.0s)
+
+=== Song 46: Song 46 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_46_Song_46_v1.mid
+    Notes: P1=10 P2=0 Tri=0 Noise=2
+    CCs:   P1=4 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_46_Song_46_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_46_Song_46_v1.wav (90.0s)
+
+=== Song 47: Song 47 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_47_Song_47_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=2
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_47_Song_47_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_47_Song_47_v1.wav (90.0s)
+
+=== Song 48: Song 48 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_48_Song_48_v1.mid
+    Notes: P1=20 P2=0 Tri=0 Noise=1
+    CCs:   P1=23 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_48_Song_48_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_48_Song_48_v1.wav (90.0s)
+
+=== Song 49: Song 49 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_49_Song_49_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_49_Song_49_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_49_Song_49_v1.wav (90.0s)
+
+=== Song 50: Song 50 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_50_Song_50_v1.mid
+    Notes: P1=8 P2=0 Tri=0 Noise=0
+    CCs:   P1=17 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_50_Song_50_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_50_Song_50_v1.wav (90.0s)
+
+=== Song 51: Song 51 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_51_Song_51_v1.mid
+    Notes: P1=9 P2=0 Tri=0 Noise=0
+    CCs:   P1=13 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_51_Song_51_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_51_Song_51_v1.wav (90.0s)
+
+=== Song 52: Song 52 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_52_Song_52_v1.mid
+    Notes: P1=17 P2=0 Tri=0 Noise=0
+    CCs:   P1=19 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_52_Song_52_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_52_Song_52_v1.wav (90.0s)
+
+=== Song 53: Song 53 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_53_Song_53_v1.mid
+    Notes: P1=7 P2=0 Tri=0 Noise=0
+    CCs:   P1=38 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_53_Song_53_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_53_Song_53_v1.wav (90.0s)
+
+=== Song 54: Song 54 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania\midi\Castlevania_54_Song_54_v1.mid
+    Notes: P1=0 P2=0 Tri=206 Noise=337
+    CCs:   P1=0 P2=0 Tri=206
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania\reaper\Castlevania_54_Song_54_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania\wav\Castlevania_54_Song_54_v1.wav (90.0s)
+NSF: Castlevania 2 by <?>
+Songs: 51
+
+=== Song 1: The Silence of The Daylight (Town Stage BGM) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_01_The_Silence_of_The_Daylight_(Town_Stage_BGM)_v1.mid
+    Notes: P1=469 P2=260 Tri=391 Noise=369
+    CCs:   P1=3117 P2=1838 Tri=391
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_01_The_Silence_of_The_Daylight_(Town_Stage_BGM)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_01_The_Silence_of_The_Daylight_(Town_Stage_BGM)_v1.wav (90.0s)
+
+=== Song 2: Bloody Tears (Street - Day time BGM) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_02_Bloody_Tears_(Street_-_Day_time_BGM)_v1.mid
+    Notes: P1=709 P2=406 Tri=298 Noise=258
+    CCs:   P1=2991 P2=2816 Tri=298
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_02_Bloody_Tears_(Street_-_Day_time_BGM)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_02_Bloody_Tears_(Street_-_Day_time_BGM)_v1.wav (90.0s)
+
+=== Song 3: Monster Dance (Night BGM) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_03_Monster_Dance_(Night_BGM)_v1.mid
+    Notes: P1=535 P2=544 Tri=480 Noise=206
+    CCs:   P1=3465 P2=2813 Tri=480
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_03_Monster_Dance_(Night_BGM)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_03_Monster_Dance_(Night_BGM)_v1.wav (90.0s)
+
+=== Song 4: Dwelling of Doom (Mansion BGM) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_04_Dwelling_of_Doom_(Mansion_BGM)_v1.mid
+    Notes: P1=810 P2=750 Tri=442 Noise=244
+    CCs:   P1=4515 P2=4531 Tri=442
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_04_Dwelling_of_Doom_(Mansion_BGM)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_04_Dwelling_of_Doom_(Mansion_BGM)_v1.wav (90.0s)
+
+=== Song 5: Within These Castle Walls (Castle BGM) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_05_Within_These_Castle_Walls_(Castle_BGM)_v1.mid
+    Notes: P1=445 P2=900 Tri=131 Noise=94
+    CCs:   P1=2732 P2=2674 Tri=131
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_05_Within_These_Castle_Walls_(Castle_BGM)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_05_Within_These_Castle_Walls_(Castle_BGM)_v1.wav (90.0s)
+
+=== Song 6: Last Boss (Last Boss BGM) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_06_Last_Boss_(Last_Boss_BGM)_v1.mid
+    Notes: P1=665 P2=299 Tri=339 Noise=210
+    CCs:   P1=3990 P2=1978 Tri=339
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_06_Last_Boss_(Last_Boss_BGM)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_06_Last_Boss_(Last_Boss_BGM)_v1.wav (90.0s)
+
+=== Song 7: Game Over (Game Over) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_07_Game_Over_(Game_Over)_v1.mid
+    Notes: P1=37 P2=36 Tri=11 Noise=0
+    CCs:   P1=78 P2=74 Tri=11
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_07_Game_Over_(Game_Over)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_07_Game_Over_(Game_Over)_v1.wav (90.0s)
+
+=== Song 8: Message of Darkness (Naming BGM) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_08_Message_of_Darkness_(Naming_BGM)_v1.mid
+    Notes: P1=534 P2=479 Tri=276 Noise=60
+    CCs:   P1=2056 P2=1608 Tri=276
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_08_Message_of_Darkness_(Naming_BGM)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_08_Message_of_Darkness_(Naming_BGM)_v1.wav (90.0s)
+
+=== Song 9: A Requiem (Ending) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_09_A_Requiem_(Ending)_v1.mid
+    Notes: P1=156 P2=125 Tri=174 Noise=37
+    CCs:   P1=1352 P2=1160 Tri=174
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_09_A_Requiem_(Ending)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_09_A_Requiem_(Ending)_v1.wav (90.0s)
+
+=== Song 10: Song 10 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_10_Song_10_v1.mid
+    Notes: P1=48 P2=48 Tri=0 Noise=0
+    CCs:   P1=9 P2=9 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_10_Song_10_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_10_Song_10_v1.wav (90.0s)
+
+=== Song 11: Song 11 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_11_Song_11_v1.mid
+    Notes: P1=2 P2=2 Tri=0 Noise=0
+    CCs:   P1=5 P2=5 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_11_Song_11_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_11_Song_11_v1.wav (90.0s)
+
+=== Song 12: Song 12 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_12_Song_12_v1.mid
+    Notes: P1=4 P2=0 Tri=0 Noise=0
+    CCs:   P1=5 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_12_Song_12_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_12_Song_12_v1.wav (90.0s)
+
+=== Song 13: Song 13 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_13_Song_13_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_13_Song_13_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_13_Song_13_v1.wav (90.0s)
+
+=== Song 14: Song 14 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_14_Song_14_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_14_Song_14_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_14_Song_14_v1.wav (90.0s)
+
+=== Song 15: Song 15 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_15_Song_15_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_15_Song_15_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_15_Song_15_v1.wav (90.0s)
+
+=== Song 16: Song 16 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_16_Song_16_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_16_Song_16_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_16_Song_16_v1.wav (90.0s)
+
+=== Song 17: Song 17 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_17_Song_17_v1.mid
+    Notes: P1=4 P2=0 Tri=0 Noise=0
+    CCs:   P1=6 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_17_Song_17_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_17_Song_17_v1.wav (90.0s)
+
+=== Song 18: Song 18 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_18_Song_18_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_18_Song_18_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_18_Song_18_v1.wav (90.0s)
+
+=== Song 19: Song 19 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_19_Song_19_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_19_Song_19_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_19_Song_19_v1.wav (90.0s)
+
+=== Song 20: Song 20 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_20_Song_20_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_20_Song_20_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_20_Song_20_v1.wav (90.0s)
+
+=== Song 21: Song 21 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_21_Song_21_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_21_Song_21_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_21_Song_21_v1.wav (90.0s)
+
+=== Song 22: Song 22 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_22_Song_22_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_22_Song_22_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_22_Song_22_v1.wav (90.0s)
+
+=== Song 23: Song 23 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_23_Song_23_v1.mid
+    Notes: P1=2 P2=0 Tri=0 Noise=0
+    CCs:   P1=4 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_23_Song_23_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_23_Song_23_v1.wav (90.0s)
+
+=== Song 24: Song 24 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_24_Song_24_v1.mid
+    Notes: P1=5 P2=0 Tri=0 Noise=0
+    CCs:   P1=7 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_24_Song_24_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_24_Song_24_v1.wav (90.0s)
+
+=== Song 25: Song 25 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_25_Song_25_v1.mid
+    Notes: P1=5 P2=0 Tri=0 Noise=0
+    CCs:   P1=12 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_25_Song_25_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_25_Song_25_v1.wav (90.0s)
+
+=== Song 26: Song 26 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_26_Song_26_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_26_Song_26_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_26_Song_26_v1.wav (90.0s)
+
+=== Song 27: Song 27 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_27_Song_27_v1.mid
+    Notes: P1=5 P2=0 Tri=0 Noise=1
+    CCs:   P1=9 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_27_Song_27_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_27_Song_27_v1.wav (90.0s)
+
+=== Song 28: Song 28 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_28_Song_28_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_28_Song_28_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_28_Song_28_v1.wav (90.0s)
+
+=== Song 29: Song 29 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_29_Song_29_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_29_Song_29_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_29_Song_29_v1.wav (90.0s)
+
+=== Song 30: Song 30 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_30_Song_30_v1.mid
+    Notes: P1=6 P2=0 Tri=0 Noise=0
+    CCs:   P1=7 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_30_Song_30_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_30_Song_30_v1.wav (90.0s)
+
+=== Song 31: Song 31 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_31_Song_31_v1.mid
+    Notes: P1=12 P2=0 Tri=0 Noise=0
+    CCs:   P1=6 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_31_Song_31_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_31_Song_31_v1.wav (90.0s)
+
+=== Song 32: Song 32 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_32_Song_32_v1.mid
+    Notes: P1=11 P2=0 Tri=0 Noise=0
+    CCs:   P1=13 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_32_Song_32_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_32_Song_32_v1.wav (90.0s)
+
+=== Song 33: Song 33 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_33_Song_33_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_33_Song_33_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_33_Song_33_v1.wav (90.0s)
+
+=== Song 34: Song 34 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_34_Song_34_v1.mid
+    Notes: P1=10 P2=0 Tri=0 Noise=1
+    CCs:   P1=4 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_34_Song_34_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_34_Song_34_v1.wav (90.0s)
+
+=== Song 35: Song 35 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_35_Song_35_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_35_Song_35_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_35_Song_35_v1.wav (90.0s)
+
+=== Song 36: Song 36 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_36_Song_36_v1.mid
+    Notes: P1=12 P2=0 Tri=0 Noise=1
+    CCs:   P1=6 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_36_Song_36_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_36_Song_36_v1.wav (90.0s)
+
+=== Song 37: Song 37 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_37_Song_37_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_37_Song_37_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_37_Song_37_v1.wav (90.0s)
+
+=== Song 38: Song 38 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_38_Song_38_v1.mid
+    Notes: P1=5 P2=0 Tri=0 Noise=1
+    CCs:   P1=6 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_38_Song_38_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_38_Song_38_v1.wav (90.0s)
+
+=== Song 39: Song 39 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_39_Song_39_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_39_Song_39_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_39_Song_39_v1.wav (90.0s)
+
+=== Song 40: Song 40 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_40_Song_40_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_40_Song_40_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_40_Song_40_v1.wav (90.0s)
+
+=== Song 41: Song 41 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_41_Song_41_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_41_Song_41_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_41_Song_41_v1.wav (90.0s)
+
+=== Song 42: Song 42 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_42_Song_42_v1.mid
+    Notes: P1=6 P2=0 Tri=0 Noise=0
+    CCs:   P1=7 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_42_Song_42_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_42_Song_42_v1.wav (90.0s)
+
+=== Song 43: Song 43 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_43_Song_43_v1.mid
+    Notes: P1=2 P2=0 Tri=0 Noise=0
+    CCs:   P1=4 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_43_Song_43_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_43_Song_43_v1.wav (90.0s)
+
+=== Song 44: Song 44 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_44_Song_44_v1.mid
+    Notes: P1=3 P2=0 Tri=0 Noise=0
+    CCs:   P1=6 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_44_Song_44_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_44_Song_44_v1.wav (90.0s)
+
+=== Song 45: Song 45 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_45_Song_45_v1.mid
+    Notes: P1=16 P2=0 Tri=0 Noise=0
+    CCs:   P1=9 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_45_Song_45_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_45_Song_45_v1.wav (90.0s)
+
+=== Song 46: Song 46 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_46_Song_46_v1.mid
+    Notes: P1=5 P2=0 Tri=0 Noise=0
+    CCs:   P1=11 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_46_Song_46_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_46_Song_46_v1.wav (90.0s)
+
+=== Song 47: Song 47 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_47_Song_47_v1.mid
+    Notes: P1=4 P2=0 Tri=0 Noise=0
+    CCs:   P1=7 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_47_Song_47_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_47_Song_47_v1.wav (90.0s)
+
+=== Song 48: Song 48 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_48_Song_48_v1.mid
+    Notes: P1=16 P2=0 Tri=0 Noise=0
+    CCs:   P1=17 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_48_Song_48_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_48_Song_48_v1.wav (90.0s)
+
+=== Song 49: Song 49 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_49_Song_49_v1.mid
+    Notes: P1=10 P2=0 Tri=0 Noise=0
+    CCs:   P1=7 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_49_Song_49_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_49_Song_49_v1.wav (90.0s)
+
+=== Song 50: Song 50 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_50_Song_50_v1.mid
+    Notes: P1=1 P2=0 Tri=0 Noise=0
+    CCs:   P1=7 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_50_Song_50_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_50_Song_50_v1.wav (90.0s)
+
+=== Song 51: Song 51 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\midi\Castlevania_2_51_Song_51_v1.mid
+    Notes: P1=1 P2=0 Tri=0 Noise=0
+    CCs:   P1=11 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\reaper\Castlevania_2_51_Song_51_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\wav\Castlevania_2_51_Song_51_v1.wav (90.0s)
+NSF: Castlevania 3 by <?>
+Songs: 28
+
+=== Song 1: Prelude (Intro) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_01_Prelude_(Intro)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_01_Prelude_(Intro)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_01_Prelude_(Intro)_v1.wav (90.0s)
+
+=== Song 2: Prayer (Opening) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_02_Prayer_(Opening)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_02_Prayer_(Opening)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_02_Prayer_(Opening)_v1.wav (90.0s)
+
+=== Song 3: Beginning (Block-1) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_03_Beginning_(Block-1)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_03_Beginning_(Block-1)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_03_Beginning_(Block-1)_v1.wav (90.0s)
+
+=== Song 4: Boss Fight (Boss) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_04_Boss_Fight_(Boss)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_04_Boss_Fight_(Boss)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_04_Boss_Fight_(Boss)_v1.wav (90.0s)
+
+=== Song 5: Stage Clear ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_05_Stage_Clear_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_05_Stage_Clear_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_05_Stage_Clear_v1.wav (90.0s)
+
+=== Song 6: Destiny (Path Selection) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_06_Destiny_(Path_Selection)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_06_Destiny_(Path_Selection)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_06_Destiny_(Path_Selection)_v1.wav (90.0s)
+
+=== Song 7: Clockwork (Block-2) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_07_Clockwork_(Block-2)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_07_Clockwork_(Block-2)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_07_Clockwork_(Block-2)_v1.wav (90.0s)
+
+=== Song 8: Mad Forest (Block-3) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_08_Mad_Forest_(Block-3)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_08_Mad_Forest_(Block-3)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_08_Mad_Forest_(Block-3)_v1.wav (90.0s)
+
+=== Song 9: Anxiety (Block-4) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_09_Anxiety_(Block-4)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_09_Anxiety_(Block-4)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_09_Anxiety_(Block-4)_v1.wav (90.0s)
+
+=== Song 10: Rising (Block-5) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_10_Rising_(Block-5)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_10_Rising_(Block-5)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_10_Rising_(Block-5)_v1.wav (90.0s)
+
+=== Song 11: Stream (Block-6) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_11_Stream_(Block-6)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_11_Stream_(Block-6)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_11_Stream_(Block-6)_v1.wav (90.0s)
+
+=== Song 12: Dead Beat (Block-4) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_12_Dead_Beat_(Block-4)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_12_Dead_Beat_(Block-4)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_12_Dead_Beat_(Block-4)_v1.wav (90.0s)
+
+=== Song 13: Nightmare (Block-5) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_13_Nightmare_(Block-5)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_13_Nightmare_(Block-5)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_13_Nightmare_(Block-5)_v1.wav (90.0s)
+
+=== Song 14: Aquarius (Block-6) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_14_Aquarius_(Block-6)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_14_Aquarius_(Block-6)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_14_Aquarius_(Block-6)_v1.wav (90.0s)
+
+=== Song 15: Demon Seed (Block-7) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_15_Demon_Seed_(Block-7)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_15_Demon_Seed_(Block-7)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_15_Demon_Seed_(Block-7)_v1.wav (90.0s)
+
+=== Song 16: Deja Vu (Vampire Killer) (Block-8) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_16_Deja_Vu_(Vampire_Killer)_(Block-8)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_16_Deja_Vu_(Vampire_Killer)_(Block-8)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_16_Deja_Vu_(Vampire_Killer)_(Block-8)_v1.wav (90.0s)
+
+=== Song 17: Riddle (Block-9) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_17_Riddle_(Block-9)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_17_Riddle_(Block-9)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_17_Riddle_(Block-9)_v1.wav (90.0s)
+
+=== Song 18: Pressure (Block-A) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_18_Pressure_(Block-A)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_18_Pressure_(Block-A)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_18_Pressure_(Block-A)_v1.wav (90.0s)
+
+=== Song 19: Overture (Dracula's Room) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_19_Overture_(Draculas_Room)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_19_Overture_(Draculas_Room)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_19_Overture_(Draculas_Room)_v1.wav (90.0s)
+
+=== Song 20: Big Battle 1 (Dracula's 2nd Form) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_20_Big_Battle_1_(Draculas_2nd_Form)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_20_Big_Battle_1_(Draculas_2nd_Form)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_20_Big_Battle_1_(Draculas_2nd_Form)_v1.wav (90.0s)
+
+=== Song 21: Big Battle 2 (Dracula's 3rd Form) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_21_Big_Battle_2_(Draculas_3rd_Form)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_21_Big_Battle_2_(Draculas_3rd_Form)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_21_Big_Battle_2_(Draculas_3rd_Form)_v1.wav (90.0s)
+
+=== Song 22: All Clear ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_22_All_Clear_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_22_All_Clear_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_22_All_Clear_v1.wav (90.0s)
+
+=== Song 23: Encounter (Spirit Meeting) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_23_Encounter_(Spirit_Meeting)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_23_Encounter_(Spirit_Meeting)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_23_Encounter_(Spirit_Meeting)_v1.wav (90.0s)
+
+=== Song 24: Epitaph (Password) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_24_Epitaph_(Password)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_24_Epitaph_(Password)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_24_Epitaph_(Password)_v1.wav (90.0s)
+
+=== Song 25: Evergreen (Ending) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_25_Evergreen_(Ending)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_25_Evergreen_(Ending)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_25_Evergreen_(Ending)_v1.wav (90.0s)
+
+=== Song 26: Flashback (Staff Roll) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_26_Flashback_(Staff_Roll)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_26_Flashback_(Staff_Roll)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_26_Flashback_(Staff_Roll)_v1.wav (90.0s)
+
+=== Song 27: Player Lose A Life ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_27_Player_Lose_A_Life_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_27_Player_Lose_A_Life_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_27_Player_Lose_A_Life_v1.wav (90.0s)
+
+=== Song 28: Game Over ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\midi\Castlevania_3_28_Game_Over_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\reaper\Castlevania_3_28_Game_Over_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\wav\Castlevania_3_28_Game_Over_v1.wav (90.0s)
+NSF: Akumajou Densetsu by <?>
+Songs: 28
+
+=== Song 1: Prelude (Intro) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_01_Prelude_(Intro)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_01_Prelude_(Intro)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_01_Prelude_(Intro)_v1.wav (90.0s)
+
+=== Song 2: Prayer (Opening) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_02_Prayer_(Opening)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_02_Prayer_(Opening)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_02_Prayer_(Opening)_v1.wav (90.0s)
+
+=== Song 3: Beginning (Block-1) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_03_Beginning_(Block-1)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_03_Beginning_(Block-1)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_03_Beginning_(Block-1)_v1.wav (90.0s)
+
+=== Song 4: Boss Fight (Boss) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_04_Boss_Fight_(Boss)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_04_Boss_Fight_(Boss)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_04_Boss_Fight_(Boss)_v1.wav (90.0s)
+
+=== Song 5: Stage Clear ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_05_Stage_Clear_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_05_Stage_Clear_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_05_Stage_Clear_v1.wav (90.0s)
+
+=== Song 6: Destiny (Path Selection) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_06_Destiny_(Path_Selection)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_06_Destiny_(Path_Selection)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_06_Destiny_(Path_Selection)_v1.wav (90.0s)
+
+=== Song 7: Clockwork (Block-2) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_07_Clockwork_(Block-2)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_07_Clockwork_(Block-2)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_07_Clockwork_(Block-2)_v1.wav (90.0s)
+
+=== Song 8: Mad Forest (Block-3) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_08_Mad_Forest_(Block-3)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_08_Mad_Forest_(Block-3)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_08_Mad_Forest_(Block-3)_v1.wav (90.0s)
+
+=== Song 9: Anxiety (Block-4) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_09_Anxiety_(Block-4)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_09_Anxiety_(Block-4)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_09_Anxiety_(Block-4)_v1.wav (90.0s)
+
+=== Song 10: Rising (Block-5) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_10_Rising_(Block-5)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_10_Rising_(Block-5)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_10_Rising_(Block-5)_v1.wav (90.0s)
+
+=== Song 11: Stream (Block-6) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_11_Stream_(Block-6)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_11_Stream_(Block-6)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_11_Stream_(Block-6)_v1.wav (90.0s)
+
+=== Song 12: Dead Beat (Block-4) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_12_Dead_Beat_(Block-4)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_12_Dead_Beat_(Block-4)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_12_Dead_Beat_(Block-4)_v1.wav (90.0s)
+
+=== Song 13: Nightmare (Block-5) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_13_Nightmare_(Block-5)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_13_Nightmare_(Block-5)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_13_Nightmare_(Block-5)_v1.wav (90.0s)
+
+=== Song 14: Aquarius (Block-6) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_14_Aquarius_(Block-6)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_14_Aquarius_(Block-6)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_14_Aquarius_(Block-6)_v1.wav (90.0s)
+
+=== Song 15: Demon Seed (Block-6) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_15_Demon_Seed_(Block-6)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_15_Demon_Seed_(Block-6)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_15_Demon_Seed_(Block-6)_v1.wav (90.0s)
+
+=== Song 16: Deja Vu (Vampire Killer) (Block-8) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_16_Deja_Vu_(Vampire_Killer)_(Block-8)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_16_Deja_Vu_(Vampire_Killer)_(Block-8)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_16_Deja_Vu_(Vampire_Killer)_(Block-8)_v1.wav (90.0s)
+
+=== Song 17: Riddle (Block-9) ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\midi\Akumajou_Densetsu_17_Riddle_(Block-9)_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=0
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\reaper\Akumajou_Densetsu_17_Riddle_(Block-9)_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\wav\Akumajou_Densetsu_17_Riddle_(Block-9)_v1.wav (90.0s)
+
+=== Song 18: Pressure (Block-A) ===
+  Emulating (5400 frames)...Found 26 EMU zip(s):
+  Batman (EMU).zophar.zip
+  Bionic Commando (EMU).zophar.zip
+  Blaster Master (EMU).zophar.zip
+  Castlevania (EMU).zophar.zip
+  Castlevania 2 - Simon's Quest (EMU).zophar.zip
+  Castlevania 3 - Dracula's Curse (EMU).zophar.zip
+  Castlevania 3 - Dracula's Curse JP (EMU).zophar.zip
+  Ghosts 'n' Goblins (EMU).zophar.zip
+  Gradius (EMU).zophar.zip
+  Journey to Silius (EMU).zophar.zip
+  Kirby's Adventure (EMU).zophar.zip
+  Legend of Zelda, The (EMU).zophar.zip
+  Marble Madness (EMU).zophar.zip
+  Mega Man (EMU).zophar.zip
+  Mega Man 2 (EMU).zophar.zip
+  Mega Man 3 (EMU).zophar.zip
+  Mega Man 4 (EMU).zophar.zip
+  Metroid (EMU).zophar.zip
+  Ninja Gaiden  [Shadow Warriors] (EMU).zophar.zip
+  Ninja Gaiden II - The Dark Sword of Chaos (EMU).zophar.zip
+  Ninja Gaiden III - The Ancient Ship of Doom (EMU).zophar.zip
+  Punch-Out!! (EMU).zophar.zip
+  Super Mario Bros. (EMU).zophar.zip
+  Super Mario Bros. 2 (EMU).zophar.zip
+  Super Mario Bros. 3 (EMU).zophar.zip
+  Zelda II - The Adventure of Link (EMU).zophar.zip
+  SKIP Batman: already has 3 MIDIs
+  SKIP Bionic Commando: already has 22 MIDIs
+
+Processing 24 game(s)...
+
+============================================================
+Processing: Blaster Master
+NSF: C:\Dev\NESMusicStudio\output\Blaster_Master\nsf\Blaster Master [Chou Wakusei Senki - Metafight] (1988-06-17)(Sunsoft).nsf
+Output: C:\Dev\NESMusicStudio\output\Blaster_Master
+============================================================
+
+Regenerating 0 REAPER projects with JSFX synth...
+
+============================================================
+Processing: Castlevania
+NSF: C:\Dev\NESMusicStudio\output\Castlevania\nsf\Castlevania [Akumajou Dracula] (1987-05)(Konami).nsf
+Output: C:\Dev\NESMusicStudio\output\Castlevania
+============================================================
+
+Regenerating 0 REAPER projects with JSFX synth...
+
+============================================================
+Processing: Castlevania 2 - Simon's Quest
+NSF: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest\nsf\Castlevania 2 - Simon's Quest [Dracula 2 - Noroi no Fuuin] (1988-12)(Konami).nsf
+Output: C:\Dev\NESMusicStudio\output\Castlevania_2___Simons_Quest
+============================================================
+
+Regenerating 0 REAPER projects with JSFX synth...
+
+============================================================
+Processing: Castlevania 3 - Dracula's Curse
+NSF: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse\nsf\Castlevania 3 - Dracula's Curse [Akumajou Densetsu] (1989-12-22)(Konami).nsf
+Output: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse
+============================================================
+
+Regenerating 0 REAPER projects with JSFX synth...
+
+============================================================
+Processing: Castlevania 3 - Dracula's Curse JP
+NSF: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP\nsf\Castlevania 3 - Dracula's Curse JP [Akumajou Densetsu] (1989-12-22)(Konami).nsf
+Output: C:\Dev\NESMusicStudio\output\Castlevania_3___Draculas_Curse_JP
+============================================================
+WARNING: nsf_to_reaper.py returned 1073807364
+
+============================================================
+Processing: Ghosts 'n' Goblins
+NSF: C:\Dev\NESMusicStudio\output\Ghosts_n_Goblins\nsf\Ghosts 'n' Goblins [Makaimura] (1986-06-13)(Capcom)(Micronics)(Capcom).nsf
+Output: C:\Dev\NESMusicStudio\output\Ghosts_n_Goblins
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Gradius
+NSF: C:\Dev\NESMusicStudio\output\Gradius\nsf\Gradius (1986-04-25)(Konami).nsf
+Output: C:\Dev\NESMusicStudio\output\Gradius
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Journey to Silius
+NSF: C:\Dev\NESMusicStudio\output\Journey_to_Silius\nsf\Journey to Silius [RAF World] (1990-08-10)(Sunsoft).nsf
+Output: C:\Dev\NESMusicStudio\output\Journey_to_Silius
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Kirby's Adventure
+NSF: C:\Dev\NESMusicStudio\output\Kirbys_Adventure\nsf\Kirby's Adventure [Hoshi no Kirby - Yume no Izumi no Monogatari] (1993-03-23)(HAL Laboratory)(Nintendo).nsf
+Output: C:\Dev\NESMusicStudio\output\Kirbys_Adventure
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Legend of Zelda, The
+NSF: C:\Dev\NESMusicStudio\output\Legend_of_Zelda,_The\nsf\Legend of Zelda, The (1987-08-22)(Nintendo EAD)(Nintendo).nsf
+Output: C:\Dev\NESMusicStudio\output\Legend_of_Zelda,_The
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Marble Madness
+NSF: C:\Dev\NESMusicStudio\output\Marble_Madness\nsf\Marble Madness (1989-03)(Atari Games)(Rare)(Milton Bradley).nsf
+Output: C:\Dev\NESMusicStudio\output\Marble_Madness
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Mega Man
+NSF: C:\Dev\NESMusicStudio\output\Mega_Man\nsf\Mega Man [RockMan] (1987-12-17)(Capcom).nsf
+Output: C:\Dev\NESMusicStudio\output\Mega_Man
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Mega Man 2
+NSF: C:\Dev\NESMusicStudio\output\Mega_Man_2\nsf\Mega Man 2 [RockMan 2 - Dr. Wily no Nazo] (1988-12-24)(Capcom).nsf
+Output: C:\Dev\NESMusicStudio\output\Mega_Man_2
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Mega Man 3
+NSF: C:\Dev\NESMusicStudio\output\Mega_Man_3\nsf\Mega Man 3 [RockMan 3 - Dr. Wily no Saigo!] (1990-09-28)(Capcom).nsf
+Output: C:\Dev\NESMusicStudio\output\Mega_Man_3
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Mega Man 4
+NSF: C:\Dev\NESMusicStudio\output\Mega_Man_4\nsf\Mega Man 4 [RockMan 4 - Aratanaru Yabou!!] (1991-12-06)(Capcom).nsf
+Output: C:\Dev\NESMusicStudio\output\Mega_Man_4
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Metroid
+NSF: C:\Dev\NESMusicStudio\output\Metroid\nsf\Metroid (1986-08)(Nintendo R&D1)(Nintendo).nsf
+Output: C:\Dev\NESMusicStudio\output\Metroid
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Ninja Gaiden  [Shadow Warriors]
+NSF: C:\Dev\NESMusicStudio\output\Ninja_Gaiden__[Shadow_Warriors]\nsf\Ninja Gaiden [Ninja Ryukenden] [Shadow Warriors] (1988-12-09)(Tecmo).nsf
+Output: C:\Dev\NESMusicStudio\output\Ninja_Gaiden__[Shadow_Warriors]
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Ninja Gaiden II - The Dark Sword of Chaos
+NSF: C:\Dev\NESMusicStudio\output\Ninja_Gaiden_II___The_Dark_Sword_of_Chaos\nsf\Ninja Gaiden II - The Dark Sword of Chaos [Ninja Ryukenden II - Ankoku no Jashinken] [Shadow Warriors II - Ninja Gaiden II] (1990-04-06)(Tecmo).nsf
+Output: C:\Dev\NESMusicStudio\output\Ninja_Gaiden_II___The_Dark_Sword_of_Chaos
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Ninja Gaiden III - The Ancient Ship of Doom
+NSF: C:\Dev\NESMusicStudio\output\Ninja_Gaiden_III___The_Ancient_Ship_of_Doom\nsf\Ninja Gaiden III - The Ancient Ship of Doom [Ninja Ryukenden III - Yomi no Hakobune] (1991-06-21)(Tecmo).nsf
+Output: C:\Dev\NESMusicStudio\output\Ninja_Gaiden_III___The_Ancient_Ship_of_Doom
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Punch-Out!!
+NSF: C:\Dev\NESMusicStudio\output\Punch_Out!!\nsf\Punch-Out!! (VS)(1984)(Nintendo IRD)(Nintendo).nsf
+Output: C:\Dev\NESMusicStudio\output\Punch_Out!!
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Super Mario Bros.
+NSF: C:\Dev\NESMusicStudio\output\Super_Mario_Bros.\nsf\Super Mario Bros. (1985-09-13)(Nintendo EAD)(Nintendo).nsf
+Output: C:\Dev\NESMusicStudio\output\Super_Mario_Bros.
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Super Mario Bros. 2
+NSF: C:\Dev\NESMusicStudio\output\Super_Mario_Bros._2\nsf\Super Mario Bros. 2 [Yume Koujou - Doki Doki Panic] [Super Mario USA] (Prototype) (1987)(Nintendo EAD)(Nintendo).nsf
+Output: C:\Dev\NESMusicStudio\output\Super_Mario_Bros._2
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Super Mario Bros. 3
+NSF: C:\Dev\NESMusicStudio\output\Super_Mario_Bros._3\nsf\Super Mario Bros. 3 (1988-10-23)(Nintendo EAD)(Nintendo).nsf
+Output: C:\Dev\NESMusicStudio\output\Super_Mario_Bros._3
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+Processing: Zelda II - The Adventure of Link
+NSF: C:\Dev\NESMusicStudio\output\Zelda_II___The_Adventure_of_Link\nsf\Zelda II - The Adventure of Link (1988-12)(Nintendo EAD)(Nintendo).nsf
+Output: C:\Dev\NESMusicStudio\output\Zelda_II___The_Adventure_of_Link
+============================================================
+WARNING: nsf_to_reaper.py returned 3221226091
+
+============================================================
+BATCH COMPLETE
+============================================================
+  Blaster Master: 16 MIDIs, 16 REAPER projects
+  Castlevania: 54 MIDIs, 54 REAPER projects
+  Castlevania 2 - Simon's Quest: 51 MIDIs, 51 REAPER projects
+  Castlevania 3 - Dracula's Curse: 28 MIDIs, 28 REAPER projects
+  Castlevania 3 - Dracula's Curse JP: 17 MIDIs, 17 REAPER projects
+  Ghosts 'n' Goblins: 0 MIDIs, 0 REAPER projects
+  Gradius: 0 MIDIs, 0 REAPER projects
+  Journey to Silius: 0 MIDIs, 0 REAPER projects
+  Kirby's Adventure: 0 MIDIs, 0 REAPER projects
+  Legend of Zelda, The: 0 MIDIs, 0 REAPER projects
+  Marble Madness: 0 MIDIs, 0 REAPER projects
+  Mega Man: 0 MIDIs, 0 REAPER projects
+  Mega Man 2: 0 MIDIs, 0 REAPER projects
+  Mega Man 3: 0 MIDIs, 0 REAPER projects
+  Mega Man 4: 0 MIDIs, 0 REAPER projects
+  Metroid: 0 MIDIs, 0 REAPER projects
+  Ninja Gaiden  [Shadow Warriors]: 0 MIDIs, 0 REAPER projects
+  Ninja Gaiden II - The Dark Sword of Chaos: 0 MIDIs, 0 REAPER projects
+  Ninja Gaiden III - The Ancient Ship of Doom: 0 MIDIs, 0 REAPER projects
+  Punch-Out!!: 0 MIDIs, 0 REAPER projects
+  Super Mario Bros.: 0 MIDIs, 0 REAPER projects
+  Super Mario Bros. 2: 0 MIDIs, 0 REAPER projects
+  Super Mario Bros. 3: 0 MIDIs, 0 REAPER projects
+  Zelda II - The Adventure of Link: 0 MIDIs, 0 REAPER projects
