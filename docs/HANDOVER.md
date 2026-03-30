@@ -62,14 +62,16 @@ count (2 vs 3/1), percussion (inline E9/EA vs separate DMC channel),
 volume envelopes (parametric vs lookup tables), ROM layout (mapper 0
 vs mapper 2 bank-switched).
 
-## Priority Next Steps
+## Priority Next Steps (updated 2026-03-29)
 
-1. **Contra volume envelope tables** — extract `pulse_volume_ptr_tbl`
-   from ROM (disassembly bank1.asm lines 23-95), apply per-frame in IR
-2. **Build `rom_identify.py`** — deterministic ROM analysis (mapper,
-   period table, driver signature). Saves 3-4 prompts per new game.
-3. **Per-game JSON configs** — replace hardcoded addresses with config files
-4. **Test Super C, TMNT** — use Per-Game Parser Checklist
+1. **Batch production** — `batch_nsf_all.py` processes all 19 unprocessed
+   games (Metroid, Mega Man 2/3/4, Mario 1/2/3, Zelda 1/2, Ninja Gaiden
+   I/II/III, etc.) through NSF→MIDI→REAPER→WAV pipeline. No LLM needed.
+2. **Ear validation** — user listens to batch output, flags problems
+3. **Website update** — regenerate site pages for newly processed games
+4. **YouTube pipeline** — MP4 generation + descriptions for each game
+5. **Contra volume envelope tables** — ROM-level fidelity improvement
+6. **Per-game JSON configs** — for future ROM parser work
 
 ## Context Engineering
 

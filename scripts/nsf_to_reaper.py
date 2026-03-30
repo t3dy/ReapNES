@@ -47,17 +47,90 @@ class NsfEmulator:
         self.play_addr = self.nsf_data[12] | (self.nsf_data[13] << 8)
         self.title = self.nsf_data[14:46].decode('ascii', errors='replace').rstrip('\x00')
         self.artist = self.nsf_data[46:78].decode('ascii', errors='replace').rstrip('\x00')
+        self.bankswitch = list(self.nsf_data[0x70:0x78])
+        self.uses_bankswitch = any(b != 0 for b in self.bankswitch)
         self.rom_data = self.nsf_data[128:]
+
+    def _load_rom(self, cpu):
+        """Load ROM data into CPU memory, handling bankswitch if needed."""
+        if not self.uses_bankswitch:
+            # Linear loading — original behavior
+            for i, byte in enumerate(self.rom_data):
+                addr = self.load_addr + i
+                if addr < 0x10000:
+                    cpu.memory[addr] = byte
+        else:
+            # Bankswitched NSF: ROM data is organized as 4KB pages.
+            # The bankswitch table at $70-$77 maps 8 slots to ROM pages:
+            #   slot 0 → $8000-$8FFF, slot 1 → $9000-$9FFF, ...
+            #   slot 7 → $F000-$FFFF
+            page_size = 0x1000  # 4KB
+            num_pages = (len(self.rom_data) + page_size - 1) // page_size
+            for slot in range(8):
+                page_num = self.bankswitch[slot]
+                if page_num >= num_pages:
+                    continue
+                dest_addr = 0x8000 + slot * page_size
+                src_offset = page_num * page_size
+                for i in range(page_size):
+                    if src_offset + i < len(self.rom_data):
+                        cpu.memory[dest_addr + i] = self.rom_data[src_offset + i]
+
+    def _install_bankswitch_handler(self, cpu):
+        """Install write handler for NSF bankswitch registers $5FF8-$5FFF.
+
+        When the driver writes to $5FF8+slot, swap the corresponding 4KB
+        page at $8000+slot*$1000 from the ROM data.
+        """
+        if not self.uses_bankswitch:
+            return
+
+        page_size = 0x1000
+        rom_data = self.rom_data
+        num_pages = (len(rom_data) + page_size - 1) // page_size
+
+        # py65 doesn't have write hooks, so we override the __setitem__
+        # on the memory object to intercept bankswitch writes.
+        original_memory = cpu.memory
+        emu_self = self
+
+        class BankswitchMemory:
+            """Memory wrapper that intercepts writes to $5FF8-$5FFF."""
+            def __init__(self, mem):
+                self._mem = mem
+
+            def __getitem__(self, key):
+                return self._mem[key]
+
+            def __setitem__(self, key, value):
+                self._mem[key] = value
+                if 0x5FF8 <= key <= 0x5FFF:
+                    slot = key - 0x5FF8
+                    page_num = value
+                    if page_num < num_pages:
+                        dest = 0x8000 + slot * page_size
+                        src = page_num * page_size
+                        for i in range(page_size):
+                            if src + i < len(rom_data):
+                                self._mem[dest + i] = rom_data[src + i]
+                            else:
+                                self._mem[dest + i] = 0
+
+            def __len__(self):
+                return len(self._mem)
+
+            def __iter__(self):
+                return iter(self._mem)
+
+        cpu.memory = BankswitchMemory(original_memory)
 
     def play_song(self, song_num, duration_frames):
         """Run the driver and return per-frame APU state."""
         cpu = MPU()
         for i in range(0x10000):
             cpu.memory[i] = 0
-        for i, byte in enumerate(self.rom_data):
-            addr = self.load_addr + i
-            if addr < 0x10000:
-                cpu.memory[addr] = byte
+        self._load_rom(cpu)
+        self._install_bankswitch_handler(cpu)
         cpu.memory[0x4700] = 0x60  # RTS sentinel
 
         def call(addr, a=0, max_cyc=50000):
