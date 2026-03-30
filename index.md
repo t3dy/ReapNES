@@ -5,137 +5,135 @@ title: Home
 
 # ReapNES
 
-**Extract, validate, and reproduce NES game music at frame-level fidelity.**
+**NES Music Reverse Engineering Studio**
 
-ReapNES is a reverse engineering pipeline that extracts actual musical data — notes, durations, volume envelopes, timing — directly from NES ROM files. Every extraction is validated against Mesen 2 APU trace captures: frame-by-frame comparison of our output against real hardware register writes.
+Extract complete musical scores from NES games — notes, volume envelopes, duty cycles, drum patterns — as playable MIDI files and REAPER DAW projects with the ReapNES NES APU synthesizer plugin.
 
-Two complete Konami soundtracks have been extracted so far. The methodology is designed to generalize across the entire NES library.
+Not WAV recordings. Not tracker modules. **Editable MIDI scores with per-frame synthesizer automation**, ready to open in REAPER and play, edit, remix, or transcribe.
 
 ---
 
-## Current Status
+## Game Library
 
-| Game | Tracks | Pulse Fidelity | Status |
-|------|--------|----------------|--------|
-| **Castlevania 1** (1986) | 15/15 | 0 mismatches / 1792 frames | COMPLETE |
-| **Contra** (1988) | 11/11 | 96.6% volume match | IN PROGRESS |
-| 15+ Konami titles | 0 | Untested | OPEN |
+Every game below has been extracted to 4-channel MIDI (Pulse 1, Pulse 2, Triangle, Noise) with CC11 volume envelope automation and CC12 duty cycle control.
+
+### Konami
+
+| Game | Year | Tracks | Method |
+|------|------|--------|--------|
+| Castlevania | 1986 | 15 | ROM parser + NSF |
+| Castlevania II: Simon's Quest | 1987 | 9 | NSF emulation |
+| Castlevania III: Dracula's Curse | 1989 | 28 | NSF emulation |
+| Contra | 1988 | 11 | ROM parser |
+| Super C | 1990 | 15 | NSF emulation |
+| Gradius | 1986 | 12 | NSF emulation |
+
+### Capcom
+
+| Game | Year | Tracks | Method |
+|------|------|--------|--------|
+| Mega Man | 1987 | 16 | NSF emulation |
+| Mega Man 2 | 1988 | 24 | NSF emulation |
+| Mega Man 3 | 1990 | 30+ | NSF emulation |
+| Mega Man 4 | 1991 | 30+ | NSF emulation |
+| Bionic Commando | 1988 | 20 | NSF emulation |
+| Ghosts 'n Goblins | 1986 | — | NSF emulation |
+| Section Z | 1987 | — | NSF emulation |
+| Strider | 1989 | — | NSF emulation |
+| Legendary Wings | 1988 | — | NSF emulation |
+| Trojan | 1987 | — | NSF emulation |
+
+### Sunsoft
+
+| Game | Year | Tracks | Method |
+|------|------|--------|--------|
+| Batman | 1989 | 11 | NSF emulation |
+| Blaster Master | 1988 | 16 | NSF emulation |
+| Journey to Silius | 1990 | — | NSF emulation |
+
+### Nintendo
+
+| Game | Year | Tracks | Method |
+|------|------|--------|--------|
+| Super Mario Bros. | 1985 | — | NSF emulation |
+| Super Mario Bros. 2 | 1988 | — | NSF emulation |
+| Super Mario Bros. 3 | 1988 | — | NSF emulation |
+| The Legend of Zelda | 1986 | — | NSF emulation |
+| Zelda II: Adventure of Link | 1987 | — | NSF emulation |
+| Metroid | 1986 | — | NSF emulation |
+| Kid Icarus | 1986 | — | NSF emulation |
+| Kirby's Adventure | 1993 | — | NSF emulation |
+| Punch-Out!! | 1987 | — | NSF emulation |
+
+### Tecmo
+
+| Game | Year | Tracks | Method |
+|------|------|--------|--------|
+| Ninja Gaiden | 1988 | — | NSF emulation |
+| Ninja Gaiden II | 1990 | — | NSF emulation |
+| Ninja Gaiden III | 1991 | — | NSF emulation |
+| Rygar | 1987 | — | NSF emulation |
+
+### Other
+
+| Game | Year | Publisher | Method |
+|------|------|-----------|--------|
+| Marble Madness | 1989 | Rare/Tengen | NSF emulation |
+| Faxanadu | 1987 | Hudson/Falcom | NSF emulation |
+| Goonies II | 1987 | Konami | NSF emulation |
+| Gargoyle's Quest II | 1992 | Capcom | NSF emulation |
+| Silver Surfer | 1990 | Arcadia/LJN | NSF emulation |
+
+---
+
+## What You Get
+
+For each game:
+
+- **MIDI files** — 4-track scores (Pulse 1 lead, Pulse 2 harmony, Triangle bass, Noise drums) with CC11 volume envelopes and CC12 duty cycle automation
+- **REAPER projects** — .rpp files with ReapNES_APU.jsfx synthesizer loaded per channel, ready to play
+- **WAV previews** — NES APU synth renders for quick listening
+- **ReapNES Synth Plugin** — JSFX plugin that recreates the NES APU in REAPER
 
 ---
 
 ## How It Works
 
+### Two Extraction Methods
+
+**ROM Parser** (Castlevania 1, Contra): Reads music data directly from the game ROM using reverse-engineered driver format specifications. Validated frame-by-frame against Mesen 2 APU traces.
+
+**NSF Emulation** (everything else): Runs the game's actual sound driver code on a 6502 CPU emulator, captures every APU register write per frame, and converts to MIDI with synthesizer automation. Works on any NES game regardless of publisher or sound engine.
+
+### The Pipeline
+
 ```
- .nes ROM file
-      |
-      v
- +-----------+     +-----------+     +-------------+
- |  Parser   | --> |  Frame IR | --> | MIDI Export  |
- | (per-game)|     | (envelope |     | (CC11 auto-  |
- |           |     |  shaping) |     |  mation)     |
- +-----------+     +-----------+     +-------------+
-                                           |
-                              +------------+------------+
-                              |            |            |
-                              v            v            v
-                          WAV render   REAPER .rpp   MP4 video
+NSF file (game sound driver + music data)
+  → 6502 CPU emulator (py65)
+  → APU register captures ($4000-$4017, 60fps)
+  → Note extraction (period → MIDI pitch)
+  → Envelope extraction (volume → CC11, duty → CC12)
+  → MIDI file (4 tracks + metadata)
+  → REAPER project (ReapNES synth per channel)
 ```
 
-The pipeline has three layers:
-- **Engine layer** — per-game parsers read the sound driver command stream from ROM
-- **Data layer** — the frame IR converts events into per-frame hardware state, dispatched through a DriverCapability schema
-- **Hardware layer** — output stages (MIDI, WAV, REAPER) consume the IR without knowing which game produced it
+### What Makes This Different
+
+NSF players render audio. FamiTracker importers produce messy per-frame effect dumps. **ReapNES produces clean MIDI scores with synthesizer automation in a professional DAW.** Every note event, volume envelope shape, and duty cycle change from the original game is captured as editable MIDI data driving an accurate NES APU synthesizer plugin.
 
 ---
 
-## Explore
+## Downloads
 
-| Section | Description |
-|---------|-------------|
-| [Annotated Source Code](code/) | The full pipeline source with inline tutorial comments |
-| [Using LLMs for NES RE](docs/LLM_METHODOLOGY) | How AI assistants were used to research and reverse engineer these soundtracks |
-
----
-
-## Documentation
-
-### Architecture and Reference
-
-| Document | Description |
-|----------|-------------|
-| [Driver Model](docs/DRIVER_MODEL) | The Konami Maezawa sound driver as a three-layer system |
-| [Game Matrix](docs/GAME_MATRIX) | Per-game status: what's decoded, what's untested, what's blocked |
-| [Command Manifest](docs/COMMAND_MANIFEST) | Byte-level command reference ($00-$FF) with per-game variations |
-| [Invariants](docs/INVARIANTS) | Hard rules discovered through debugging — with evidence and tests |
-| [Unknowns](docs/UNKNOWNS) | Open questions ranked by priority — the bounty board |
-
-### Workflow and Methodology
-
-| Document | Description |
-|----------|-------------|
-| [Trace Workflow](docs/TRACE_WORKFLOW) | How to capture a Mesen trace and validate against it |
-| [Research Log](docs/RESEARCH_LOG) | Chronological record of hypotheses, experiments, and verdicts |
-| [Mesen Capture Guide](docs/MESENCAPTURE) | Step-by-step Mesen 2 APU trace capture |
-| [How to Read a Capture](docs/HOWTOREADACAPTURE) | Reading APU capture files (for humans and agentic systems) |
-| [How to Be More Flexible](docs/HOWTOBEMOREFLEXIBLE) | Lessons for anticipating the unexpected |
-
-### Game-Specific
-
-| Document | Description |
-|----------|-------------|
-| [Contra Goal Line](docs/CONTRAGOALLINE) | How close the Contra extraction is and what remains |
-| [Contra vs Trace](docs/CONTRACOMPARISON) | What the Mesen trace proved vs our assumptions |
-| [Contra Lessons to CV1](docs/CONTRALESSONSTOCV1) | Cross-game debugging: how Contra fixed a CV1 bug |
-| [Konami Takeaways](docs/KONAMITAKEAWAY) | What we learned about Konami's music coding |
-| [Musical Parameters](docs/CHECKLIST) | Every parameter that affects the sound |
-| [Note Durations](docs/NOTEDURATIONS) | Five systems that control perceived note length |
-| [Prior Art](docs/DONEBEFORE) | What exists already and how this project differs |
-
-### Process
-
-| Document | Description |
-|----------|-------------|
-| [Swarm Analysis](docs/SWARMPERFORMED1) | How parallel AI agents performed on documentation tasks |
-| [Agent Roster](docs/SWARMAGENTIDS) | The 10-agent swarm deployment and results |
+- **ReapNES_APU.jsfx** — NES APU synthesizer plugin for REAPER
+- **Source Code** — [github.com/t3dy/ReapNES](https://github.com/t3dy/ReapNES)
+- **NSF Extraction Tools** — `nsf_to_reaper.py` converts any NSF file to MIDI + REAPER projects
 
 ---
 
-## For ROM Hackers
+## Technical Documentation
 
-### How to start on a new game
-
-The methodology is **trace-first**: capture hardware ground truth before writing any parser code, then iterate against it. The full walkthrough is in [Trace Workflow](docs/TRACE_WORKFLOW). The short version:
-
-1. Identify the ROM with `rom_identify.py`
-2. Find a disassembly (check GitHub)
-3. Capture a Mesen APU trace
-4. Parse one track
-5. Compare frame-by-frame
-6. Fix one thing at a time
-7. Do not batch-extract until the reference track passes
-
-### Pick an unknown
-
-There are dozens of Konami NES titles using variants of the Maezawa sound driver that no one has documented. The [Unknowns](docs/UNKNOWNS) page lists open questions — unexplained engine behaviors, untested games, and partially understood subsystems. Each one is an opportunity.
-
-### What we learned the hard way
-
-Two complete extractions produced a detailed record of mistakes, false assumptions, and corrections. The [Research Log](docs/RESEARCH_LOG) covers the full chronology. Key lessons:
-
-- Same driver family does not mean same ROM layout
-- Same period table does not prove same driver
-- Automated tests miss systematic errors (an entire octave off shows zero mismatches)
-- Surface similarity between games is the trap, not the shortcut
-- The Mesen trace is the only reliable check for absolute accuracy
-
----
-
-## The Bigger Picture
-
-The NES library contains hundreds of games with undocumented sound engines. Most NES music preservation relies on NSF rips — useful for listening, but opaque for analysis, arrangement, or remix. Extracting the actual musical data requires reverse engineering each game's sound driver.
-
-This project demonstrates a methodology that generalizes: trace-first validation, per-game manifests, invariant-aware pipelines, and driver capability schemas. The Konami Maezawa family alone covers a significant portion of the late-1980s NES catalog. The tools and workflow here are designed to make each subsequent game faster than the last.
-
----
-
-[View on GitHub](https://github.com/t3dy/ReapNES)
+- [NSF to MIDI Pipeline](docs/NSF_TO_MIDI_PIPELINE) — How the 6502 emulator extracts musical data
+- [NSF to Synth Plugins](docs/NSF_TO_SYNTH_PLUGINS) — How APU registers map to MIDI CC automation
+- [Driver Taxonomy](docs/DRIVER_TAXONOMY) — NES sound driver families across publishers
+- [Hardware Variants](docs/HARDWARE_VARIANTS) — NES APU and expansion audio chips

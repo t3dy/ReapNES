@@ -1,0 +1,13 @@
+<REAPER_PROJECT 0.1 "6.0"
+  TEMPO 150 4 4
+  <TRACK
+    NAME "Bionic Commando Stage 1 (music only)"
+    <ITEM
+      POSITION 0
+      LENGTH 64.833333
+      <SOURCE WAVE
+        FILE "C:\Dev\NESMusicStudio\output\Bionic_Commando\wav\separated\bionic_music_only_v1.wav"
+      >
+    >
+  >
+>
