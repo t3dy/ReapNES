@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ffmpeg -version)",
+      "Bash(ffmpeg -loop 1 -i \"CVscreenshot.png\" -i \"VampireKiller_v5 closest yet.wav\" -c:v libx264 -tune stillimage -c:a aac -b:a 192k -pix_fmt yuv420p -shortest -movflags +faststart \"VampireKiller_v5.mp4\")",
+      "Bash(ffmpeg -loop 1 -i \"CVscreenshot.png\" -i \"VampireKiller_v5 closest yet.wav\" -c:v libx264 -tune stillimage -c:a aac -b:a 192k -pix_fmt yuv420p -vf \"pad=ceil\\(iw/2\\)*2:ceil\\(ih/2\\)*2\" -shortest -movflags +faststart \"VampireKiller_v5.mp4\")",
+      "Bash(ffmpeg -y -loop 1 -i \"CVscreenshot.png\" -i \"VampireKiller_v5 closest yet.wav\" -c:v libx264 -tune stillimage -c:a aac -b:a 192k -pix_fmt yuv420p -vf \"pad=ceil\\(iw/2\\)*2:ceil\\(ih/2\\)*2\" -shortest -movflags +faststart \"VampireKiller_v5.mp4\")",
+      "Bash(xargs ls:*)",
+      "Bash(ls -1 /c/Dev/NESMusicStudio/studio/reaper_projects/*.rpp)",
+      "Bash(xargs -I {} basename {})",
+      "Bash(xargs -I {} basename {} .rpp)",
+      "Bash(ls -1 /c/Dev/NESMusicStudio/extraction/manifests/*.json)",
+      "Bash(xargs -I {} basename {} .json)",
+      "Bash(ls -la /c/Dev/NESMusicStudio/*.md /c/Dev/NESMusicStudio/README* /c/Dev/NESMusicStudio/index.*)",
+      "Bash(ls -lh /c/Dev/NESMusicStudio/output/*.mp4)",
+      "Bash(find /c/Dev/NESMusicStudio -name *mp4* -o -name *video* -o -name *render*)",
+      "Bash(grep -i \"\\\\.py$\")",
+      "Bash(xargs grep:*)",
+      "Bash(find output/*/nsf -name \"*.nsf\" -type f)",
+      "Bash(ls -la output/*/nsf/*.nsf)",
+      "Bash(ls -1 *.zophar.zip)"
+    ]
+  }
+}
