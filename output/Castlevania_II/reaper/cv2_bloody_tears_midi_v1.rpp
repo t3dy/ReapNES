@@ -1,0 +1,13 @@
+<REAPER_PROJECT 0.1 "6.0"
+  TEMPO 120 4 4
+  <TRACK
+    NAME "CV2 Pulse 1"
+    <ITEM
+      POSITION 0
+      LENGTH 62
+      <SOURCE MIDI
+        FILE "C:\Dev\NESMusicStudio\output\Castlevania_II\midi\cv2_bloody_tears_from_trace_v1.mid"
+      >
+    >
+  >
+>
