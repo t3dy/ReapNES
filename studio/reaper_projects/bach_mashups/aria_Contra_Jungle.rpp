@@ -12,7 +12,7 @@
     |Bach × Contra Jungle — Goldberg Aria
     |Stage preset: Wide asymmetric pulses - punchy, military feel
   >
-  <TRACK {EDE3B961-6B79-4F9E-B903-E34B2E4C85BE}
+  <TRACK {F40277C4-57AE-48FF-A4F7-A70B44A900AB}
     NAME "NES - Pulse 1 [Contra Jungle]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {EDE3B961-6B79-4F9E-B903-E34B2E4C85BE}
+    TRACKID {F40277C4-57AE-48FF-A4F7-A70B44A900AB}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {2B22715A-CD5C-4BFC-BF1C-FBA89C70469E}
+      FXID {49EF0AC5-F548-400C-87A3-A74781D6BE34}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {872A6D70-1B79-43FF-AD81-C9E3F3289476}
+      IGUID {7A57C199-D2D7-46DE-B025-83F525A95B48}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {E6D27099-FD40-4812-A6FE-9FC4E4377AC7}
+  <TRACK {498AC00C-07A0-434B-A4B4-336C2B86EBDB}
     NAME "NES - Pulse 2 [Contra Jungle]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E6D27099-FD40-4812-A6FE-9FC4E4377AC7}
+    TRACKID {498AC00C-07A0-434B-A4B4-336C2B86EBDB}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {E10CCB5A-AE51-4385-9398-F9B13F2EC100}
+      FXID {19A790EF-0B03-41B0-92A7-E177EBC1100E}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {6781E060-E191-4105-A63A-F09BC8F1ABCF}
+      IGUID {DB61AFC0-9EDC-4A60-9229-AF78324DEE85}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {05F80474-6843-45CB-B963-6405E333F220}
+  <TRACK {BEE3D102-9694-442F-A954-95B5BE2C1038}
     NAME "NES - Triangle [Contra Jungle]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {05F80474-6843-45CB-B963-6405E333F220}
+    TRACKID {BEE3D102-9694-442F-A954-95B5BE2C1038}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {000A0580-7D99-4D9E-9010-D2F13FD6EDDE}
+      FXID {3891EAC3-80F2-4DAA-BB72-3EE3645A10D2}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A2C26698-D19E-448B-A046-A76DE055FE61}
+      IGUID {73EEF4E4-EB0A-463E-9E63-B51181E0ACC0}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {53054EAF-6573-4026-B9FD-2E3044B5B173}
+  <TRACK {9B1A722F-5BDB-4508-8244-3E83AC90DE17}
     NAME "NES - Noise / Drums [Contra Jungle]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {53054EAF-6573-4026-B9FD-2E3044B5B173}
+    TRACKID {9B1A722F-5BDB-4508-8244-3E83AC90DE17}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {A289BC8E-EE53-4B8A-80C3-3C88812DBE39}
+      FXID {26A6E8B8-6E10-469E-922D-3A8CB40D876C}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0E860C8B-73D5-47CA-B6C4-FEEE44975F4D}
+      IGUID {EDB3C2C9-E3BD-40BD-B77D-806F1B2676F2}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >

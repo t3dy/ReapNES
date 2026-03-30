@@ -12,7 +12,7 @@
     |Bach × Contra Waterfall — Two-Part Invention No.13 in A minor
     |Stage preset: Both pulses at 12.5% - thin, metallic, haunting
   >
-  <TRACK {81E08427-FEA5-4189-8A70-F0CD7B04E33F}
+  <TRACK {2718252B-EA87-4902-9747-5DD1F85EB088}
     NAME "NES - Pulse 1 [Contra Waterfall]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {81E08427-FEA5-4189-8A70-F0CD7B04E33F}
+    TRACKID {2718252B-EA87-4902-9747-5DD1F85EB088}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {E2D32EF7-0213-4BB7-982A-F562BC49646D}
+      FXID {248E8790-5419-4D90-B223-56AFE7B36A72}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5EFB525D-EF7A-4372-AE49-207DCBD641A2}
+      IGUID {03A5BF57-0D68-4B23-857F-CA77D07AE18A}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent13.mid"
       >
     >
   >
-  <TRACK {D8889626-6E65-481C-9160-EBB850FC9F36}
+  <TRACK {2536B16A-8885-4630-A481-EAF367EAAEDC}
     NAME "NES - Pulse 2 [Contra Waterfall]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {D8889626-6E65-481C-9160-EBB850FC9F36}
+    TRACKID {2536B16A-8885-4630-A481-EAF367EAAEDC}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {EA44F19C-037B-40F9-B837-F25C820E1FC1}
+      FXID {D53B7622-956F-4FE3-8870-59A4A2307D0B}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {6F4EBCDD-A130-4884-9EB5-D2B33786F314}
+      IGUID {903CA482-7DBA-4B97-8644-31265D024287}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent13.mid"
       >
     >
   >
-  <TRACK {C0BD4BDC-D0C2-4A2F-A257-77327ED62622}
+  <TRACK {72AFC9CF-7BDC-4F7A-B2D0-9D02858FA3E6}
     NAME "NES - Triangle [Contra Waterfall]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C0BD4BDC-D0C2-4A2F-A257-77327ED62622}
+    TRACKID {72AFC9CF-7BDC-4F7A-B2D0-9D02858FA3E6}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {AFF70A22-01C2-4589-9CCD-7BF59990723A}
+      FXID {CA9C1D30-5160-47C8-B361-7E4BA29FDEE5}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0E3FBA5A-D952-4154-913F-376EB621452C}
+      IGUID {1F47EFBE-DD27-4763-BD2A-5B6E660033F9}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent13.mid"
       >
     >
   >
-  <TRACK {40792313-A5F8-4D21-AB0B-027B234803AC}
+  <TRACK {BB038D97-C1F3-43B0-9F68-227AE18FA634}
     NAME "NES - Noise / Drums [Contra Waterfall]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {40792313-A5F8-4D21-AB0B-027B234803AC}
+    TRACKID {BB038D97-C1F3-43B0-9F68-227AE18FA634}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {E48C95B4-F9CA-4CD9-B0C4-4F37B75C2BED}
+      FXID {D8DED988-C571-4A41-9785-B274AC787A9F}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B783E0C8-1BE5-41F8-B772-6157F92A1E6A}
+      IGUID {2697D736-2BE0-43D6-BB4A-940D4BEFE3AE}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent13.mid"
       >

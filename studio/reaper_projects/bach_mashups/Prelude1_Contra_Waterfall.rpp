@@ -12,7 +12,7 @@
     |Bach × Contra Waterfall — WTC Prelude No.1 in C
     |Stage preset: Both pulses at 12.5% - thin, metallic, haunting
   >
-  <TRACK {D5661B6B-4380-4E67-A7C1-C13B16D486D8}
+  <TRACK {016FAC63-65BB-469D-AC94-B03839392218}
     NAME "NES - Pulse 1 [Contra Waterfall]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {D5661B6B-4380-4E67-A7C1-C13B16D486D8}
+    TRACKID {016FAC63-65BB-469D-AC94-B03839392218}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {18EF3C47-9F05-4D81-B869-280ACCBA4F79}
+      FXID {AAA0FDEF-A1B4-40AB-9E7D-A64A5C384443}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B706EE55-726E-4933-A0C7-730C863D2243}
+      IGUID {8DCEC118-5C27-48C2-B28A-788E2B4F3EC6}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >
     >
   >
-  <TRACK {1670D47C-EC9B-4598-8C12-E9848BC7D790}
+  <TRACK {87680BAD-E5AE-42BC-B3C6-FBE959529AD8}
     NAME "NES - Pulse 2 [Contra Waterfall]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {1670D47C-EC9B-4598-8C12-E9848BC7D790}
+    TRACKID {87680BAD-E5AE-42BC-B3C6-FBE959529AD8}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {B8B50938-9558-480C-AC2E-DA70CBEFDD6E}
+      FXID {F51038B5-C62E-4A63-B8F5-C41500F492AF}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D0C7B7C3-32D6-4FE5-A0EB-2C62A03A471B}
+      IGUID {ED4B4F0F-8125-4CC7-878B-1B2FA5D28F37}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >
     >
   >
-  <TRACK {846714C6-093D-4D16-A7F8-AE4B3F70165E}
+  <TRACK {08EFCDA8-C162-48CA-A53B-43E5F865FE79}
     NAME "NES - Triangle [Contra Waterfall]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {846714C6-093D-4D16-A7F8-AE4B3F70165E}
+    TRACKID {08EFCDA8-C162-48CA-A53B-43E5F865FE79}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {FA7958FA-47D9-4F44-B064-B6E56568ECE8}
+      FXID {D0E956D9-2BBC-4035-9064-6764DF5C53E2}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DA0EC170-0E28-46F5-AE5C-8C925090F516}
+      IGUID {E523A87F-953C-477E-B7B7-82DEB684A24F}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >
     >
   >
-  <TRACK {E0074EF4-C461-4E29-AC7E-C5E2B17D0A93}
+  <TRACK {8A97F059-97C9-4BF5-8621-5201D0A90731}
     NAME "NES - Noise / Drums [Contra Waterfall]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E0074EF4-C461-4E29-AC7E-C5E2B17D0A93}
+    TRACKID {8A97F059-97C9-4BF5-8621-5201D0A90731}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {E2F8AEB0-4A9F-47FD-B186-46630B86DA96}
+      FXID {5BA8418B-1DA7-420D-8932-97CE3016DA51}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EBAB9CAE-9731-40A2-90BF-09431DB32164}
+      IGUID {C4E4A656-7053-4012-B5BF-070D3DB311E4}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >

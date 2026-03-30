@@ -12,7 +12,7 @@
     |Bach × CV1 Wicked Child — Goldberg Aria
     |Stage preset: Bright punchy lead with warm square harmony
   >
-  <TRACK {3AD55485-D08B-4F3E-AEDD-A0C9DA6FADD7}
+  <TRACK {46DCE080-F5F6-49C0-94BB-E99133C00341}
     NAME "NES - Pulse 1 [CV1 Wicked Child]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {3AD55485-D08B-4F3E-AEDD-A0C9DA6FADD7}
+    TRACKID {46DCE080-F5F6-49C0-94BB-E99133C00341}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {B884CE99-B990-40FB-A3FA-884BA3EEB8DA}
+      FXID {63908B54-994E-4E05-B01C-361158D45C14}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EC77C338-EEAE-4252-A1F2-444D183DDFCD}
+      IGUID {A1DEE1B1-BA88-4770-89F7-1204C3A5A091}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {4288D219-9774-4D8A-905A-83EDB65FE880}
+  <TRACK {DFBE7B52-24C8-4436-93DA-C69B9E16C754}
     NAME "NES - Pulse 2 [CV1 Wicked Child]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {4288D219-9774-4D8A-905A-83EDB65FE880}
+    TRACKID {DFBE7B52-24C8-4436-93DA-C69B9E16C754}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {6A9900CE-BFBA-470F-B88E-9623F95FC786}
+      FXID {F621C785-0F6D-440C-A5B4-63F456599B22}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {513171FF-C00C-4E06-A16C-D47845AD258A}
+      IGUID {3BE7ABD3-BD5A-4849-A26A-3001AE58CFC8}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {E6E96874-B71A-42B4-BE25-BC1160E06DB3}
+  <TRACK {164530E7-AE60-431C-9A10-E67F86B0C871}
     NAME "NES - Triangle [CV1 Wicked Child]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E6E96874-B71A-42B4-BE25-BC1160E06DB3}
+    TRACKID {164530E7-AE60-431C-9A10-E67F86B0C871}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {6FE7974B-CBB8-4688-B1B0-A1E423B2810A}
+      FXID {0A9D85C7-B0C7-437D-ADC6-691A97A04FF6}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4D0E99E6-CBC2-4A0E-8C7C-6F030CF4CEF6}
+      IGUID {0DFA3A9C-1329-450C-A1BA-0AF9BE46C433}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {88D67887-35C6-443A-85B8-FC1F23D9036D}
+  <TRACK {55C2A5E7-308F-4117-A289-0CB8A88E9B00}
     NAME "NES - Noise / Drums [CV1 Wicked Child]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {88D67887-35C6-443A-85B8-FC1F23D9036D}
+    TRACKID {55C2A5E7-308F-4117-A289-0CB8A88E9B00}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {94570986-0110-4083-ADE1-89A6D6A44229}
+      FXID {5B7D4F6C-75C8-4ADE-B0C6-9FE4321C39D6}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {2A30C9B2-E8DA-4D32-B12A-6BF03D11E159}
+      IGUID {848B49E2-BF0E-41BC-A79E-07CCF7CA5B86}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >

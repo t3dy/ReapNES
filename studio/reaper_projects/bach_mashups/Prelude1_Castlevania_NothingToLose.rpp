@@ -12,7 +12,7 @@
     |Bach × CV1 Nothing to Lose — WTC Prelude No.1 in C
     |Stage preset: Warm square lead against thin buzzy pad - tension
   >
-  <TRACK {48BAFEA3-660F-4FC5-ABBB-B336CD7FA7DD}
+  <TRACK {065B4F9A-CC70-4B92-9E28-EE53ED4BDA85}
     NAME "NES - Pulse 1 [CV1 Nothing to Lose]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {48BAFEA3-660F-4FC5-ABBB-B336CD7FA7DD}
+    TRACKID {065B4F9A-CC70-4B92-9E28-EE53ED4BDA85}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {33BF8AD7-9135-417A-A109-4D7DEB83EE08}
+      FXID {9566886F-4BBD-4135-9528-AE264CF59588}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4357DC91-9717-4F3A-A90B-62980BDF2C58}
+      IGUID {2E13AF76-C7E2-46DE-94A4-1D7F0DFE76BF}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >
     >
   >
-  <TRACK {7FEA5791-0ACD-446B-BB28-8FD1D0366C5D}
+  <TRACK {4010B3B1-E15B-4D09-A932-6BC4D28A3A85}
     NAME "NES - Pulse 2 [CV1 Nothing to Lose]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {7FEA5791-0ACD-446B-BB28-8FD1D0366C5D}
+    TRACKID {4010B3B1-E15B-4D09-A932-6BC4D28A3A85}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {A018A248-53A0-4690-8B76-4CF316693674}
+      FXID {558C5DEC-8939-4FC4-879D-1B6D7BAA5407}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A6D78A85-93A7-404F-9D30-D90832E4CDEA}
+      IGUID {46D4F0B6-F46B-4221-BDE8-A24CC8BCDD37}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >
     >
   >
-  <TRACK {5702DF24-6E36-4910-84D3-924D671BB716}
+  <TRACK {7CE93A1C-905D-4014-A345-6D9849C6DF37}
     NAME "NES - Triangle [CV1 Nothing to Lose]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {5702DF24-6E36-4910-84D3-924D671BB716}
+    TRACKID {7CE93A1C-905D-4014-A345-6D9849C6DF37}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {2DB979CB-39C2-418A-A177-DC74A7800C3E}
+      FXID {F81852C9-D8BD-461A-86A9-8D59A444CDFA}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {2700748E-33EE-46EF-BE49-32ECA104DC6E}
+      IGUID {1BCCF3E3-7602-46A2-919A-10D0C9E03EB9}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >
     >
   >
-  <TRACK {2A3B7D8F-3057-457D-8D4D-9DE7FDA43120}
+  <TRACK {C685B733-4525-4797-8773-8F5648418A11}
     NAME "NES - Noise / Drums [CV1 Nothing to Lose]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {2A3B7D8F-3057-457D-8D4D-9DE7FDA43120}
+    TRACKID {C685B733-4525-4797-8773-8F5648418A11}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {935A91C2-DEE5-4243-9C04-3BC4A6F77F59}
+      FXID {818069CA-90FA-45AD-ABE8-C7CA37F9C35B}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0403AC70-A9C0-4A18-9E71-B8CBF1050D3A}
+      IGUID {AE5F6C73-0F5F-42A6-B7D2-B3C4E1CA71F7}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >

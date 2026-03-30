@@ -12,7 +12,7 @@
     |Bach × CV1 Vampire Killer — Toccata in D minor BWV 565
     |Stage preset: Classic balanced NES sound, warm lead with bright harmony
   >
-  <TRACK {B2D27902-6A10-4905-9DAE-3280EAF0467F}
+  <TRACK {D30F7FA1-9DC6-4D33-B2AC-534F04D2EC69}
     NAME "NES - Pulse 1 [CV1 Vampire Killer]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B2D27902-6A10-4905-9DAE-3280EAF0467F}
+    TRACKID {D30F7FA1-9DC6-4D33-B2AC-534F04D2EC69}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {28DF40D3-E78F-4435-897E-B5A0ED3953E8}
+      FXID {05B94E61-9843-4C25-89F3-56633BDA9B14}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {9B076B5A-DE78-4993-B64C-3F7EFF405E1E}
+      IGUID {BD81E79B-71CC-41EF-83A6-55A7A5A5EF60}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {97FD7938-7F0B-485D-B7D1-C98BEF3E6C38}
+  <TRACK {0FB641A4-66F1-4B56-93EE-48305163D751}
     NAME "NES - Pulse 2 [CV1 Vampire Killer]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {97FD7938-7F0B-485D-B7D1-C98BEF3E6C38}
+    TRACKID {0FB641A4-66F1-4B56-93EE-48305163D751}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7B22ABD0-2D80-4B12-90E2-144A55049ABD}
+      FXID {CD130559-6D93-4DFE-9B50-F350935CE00C}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {7EED1BFD-6015-4B5D-A713-1A2339FD0CBF}
+      IGUID {54F04584-C935-435B-AEDA-F947B7AAEC00}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {97C6E87A-CED2-49AD-9DB3-1286C6F5F8F5}
+  <TRACK {9BBBD84A-773C-44F2-B22B-BEF70C7B4FEC}
     NAME "NES - Triangle [CV1 Vampire Killer]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {97C6E87A-CED2-49AD-9DB3-1286C6F5F8F5}
+    TRACKID {9BBBD84A-773C-44F2-B22B-BEF70C7B4FEC}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {6C670A90-1B25-47C2-8B11-02422EFAF6AD}
+      FXID {872A09C1-87D8-46F5-9198-B12763A034B5}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {BCE11C23-0551-450B-8552-662768E7F211}
+      IGUID {3C331E20-FE18-43B8-9782-F1D229C8B3F5}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {27746CEC-E49E-4C20-88AA-EB117BA2A8C3}
+  <TRACK {6D86F0A2-6EA3-4AFD-9586-615CBD652E91}
     NAME "NES - Noise / Drums [CV1 Vampire Killer]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {27746CEC-E49E-4C20-88AA-EB117BA2A8C3}
+    TRACKID {6D86F0A2-6EA3-4AFD-9586-615CBD652E91}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {1380ABDC-B02B-48CE-9BF5-C6CAEE55347B}
+      FXID {1514180E-AE68-49C5-9D77-E6F11F3EAD64}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {22D5B33B-AD74-4E1A-8B32-02AA506364E6}
+      IGUID {1B1BC45D-B494-464B-8618-8FC902F12F82}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >

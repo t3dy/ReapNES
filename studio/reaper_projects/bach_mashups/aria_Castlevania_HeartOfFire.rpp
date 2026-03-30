@@ -12,7 +12,7 @@
     |Bach × CV1 Heart of Fire — Goldberg Aria
     |Stage preset: Both pulses at 25% duty - bright, intense, cutting
   >
-  <TRACK {4A0ACE94-3137-4809-82A2-56CE03C09DDD}
+  <TRACK {76C42636-0C66-439E-9269-61A977280776}
     NAME "NES - Pulse 1 [CV1 Heart of Fire]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {4A0ACE94-3137-4809-82A2-56CE03C09DDD}
+    TRACKID {76C42636-0C66-439E-9269-61A977280776}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {57FF686A-DABD-4BC5-9C30-9DC0B0659E32}
+      FXID {E2F93832-A63D-4534-8B75-7E2B75BA1523}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {CE505DCB-75B4-4066-A103-2DE31052B469}
+      IGUID {76C71D8A-56E8-4E23-A0E6-CE398304FD9C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {C5FDE10E-B330-4532-946C-D80BC6DF6107}
+  <TRACK {9EE02804-3845-4353-9353-A2F0723D1984}
     NAME "NES - Pulse 2 [CV1 Heart of Fire]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C5FDE10E-B330-4532-946C-D80BC6DF6107}
+    TRACKID {9EE02804-3845-4353-9353-A2F0723D1984}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {71C886D9-B34B-4EAC-9FC2-DD7817FC1097}
+      FXID {3E0850AA-BA39-4FAA-8C86-68D4E763F8C8}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {C3B27088-CF95-43DD-B315-D44AF6B8EB3C}
+      IGUID {F67066B5-D173-4A84-8D98-750F6AD7A6FD}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {97C97B75-2C82-420A-8CC3-7F8861E1D4F6}
+  <TRACK {6694FD14-4C18-4A34-BB02-41A5C09FDC06}
     NAME "NES - Triangle [CV1 Heart of Fire]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {97C97B75-2C82-420A-8CC3-7F8861E1D4F6}
+    TRACKID {6694FD14-4C18-4A34-BB02-41A5C09FDC06}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {455346C8-EA68-42B7-9DC6-C89788748CF6}
+      FXID {B2ADF3EE-DA6C-4263-A0EC-A11F45AC4540}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {03617AA2-385B-42A5-9CB5-C7B8D8BC4985}
+      IGUID {225A1C1C-84C0-4E39-A77C-302C673DBD41}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {22A59180-E541-4C43-8576-EB8DEE45C14E}
+  <TRACK {090778D3-B165-451B-B173-6D18EBFEA885}
     NAME "NES - Noise / Drums [CV1 Heart of Fire]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {22A59180-E541-4C43-8576-EB8DEE45C14E}
+    TRACKID {090778D3-B165-451B-B173-6D18EBFEA885}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9776F666-9B23-4793-A474-56B660D0E1E3}
+      FXID {63671D05-3616-45F2-8FCC-2C8EAD847192}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EA370D43-2865-4038-AE44-631838368091}
+      IGUID {9D9BBA4F-731C-40D3-A6E1-1D15A7B742DB}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >

@@ -12,7 +12,7 @@
     |Bach × CV1 Heart of Fire — Toccata in D minor BWV 565
     |Stage preset: Both pulses at 25% duty - bright, intense, cutting
   >
-  <TRACK {C0504EEA-8CA0-4A88-ADFC-BDDFF6CBA049}
+  <TRACK {25ED8362-7066-4E0F-B794-B1CFB514209D}
     NAME "NES - Pulse 1 [CV1 Heart of Fire]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C0504EEA-8CA0-4A88-ADFC-BDDFF6CBA049}
+    TRACKID {25ED8362-7066-4E0F-B794-B1CFB514209D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {D0B9DE5E-B1DF-4F1D-AB05-0C05CE31EE6D}
+      FXID {ACDB7CFA-666C-406E-9B17-D81B1E4BD84B}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {282E5627-C644-4E53-98F2-D22BB63F17A2}
+      IGUID {4244AEA3-A24D-4E92-A9F4-E0F28ED74A99}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {C4D48A00-8B41-4920-9061-96F5C33C6B62}
+  <TRACK {0ED9D5F2-88F5-4CCA-A759-8946B8EB422E}
     NAME "NES - Pulse 2 [CV1 Heart of Fire]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C4D48A00-8B41-4920-9061-96F5C33C6B62}
+    TRACKID {0ED9D5F2-88F5-4CCA-A759-8946B8EB422E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {874B57BB-5F21-4D57-85D0-F4BB5D0B9D87}
+      FXID {AAA42AF4-C560-4A50-B7E0-EE2B4C30D2BA}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {123C7B88-E77F-4952-930B-AF744735ACB6}
+      IGUID {1F557E01-D831-4C95-BADC-9A0CA08F43BE}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {B0EC09DE-107A-4660-913B-E36AE540F4A0}
+  <TRACK {BC26DF42-E44F-46F5-8C4B-5735C3766747}
     NAME "NES - Triangle [CV1 Heart of Fire]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B0EC09DE-107A-4660-913B-E36AE540F4A0}
+    TRACKID {BC26DF42-E44F-46F5-8C4B-5735C3766747}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0F9362EA-84CA-4C12-B164-EA924FE2FDF7}
+      FXID {5CD4D1AE-7B46-4F1D-B3A0-425EA03F8BC3}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {1034B2FF-5A47-4100-B3C9-E8011FFC8E4C}
+      IGUID {F54DCC16-358B-4662-BC31-A649D1740F2E}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {5FCB8079-C978-4B81-8B0B-1B020609663F}
+  <TRACK {41FE3649-373C-40EC-A3A4-7BE0CCD06FE0}
     NAME "NES - Noise / Drums [CV1 Heart of Fire]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {5FCB8079-C978-4B81-8B0B-1B020609663F}
+    TRACKID {41FE3649-373C-40EC-A3A4-7BE0CCD06FE0}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0ED2AF5B-FA3A-40B4-A7FB-CC6514377573}
+      FXID {7E716E78-D33D-4C0E-A2DC-13596BC2A4DD}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {261110B8-BACD-42EB-9FC4-DA95E2F7DB04}
+      IGUID {C7D35C94-A4D3-440F-93A8-27ACB9EFBAA0}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >

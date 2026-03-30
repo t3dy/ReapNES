@@ -12,7 +12,7 @@
     |Bach × CV1 Wicked Child — Two-Part Invention No.1 in C
     |Stage preset: Bright punchy lead with warm square harmony
   >
-  <TRACK {E26B2FEF-C4F3-4C85-B8D0-D13F974D3BB8}
+  <TRACK {E7EB54ED-B83B-4D3B-93D3-F9ACEAE5F526}
     NAME "NES - Pulse 1 [CV1 Wicked Child]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E26B2FEF-C4F3-4C85-B8D0-D13F974D3BB8}
+    TRACKID {E7EB54ED-B83B-4D3B-93D3-F9ACEAE5F526}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {1B1366F0-A048-485A-80C8-2F6B7498BF29}
+      FXID {B2D01625-0867-439D-A2B9-F7E224F9DF7F}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {28D0F232-3BEE-4154-8363-BAD17345DAD1}
+      IGUID {5DCADE7E-91EE-478F-9907-4A1F78EB0EF1}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent1.mid"
       >
     >
   >
-  <TRACK {C3186AFC-5515-4771-8B33-E9946395CCFF}
+  <TRACK {877EB171-2F52-4B38-8473-F9332A3E41F7}
     NAME "NES - Pulse 2 [CV1 Wicked Child]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C3186AFC-5515-4771-8B33-E9946395CCFF}
+    TRACKID {877EB171-2F52-4B38-8473-F9332A3E41F7}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {6861CF55-7C47-412F-8A14-59EC010EA4F8}
+      FXID {1C0F4AE7-FD77-4E0F-A61A-407B842D0D50}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EDE8F9CF-6107-4E3A-97A8-D6F7D36D7794}
+      IGUID {5AC111E5-AAB3-45A3-B516-A9F1E3ED782F}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent1.mid"
       >
     >
   >
-  <TRACK {CC1CE21D-9CFD-4F2E-AE82-85B05F41D901}
+  <TRACK {72E6006A-631B-492F-84FB-BC6C35CFBD3A}
     NAME "NES - Triangle [CV1 Wicked Child]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {CC1CE21D-9CFD-4F2E-AE82-85B05F41D901}
+    TRACKID {72E6006A-631B-492F-84FB-BC6C35CFBD3A}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0E6E0C23-C912-4148-A005-A19CA1840DB9}
+      FXID {352C55D7-72D3-421E-8BFB-F0D047A2D02F}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {928CFD53-AFE7-4262-B0BC-796CFCB4E5E6}
+      IGUID {694599DF-D547-49AB-BF41-1CC00E86018B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent1.mid"
       >
     >
   >
-  <TRACK {AB581489-FB13-4078-938C-D69D8D5E8E04}
+  <TRACK {E967763C-D1CB-4E24-90BA-1DAFB50217D8}
     NAME "NES - Noise / Drums [CV1 Wicked Child]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {AB581489-FB13-4078-938C-D69D8D5E8E04}
+    TRACKID {E967763C-D1CB-4E24-90BA-1DAFB50217D8}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {E3B64847-FD4E-48C8-BB45-FD5D88DB4A77}
+      FXID {AB9D26B2-C8A8-4CD2-8D1A-22BAB72F0ADB}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {C69C5A32-B6FA-4614-9D29-B1BCC038BD70}
+      IGUID {FC19797A-493C-41B4-9D85-4754ADE3B11F}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent1.mid"
       >

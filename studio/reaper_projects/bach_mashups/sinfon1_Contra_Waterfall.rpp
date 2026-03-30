@@ -12,7 +12,7 @@
     |Bach × Contra Waterfall — Three-Part Sinfonia No.1 in C
     |Stage preset: Both pulses at 12.5% - thin, metallic, haunting
   >
-  <TRACK {383BE993-17B9-4F9C-AB0B-2028CBB42905}
+  <TRACK {6F879A68-52FF-49B4-86AD-E85C563F5E7A}
     NAME "NES - Pulse 1 [Contra Waterfall]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {383BE993-17B9-4F9C-AB0B-2028CBB42905}
+    TRACKID {6F879A68-52FF-49B4-86AD-E85C563F5E7A}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {3FB66465-303B-43B6-A528-2ED19B87FD63}
+      FXID {EB38F381-6B9D-4F43-9EFB-9AFF4C4389BD}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D9AA9716-66B2-4299-806C-B45DAA08ADE3}
+      IGUID {5C0D9B7C-616E-4FB3-A664-FF3030142585}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {ED4B0A68-57DB-4F74-AF1E-64C5F370779B}
+  <TRACK {B06894FE-E2D4-4206-8690-611E0056428F}
     NAME "NES - Pulse 2 [Contra Waterfall]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {ED4B0A68-57DB-4F74-AF1E-64C5F370779B}
+    TRACKID {B06894FE-E2D4-4206-8690-611E0056428F}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {43F12555-F5B9-404F-8B1D-B82260BFFF8B}
+      FXID {2FAEBE30-92BE-4CB5-A586-D779375784C7}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3EAC30A4-FE40-42C8-8FEA-0E93A36B1BEA}
+      IGUID {80C2464A-4604-4974-8A79-53EA6EF6E5A7}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {893459A4-A69A-49FB-B838-B10899E90874}
+  <TRACK {6156EE1D-F953-46BD-9331-31D546E9D6BB}
     NAME "NES - Triangle [Contra Waterfall]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {893459A4-A69A-49FB-B838-B10899E90874}
+    TRACKID {6156EE1D-F953-46BD-9331-31D546E9D6BB}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {02DE47A3-E74B-41F3-8BA3-9ADC522EA124}
+      FXID {33A15109-F173-4EF3-A1CB-795C1C89B2C1}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {10FB5325-DBA4-4FBE-BC7B-F310CA3746B0}
+      IGUID {90DBD84C-5100-4D36-BFE0-EDC9CB528BBA}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {44D322B2-9DEB-47BE-8BA4-82F79A72D066}
+  <TRACK {C912575B-D1AE-441B-B235-488ED3F8C082}
     NAME "NES - Noise / Drums [Contra Waterfall]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {44D322B2-9DEB-47BE-8BA4-82F79A72D066}
+    TRACKID {C912575B-D1AE-441B-B235-488ED3F8C082}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {A2185913-7A6A-4436-B58A-E2E0DB2C0234}
+      FXID {1F1E0BC8-5E36-42E9-A632-03FA218937C6}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {775CE177-E1EE-4138-BD2F-670CEA5E2CCE}
+      IGUID {9FF24220-B125-4485-811D-A659D1C54F3B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >

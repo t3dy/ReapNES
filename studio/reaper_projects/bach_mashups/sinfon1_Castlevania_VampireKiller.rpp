@@ -12,7 +12,7 @@
     |Bach × CV1 Vampire Killer — Three-Part Sinfonia No.1 in C
     |Stage preset: Classic balanced NES sound, warm lead with bright harmony
   >
-  <TRACK {6EAF5FB6-64C8-473E-AFFE-18350A9547E8}
+  <TRACK {3BE18303-932B-4170-89B1-2A34A31EEFC0}
     NAME "NES - Pulse 1 [CV1 Vampire Killer]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {6EAF5FB6-64C8-473E-AFFE-18350A9547E8}
+    TRACKID {3BE18303-932B-4170-89B1-2A34A31EEFC0}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {D0C8972D-BAF6-4693-9272-4723EC51AD11}
+      FXID {FC82E273-86D8-4DDC-8F79-D6DB1B60D31E}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {917C9E27-F93F-4E8E-A9AC-7240AE33CD6D}
+      IGUID {BA0172BF-2CE7-4DFC-ACBE-5F962F3BB071}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {F67BAB34-3030-45D1-9914-08DD983D419C}
+  <TRACK {5A72F928-C99B-4614-BEE7-7B149725BD7A}
     NAME "NES - Pulse 2 [CV1 Vampire Killer]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {F67BAB34-3030-45D1-9914-08DD983D419C}
+    TRACKID {5A72F928-C99B-4614-BEE7-7B149725BD7A}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0C7CB6B0-C240-48E2-B054-C74890F06AE9}
+      FXID {8E470628-CD18-4EA6-8C34-88317065B00A}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E98652A3-F641-4276-B5BE-3A297FA27B6B}
+      IGUID {0387766A-52AC-4411-B323-08E23734E36A}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {3809129D-59E9-47DD-A2E2-63586239692A}
+  <TRACK {5A9C2DBD-947A-47E9-A721-8FC81ACF2698}
     NAME "NES - Triangle [CV1 Vampire Killer]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {3809129D-59E9-47DD-A2E2-63586239692A}
+    TRACKID {5A9C2DBD-947A-47E9-A721-8FC81ACF2698}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {FE5780DE-95BD-403C-B5D7-237FD32AB63E}
+      FXID {F93327F9-5972-4BCB-A147-63B1768BFD6C}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {FEA18C5E-EEB4-44EF-9616-CC4ABFB3B014}
+      IGUID {A700FB78-0F65-4A6D-B70F-18BAEB7D6AE4}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {C5F7F27F-B910-4A66-9D5A-16939BF93B56}
+  <TRACK {E0B92AF8-F303-4FF0-9ED8-3D3434554CDC}
     NAME "NES - Noise / Drums [CV1 Vampire Killer]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C5F7F27F-B910-4A66-9D5A-16939BF93B56}
+    TRACKID {E0B92AF8-F303-4FF0-9ED8-3D3434554CDC}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {92141189-1ED4-421C-BEC4-AE4AA615AB2A}
+      FXID {EC80D9B0-3303-446F-A14B-273053406ECA}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {2CAEC4DA-DE68-49F9-BD0D-E88D9C2F75A2}
+      IGUID {0A3885C0-DA11-43D9-89A5-5FDF9FC04E75}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >

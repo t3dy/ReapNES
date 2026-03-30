@@ -12,7 +12,7 @@
     |Bach × CV1 Heart of Fire — WTC Prelude No.1 in C
     |Stage preset: Both pulses at 25% duty - bright, intense, cutting
   >
-  <TRACK {AEAA2E8C-EA06-46C4-8C70-97E3F87C002B}
+  <TRACK {EE898622-8B78-481E-8FB1-707558512C4D}
     NAME "NES - Pulse 1 [CV1 Heart of Fire]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {AEAA2E8C-EA06-46C4-8C70-97E3F87C002B}
+    TRACKID {EE898622-8B78-481E-8FB1-707558512C4D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {A7948F74-C564-4B9D-84DF-A1524B73EEC2}
+      FXID {D523BE72-626A-4211-8A81-6DD71145D9D9}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DBBB8B80-A6F4-4C15-8A87-4B53C85ED562}
+      IGUID {028B99DC-3A5E-4F42-B03D-335067157622}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >
     >
   >
-  <TRACK {ABA793EF-3670-4720-B68B-A8C80D6F2D56}
+  <TRACK {ABC7AF26-26F4-4D31-B741-D68EE9BB9604}
     NAME "NES - Pulse 2 [CV1 Heart of Fire]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {ABA793EF-3670-4720-B68B-A8C80D6F2D56}
+    TRACKID {ABC7AF26-26F4-4D31-B741-D68EE9BB9604}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {2B026D05-545B-44AA-B4D4-786D80087B1D}
+      FXID {8E575BE3-0916-4B9F-89F2-CD31A1428E71}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E2970B24-632C-4190-857A-03BE4F8F02D9}
+      IGUID {D8B5CFB0-4A45-4F82-81ED-948E70462D79}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >
     >
   >
-  <TRACK {5CC3DEA8-3A24-4DEB-93ED-5FEE8D53E3E9}
+  <TRACK {C3668777-7868-462A-B1CF-DD4F038C3C91}
     NAME "NES - Triangle [CV1 Heart of Fire]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {5CC3DEA8-3A24-4DEB-93ED-5FEE8D53E3E9}
+    TRACKID {C3668777-7868-462A-B1CF-DD4F038C3C91}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {03ACEFE7-7492-4153-8DD1-29C3A8E8F7DE}
+      FXID {B419017B-BA89-489C-BE0D-C702FD5295AE}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EFA38BB3-8C8C-493B-8DDE-0A6B0FAF5E16}
+      IGUID {0B031E17-D0F1-4C18-A611-A9EC80AA5D1B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >
     >
   >
-  <TRACK {6C3B15C4-F3CE-45AB-989C-0F2F000DE7E9}
+  <TRACK {B9A06E9F-73A1-431C-8C17-F96186912E44}
     NAME "NES - Noise / Drums [CV1 Heart of Fire]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {6C3B15C4-F3CE-45AB-989C-0F2F000DE7E9}
+    TRACKID {B9A06E9F-73A1-431C-8C17-F96186912E44}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {386B5AA8-80F1-4334-97C1-275F6E9D805F}
+      FXID {05DB27CD-6AFB-4E10-A047-F2E576F7EEE8}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {1F5F342A-9845-4157-B729-1CC7ACF41A4D}
+      IGUID {1CCEF1AE-C25E-44D8-A49A-2A26BAB6BC81}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >

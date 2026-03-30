@@ -12,7 +12,7 @@
     |Bach × Contra Flame Fortress — WTC Fugue No.1 in C
     |Stage preset: Both thin pulses for claustrophobic tension
   >
-  <TRACK {90DD1275-888F-411C-9115-3252026D13EF}
+  <TRACK {83C8D4E4-2087-43C8-9713-49F1D8B8B422}
     NAME "NES - Pulse 1 [Contra Flame Fortress]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {90DD1275-888F-411C-9115-3252026D13EF}
+    TRACKID {83C8D4E4-2087-43C8-9713-49F1D8B8B422}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {54168104-22F3-4606-BB97-4F5E874FE275}
+      FXID {97BF9424-0154-4441-B63D-5D1429C31193}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F8C944F6-6C9C-43F2-A4F6-F4AFE6AECCCD}
+      IGUID {1C1CD111-671C-45B9-9F61-1D738ADDE240}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue1.mid"
       >
     >
   >
-  <TRACK {4B4E9E6F-A4B1-449E-96D0-CD2D7A1D8795}
+  <TRACK {9DFB80FE-1C8B-4805-8478-C01BBC99A2C0}
     NAME "NES - Pulse 2 [Contra Flame Fortress]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {4B4E9E6F-A4B1-449E-96D0-CD2D7A1D8795}
+    TRACKID {9DFB80FE-1C8B-4805-8478-C01BBC99A2C0}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {A8AF62D1-CAAA-4BDE-ACBF-FDE35BD0A646}
+      FXID {DA541284-001D-478C-AE79-31C093E3517C}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4D598F33-FC72-4782-A9D6-0194EA894A80}
+      IGUID {71F94708-8F66-4767-A86A-BEC60F60B2B7}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue1.mid"
       >
     >
   >
-  <TRACK {33FB3FA6-33D9-4621-848A-BDA44CB22791}
+  <TRACK {60137975-D242-4BE1-803D-2D6A7D3276B3}
     NAME "NES - Triangle [Contra Flame Fortress]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {33FB3FA6-33D9-4621-848A-BDA44CB22791}
+    TRACKID {60137975-D242-4BE1-803D-2D6A7D3276B3}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {94055A79-222A-477C-87F9-A7023C827A22}
+      FXID {DBC3B847-4085-47F4-B55E-F106F575013E}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B32CAF0D-5ABE-438B-9EAC-E0E25F802AF6}
+      IGUID {C658ECAD-CD89-413E-B67D-355DD05C5B31}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue1.mid"
       >
     >
   >
-  <TRACK {AE00CEDC-34E1-4CB8-A285-E9E9DA671106}
+  <TRACK {172121A8-BD00-4B3E-A606-F460EC2F17F2}
     NAME "NES - Noise / Drums [Contra Flame Fortress]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {AE00CEDC-34E1-4CB8-A285-E9E9DA671106}
+    TRACKID {172121A8-BD00-4B3E-A606-F460EC2F17F2}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {434F76BD-3550-40E4-AAAA-B41315BB8FE6}
+      FXID {A2D1DC64-E302-4749-9B31-D42843EBFFD2}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D5138B8E-DE7D-4778-9EFA-2DF75628FA44}
+      IGUID {C26E188F-8D23-4FF1-9A19-0990C9555045}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue1.mid"
       >

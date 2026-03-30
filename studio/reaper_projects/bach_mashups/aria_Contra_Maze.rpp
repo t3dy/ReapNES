@@ -12,7 +12,7 @@
     |Bach × Contra Maze Fortress — Goldberg Aria
     |Stage preset: Wide pad lead vs thin staccato - menacing contrast
   >
-  <TRACK {16CC6580-AB06-436C-84A8-545C6A6A6CC4}
+  <TRACK {AD1E0E81-E323-4E4F-A39B-7A207CE538D0}
     NAME "NES - Pulse 1 [Contra Maze Fortress]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {16CC6580-AB06-436C-84A8-545C6A6A6CC4}
+    TRACKID {AD1E0E81-E323-4E4F-A39B-7A207CE538D0}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {89E3189C-07AA-4A07-8EBC-7D6A66BE36BE}
+      FXID {6D127734-FD2D-4D36-B3FA-F2B64ADFF78C}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4DCD2EA5-E365-4B7A-8E14-4AEC755632A4}
+      IGUID {AFB05CE6-0126-4F92-A014-FF7F62003708}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {7CDBDE16-1FA9-47DF-BE48-452ED4D0FFA9}
+  <TRACK {A1CD6698-3BE5-4FBF-B565-FE23ADA5C4BC}
     NAME "NES - Pulse 2 [Contra Maze Fortress]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {7CDBDE16-1FA9-47DF-BE48-452ED4D0FFA9}
+    TRACKID {A1CD6698-3BE5-4FBF-B565-FE23ADA5C4BC}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {35797C52-63C6-4975-A563-EF2C0BE6BBD0}
+      FXID {928F8E99-F04F-4834-A426-F8FE06D7DF2D}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D0D771E9-3485-4607-9678-2B8A45E9E704}
+      IGUID {B964C3FE-5E80-4956-89B1-849188847334}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {119ECE68-4806-424A-B94F-D50283E0AA1C}
+  <TRACK {F78AE454-FEDE-4B67-A466-37A6DE1069F1}
     NAME "NES - Triangle [Contra Maze Fortress]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {119ECE68-4806-424A-B94F-D50283E0AA1C}
+    TRACKID {F78AE454-FEDE-4B67-A466-37A6DE1069F1}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {AB0C8064-FE40-49B1-92F3-156EA3167F06}
+      FXID {5EC0393D-8EC5-4D06-A3AE-AA7BA3DA8EB9}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4FD66EBD-67E7-481A-9C42-1C22F83FB39F}
+      IGUID {232256B9-5F70-4E36-AF4F-9067FBA9DB35}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {98861A15-7D05-412F-AC85-AB5B515B9EA9}
+  <TRACK {529EE825-D6C5-43FC-868E-56D895F47A53}
     NAME "NES - Noise / Drums [Contra Maze Fortress]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {98861A15-7D05-412F-AC85-AB5B515B9EA9}
+    TRACKID {529EE825-D6C5-43FC-868E-56D895F47A53}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {B8E68724-D2DC-4355-9B52-B2AAB6B90195}
+      FXID {923350D8-E0F8-416D-8849-6CD2F29B9B55}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {FEED1ABB-734D-4779-8754-357BACFA60EE}
+      IGUID {04085978-5351-4047-9851-BF2CA1525FC6}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >

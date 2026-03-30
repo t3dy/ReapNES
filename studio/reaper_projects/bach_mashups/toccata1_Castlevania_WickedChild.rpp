@@ -12,7 +12,7 @@
     |Bach × CV1 Wicked Child — Toccata in D minor BWV 565
     |Stage preset: Bright punchy lead with warm square harmony
   >
-  <TRACK {26DFC94F-232C-4C06-9307-D17320E9ED0B}
+  <TRACK {D2E9D019-5E60-486E-B00B-A13C361779A8}
     NAME "NES - Pulse 1 [CV1 Wicked Child]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {26DFC94F-232C-4C06-9307-D17320E9ED0B}
+    TRACKID {D2E9D019-5E60-486E-B00B-A13C361779A8}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {1661A1BD-A57A-4C17-923E-4CFD40942B42}
+      FXID {6A5A3232-0D57-498B-88DC-222C72D74637}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {2E057A96-D9E5-4A04-AB59-F798C246FDBE}
+      IGUID {22F8CB2A-7261-4C3A-87A4-A1A10817A069}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {A084D444-2BA2-4DCC-A4FD-C678CD388ED3}
+  <TRACK {DDF0E498-654B-43BD-B4B1-22F90C516E26}
     NAME "NES - Pulse 2 [CV1 Wicked Child]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {A084D444-2BA2-4DCC-A4FD-C678CD388ED3}
+    TRACKID {DDF0E498-654B-43BD-B4B1-22F90C516E26}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {76A5748E-367A-438C-8F3C-18DAC77FD6CF}
+      FXID {B73D11C7-0985-4AFA-A565-BF9FB15221BB}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D7C18E98-A0AE-44FF-8BD0-493C655B08F3}
+      IGUID {0F7BCFE4-CA5B-4922-AB47-96B3F49E7549}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {42FB590B-6997-4E9D-AF14-8D70BDDFF0C0}
+  <TRACK {0437C930-F888-40FD-9470-AAA73CD44BB7}
     NAME "NES - Triangle [CV1 Wicked Child]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {42FB590B-6997-4E9D-AF14-8D70BDDFF0C0}
+    TRACKID {0437C930-F888-40FD-9470-AAA73CD44BB7}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {388E0908-D455-4B6D-87B5-C98463DE8E45}
+      FXID {7CE7D4C6-677F-4222-A313-AE5CE7244251}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {ADCA6978-C204-4943-BD81-5BE34CA6D040}
+      IGUID {D280D4B2-29CA-4628-8FBE-01A98263524F}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {996C5D94-660C-4D2A-9B2A-F247D10176CC}
+  <TRACK {8B029ED0-874A-497A-B980-80E6CC4CCBC1}
     NAME "NES - Noise / Drums [CV1 Wicked Child]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {996C5D94-660C-4D2A-9B2A-F247D10176CC}
+    TRACKID {8B029ED0-874A-497A-B980-80E6CC4CCBC1}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {E79960C6-06DB-4F6A-BC9A-C4C0E116D624}
+      FXID {56AFD086-5769-42CF-A961-6BD11E88FE06}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {063F148B-378D-4364-BB49-BA4DDAB070D6}
+      IGUID {FB89F323-6AD6-4828-A8A6-8FFBEB078797}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >

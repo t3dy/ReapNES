@@ -12,7 +12,7 @@
     |Bach × Contra Maze Fortress — WTC Fugue No.5 in D
     |Stage preset: Wide pad lead vs thin staccato - menacing contrast
   >
-  <TRACK {E3C2FFFF-3FD5-49E7-8F1D-E761D9AC20E3}
+  <TRACK {1C981275-176C-412A-8B28-6ABA93B44893}
     NAME "NES - Pulse 1 [Contra Maze Fortress]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E3C2FFFF-3FD5-49E7-8F1D-E761D9AC20E3}
+    TRACKID {1C981275-176C-412A-8B28-6ABA93B44893}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {005C6881-B975-4AD0-8A01-719602995CF4}
+      FXID {3403E6FD-2FD5-4332-9C9B-46FB3FBBA80C}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B434896E-A854-4A3B-9B6E-F0B24F7B69D8}
+      IGUID {90E3CE19-D653-48A8-910B-06F64F8C4AA9}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue5.mid"
       >
     >
   >
-  <TRACK {494B3493-25EA-409F-BF32-2BF7AA18992E}
+  <TRACK {9DB349CB-598C-417C-91A1-AF520BEA84A2}
     NAME "NES - Pulse 2 [Contra Maze Fortress]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {494B3493-25EA-409F-BF32-2BF7AA18992E}
+    TRACKID {9DB349CB-598C-417C-91A1-AF520BEA84A2}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {31224055-DF0A-4044-A765-BF0CAC908C2D}
+      FXID {25BFA01A-BCB7-4BF2-A090-773262B4240D}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {FEC95B0B-7295-4E4F-9BE2-6E663684BA1F}
+      IGUID {2F592D1D-02D6-45B5-9CEA-E8CFC58E8DF0}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue5.mid"
       >
     >
   >
-  <TRACK {3FB8133A-8DE5-40CA-A8D2-684C4F37F00F}
+  <TRACK {F7742D43-CDCF-4278-B855-5BD6D0BA91AE}
     NAME "NES - Triangle [Contra Maze Fortress]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {3FB8133A-8DE5-40CA-A8D2-684C4F37F00F}
+    TRACKID {F7742D43-CDCF-4278-B855-5BD6D0BA91AE}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9BC8BCF1-389E-4519-A75C-CDEFC0255B4B}
+      FXID {50BB0EC3-AA48-49C6-A7D6-CEA9A6F9FA5D}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3814FF19-F949-4F8C-AF32-66982EC2FCDC}
+      IGUID {C85AFE99-7D93-41B5-968E-7BF9B38A83E0}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue5.mid"
       >
     >
   >
-  <TRACK {FA550686-35FD-4A78-A1A4-C5CE14B0C72A}
+  <TRACK {9048D05A-6E59-4605-AADB-2CB9479E46BB}
     NAME "NES - Noise / Drums [Contra Maze Fortress]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {FA550686-35FD-4A78-A1A4-C5CE14B0C72A}
+    TRACKID {9048D05A-6E59-4605-AADB-2CB9479E46BB}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {6759422E-1DC9-44D7-AE5A-8D5B23587789}
+      FXID {FF1B2DF4-88FF-484C-A830-E66666FB3988}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {82F8FDFE-B994-4E72-9241-082B2E3ED07C}
+      IGUID {B9068D2E-51E6-4C98-B4C0-586C193212C5}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue5.mid"
       >

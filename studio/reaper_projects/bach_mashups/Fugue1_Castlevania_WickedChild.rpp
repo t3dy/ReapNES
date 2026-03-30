@@ -12,7 +12,7 @@
     |Bach × CV1 Wicked Child — WTC Fugue No.1 in C
     |Stage preset: Bright punchy lead with warm square harmony
   >
-  <TRACK {13199459-859A-496A-8375-CA5B54FA33DC}
+  <TRACK {5A20A62A-66D1-4DE0-A03F-D35F562AA3C0}
     NAME "NES - Pulse 1 [CV1 Wicked Child]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {13199459-859A-496A-8375-CA5B54FA33DC}
+    TRACKID {5A20A62A-66D1-4DE0-A03F-D35F562AA3C0}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0DF7CCDB-2B79-46CD-B077-F3D9E63E9283}
+      FXID {A8B0CA60-E66A-4755-9901-767E12F3AEB0}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {BE7C49CE-BB66-41DE-A12D-7CE1DB1E037D}
+      IGUID {59ABFD26-78F9-4C25-AAFE-6849EF37E09E}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue1.mid"
       >
     >
   >
-  <TRACK {0F4BC688-C2BD-442D-8610-2B7CAB5662F9}
+  <TRACK {27DE923D-869B-4263-B19E-051AFD69DC26}
     NAME "NES - Pulse 2 [CV1 Wicked Child]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {0F4BC688-C2BD-442D-8610-2B7CAB5662F9}
+    TRACKID {27DE923D-869B-4263-B19E-051AFD69DC26}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {27EAFEC8-DC17-4B1D-BD09-96D5A3BFED91}
+      FXID {24EAF2C8-D0C2-497F-AB36-87A7F163076F}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {66A8DB42-DCB0-46CE-BFB4-4860BB3855EF}
+      IGUID {AB1A2AE0-68C4-40B0-979B-1950C4530C9B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue1.mid"
       >
     >
   >
-  <TRACK {9CF22A7F-752B-4740-A288-D22CA3BEE900}
+  <TRACK {E69B8778-ED9F-4335-B5AA-41E6F4F91E95}
     NAME "NES - Triangle [CV1 Wicked Child]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {9CF22A7F-752B-4740-A288-D22CA3BEE900}
+    TRACKID {E69B8778-ED9F-4335-B5AA-41E6F4F91E95}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {008BB185-88FB-4E33-91B0-A6BCB20E1A50}
+      FXID {58D5F69D-3776-42AE-9BB4-543EFC197B0D}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0530D301-6663-499A-BF47-2F7C168BC6E1}
+      IGUID {5ED07C3F-283F-4C05-91E2-3F58CD932ED7}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue1.mid"
       >
     >
   >
-  <TRACK {489F7BB6-F5EE-49D8-AA24-C515CA46BB7B}
+  <TRACK {6E8F46C0-12B7-4768-BFE7-E8A78E470888}
     NAME "NES - Noise / Drums [CV1 Wicked Child]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {489F7BB6-F5EE-49D8-AA24-C515CA46BB7B}
+    TRACKID {6E8F46C0-12B7-4768-BFE7-E8A78E470888}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {42D61B3E-914F-4519-AC71-9114D9D861C3}
+      FXID {DF8A333F-828D-4D55-BCEC-ECCFF8035BC5}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {C14FDC08-AB55-486B-8E2A-B7A6E1638983}
+      IGUID {5CB7E035-BC6B-4F42-9D5E-2AA4E1DDA102}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue1.mid"
       >

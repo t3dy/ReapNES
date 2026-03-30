@@ -12,7 +12,7 @@
     |Bach × CV1 Stalker — Two-Part Invention No.1 in C
     |Stage preset: Full square waves on both pulses, atmospheric and dense
   >
-  <TRACK {F11CD8EE-A01C-43C3-8AA2-BF0152134BB0}
+  <TRACK {CFEA45C3-B86D-4923-8037-58802F3D0759}
     NAME "NES - Pulse 1 [CV1 Stalker]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {F11CD8EE-A01C-43C3-8AA2-BF0152134BB0}
+    TRACKID {CFEA45C3-B86D-4923-8037-58802F3D0759}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8A5CE1F5-F306-4F58-B6C3-FF5FA4F349F1}
+      FXID {44C3F8C5-4504-4BD2-B0E2-E0D0F8C1DD2E}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {CBA3DFD1-09C4-49B1-8E10-318041A23775}
+      IGUID {8BCD0930-4A33-4D16-9B88-4450AAA83F25}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent1.mid"
       >
     >
   >
-  <TRACK {2DFD686D-5F0E-4313-8837-D54538485809}
+  <TRACK {D678C520-2137-44A4-8BED-0767593092FD}
     NAME "NES - Pulse 2 [CV1 Stalker]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {2DFD686D-5F0E-4313-8837-D54538485809}
+    TRACKID {D678C520-2137-44A4-8BED-0767593092FD}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {17988E7E-DFBB-4015-9CE7-D963CD19E7A8}
+      FXID {321AEBF9-A572-4550-8C05-E6E5AE46241A}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DD790FC5-578E-4649-8E73-8367AC8BFFEC}
+      IGUID {56B17DB9-1A80-4403-A549-E793F572172C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent1.mid"
       >
     >
   >
-  <TRACK {BA2C3B3E-5826-464E-9CD1-B506B1BB8028}
+  <TRACK {33C9F3D4-6C4B-475F-9EB4-872922EF0C15}
     NAME "NES - Triangle [CV1 Stalker]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {BA2C3B3E-5826-464E-9CD1-B506B1BB8028}
+    TRACKID {33C9F3D4-6C4B-475F-9EB4-872922EF0C15}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {077AB222-6A94-4B7A-BEE3-D5F9F7560EF0}
+      FXID {F3791679-A78C-4197-BC5B-B93F8F466A8A}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {7E9D1270-8A3E-4936-92CC-015A21E3A7AB}
+      IGUID {27E9B552-E57E-404A-BF69-0969089DFED8}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent1.mid"
       >
     >
   >
-  <TRACK {2E8109D9-B19C-4489-8036-5309ABB7A2ED}
+  <TRACK {F9891C86-8D87-4D22-9AAC-A58C910CFD1C}
     NAME "NES - Noise / Drums [CV1 Stalker]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {2E8109D9-B19C-4489-8036-5309ABB7A2ED}
+    TRACKID {F9891C86-8D87-4D22-9AAC-A58C910CFD1C}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {18715DBB-5FAD-4578-A109-593F18435CCD}
+      FXID {1BEDE60C-64C7-4363-9150-E4C8A234537F}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {9D9208F3-53ED-4B2A-B503-757755D45AED}
+      IGUID {53CBBFF5-9624-44F4-9D6C-CAAB9C2E9F7F}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent1.mid"
       >

@@ -12,7 +12,7 @@
     |Bach × CV1 Heart of Fire — Three-Part Sinfonia No.1 in C
     |Stage preset: Both pulses at 25% duty - bright, intense, cutting
   >
-  <TRACK {6407FB91-2714-4392-8145-A12D6517AA00}
+  <TRACK {2BBDE2A8-4CEF-4E49-A228-87D21FDF339D}
     NAME "NES - Pulse 1 [CV1 Heart of Fire]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {6407FB91-2714-4392-8145-A12D6517AA00}
+    TRACKID {2BBDE2A8-4CEF-4E49-A228-87D21FDF339D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {27DDB99B-A400-4590-BC0F-457532B4BCE3}
+      FXID {5AECECED-B3DC-4CAC-AE56-65EE6E243F44}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {16C0D324-767E-4C77-846A-DEDDC8571551}
+      IGUID {9B8C71F3-A8D3-41CA-A0E3-2D719F867504}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {DD0DF74D-0354-4045-A09C-6439B9856E4B}
+  <TRACK {36BD95F2-EA06-46BE-A17E-CEB03911427E}
     NAME "NES - Pulse 2 [CV1 Heart of Fire]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {DD0DF74D-0354-4045-A09C-6439B9856E4B}
+    TRACKID {36BD95F2-EA06-46BE-A17E-CEB03911427E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {E5937555-E109-44A2-9D8C-CC6DECF55983}
+      FXID {1763DE51-7265-49AE-B5AF-41DE0D50B14C}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F0178B34-3ADE-42B3-BE52-CF96BC259405}
+      IGUID {038D0373-456C-4D0D-AE4D-33B8198D4054}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {36010011-3223-412F-B2F3-1756D18BC7B5}
+  <TRACK {E62750CE-0B28-40D2-8F00-DD5B5934FF54}
     NAME "NES - Triangle [CV1 Heart of Fire]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {36010011-3223-412F-B2F3-1756D18BC7B5}
+    TRACKID {E62750CE-0B28-40D2-8F00-DD5B5934FF54}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {5A5A20B8-9832-4E5C-A0BA-8542E2B26B0D}
+      FXID {1F638380-09CE-44CB-8BA9-A064BDDA4B7C}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0A5E7AD8-5AF8-4226-9FEA-5AE6AE5D1DF0}
+      IGUID {1D6A68BF-8E3D-40F4-A9CC-1D459D86B225}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {A60D10AB-0039-4F3C-A8AD-768D858FF7C8}
+  <TRACK {1B93FAE3-141B-4978-884B-FFCB4632FE76}
     NAME "NES - Noise / Drums [CV1 Heart of Fire]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {A60D10AB-0039-4F3C-A8AD-768D858FF7C8}
+    TRACKID {1B93FAE3-141B-4978-884B-FFCB4632FE76}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9DB07DCD-642F-41E8-BC79-3F91A961CD2C}
+      FXID {D59FD8FD-0D20-4DE1-A3A8-FC6DEC1B959F}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {9BD7A176-22C3-41C8-8417-8D9890B010F2}
+      IGUID {A4437291-5493-4C72-8802-869F3102CC71}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >

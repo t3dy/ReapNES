@@ -12,7 +12,7 @@
     |Bach × CV1 Heart of Fire — Two-Part Invention No.8 in F
     |Stage preset: Both pulses at 25% duty - bright, intense, cutting
   >
-  <TRACK {7913F709-272E-4840-863F-C614CEDA202D}
+  <TRACK {755ECF23-FA7C-4553-842B-A8004E041425}
     NAME "NES - Pulse 1 [CV1 Heart of Fire]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {7913F709-272E-4840-863F-C614CEDA202D}
+    TRACKID {755ECF23-FA7C-4553-842B-A8004E041425}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {90BFEE8B-90B3-4A4B-9E3A-3123E8EC3F2E}
+      FXID {9DDCE556-21FF-4D41-B2EB-F077136A6073}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {CB36F50C-5231-4E95-8D6C-7CC64DDD0353}
+      IGUID {FA77AD5F-CA22-493F-B631-3A58C8A88A47}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent8.mid"
       >
     >
   >
-  <TRACK {F7F6A82F-9E46-44D5-B08F-B319949D24A7}
+  <TRACK {C14EFA6C-B45D-4A5E-B53D-0EDBE43580F3}
     NAME "NES - Pulse 2 [CV1 Heart of Fire]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {F7F6A82F-9E46-44D5-B08F-B319949D24A7}
+    TRACKID {C14EFA6C-B45D-4A5E-B53D-0EDBE43580F3}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C31020FE-F091-4C11-9ED1-6D88FD570D54}
+      FXID {503AE392-BEDA-4678-B618-892AB1C2A0FF}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {10B946DB-47C9-40A8-AF74-5D734E20D459}
+      IGUID {BDDB1E48-85E7-4104-89A7-811BBE22ED62}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent8.mid"
       >
     >
   >
-  <TRACK {D467D03D-A97E-4DF2-98D1-95334A96ECD7}
+  <TRACK {F8B47F8F-7678-490A-B90E-8ACD81AA37C5}
     NAME "NES - Triangle [CV1 Heart of Fire]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {D467D03D-A97E-4DF2-98D1-95334A96ECD7}
+    TRACKID {F8B47F8F-7678-490A-B90E-8ACD81AA37C5}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {AA4A1FDD-500B-4830-8861-908D9284AE15}
+      FXID {0CD8A0A3-5866-4C3A-B923-DB8151C4D19D}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {03ACF0A0-E322-4BAE-B548-C995FE1ADDE2}
+      IGUID {356A1D4C-2758-4622-A701-3AA36F904E3C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent8.mid"
       >
     >
   >
-  <TRACK {423DDD06-C407-40C0-AAA2-4B2BABA9E072}
+  <TRACK {13CE811F-A29C-4774-A2E1-49210DB22973}
     NAME "NES - Noise / Drums [CV1 Heart of Fire]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {423DDD06-C407-40C0-AAA2-4B2BABA9E072}
+    TRACKID {13CE811F-A29C-4774-A2E1-49210DB22973}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {B168CD25-F27A-461A-9745-BA16EC986ECB}
+      FXID {7AFE9E0D-31FD-4811-BDA8-4E700EBD0C28}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {2B31915F-7A27-4ECF-8D4B-5147ECDB06AE}
+      IGUID {3B2905EE-7A37-450D-83D8-6F21853AFFB1}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent8.mid"
       >

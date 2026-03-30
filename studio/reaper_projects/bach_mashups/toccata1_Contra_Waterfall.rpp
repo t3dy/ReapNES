@@ -12,7 +12,7 @@
     |Bach × Contra Waterfall — Toccata in D minor BWV 565
     |Stage preset: Both pulses at 12.5% - thin, metallic, haunting
   >
-  <TRACK {E2A54BBC-79FF-4D81-AD01-368BA725E4D6}
+  <TRACK {85EF1695-6BFF-491B-B561-83D87B387722}
     NAME "NES - Pulse 1 [Contra Waterfall]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E2A54BBC-79FF-4D81-AD01-368BA725E4D6}
+    TRACKID {85EF1695-6BFF-491B-B561-83D87B387722}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8CBA5506-B8CA-4057-9FE5-14DE42A102FF}
+      FXID {1633649C-9116-4401-805F-3B2863A94A0D}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F8E302C1-7AF9-4726-A8F5-1459DFDDD9DC}
+      IGUID {9962772C-9CD7-4524-8DF7-6A5EF9E86DC9}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {72BBAD52-64EB-4008-8507-24E0CC997544}
+  <TRACK {060612AD-5D58-4AA2-BE5E-973EB175EB98}
     NAME "NES - Pulse 2 [Contra Waterfall]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {72BBAD52-64EB-4008-8507-24E0CC997544}
+    TRACKID {060612AD-5D58-4AA2-BE5E-973EB175EB98}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {84844ED7-918F-4DDE-8712-28F6E8E85329}
+      FXID {295D44CA-CFCA-49D5-8A6B-C741E9E6B6CD}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E9226C3F-B2CC-4FC5-95DB-80C0A2D2C9C8}
+      IGUID {5CD56B04-B10F-4C13-B4E1-1CB7C194C5EB}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {B32AD90C-3E8D-4F0A-A33E-842532BD66A3}
+  <TRACK {F2B7608C-E245-4814-AF79-6A813E965D6F}
     NAME "NES - Triangle [Contra Waterfall]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B32AD90C-3E8D-4F0A-A33E-842532BD66A3}
+    TRACKID {F2B7608C-E245-4814-AF79-6A813E965D6F}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {D2E96475-1CBD-43A5-B01E-67C6D48D0D39}
+      FXID {67605B2A-8339-4BE9-A655-C09A9AF4A72F}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A52CDFC8-29AE-4A76-B858-7E01C4AAD307}
+      IGUID {9D1F4425-E0B4-4E72-A7A3-AC11B66E1D6A}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {57E41763-F291-4832-8BA9-173DCDE7B2F3}
+  <TRACK {BDA0BCFD-7A84-4F73-8442-3B1D54FD099C}
     NAME "NES - Noise / Drums [Contra Waterfall]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {57E41763-F291-4832-8BA9-173DCDE7B2F3}
+    TRACKID {BDA0BCFD-7A84-4F73-8442-3B1D54FD099C}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {EB3D9BD7-D0AE-465B-80F5-6CC6C9E315F3}
+      FXID {C683A45A-4A24-45E9-A4FA-2D744056FC35}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DC179F49-AD69-4A59-B98E-B50ADDB2EAE1}
+      IGUID {632AA387-84B7-4D88-A587-2224D554528C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >

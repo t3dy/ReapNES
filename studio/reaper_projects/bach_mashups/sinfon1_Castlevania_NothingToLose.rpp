@@ -12,7 +12,7 @@
     |Bach × CV1 Nothing to Lose — Three-Part Sinfonia No.1 in C
     |Stage preset: Warm square lead against thin buzzy pad - tension
   >
-  <TRACK {AC6C4BAC-0A3B-4104-9209-41FBCB2D0024}
+  <TRACK {57BAFD09-171D-4C02-AC08-B478766D1BD5}
     NAME "NES - Pulse 1 [CV1 Nothing to Lose]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {AC6C4BAC-0A3B-4104-9209-41FBCB2D0024}
+    TRACKID {57BAFD09-171D-4C02-AC08-B478766D1BD5}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {FD797506-238E-4396-AF6C-893F05479A05}
+      FXID {9F46277F-A1B4-4277-BF65-C764A613B647}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B47BC3A9-4A2E-47C1-BD7B-A89F63E75898}
+      IGUID {4C2EB451-4B6F-4C2E-89A8-B79F24A27BBD}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {D9DF4FB5-9BC8-4FEF-82E4-48135FCF0B92}
+  <TRACK {9BF594E8-8E52-4B55-ADE4-C94834B5A9A4}
     NAME "NES - Pulse 2 [CV1 Nothing to Lose]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {D9DF4FB5-9BC8-4FEF-82E4-48135FCF0B92}
+    TRACKID {9BF594E8-8E52-4B55-ADE4-C94834B5A9A4}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {E78154B9-A0BC-4BDF-A48A-653AE02388DE}
+      FXID {FC2DF7B7-095F-4802-B65C-EBD8B00AB552}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B1ED34D0-B47F-4E6E-BE45-8EDE94200AEA}
+      IGUID {D2653E6A-5677-4C98-8151-AFDE9FFD3E87}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {1E517437-A261-40E3-8851-CB49D0F7C8F2}
+  <TRACK {7B86A69E-E6BB-49A9-A688-30C262766E3B}
     NAME "NES - Triangle [CV1 Nothing to Lose]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {1E517437-A261-40E3-8851-CB49D0F7C8F2}
+    TRACKID {7B86A69E-E6BB-49A9-A688-30C262766E3B}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0F8FBCCD-505C-4679-ADA8-3F904B5AE0F5}
+      FXID {E318B39C-FA41-4661-95A2-D43700E0D781}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3277B15F-2838-4688-9D5B-8E4A0E65CF91}
+      IGUID {05157FE8-CA61-4E5C-A24F-63F589E930B5}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {3AC87164-ABE7-4EBC-AC1A-39C0082EA4F0}
+  <TRACK {1C3DA416-FCDB-454F-BD1A-0A778F2197D0}
     NAME "NES - Noise / Drums [CV1 Nothing to Lose]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {3AC87164-ABE7-4EBC-AC1A-39C0082EA4F0}
+    TRACKID {1C3DA416-FCDB-454F-BD1A-0A778F2197D0}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {F03E5091-6A8F-4C18-B6E1-6F93C118DF3E}
+      FXID {C781DC43-7A77-45E4-855D-339EB767D85C}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5A5F7272-978C-45D1-912A-757F1A5B72C3}
+      IGUID {8C5E89A5-8F26-49AE-986C-0B9FEC251D76}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >

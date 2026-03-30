@@ -12,7 +12,7 @@
     |Bach × Contra Waterfall — Goldberg Aria
     |Stage preset: Both pulses at 12.5% - thin, metallic, haunting
   >
-  <TRACK {CF8080BC-3582-40F0-9364-D9C0302808F1}
+  <TRACK {1085F1F8-A899-4B11-855C-2BD9115B7A9A}
     NAME "NES - Pulse 1 [Contra Waterfall]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {CF8080BC-3582-40F0-9364-D9C0302808F1}
+    TRACKID {1085F1F8-A899-4B11-855C-2BD9115B7A9A}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {ED54A130-037C-41E1-A1DA-A7C9B146BB31}
+      FXID {C11B7CA5-A058-4A90-883A-4E2FAAE32230}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {8B827E4F-B168-45BE-8C30-01E5B89D2572}
+      IGUID {C45B7BDA-51A3-4EC9-B605-3B6B289C4298}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {204C266F-3A4F-451A-9651-FE61890EB68F}
+  <TRACK {F2DE02A9-502D-4B56-B4FB-102A6B49D3B1}
     NAME "NES - Pulse 2 [Contra Waterfall]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {204C266F-3A4F-451A-9651-FE61890EB68F}
+    TRACKID {F2DE02A9-502D-4B56-B4FB-102A6B49D3B1}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7125A5D6-1EC6-48BB-AE18-12EFB32BAA2D}
+      FXID {B401D05F-97BE-4052-8261-1CE553124A8C}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {93B3EDD5-43AD-4517-B538-E735A01C4432}
+      IGUID {5234C8CC-0741-4358-814C-8FE7B601B5CC}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {4CA5CFA4-0D31-4840-B8C5-D99F2A354315}
+  <TRACK {9435F0E4-273F-4C2E-8503-3D648DE4B34D}
     NAME "NES - Triangle [Contra Waterfall]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {4CA5CFA4-0D31-4840-B8C5-D99F2A354315}
+    TRACKID {9435F0E4-273F-4C2E-8503-3D648DE4B34D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {36008173-48B7-45A4-9F52-C58532132B6D}
+      FXID {7B9ECCD0-1EF4-44FA-AB04-896700F75C6C}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F90013EC-78A9-4ADD-9991-DE28ADDF456E}
+      IGUID {DC48EE33-FB46-4339-91E8-A7F3021D3ADE}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {47B52692-A0A5-4192-B1AB-600E798ED112}
+  <TRACK {B4DAC81E-50B8-4531-9E75-914330842507}
     NAME "NES - Noise / Drums [Contra Waterfall]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {47B52692-A0A5-4192-B1AB-600E798ED112}
+    TRACKID {B4DAC81E-50B8-4531-9E75-914330842507}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {5381E15E-8A02-4C9E-AB02-A28FD9DB3F43}
+      FXID {D342E2C9-84DF-4ECB-A4EB-D8E2CFB15FF0}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {C59BC0A3-FB70-43FC-AB92-F7760E969D02}
+      IGUID {971ED3AC-9152-4672-96E7-F85EBC46E4BA}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >

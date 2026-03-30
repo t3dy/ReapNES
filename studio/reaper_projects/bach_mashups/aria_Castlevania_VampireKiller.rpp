@@ -12,7 +12,7 @@
     |Bach × CV1 Vampire Killer — Goldberg Aria
     |Stage preset: Classic balanced NES sound, warm lead with bright harmony
   >
-  <TRACK {76D3D056-7635-43C4-AF9E-02D250EB77FD}
+  <TRACK {C06C7C2E-9A90-4C73-B6E9-F185C3DAA771}
     NAME "NES - Pulse 1 [CV1 Vampire Killer]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {76D3D056-7635-43C4-AF9E-02D250EB77FD}
+    TRACKID {C06C7C2E-9A90-4C73-B6E9-F185C3DAA771}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {B54AA1C7-C8EC-4AB5-9B3D-80B868E1C083}
+      FXID {99D1EE98-A62D-4E5F-8BE8-7F157986FAB6}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {1408F851-D2A0-4F31-90B1-1CE2F9C5DE0E}
+      IGUID {B3AB8B8B-30FF-4A00-9448-763BFC27F2C0}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {F60E3CE7-85B6-454A-8E08-5FC1DABEFDCE}
+  <TRACK {1FD168A1-854B-4853-9FE4-671DC844A756}
     NAME "NES - Pulse 2 [CV1 Vampire Killer]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {F60E3CE7-85B6-454A-8E08-5FC1DABEFDCE}
+    TRACKID {1FD168A1-854B-4853-9FE4-671DC844A756}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {501ABC13-0E37-482F-974F-B670B961A607}
+      FXID {1DA51927-7C23-4615-B0EE-83E6C4A702CC}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {831EFDB4-3A11-4F0A-A4CD-110829558686}
+      IGUID {DEF6C827-2DC6-422C-90CC-B26A670B10E8}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {4C930E80-0E69-4E72-8B8A-378AE251F57E}
+  <TRACK {B68D652F-CE17-4374-821D-083FEB7192E6}
     NAME "NES - Triangle [CV1 Vampire Killer]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {4C930E80-0E69-4E72-8B8A-378AE251F57E}
+    TRACKID {B68D652F-CE17-4374-821D-083FEB7192E6}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {3A74D31B-F7AA-4C2A-B00D-AF14373EEAD7}
+      FXID {E76BBF4A-072F-46EB-A002-446C7387B817}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0F6CA323-9B4A-4144-B772-3957064ED800}
+      IGUID {EBA28794-C6D0-4A68-8436-78155B8358D1}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >
     >
   >
-  <TRACK {16E476AA-BD9A-41F4-B32C-19D302121F12}
+  <TRACK {6F048BCC-846E-43A1-9084-B4E084666C56}
     NAME "NES - Noise / Drums [CV1 Vampire Killer]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {16E476AA-BD9A-41F4-B32C-19D302121F12}
+    TRACKID {6F048BCC-846E-43A1-9084-B4E084666C56}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {DD47C971-E641-4C9A-B96B-4D41BAD551DA}
+      FXID {90F6938B-12A7-4F77-A6BF-1F9A984FB578}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {6ADC98AD-FE6D-4700-9E28-68E1C74FF9E7}
+      IGUID {9B4BB249-F038-4A8C-B5C5-F1B7144DBF48}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/aria.mid"
       >

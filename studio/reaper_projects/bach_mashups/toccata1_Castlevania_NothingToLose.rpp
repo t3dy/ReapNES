@@ -12,7 +12,7 @@
     |Bach × CV1 Nothing to Lose — Toccata in D minor BWV 565
     |Stage preset: Warm square lead against thin buzzy pad - tension
   >
-  <TRACK {97F993F4-E919-469A-9F0C-335D722AE106}
+  <TRACK {B566FC03-2665-457E-90C0-15FBA36C4F81}
     NAME "NES - Pulse 1 [CV1 Nothing to Lose]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {97F993F4-E919-469A-9F0C-335D722AE106}
+    TRACKID {B566FC03-2665-457E-90C0-15FBA36C4F81}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {74ECB1A7-BA6D-4203-920A-88D951A31573}
+      FXID {1CC05123-853D-462B-ACC4-D1839E671866}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {AE324793-E5E9-4E57-A7C4-F6E01159014D}
+      IGUID {CE9F42B6-C1AD-438F-8E4E-DE2E03046175}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {856F6D18-D9C0-4452-BBF4-86FCC8DEB76D}
+  <TRACK {7F91D54B-9664-412D-82CA-CAE1C916152C}
     NAME "NES - Pulse 2 [CV1 Nothing to Lose]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {856F6D18-D9C0-4452-BBF4-86FCC8DEB76D}
+    TRACKID {7F91D54B-9664-412D-82CA-CAE1C916152C}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {82A989BA-FC85-4363-B5C1-D4D5EDF1FD54}
+      FXID {699C8CDC-2B22-436D-933F-3D044D171D94}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {33A6C1A7-F6C5-49C5-B298-481D55A6B606}
+      IGUID {DE775C1A-6458-4698-800E-AF52766FF623}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {080A564C-AB11-4B10-AAF4-87A1F666FD8E}
+  <TRACK {321D0986-28D5-4856-9CCA-C911F28B14FF}
     NAME "NES - Triangle [CV1 Nothing to Lose]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {080A564C-AB11-4B10-AAF4-87A1F666FD8E}
+    TRACKID {321D0986-28D5-4856-9CCA-C911F28B14FF}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {866DF0DA-8287-4BD3-9976-D95A978FE010}
+      FXID {C47A0923-1266-4C3E-8FCF-075F14FB5AAB}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {FB9D1306-CD21-4FFC-B2CB-F185998425CC}
+      IGUID {270B68C8-503A-4E29-973A-24C692A803FF}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {06B542C3-6C90-468E-92C1-CCE9FD895C12}
+  <TRACK {2BBA2AB7-12A5-48E0-9D8A-3D7A6ABAEBF1}
     NAME "NES - Noise / Drums [CV1 Nothing to Lose]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {06B542C3-6C90-468E-92C1-CCE9FD895C12}
+    TRACKID {2BBA2AB7-12A5-48E0-9D8A-3D7A6ABAEBF1}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {3F598762-D013-488E-98E2-A31AF94C3965}
+      FXID {525105EF-0D29-490E-8461-805509645EC7}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {229613A7-5B92-4C2D-B89F-1945647E6E19}
+      IGUID {84DBB4E2-4928-40FB-B0E0-F68FB1D6C9FB}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >

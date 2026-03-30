@@ -12,7 +12,7 @@
     |Bach × Contra Flame Fortress — Three-Part Sinfonia No.1 in C
     |Stage preset: Both thin pulses for claustrophobic tension
   >
-  <TRACK {5CCBC7A2-EAAB-4D8C-A713-11285F5EE43E}
+  <TRACK {C74CB06C-D545-426D-97CF-E7953099E066}
     NAME "NES - Pulse 1 [Contra Flame Fortress]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {5CCBC7A2-EAAB-4D8C-A713-11285F5EE43E}
+    TRACKID {C74CB06C-D545-426D-97CF-E7953099E066}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {DB6F4399-875D-4AE5-8014-457A5B344D52}
+      FXID {0EFE4D42-4143-4133-A98B-D8D31E729944}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {397C7BE2-CACD-4779-82ED-B90AA4ED4DC1}
+      IGUID {F44F72A1-E005-4FE4-AF74-AE1F896B8DEF}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {34C4602C-E611-40D8-B95B-41341559B52E}
+  <TRACK {1CA25A31-1ED1-4985-956E-21143AADC5D2}
     NAME "NES - Pulse 2 [Contra Flame Fortress]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {34C4602C-E611-40D8-B95B-41341559B52E}
+    TRACKID {1CA25A31-1ED1-4985-956E-21143AADC5D2}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {F939A828-B42C-48C5-BF95-6113B28664C5}
+      FXID {C628EBC5-89B4-4016-8193-00571D11627F}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {81773F7D-B969-43D9-9F26-102A577B6E80}
+      IGUID {27A3B175-AACC-4F94-81CE-1C4F008F523A}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {90E8F274-E6A1-4693-8AAF-6FB442B2102E}
+  <TRACK {0D769629-DA66-4FA7-9D77-6DA15ADB99FA}
     NAME "NES - Triangle [Contra Flame Fortress]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {90E8F274-E6A1-4693-8AAF-6FB442B2102E}
+    TRACKID {0D769629-DA66-4FA7-9D77-6DA15ADB99FA}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {B2D9CE3F-BAD1-4F9A-8193-F3A08FC67BD7}
+      FXID {3A04E0D9-6915-4C39-B9D0-5EC339384228}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {6B787AEA-1B46-4D32-B72B-97DEFD7A4C0B}
+      IGUID {77455B2E-48B5-4F38-81F7-BA3A9EFC0A37}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {206468A1-D249-4ADD-B2CC-8F7314B5F66F}
+  <TRACK {2CC34465-06E6-415E-B4A7-A0CF9BA17070}
     NAME "NES - Noise / Drums [Contra Flame Fortress]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {206468A1-D249-4ADD-B2CC-8F7314B5F66F}
+    TRACKID {2CC34465-06E6-415E-B4A7-A0CF9BA17070}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {30DCA6B7-8766-4AFC-9FC7-4EED4ED3279A}
+      FXID {3D715C29-A8FD-4C09-9C34-CD9510DCC723}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {8A14B4B0-596F-4B10-9D0B-D6B16FE5D0EA}
+      IGUID {A9F60180-20F7-4DF3-8BD6-152FB694355D}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >

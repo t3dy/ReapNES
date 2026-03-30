@@ -12,7 +12,7 @@
     |Bach × CV1 Wicked Child — Three-Part Sinfonia No.1 in C
     |Stage preset: Bright punchy lead with warm square harmony
   >
-  <TRACK {FC04E85E-484D-4B2C-8D40-6F9502FA11E7}
+  <TRACK {40AF5C9D-F18C-4D65-918E-C341AE2C5B31}
     NAME "NES - Pulse 1 [CV1 Wicked Child]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {FC04E85E-484D-4B2C-8D40-6F9502FA11E7}
+    TRACKID {40AF5C9D-F18C-4D65-918E-C341AE2C5B31}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {98375933-900C-4350-9AEA-EFA974FFBFF2}
+      FXID {5DF35B59-DE25-4466-9115-E65C3723C5AD}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F203F9FA-57CD-43BC-A3B0-8188BE2F6409}
+      IGUID {27D54326-59B8-4417-AF0F-B4E7FA5A1F4D}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {CF2B39CE-14D4-453B-B4BA-5DC6904C4D57}
+  <TRACK {BCB9B15F-77FE-4947-9931-727D09DE7661}
     NAME "NES - Pulse 2 [CV1 Wicked Child]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {CF2B39CE-14D4-453B-B4BA-5DC6904C4D57}
+    TRACKID {BCB9B15F-77FE-4947-9931-727D09DE7661}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0EC2986D-19FC-4839-AB3A-825B5CF737E2}
+      FXID {8A4BE349-B711-4CCB-87C8-B18C4C5E5CA1}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {8CED22E5-5AAE-4926-97AC-90848BC15681}
+      IGUID {584E18E6-8381-4439-8F21-57FA9389F0AE}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {59AA1C8D-FA82-48A1-9F42-72DBAABF0CA0}
+  <TRACK {B97FEAB2-4485-4883-8B5D-235A185BCC9F}
     NAME "NES - Triangle [CV1 Wicked Child]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {59AA1C8D-FA82-48A1-9F42-72DBAABF0CA0}
+    TRACKID {B97FEAB2-4485-4883-8B5D-235A185BCC9F}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {1A3253DC-18A9-4CAB-B570-41561F8349AB}
+      FXID {D08AFD44-D523-4225-B6D4-2756446737C3}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {878A6886-62A7-427F-B29F-930123AF9429}
+      IGUID {C842F0F1-61BA-47EE-A539-44CE1FD33B0B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {8F8E49B7-DBDE-4768-BC68-A478E95BD771}
+  <TRACK {59C89757-2C7C-4479-80E9-ADF764196CEE}
     NAME "NES - Noise / Drums [CV1 Wicked Child]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {8F8E49B7-DBDE-4768-BC68-A478E95BD771}
+    TRACKID {59C89757-2C7C-4479-80E9-ADF764196CEE}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C9FFA854-D5CD-4B1C-8033-3455817AE604}
+      FXID {CEDAA157-9152-4A93-A38B-A384BEFF6B5E}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {BFFE2C6C-E983-4A63-98A1-D9B8DDA32F30}
+      IGUID {6AFC4E7D-2F77-4488-AA70-4517BD351BEB}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >

@@ -12,7 +12,7 @@
     |Bach × Contra Jungle — WTC Fugue No.7 in Eb
     |Stage preset: Wide asymmetric pulses - punchy, military feel
   >
-  <TRACK {96E96621-67E0-4BD2-B6DD-4E97024D5F67}
+  <TRACK {ED19370E-E2D4-475D-963D-014163CE27FA}
     NAME "NES - Pulse 1 [Contra Jungle]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {96E96621-67E0-4BD2-B6DD-4E97024D5F67}
+    TRACKID {ED19370E-E2D4-475D-963D-014163CE27FA}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {694ABB52-5685-4E99-9CC7-9F0273C235E7}
+      FXID {FD0F89D9-066A-4B29-8FE4-56CFA0414813}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F5168403-1FD5-476C-BB2B-C00A51301EB0}
+      IGUID {B21FF7CC-3BAC-481B-95EB-3705D124079A}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue7.mid"
       >
     >
   >
-  <TRACK {B43B595C-081B-4C78-ADA4-D3754E6E2B2A}
+  <TRACK {4C9B73DB-E20C-4F04-BD0B-7D12F026F889}
     NAME "NES - Pulse 2 [Contra Jungle]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B43B595C-081B-4C78-ADA4-D3754E6E2B2A}
+    TRACKID {4C9B73DB-E20C-4F04-BD0B-7D12F026F889}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {1C21B8DE-E5D3-4B59-90FE-97FD7F491276}
+      FXID {687EA297-5B7C-4ECD-992B-CBD48C445F46}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {C0213EEF-36E9-45E7-9930-E5542DE94C11}
+      IGUID {2405DD6D-0A1D-41EE-893A-A30522E39EE3}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue7.mid"
       >
     >
   >
-  <TRACK {CAC84855-C788-415D-897F-7F0A6C67FB10}
+  <TRACK {DFCF0493-C589-4AB6-BC88-8D9EF2C5F496}
     NAME "NES - Triangle [Contra Jungle]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {CAC84855-C788-415D-897F-7F0A6C67FB10}
+    TRACKID {DFCF0493-C589-4AB6-BC88-8D9EF2C5F496}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7070148A-9373-4035-9947-681CD6B16977}
+      FXID {F9DF8145-55A4-4F3C-86B1-08D941A4F838}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D739B1BD-1691-48E5-9363-6A1DC1E42F3E}
+      IGUID {E26082F1-7BEE-4B6B-BFBF-06BF7EB8A08C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue7.mid"
       >
     >
   >
-  <TRACK {757CB440-48D2-42B8-9C6E-B0E016BA1596}
+  <TRACK {D7002F24-8230-4D97-A3C8-74F74FE99FFF}
     NAME "NES - Noise / Drums [Contra Jungle]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {757CB440-48D2-42B8-9C6E-B0E016BA1596}
+    TRACKID {D7002F24-8230-4D97-A3C8-74F74FE99FFF}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {FC7217D1-658D-4DB1-8AE0-55F761692BEF}
+      FXID {EEB7AD3E-8EDB-4E50-8DDE-65C957A44CEA}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {59B5A057-D536-4598-BA22-DA5CB99DFE7A}
+      IGUID {CC921555-6B04-4385-8123-1E17E46526DC}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue7.mid"
       >

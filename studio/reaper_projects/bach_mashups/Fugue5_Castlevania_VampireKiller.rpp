@@ -12,7 +12,7 @@
     |Bach × CV1 Vampire Killer — WTC Fugue No.5 in D
     |Stage preset: Classic balanced NES sound, warm lead with bright harmony
   >
-  <TRACK {ED688EB1-5482-4FCF-BD78-C778A94147D4}
+  <TRACK {8FAE9984-20BF-4F14-A148-E523766D28A1}
     NAME "NES - Pulse 1 [CV1 Vampire Killer]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {ED688EB1-5482-4FCF-BD78-C778A94147D4}
+    TRACKID {8FAE9984-20BF-4F14-A148-E523766D28A1}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {46DC371F-AB22-42A7-9BCD-7D4228A08249}
+      FXID {1BB3F9A3-C6EA-4D45-AC0A-013D6EFCE4CB}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {59EF3F98-A0DC-4CC7-8B4C-DDB111818BDA}
+      IGUID {FCDC1154-2C0B-4B0D-ABC9-107331C93D7B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue5.mid"
       >
     >
   >
-  <TRACK {15A6A7BE-C34D-40A5-B35B-B14EC4F24E7B}
+  <TRACK {0497B976-1302-4557-B90C-868029FAE1F1}
     NAME "NES - Pulse 2 [CV1 Vampire Killer]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {15A6A7BE-C34D-40A5-B35B-B14EC4F24E7B}
+    TRACKID {0497B976-1302-4557-B90C-868029FAE1F1}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {02138D00-0FBA-4A9D-94D4-584E9F8D9B68}
+      FXID {5593D230-449E-4A2F-94F7-0E2BF9CAA9B5}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {199AFD4A-886B-4BFE-8B4E-C387E1551B24}
+      IGUID {3636C0D9-EE57-4B9A-B3DC-61FFA64AB42A}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue5.mid"
       >
     >
   >
-  <TRACK {964F9042-2532-4DAD-9C5B-F32E1D72E203}
+  <TRACK {D627F007-165A-446F-8299-BE4F37E0FA18}
     NAME "NES - Triangle [CV1 Vampire Killer]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {964F9042-2532-4DAD-9C5B-F32E1D72E203}
+    TRACKID {D627F007-165A-446F-8299-BE4F37E0FA18}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {4EFC4688-C23A-4C60-9B17-A805F96F8D97}
+      FXID {B0BF8B03-D4C4-4D22-AB4D-C06470A772A3}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {CA364216-BFB5-4ACC-9C88-57ADBE45AB3B}
+      IGUID {045ED625-5CC4-4136-85E6-1CA227509415}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue5.mid"
       >
     >
   >
-  <TRACK {225C9C2E-1972-4EE3-BE53-B06CDB5F9045}
+  <TRACK {FD4CB70B-667A-4F2B-9489-53942CAAFFC6}
     NAME "NES - Noise / Drums [CV1 Vampire Killer]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {225C9C2E-1972-4EE3-BE53-B06CDB5F9045}
+    TRACKID {FD4CB70B-667A-4F2B-9489-53942CAAFFC6}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {82F92F8E-AAD1-430A-A8CE-FA8E5E946A27}
+      FXID {3CF3B315-390F-4A8B-B8C5-244138B2031D}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {744DA2A6-6062-423E-A39B-A1D3B4F27371}
+      IGUID {553D6525-6C9C-480F-AB4C-4B8639ED74A4}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue5.mid"
       >

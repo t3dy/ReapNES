@@ -12,7 +12,7 @@
     |Bach × CV1 Stalker — Three-Part Sinfonia No.1 in C
     |Stage preset: Full square waves on both pulses, atmospheric and dense
   >
-  <TRACK {8A927595-2C94-4D87-9EEF-AB2B626B9F8C}
+  <TRACK {D6D896FE-CD35-4BEF-A59F-D3D7B8425E73}
     NAME "NES - Pulse 1 [CV1 Stalker]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {8A927595-2C94-4D87-9EEF-AB2B626B9F8C}
+    TRACKID {D6D896FE-CD35-4BEF-A59F-D3D7B8425E73}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {A6D6EF1B-21F7-43CB-948E-6AFFBAD2DC65}
+      FXID {0DD35E10-375D-409C-8B3A-9A48EC3A1A32}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {143010A4-92FA-47BE-85BC-FA2AFEC64A65}
+      IGUID {9D5AC891-19AF-46B8-A752-CA423AA15081}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {4608A196-4496-4E87-A169-7DFCAC131419}
+  <TRACK {13D5C17D-0023-4CE8-8092-7B8AEC22C356}
     NAME "NES - Pulse 2 [CV1 Stalker]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {4608A196-4496-4E87-A169-7DFCAC131419}
+    TRACKID {13D5C17D-0023-4CE8-8092-7B8AEC22C356}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {739E3669-4817-4701-A200-85B0E275AA40}
+      FXID {F6DD4F4F-E54D-414C-B94C-052D2C662BC9}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5DD355C7-6686-4E22-8915-87F6AC57404D}
+      IGUID {1F54CA15-532B-4357-BE6F-06A212649277}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {A2CF9D40-C264-4DBB-A64B-3F677CB5D50B}
+  <TRACK {B970DA79-9DEA-4AAE-8C27-C6DB3B46D3D3}
     NAME "NES - Triangle [CV1 Stalker]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {A2CF9D40-C264-4DBB-A64B-3F677CB5D50B}
+    TRACKID {B970DA79-9DEA-4AAE-8C27-C6DB3B46D3D3}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {FBFBFD31-87D5-42B5-9D42-1ED0302ABC91}
+      FXID {DA7AEF04-6CC4-42A9-AB75-134F54E3F048}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4694C180-623E-449D-B9D3-0136E96340E7}
+      IGUID {1A23A148-028E-426B-A178-B975C172299D}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {2A8B39C7-AAF0-4DCC-A09A-766263109D7C}
+  <TRACK {1D3A0AD1-D3FA-4013-A49B-78409AC06AC3}
     NAME "NES - Noise / Drums [CV1 Stalker]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {2A8B39C7-AAF0-4DCC-A09A-766263109D7C}
+    TRACKID {1D3A0AD1-D3FA-4013-A49B-78409AC06AC3}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {935538AA-AD8B-4800-A0EA-F5E9999BA306}
+      FXID {BB4A01A3-FB65-480C-8A40-8BEAC159FA00}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A2169ED0-408A-487E-A285-44C7FBFC4333}
+      IGUID {F3EBB139-BE31-4980-A73F-8DC79D614BCF}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >

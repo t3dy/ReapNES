@@ -12,7 +12,7 @@
     |Bach × Contra Jungle — WTC Prelude No.1 in C
     |Stage preset: Wide asymmetric pulses - punchy, military feel
   >
-  <TRACK {5EB4BB49-9E6E-4639-8679-E1D2938C5982}
+  <TRACK {3085C031-DF15-488E-BFBA-94215192D74D}
     NAME "NES - Pulse 1 [Contra Jungle]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {5EB4BB49-9E6E-4639-8679-E1D2938C5982}
+    TRACKID {3085C031-DF15-488E-BFBA-94215192D74D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0B571DA1-CEAC-4330-BE84-4E18EB8C1031}
+      FXID {BDD09DA2-1795-40CD-B71F-63025C47D26B}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {7584AE41-2A86-4C36-A78F-4B1F368B66C0}
+      IGUID {03F865FA-EC1C-45F7-B835-0A35B8421226}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >
     >
   >
-  <TRACK {B7D8CD34-2047-4545-903D-9F57667D236B}
+  <TRACK {F1C9EE25-F28F-4C8F-933F-D12110616BF6}
     NAME "NES - Pulse 2 [Contra Jungle]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B7D8CD34-2047-4545-903D-9F57667D236B}
+    TRACKID {F1C9EE25-F28F-4C8F-933F-D12110616BF6}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {954CBAAB-B4FC-4077-B8B8-FD992299E09A}
+      FXID {0D8A2687-6F9B-49B9-BE35-2C19E6C20AF3}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {998E77F5-E307-4946-BED0-1A9561339E65}
+      IGUID {7DAFEA00-A8EE-47A9-A6CE-03DF1718E4CF}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >
     >
   >
-  <TRACK {38228028-1DB8-4994-BD0F-F8BF689B3B6E}
+  <TRACK {204EA84D-D9D9-487F-8607-BFE211106945}
     NAME "NES - Triangle [Contra Jungle]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {38228028-1DB8-4994-BD0F-F8BF689B3B6E}
+    TRACKID {204EA84D-D9D9-487F-8607-BFE211106945}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {909A2EFD-5BB4-4481-87D4-DBB77CC80077}
+      FXID {B637DE85-4978-412B-A3B8-F5A34C110928}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {31654C54-286A-4DA1-91E7-AE6DE16A92F0}
+      IGUID {CB4EA63B-21FE-40CF-A543-36CEDC53606B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >
     >
   >
-  <TRACK {F5B069F5-B799-41DE-824B-C37AA082371B}
+  <TRACK {E3488911-AB32-4C0E-9953-CAD0D60C9F96}
     NAME "NES - Noise / Drums [Contra Jungle]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {F5B069F5-B799-41DE-824B-C37AA082371B}
+    TRACKID {E3488911-AB32-4C0E-9953-CAD0D60C9F96}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {D640C070-6AB4-443F-B064-BC2887C79200}
+      FXID {8289DCF7-7B5B-4096-8E21-5F87888558A7}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {154791E3-A88C-4B32-BD9C-41D34F2C7842}
+      IGUID {50FD8957-6067-46A1-B590-8E7E85A57BA1}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >

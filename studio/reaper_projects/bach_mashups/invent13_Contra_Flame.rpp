@@ -12,7 +12,7 @@
     |Bach × Contra Flame Fortress — Two-Part Invention No.13 in A minor
     |Stage preset: Both thin pulses for claustrophobic tension
   >
-  <TRACK {130B3729-0E54-49BF-99DB-9529BE74124D}
+  <TRACK {D9D71CB4-4C49-493D-AA40-00B0BC6F8C94}
     NAME "NES - Pulse 1 [Contra Flame Fortress]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {130B3729-0E54-49BF-99DB-9529BE74124D}
+    TRACKID {D9D71CB4-4C49-493D-AA40-00B0BC6F8C94}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {71A2F7A6-F873-4B8D-A036-168B12E2C130}
+      FXID {E86DC762-C3AD-41B9-A623-C031DF96AEB0}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {10BFE620-5D57-46BC-AB02-DF197E52D5F4}
+      IGUID {28FA6B12-C739-4D55-AA72-A1474565E2AA}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent13.mid"
       >
     >
   >
-  <TRACK {8ED7CB54-BD55-44BB-830D-BA33F05F8DB9}
+  <TRACK {76360E70-6A6B-47C5-9EC4-EF581B469950}
     NAME "NES - Pulse 2 [Contra Flame Fortress]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {8ED7CB54-BD55-44BB-830D-BA33F05F8DB9}
+    TRACKID {76360E70-6A6B-47C5-9EC4-EF581B469950}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {4C0699D0-78D7-4B78-94D3-8E0B6E55145B}
+      FXID {FB648DC3-3D10-4BC4-8AB9-1D2D6702116F}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5DFC8661-4686-42A9-AF8B-F30A0892F0CE}
+      IGUID {05D0E637-9F6B-445F-B6BF-5D8AF6730455}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent13.mid"
       >
     >
   >
-  <TRACK {201A4756-FF1F-420A-B879-BC4A201EF588}
+  <TRACK {6151A980-7E90-4950-9141-C8025BC57733}
     NAME "NES - Triangle [Contra Flame Fortress]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {201A4756-FF1F-420A-B879-BC4A201EF588}
+    TRACKID {6151A980-7E90-4950-9141-C8025BC57733}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {6625998D-0F1D-42CE-B624-902881D78E01}
+      FXID {42CEF73D-2092-4C54-BBE3-EA0C1AD96039}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {45D3A4D3-9962-4463-B1FD-980589E50AED}
+      IGUID {B74607C7-04B7-433B-85E1-1160EBB001B5}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent13.mid"
       >
     >
   >
-  <TRACK {53B2A1D3-CA09-4470-9949-60F9917D2459}
+  <TRACK {7DF25030-2437-4A5C-9B98-51840B37D29E}
     NAME "NES - Noise / Drums [Contra Flame Fortress]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {53B2A1D3-CA09-4470-9949-60F9917D2459}
+    TRACKID {7DF25030-2437-4A5C-9B98-51840B37D29E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {6CC091DC-F8DA-403B-B537-E15F766DD0BF}
+      FXID {2C60B3E1-24D6-4CBD-BA27-DC42D0285C73}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0C8D4C9C-00BE-46DA-B94E-6E73FD5D1227}
+      IGUID {B5798E51-8310-431C-8EC8-D5C0DA072B99}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent13.mid"
       >

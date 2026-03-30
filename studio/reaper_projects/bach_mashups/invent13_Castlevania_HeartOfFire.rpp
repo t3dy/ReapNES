@@ -12,7 +12,7 @@
     |Bach × CV1 Heart of Fire — Two-Part Invention No.13 in A minor
     |Stage preset: Both pulses at 25% duty - bright, intense, cutting
   >
-  <TRACK {4FAA813E-5655-4ADF-80BB-D5F985086C26}
+  <TRACK {F61E1974-8446-4A06-A555-AE7059BAFB82}
     NAME "NES - Pulse 1 [CV1 Heart of Fire]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {4FAA813E-5655-4ADF-80BB-D5F985086C26}
+    TRACKID {F61E1974-8446-4A06-A555-AE7059BAFB82}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8FAE319A-D829-45EE-A86B-EB23C953C130}
+      FXID {B1863F8E-5CD8-4A11-898A-05E1F08FE116}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {107A4BA0-4A3B-4E90-9A42-5E48D88DE887}
+      IGUID {B03ADB00-A10F-4894-8C8B-BAA85BC6B10D}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent13.mid"
       >
     >
   >
-  <TRACK {2552EF01-01C7-41CE-9528-75AF7AC4670E}
+  <TRACK {CDFC9565-C1AF-466D-BB0F-6CC085BBFA3D}
     NAME "NES - Pulse 2 [CV1 Heart of Fire]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {2552EF01-01C7-41CE-9528-75AF7AC4670E}
+    TRACKID {CDFC9565-C1AF-466D-BB0F-6CC085BBFA3D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {54F2EADF-8748-44F8-8D37-926A3D5C7951}
+      FXID {82163867-00ED-448F-9BE7-721F38F60836}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E11396EA-CDD2-4503-BEC3-3C91C6DA3A8C}
+      IGUID {23BEF388-6CA3-4005-8D34-5E6CA07DF5AC}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent13.mid"
       >
     >
   >
-  <TRACK {E82E2C14-9129-47C6-A335-5D24ED29567A}
+  <TRACK {3C53E645-CB07-4E1A-B83E-FDDE4FFE4AC9}
     NAME "NES - Triangle [CV1 Heart of Fire]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E82E2C14-9129-47C6-A335-5D24ED29567A}
+    TRACKID {3C53E645-CB07-4E1A-B83E-FDDE4FFE4AC9}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C4C132BC-0F8A-49E8-97F0-F09FED9CF16E}
+      FXID {3A4F8EAE-E00F-4DBB-823F-E060CCB8881B}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {37B94196-D830-43EB-BB25-2F41D2A67FC4}
+      IGUID {78F62ABA-7519-40A7-B9D2-4A66E1967BCD}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent13.mid"
       >
     >
   >
-  <TRACK {C2C18377-6141-4B58-B503-F50D054319CE}
+  <TRACK {8C48A6AA-2EF4-4A58-8A69-ACE4F08E1033}
     NAME "NES - Noise / Drums [CV1 Heart of Fire]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C2C18377-6141-4B58-B503-F50D054319CE}
+    TRACKID {8C48A6AA-2EF4-4A58-8A69-ACE4F08E1033}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0434FDE5-59BD-48F0-A7FE-479945AECE4A}
+      FXID {8AD4F898-FB9B-48E6-810B-D5FB4384FBB1}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {1904DD59-D543-4E20-ACFF-3F540F18105F}
+      IGUID {B10086D4-412D-4AD2-BA5B-1260D7B76816}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent13.mid"
       >

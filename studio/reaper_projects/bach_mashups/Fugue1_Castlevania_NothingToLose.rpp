@@ -12,7 +12,7 @@
     |Bach × CV1 Nothing to Lose — WTC Fugue No.1 in C
     |Stage preset: Warm square lead against thin buzzy pad - tension
   >
-  <TRACK {08D920AA-95D0-4A19-886B-F56261957A9B}
+  <TRACK {8DE776E4-257D-4D94-871A-21AC03FCC396}
     NAME "NES - Pulse 1 [CV1 Nothing to Lose]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {08D920AA-95D0-4A19-886B-F56261957A9B}
+    TRACKID {8DE776E4-257D-4D94-871A-21AC03FCC396}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {399572F8-5A88-4E4E-84E1-A1C18C7BF1A7}
+      FXID {B3D77FE9-9CB6-45E5-9E2D-3A47569AD20D}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5127D7CB-94CE-4998-A251-A9A9EA5DCC7D}
+      IGUID {B19C6F9C-7AA3-4B59-8EE8-00C4400F0985}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue1.mid"
       >
     >
   >
-  <TRACK {30B2817E-B031-4DF6-B50C-590728765A82}
+  <TRACK {46EDE050-0151-4E3B-A2ED-1961AA5BC164}
     NAME "NES - Pulse 2 [CV1 Nothing to Lose]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {30B2817E-B031-4DF6-B50C-590728765A82}
+    TRACKID {46EDE050-0151-4E3B-A2ED-1961AA5BC164}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {B3FE31A2-8C52-4EAB-8EFB-2FB28E491638}
+      FXID {B195DD15-B9EA-43D9-BAB0-A99229CC47E4}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {92AE6D08-A5A6-4E2F-899F-B3F9E4C3FEE5}
+      IGUID {4847710B-481C-4443-931C-4B606720BC6F}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue1.mid"
       >
     >
   >
-  <TRACK {1FAEBD8C-566E-4FE2-AE06-355B25580C90}
+  <TRACK {325244CA-92FA-48AB-9B3B-28AE53A0F44C}
     NAME "NES - Triangle [CV1 Nothing to Lose]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {1FAEBD8C-566E-4FE2-AE06-355B25580C90}
+    TRACKID {325244CA-92FA-48AB-9B3B-28AE53A0F44C}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {20011638-5890-4EFE-A02C-A0870CE3D13B}
+      FXID {AFFE67AF-690F-4A9B-8D09-DC923C297576}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {91722CCC-B66F-448A-93EE-52295E5A6166}
+      IGUID {3A5DC121-E1D3-41F8-B037-7FEA0F69B39C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue1.mid"
       >
     >
   >
-  <TRACK {0FB31E64-D773-4173-9232-D99B3E8196C6}
+  <TRACK {E9155766-F3A0-4FA0-9117-159E2AAD0285}
     NAME "NES - Noise / Drums [CV1 Nothing to Lose]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {0FB31E64-D773-4173-9232-D99B3E8196C6}
+    TRACKID {E9155766-F3A0-4FA0-9117-159E2AAD0285}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {05496240-54F0-4EF7-82C5-75E05C0FC44E}
+      FXID {63263EE1-582C-4DC7-9EA0-CDA6A3940105}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {9AE72B0A-4E86-4624-87F0-E4D843FE006A}
+      IGUID {D10F2D1B-1EF6-4072-A618-AF4AF9BA2C51}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue1.mid"
       >

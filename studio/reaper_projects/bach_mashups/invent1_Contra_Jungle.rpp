@@ -12,7 +12,7 @@
     |Bach × Contra Jungle — Two-Part Invention No.1 in C
     |Stage preset: Wide asymmetric pulses - punchy, military feel
   >
-  <TRACK {54ABC946-6AEF-48D2-B58B-27F62166D256}
+  <TRACK {00D6C953-921D-40BB-9135-3CF4E4911CC3}
     NAME "NES - Pulse 1 [Contra Jungle]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {54ABC946-6AEF-48D2-B58B-27F62166D256}
+    TRACKID {00D6C953-921D-40BB-9135-3CF4E4911CC3}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0C42166F-BE33-48E7-81EE-FEF551715FC3}
+      FXID {7847690F-832A-4B28-8FD5-31539EEA82FF}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D26F5F97-5391-47D5-9475-A4748ED1577F}
+      IGUID {8F7E4807-1145-4629-99E5-8F608F0EF894}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent1.mid"
       >
     >
   >
-  <TRACK {AA61C6E3-1CD2-471C-BAF1-EF02862B8884}
+  <TRACK {A19146F1-E107-45B5-B46B-1DAF3DB0E8BB}
     NAME "NES - Pulse 2 [Contra Jungle]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {AA61C6E3-1CD2-471C-BAF1-EF02862B8884}
+    TRACKID {A19146F1-E107-45B5-B46B-1DAF3DB0E8BB}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8DEC4342-EC62-4B05-B6A9-FF6D90808C86}
+      FXID {CAFEF343-9618-4177-9B81-673B1AE72BAD}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5A57E59A-782F-4353-AE65-108E5EFA71E2}
+      IGUID {992F1E65-A7CD-426B-9D48-4FCD1BD14AEE}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent1.mid"
       >
     >
   >
-  <TRACK {5F57439D-EFF7-4C88-B114-4E9CEBB45F95}
+  <TRACK {1BC0E8A0-00C4-47B6-AAAC-5FD3DAC8EA54}
     NAME "NES - Triangle [Contra Jungle]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {5F57439D-EFF7-4C88-B114-4E9CEBB45F95}
+    TRACKID {1BC0E8A0-00C4-47B6-AAAC-5FD3DAC8EA54}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {331F9585-2921-49C9-A83A-3F31AEFA1B5F}
+      FXID {8F4CFEE5-7D2C-48C2-95BE-40CB35EF917B}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5A66C86D-556C-44E9-A7A6-4B58495460C5}
+      IGUID {F81C1F79-F2BD-42AA-964C-9A9D4DA63EBC}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent1.mid"
       >
     >
   >
-  <TRACK {612F0B55-66E0-44E9-9DBE-8C4210BB5995}
+  <TRACK {17A97E00-6F77-42E2-877E-C993A0895714}
     NAME "NES - Noise / Drums [Contra Jungle]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {612F0B55-66E0-44E9-9DBE-8C4210BB5995}
+    TRACKID {17A97E00-6F77-42E2-877E-C993A0895714}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C5AA3B3A-027E-4917-A23D-182F9DBA5A8F}
+      FXID {52644EEB-A558-4565-BFC3-B273FB0E02A7}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {93A6AA24-1F39-404C-9D09-BEDF8367F6A1}
+      IGUID {BD8694A5-E39C-46BD-93B5-A29B93E8DF47}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent1.mid"
       >

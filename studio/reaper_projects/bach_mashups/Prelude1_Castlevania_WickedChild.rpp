@@ -12,7 +12,7 @@
     |Bach × CV1 Wicked Child — WTC Prelude No.1 in C
     |Stage preset: Bright punchy lead with warm square harmony
   >
-  <TRACK {278C1287-F55A-4C7A-AE70-DEF90E7FCA8B}
+  <TRACK {42F737F5-34DE-4301-A5A5-5FE5351ADD68}
     NAME "NES - Pulse 1 [CV1 Wicked Child]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {278C1287-F55A-4C7A-AE70-DEF90E7FCA8B}
+    TRACKID {42F737F5-34DE-4301-A5A5-5FE5351ADD68}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {43842662-6F7A-43D9-9055-F5C4ED0ABD1B}
+      FXID {32C5C0FC-EE3B-4B7B-B78E-726A83EB28C1}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F7F1663B-311C-4DC7-854A-D537FE4A9AFF}
+      IGUID {2F73B2BE-6182-4F32-B363-A497A810C530}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >
     >
   >
-  <TRACK {5A5FF6DB-6F50-42BE-860B-D7C5C14BFA44}
+  <TRACK {008CD71A-41C8-4897-B4D7-79456DAA35E0}
     NAME "NES - Pulse 2 [CV1 Wicked Child]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {5A5FF6DB-6F50-42BE-860B-D7C5C14BFA44}
+    TRACKID {008CD71A-41C8-4897-B4D7-79456DAA35E0}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {03FD189B-E1E5-4892-8F27-A6213BA43D0F}
+      FXID {21052BF2-E603-43F9-B95D-614BFFB68459}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4D07911A-9EA5-4976-B666-309893A30296}
+      IGUID {1ACD2FAB-7441-4F9E-9C5D-0578E7FCA502}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >
     >
   >
-  <TRACK {B608166D-59CF-4513-8944-535D851D2D7D}
+  <TRACK {BA2E8370-F341-45F0-A6ED-5A1FD22B0014}
     NAME "NES - Triangle [CV1 Wicked Child]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B608166D-59CF-4513-8944-535D851D2D7D}
+    TRACKID {BA2E8370-F341-45F0-A6ED-5A1FD22B0014}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8EFDDF29-2E88-4269-8FFA-FED44E86C9D0}
+      FXID {82D246CC-5B32-4037-AB01-8F4DB6BC39DC}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {14682492-FB3B-4A3B-8572-1B2F523174FA}
+      IGUID {BF82CD57-43D4-47F7-B4AE-5358C7D1180F}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >
     >
   >
-  <TRACK {EFB3F424-914E-4A48-AA74-8B2B8CD84CB9}
+  <TRACK {1C6B7B7C-7BAE-43F6-A799-958EEFFF1989}
     NAME "NES - Noise / Drums [CV1 Wicked Child]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {EFB3F424-914E-4A48-AA74-8B2B8CD84CB9}
+    TRACKID {1C6B7B7C-7BAE-43F6-A799-958EEFFF1989}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {25BEDA77-A7E7-4217-94D6-C1B943004D76}
+      FXID {9BE96B96-2794-45D8-AA11-C516BD4522A3}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {8692E75A-037F-4A53-A085-7CCDB30D81BE}
+      IGUID {D7FBA030-1AB3-49EC-8E68-2D487451C0CB}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude1.mid"
       >

@@ -12,7 +12,7 @@
     |Bach × CV1 Heart of Fire — WTC Fugue No.5 in D
     |Stage preset: Both pulses at 25% duty - bright, intense, cutting
   >
-  <TRACK {484BA91A-7387-42B9-834B-C147BE3E047B}
+  <TRACK {9BAA5B4E-5A2F-4F54-95C6-8966AE8FD132}
     NAME "NES - Pulse 1 [CV1 Heart of Fire]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {484BA91A-7387-42B9-834B-C147BE3E047B}
+    TRACKID {9BAA5B4E-5A2F-4F54-95C6-8966AE8FD132}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {BC69AC84-1597-44C7-9190-5C918F3E98C6}
+      FXID {46B6A043-E2F1-4DDE-9142-3D3E27E3DC9C}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {CB49E13E-4863-4155-929D-0ADBEF6AB9BD}
+      IGUID {3CD15E1E-BED3-4996-94BA-66001691E2AE}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue5.mid"
       >
     >
   >
-  <TRACK {C96985F1-060A-46CD-A646-B72F2CA5F685}
+  <TRACK {ACDDF092-2D93-4662-B5DF-4B8DD2082BEA}
     NAME "NES - Pulse 2 [CV1 Heart of Fire]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C96985F1-060A-46CD-A646-B72F2CA5F685}
+    TRACKID {ACDDF092-2D93-4662-B5DF-4B8DD2082BEA}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {6D3FA34E-3115-4A34-8536-501BB3F2FA22}
+      FXID {9EDEEBD1-99B6-44FB-A17F-BD251999DD15}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {AE65D675-7C7C-4FD0-BDE9-08DAFAE6DD23}
+      IGUID {2DD16C02-1523-4502-A741-1A3220CCCF5E}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue5.mid"
       >
     >
   >
-  <TRACK {1BE8358C-AF39-4AEE-A5B2-32B04CE4621D}
+  <TRACK {99544F9D-FEE7-48F4-B0B6-A858E92918EC}
     NAME "NES - Triangle [CV1 Heart of Fire]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {1BE8358C-AF39-4AEE-A5B2-32B04CE4621D}
+    TRACKID {99544F9D-FEE7-48F4-B0B6-A858E92918EC}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9894673D-42D0-44FE-BA5B-0ADB369CD23E}
+      FXID {282B24CB-130F-4A47-8D38-4AE4C890B172}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DCA2C2C1-5E64-4455-BEAF-18E85F0015BF}
+      IGUID {30ADDC6A-29DD-4B07-9870-BD0CE47D7E45}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue5.mid"
       >
     >
   >
-  <TRACK {736BEB4A-D627-4F55-BC18-184709799350}
+  <TRACK {8EE1369F-D989-416A-ACDB-22437B93D186}
     NAME "NES - Noise / Drums [CV1 Heart of Fire]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {736BEB4A-D627-4F55-BC18-184709799350}
+    TRACKID {8EE1369F-D989-416A-ACDB-22437B93D186}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {A4549C05-B211-4505-ACC2-E330F3F87CDF}
+      FXID {5FEAB251-EE09-4371-BA96-7AF5661FF112}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5A7E85EC-AFFF-45C7-8A6B-A3EF595FDEC4}
+      IGUID {168BCFEF-259C-4902-8545-1F03C8A0351B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue5.mid"
       >

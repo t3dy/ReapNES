@@ -12,7 +12,7 @@
     |Bach × Contra Jungle — Toccata in D minor BWV 565
     |Stage preset: Wide asymmetric pulses - punchy, military feel
   >
-  <TRACK {BA1EBCCC-6D63-46F9-A30D-C00E893B3C79}
+  <TRACK {F5A4E832-6244-4CD5-A50E-3874180DCCB2}
     NAME "NES - Pulse 1 [Contra Jungle]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {BA1EBCCC-6D63-46F9-A30D-C00E893B3C79}
+    TRACKID {F5A4E832-6244-4CD5-A50E-3874180DCCB2}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {5F72C3C6-6296-4E5B-BF89-F1C45D16B704}
+      FXID {85B0970F-15B9-471B-A7CF-D32A294138AD}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {FF19E8EE-5BE5-4E8B-9B2C-D72EC936EB45}
+      IGUID {EA4569FA-5056-4205-87BC-D5C73C4E5F63}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {93A92818-5541-4039-8AC8-4B19753BA157}
+  <TRACK {4BB54D78-8C52-4FD1-BE9D-4CB507127BA1}
     NAME "NES - Pulse 2 [Contra Jungle]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {93A92818-5541-4039-8AC8-4B19753BA157}
+    TRACKID {4BB54D78-8C52-4FD1-BE9D-4CB507127BA1}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {F35E86DA-B66C-41D9-A749-5A5597233F6F}
+      FXID {8F1585B1-0AC3-43C5-AB5A-0F90ECFA499F}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {104EDDC0-53AB-44B2-AC93-24C312C0394B}
+      IGUID {1B1CF5A8-1A65-4D11-A4AE-75DFF25C73AB}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {BD6FFAB7-2E4F-40CE-93BD-42AEFBE0D714}
+  <TRACK {80A02679-9267-4859-BA6B-1C248B0DB217}
     NAME "NES - Triangle [Contra Jungle]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {BD6FFAB7-2E4F-40CE-93BD-42AEFBE0D714}
+    TRACKID {80A02679-9267-4859-BA6B-1C248B0DB217}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {CC7E5467-3194-4BCD-B508-C204B1CE0923}
+      FXID {F6DCABA2-81B9-40B7-A3C0-B0A1A2496900}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F45E18BC-0968-4ED1-8533-7A0D905BD1C8}
+      IGUID {AC8066C3-485C-4A60-9D85-AE6C2066995B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {BF20403C-090D-47FB-874C-384E28D6092D}
+  <TRACK {5600AD8B-9A1B-4D67-9423-7CF871C1A29D}
     NAME "NES - Noise / Drums [Contra Jungle]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {BF20403C-090D-47FB-874C-384E28D6092D}
+    TRACKID {5600AD8B-9A1B-4D67-9423-7CF871C1A29D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {74D065F6-EB76-423B-AAF8-C8069AC3F30F}
+      FXID {B819D61A-5002-4959-84F1-32F6D9144BB2}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {678B2955-509F-46C2-AEB3-F0B03BA9DAB3}
+      IGUID {6E9EA8F1-4D89-4639-8793-422697DF2857}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >

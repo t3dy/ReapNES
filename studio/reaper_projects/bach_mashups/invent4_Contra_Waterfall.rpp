@@ -12,7 +12,7 @@
     |Bach × Contra Waterfall — Two-Part Invention No.4 in D minor
     |Stage preset: Both pulses at 12.5% - thin, metallic, haunting
   >
-  <TRACK {A44E742D-4F9E-4914-AC21-B518619EFB11}
+  <TRACK {6B7ACE1D-E795-47B3-8278-42C1988C2A4E}
     NAME "NES - Pulse 1 [Contra Waterfall]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {A44E742D-4F9E-4914-AC21-B518619EFB11}
+    TRACKID {6B7ACE1D-E795-47B3-8278-42C1988C2A4E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {3945F7D3-53ED-48C0-8535-7277049ECC69}
+      FXID {32B91709-3FAF-45FA-9CE6-018517F542CA}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {133225BD-6D72-4DCC-B3A8-9F5B4D9F729D}
+      IGUID {B5192090-D4E4-45D6-B212-79C3DBA02200}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent4.mid"
       >
     >
   >
-  <TRACK {2C373DA5-EDF9-449A-A60E-D54BDDF5CBC3}
+  <TRACK {02A0E884-3F36-4DA6-8513-11702B4E7DF4}
     NAME "NES - Pulse 2 [Contra Waterfall]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {2C373DA5-EDF9-449A-A60E-D54BDDF5CBC3}
+    TRACKID {02A0E884-3F36-4DA6-8513-11702B4E7DF4}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {72230091-6FB6-4B50-B5F7-3505AB5EA795}
+      FXID {44DDE1B1-D7D3-40BC-9F22-5CF567420D72}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D015549A-6FAB-492E-A887-D3E14D42EA4D}
+      IGUID {6397BF00-A855-4103-8AE0-5558622EF6CD}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent4.mid"
       >
     >
   >
-  <TRACK {EA0B1802-B557-4050-8D00-9540359D9FD8}
+  <TRACK {3E35C799-DBD5-4A7D-AF32-68C1ED34C0D7}
     NAME "NES - Triangle [Contra Waterfall]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {EA0B1802-B557-4050-8D00-9540359D9FD8}
+    TRACKID {3E35C799-DBD5-4A7D-AF32-68C1ED34C0D7}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {4E186265-BB87-40E0-A3AA-FB9E4FA1FAE0}
+      FXID {74FC889D-941A-4267-BB59-5CC121CD0660}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {348DFD3C-127D-4C76-AA92-4C900FA8D2F3}
+      IGUID {7CB11847-AC1C-40F1-8A8B-DEC980BFB4C1}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent4.mid"
       >
     >
   >
-  <TRACK {FB769A61-378C-49B6-8C57-05EF12D687B9}
+  <TRACK {33275867-4721-49F3-839D-BA9DC449E33F}
     NAME "NES - Noise / Drums [Contra Waterfall]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {FB769A61-378C-49B6-8C57-05EF12D687B9}
+    TRACKID {33275867-4721-49F3-839D-BA9DC449E33F}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0910806C-A164-4666-AE6D-70E04F230D37}
+      FXID {43692DA1-CAD8-4C88-AD24-67BEA62DAC15}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {388AF003-CA1C-4B1E-A14C-FDD8AD200605}
+      IGUID {7EF1B944-76F4-4659-9ECA-8387571F4237}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent4.mid"
       >

@@ -12,7 +12,7 @@
     |Bach × CV1 Vampire Killer — Two-Part Invention No.1 in C
     |Stage preset: Classic balanced NES sound, warm lead with bright harmony
   >
-  <TRACK {AF520109-2D37-43A2-8FA0-A529E1391677}
+  <TRACK {23DD3A11-C651-4C16-9691-C96821BB21E8}
     NAME "NES - Pulse 1 [CV1 Vampire Killer]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {AF520109-2D37-43A2-8FA0-A529E1391677}
+    TRACKID {23DD3A11-C651-4C16-9691-C96821BB21E8}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {81C353A1-2C45-40E6-A1EE-E3C788AA8B9A}
+      FXID {385E776A-635C-4A5D-AFFD-28B259B17C30}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {21A9E918-B63B-460D-BB4C-0728B3079FC5}
+      IGUID {615B288F-A5ED-4444-9A0A-2B6BBBACDCB7}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent1.mid"
       >
     >
   >
-  <TRACK {5728D642-9354-43DF-A529-B040623BF769}
+  <TRACK {5AC9B168-AA99-4959-A848-2F658A7342C4}
     NAME "NES - Pulse 2 [CV1 Vampire Killer]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {5728D642-9354-43DF-A529-B040623BF769}
+    TRACKID {5AC9B168-AA99-4959-A848-2F658A7342C4}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7782B6E2-9D9A-4BD9-AAF5-76070F0805C9}
+      FXID {546939EB-7388-4D3B-8E39-C24AE937DC7D}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {94661E46-F640-4750-843E-32F3B58F624F}
+      IGUID {F151291F-22E9-403B-959F-1C575F788E30}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent1.mid"
       >
     >
   >
-  <TRACK {734721E8-D4C7-46BD-A939-2D671E2F25D1}
+  <TRACK {D57D83B4-DEE5-4A74-900E-66EBDE5E799B}
     NAME "NES - Triangle [CV1 Vampire Killer]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {734721E8-D4C7-46BD-A939-2D671E2F25D1}
+    TRACKID {D57D83B4-DEE5-4A74-900E-66EBDE5E799B}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9B47D6F5-F8E8-4D17-9E4E-5921B8D3E25B}
+      FXID {9111C861-42A8-4690-909A-C98B8AE0FEB5}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E692CB2C-1CD5-4B66-BE05-9ED7E942AF78}
+      IGUID {1C6FCA0F-0834-4CC2-AFC8-EC7D215945A2}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent1.mid"
       >
     >
   >
-  <TRACK {304C9A09-02C0-4F3A-A2E5-6A58C3796EC4}
+  <TRACK {F62DEDCB-C0FC-438F-816F-318C3623DC41}
     NAME "NES - Noise / Drums [CV1 Vampire Killer]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {304C9A09-02C0-4F3A-A2E5-6A58C3796EC4}
+    TRACKID {F62DEDCB-C0FC-438F-816F-318C3623DC41}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C410FD4C-EDF2-44D7-8686-83059C2000C7}
+      FXID {20C97D6F-436C-49A6-9081-E80764BF5AB1}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {CDB91B2E-58CC-4C65-8C4D-FCDC5D7A2E51}
+      IGUID {647EB86D-1E09-4716-A284-B58B968E104C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent1.mid"
       >

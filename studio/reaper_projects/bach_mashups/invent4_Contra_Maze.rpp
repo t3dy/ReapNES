@@ -12,7 +12,7 @@
     |Bach × Contra Maze Fortress — Two-Part Invention No.4 in D minor
     |Stage preset: Wide pad lead vs thin staccato - menacing contrast
   >
-  <TRACK {FC8E9A1F-866C-4822-8484-B41ED2D8B5DD}
+  <TRACK {BEA1EC49-C6F0-4F41-8860-6250B9AC28F6}
     NAME "NES - Pulse 1 [Contra Maze Fortress]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {FC8E9A1F-866C-4822-8484-B41ED2D8B5DD}
+    TRACKID {BEA1EC49-C6F0-4F41-8860-6250B9AC28F6}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {3DCF307B-6337-4B33-A7F8-93AF7C37A22B}
+      FXID {AEF977DF-F00D-4CF6-B56F-2A7171D88B58}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {89017C6A-92F3-40BC-A8DB-4464184330F4}
+      IGUID {76268ECB-7A49-4F03-9A81-BCC7EA062085}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent4.mid"
       >
     >
   >
-  <TRACK {688A7ECA-1876-407B-8BDB-0BA487E0AA10}
+  <TRACK {870BAAAA-5637-422D-82AB-2261D4FAEE02}
     NAME "NES - Pulse 2 [Contra Maze Fortress]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {688A7ECA-1876-407B-8BDB-0BA487E0AA10}
+    TRACKID {870BAAAA-5637-422D-82AB-2261D4FAEE02}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C8BD3718-0C98-4E7B-BBD6-C4F70F39E6C2}
+      FXID {0608E3F3-77C5-4EC3-A2EA-441B96FE9A3E}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DD28BC01-C88C-4F04-BB8B-4BFD757E0F8A}
+      IGUID {8A9A3564-7775-42CF-A392-5CE2602CDBE1}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent4.mid"
       >
     >
   >
-  <TRACK {0E51CCB7-EFEC-4BB6-967D-9ED45F506A44}
+  <TRACK {BFC15224-2337-4E5A-A78B-775A9EB77DEE}
     NAME "NES - Triangle [Contra Maze Fortress]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {0E51CCB7-EFEC-4BB6-967D-9ED45F506A44}
+    TRACKID {BFC15224-2337-4E5A-A78B-775A9EB77DEE}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {37491EAB-58A7-4FD5-8E5D-E0DBE9EBD20F}
+      FXID {E0146267-7880-4285-AF6B-4A071612BE66}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A9FA80C8-7420-4DF7-88E6-60D3EEFE90D6}
+      IGUID {1BE63D9B-61C9-4A97-AB7F-95632EB041A2}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent4.mid"
       >
     >
   >
-  <TRACK {817B7A1F-DFAE-4ADF-BAF5-8614579FA161}
+  <TRACK {A3AE9E75-65DF-44CE-A94C-C65FFCE11788}
     NAME "NES - Noise / Drums [Contra Maze Fortress]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {817B7A1F-DFAE-4ADF-BAF5-8614579FA161}
+    TRACKID {A3AE9E75-65DF-44CE-A94C-C65FFCE11788}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {F8BFE72F-F40E-4BA1-85D8-1B27FEDA3299}
+      FXID {9BFFBEBC-D131-4A13-9DDF-BD30FD9B59B2}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {08CB7450-F2A4-4A56-97E0-27EDC532F8EF}
+      IGUID {4B668CE8-93BC-49FC-A22E-CEF82FE74B52}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent4.mid"
       >

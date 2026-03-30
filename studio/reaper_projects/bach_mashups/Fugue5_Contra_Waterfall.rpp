@@ -12,7 +12,7 @@
     |Bach × Contra Waterfall — WTC Fugue No.5 in D
     |Stage preset: Both pulses at 12.5% - thin, metallic, haunting
   >
-  <TRACK {80278AB0-B8E4-4C08-A29A-419F3137BDE5}
+  <TRACK {9CFC9FFC-25A8-4F4F-831F-82EEF6C5702D}
     NAME "NES - Pulse 1 [Contra Waterfall]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {80278AB0-B8E4-4C08-A29A-419F3137BDE5}
+    TRACKID {9CFC9FFC-25A8-4F4F-831F-82EEF6C5702D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {921B96BD-865D-40C9-8E4A-1898431F51BE}
+      FXID {47926B4A-2C96-4706-B5E5-9A9C4D7D585C}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F3DA7C93-A1D7-4E21-868E-8A3EBAAFEA85}
+      IGUID {80DAFF5D-7736-45B2-BA18-5D2BF8901F65}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue5.mid"
       >
     >
   >
-  <TRACK {77A7C089-0837-4D64-80DE-4BB2FD8F49F2}
+  <TRACK {6C36BB47-4A3B-4944-BB22-D7DABAB1A817}
     NAME "NES - Pulse 2 [Contra Waterfall]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {77A7C089-0837-4D64-80DE-4BB2FD8F49F2}
+    TRACKID {6C36BB47-4A3B-4944-BB22-D7DABAB1A817}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {A41FD23C-2A75-47A0-8413-3690D3CF0C51}
+      FXID {ACC06725-8646-431B-9E4B-366CAECFBFA0}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D04F5853-2D9F-4C9A-98AA-6B17011B26F6}
+      IGUID {BEFCCEB3-7EA1-49A5-937B-495A35F38C96}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue5.mid"
       >
     >
   >
-  <TRACK {7E86CB3E-5B29-4675-9A38-ACDF7ECE9B72}
+  <TRACK {ED4019DF-7611-4E6C-939A-78E19843012F}
     NAME "NES - Triangle [Contra Waterfall]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {7E86CB3E-5B29-4675-9A38-ACDF7ECE9B72}
+    TRACKID {ED4019DF-7611-4E6C-939A-78E19843012F}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {F755DEFA-5AE6-4EF5-ABB2-3ADBE5BB744B}
+      FXID {BE445A97-2109-4CEA-BBB3-7420CE968EDD}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {637F36B1-F920-4405-B60D-BB63918D113B}
+      IGUID {01F2C795-D2EC-40FA-9188-3A5696FB862C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue5.mid"
       >
     >
   >
-  <TRACK {8256F0AB-899E-4D60-B06F-08BFD6A5B4E6}
+  <TRACK {5F5FB761-929A-4CD3-873E-0521E7227C45}
     NAME "NES - Noise / Drums [Contra Waterfall]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {8256F0AB-899E-4D60-B06F-08BFD6A5B4E6}
+    TRACKID {5F5FB761-929A-4CD3-873E-0521E7227C45}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8004743F-F4C8-4C5E-9B65-B378F2F703A4}
+      FXID {4844F9A5-84B9-4C5C-AE0C-7A0E6489B1F8}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {12BFE2BB-F0DE-4540-843C-33F3F20E2691}
+      IGUID {36B6F778-9291-4531-AD07-E5DCBB73B3CD}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue5.mid"
       >

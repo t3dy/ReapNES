@@ -12,7 +12,7 @@
     |Bach × Contra Jungle — Two-Part Invention No.13 in A minor
     |Stage preset: Wide asymmetric pulses - punchy, military feel
   >
-  <TRACK {14D877A5-6DFA-4EE7-BFAF-9A60575B01F0}
+  <TRACK {34606335-75F6-4227-9B28-09E84D593AAB}
     NAME "NES - Pulse 1 [Contra Jungle]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {14D877A5-6DFA-4EE7-BFAF-9A60575B01F0}
+    TRACKID {34606335-75F6-4227-9B28-09E84D593AAB}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9BEB9563-B440-44A4-B7CA-FD7E33869B91}
+      FXID {1F66BC48-72E8-4BBF-8B0B-DDD11E37EB78}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {1F68F543-D8A1-4090-A2F5-E3B814654185}
+      IGUID {BEBDA774-3711-4BE7-8110-9434BEB37D45}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent13.mid"
       >
     >
   >
-  <TRACK {DAAB5526-0296-458B-A5A7-11552367DBFB}
+  <TRACK {CDCD221A-42BA-4C63-9FBB-A7FD2E11134C}
     NAME "NES - Pulse 2 [Contra Jungle]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {DAAB5526-0296-458B-A5A7-11552367DBFB}
+    TRACKID {CDCD221A-42BA-4C63-9FBB-A7FD2E11134C}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8F6E0D48-E183-4CAF-BD72-A5E7AAD6C35B}
+      FXID {196A71E6-6C2E-4E1C-8F73-2C41090B85AA}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {26C79848-F186-4C57-82AF-38E66B84D6CB}
+      IGUID {3DE148AD-3F37-4A98-B4FF-910030A1ACB5}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent13.mid"
       >
     >
   >
-  <TRACK {426DB9B7-892F-4FA6-824A-3C63E801A059}
+  <TRACK {04CD1F33-183B-4C8B-8FC1-14A4A9E54817}
     NAME "NES - Triangle [Contra Jungle]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {426DB9B7-892F-4FA6-824A-3C63E801A059}
+    TRACKID {04CD1F33-183B-4C8B-8FC1-14A4A9E54817}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {1996A599-0A0D-47F2-8EC7-45140F4A5409}
+      FXID {9693F949-7CB4-425F-9A62-D63CE7ADD6A0}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {C72F6A5B-2356-44F9-AFD0-70F7FF76281D}
+      IGUID {761C1649-7C2D-4911-9708-7AAE5FABB99C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent13.mid"
       >
     >
   >
-  <TRACK {51D0CC23-FD7C-4997-9EC6-DD39A8B4CF78}
+  <TRACK {9A7B0870-B486-49F7-A864-E655E6DCD55A}
     NAME "NES - Noise / Drums [Contra Jungle]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {51D0CC23-FD7C-4997-9EC6-DD39A8B4CF78}
+    TRACKID {9A7B0870-B486-49F7-A864-E655E6DCD55A}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {03E8C12A-55CD-41F5-AE7E-0B1CCFB28C69}
+      FXID {0EF482DA-8F95-40F9-AB75-FDE74A271E9D}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B91AC0D9-5C70-4A83-A3D7-AA89C5DEB3F3}
+      IGUID {35804EBA-4156-494A-A1D5-A3714BA275F7}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent13.mid"
       >

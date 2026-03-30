@@ -12,7 +12,7 @@
     |Bach × CV1 Nothing to Lose — Two-Part Invention No.14 in Bb
     |Stage preset: Warm square lead against thin buzzy pad - tension
   >
-  <TRACK {B8E96768-A1EC-4527-B8AC-61D0C15ACAA2}
+  <TRACK {60A5FE57-DF4A-4468-A854-1E92D4C190F7}
     NAME "NES - Pulse 1 [CV1 Nothing to Lose]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B8E96768-A1EC-4527-B8AC-61D0C15ACAA2}
+    TRACKID {60A5FE57-DF4A-4468-A854-1E92D4C190F7}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {80775D7D-7FDF-4037-8059-94D09B5B0076}
+      FXID {DDBA485E-73C3-4F03-9CC2-D9A715114A5B}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {274322EC-DD5A-4BB3-8758-A2E6FCB79341}
+      IGUID {8AFBDD69-B21B-4CCD-AAA0-266CE74B3332}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent14.mid"
       >
     >
   >
-  <TRACK {6EC8C561-4EF5-453A-AC05-240F55CA37BC}
+  <TRACK {6E482EC9-8803-4DC9-BDA1-07CB9F401199}
     NAME "NES - Pulse 2 [CV1 Nothing to Lose]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {6EC8C561-4EF5-453A-AC05-240F55CA37BC}
+    TRACKID {6E482EC9-8803-4DC9-BDA1-07CB9F401199}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {30DE93CA-E8A8-4A25-B091-BB355EA2499A}
+      FXID {AF2C9BD0-DC52-4ECD-A901-9DE4EF8CDAE2}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {2AF871EE-242F-490A-BB18-79694067B859}
+      IGUID {9C2C14C8-5A56-4547-93F1-782FABAC2202}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent14.mid"
       >
     >
   >
-  <TRACK {34113705-09B1-41A8-8A94-8309EA09698D}
+  <TRACK {253FF139-06B3-4550-B6C7-FC233B193C3E}
     NAME "NES - Triangle [CV1 Nothing to Lose]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {34113705-09B1-41A8-8A94-8309EA09698D}
+    TRACKID {253FF139-06B3-4550-B6C7-FC233B193C3E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {FF367B03-D8B4-4CDF-A4B9-C5C5FF3F4C20}
+      FXID {1B3F2D01-406A-4A69-8941-46C8C94B4F3A}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {225E480E-6E58-4886-9EEC-E348CFB92A91}
+      IGUID {A716F28A-2F7B-4FA4-A873-44BCEE61A9E6}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent14.mid"
       >
     >
   >
-  <TRACK {A19CE309-B178-4C77-9448-F36232E79B1C}
+  <TRACK {BCAA1B36-A7AC-425E-8E95-018492CCDEEF}
     NAME "NES - Noise / Drums [CV1 Nothing to Lose]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {A19CE309-B178-4C77-9448-F36232E79B1C}
+    TRACKID {BCAA1B36-A7AC-425E-8E95-018492CCDEEF}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {96EF29A5-B5AA-4F12-A05D-C69A5C868BB6}
+      FXID {F9E55889-E785-47D7-AAC9-B59835B1A07D}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DFBA61AB-B4BA-4661-9A28-F8400A5B0C69}
+      IGUID {3C74F05B-3D3A-43BC-8E01-68379B73887E}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/invent14.mid"
       >
