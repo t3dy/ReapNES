@@ -1,0 +1,223 @@
+Games to process: 15
+  Castlevania_3___Draculas_Curse                28 tracks
+  Castlevania_3___Draculas_Curse_JP             28 tracks
+  Kirbys_Adventure                              56 tracks
+  Legend_of_Zelda,_The                          unknown tracks
+  Mega_Man                                      15 tracks
+  Mega_Man_4                                    27 tracks
+  Metroid                                       12 tracks
+  Ninja_Gaiden__[Shadow_Warriors]               26 tracks
+  Ninja_Gaiden_II___The_Dark_Sword_of_Chaos     26 tracks
+  Ninja_Gaiden_III___The_Ancient_Ship_of_Doom   29 tracks
+  Punch_Out!!                                   17 tracks
+  Super_Mario_Bros                              18 tracks
+  Super_Mario_Bros._2                           unknown tracks
+  Super_Mario_Bros._3                           unknown tracks
+  Zelda_II___The_Adventure_of_Link              23 tracks
+
+============================================================
+Processing: Castlevania_3___Draculas_Curse
+NSF: Castlevania 3 - Dracula's Curse [Akumajou Densetsu] (1989-12-22)(Konami).nsf
+Tracks: 28
+Duration cap: 102.136s
+============================================================
+TIMEOUT: Castlevania_3___Draculas_Curse took >600s
+
+============================================================
+Processing: Castlevania_3___Draculas_Curse_JP
+NSF: Castlevania 3 - Dracula's Curse JP [Akumajou Densetsu] (1989-12-22)(Konami).nsf
+Tracks: 28
+Duration cap: 102.11699999999999s
+============================================================
+TIMEOUT: Castlevania_3___Draculas_Curse_JP took >600s
+
+============================================================
+Processing: Kirbys_Adventure
+NSF: Kirby's Adventure [Hoshi no Kirby - Yume no Izumi no Monogatari] (1993-03-23)(HAL Laboratory)(Nintendo).nsf
+Tracks: 56
+Duration cap: 110.0s
+============================================================
+re_57_Song_57_v1.wav (90.0s)
+
+=== Song 58: Song 58 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Kirbys_Adventure\midi\Kirby's_Adventure_58_Song_58_v1.mid
+    Notes: P1=1346 P2=1342 Tri=1061 Noise=277
+    CCs:   P1=2508 P2=2500 Tri=1061
+  REAPER: C:\Dev\NESMusicStudio\output\Kirbys_Adventure\reaper\Kirby's_Adventure_58_Song_58_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Kirbys_Adventure\wav\Kirby's_Adventure_58_Song_58_v1.wav (90.0s)
+
+
+============================================================
+Processing: Legend_of_Zelda,_The
+NSF: Legend of Zelda, The (1987-08-22)(Nintendo EAD)(Nintendo).nsf
+Tracks: (unknown)
+Duration cap: 90s
+============================================================
+TIMEOUT: Legend_of_Zelda,_The took >600s
+
+============================================================
+Processing: Mega_Man
+NSF: Mega Man [RockMan] (1987-12-17)(Capcom).nsf
+Tracks: 15
+Duration cap: 90s
+============================================================
+FAILED: hon\Python314\site-packages\mido\midifiles\midifiles.py", line 457, in save
+    with open(filename, 'wb') as file:
+         ~~~~^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Dev\\NESMusicStudio\\output\\Mega_Man\\midi\\Mega_Man_01_Mega_Man_-_Manami_Matsumae\\_v1.mid'
+
+
+============================================================
+Processing: Mega_Man_4
+NSF: Mega Man 4 [RockMan 4 - Aratanaru Yabou!!] (1991-12-06)(Capcom).nsf
+Tracks: 27
+Duration cap: 90s
+============================================================
+FAILED: Python314\site-packages\mido\midifiles\midifiles.py", line 457, in save
+    with open(filename, 'wb') as file:
+         ~~~~^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Dev\\NESMusicStudio\\output\\Mega_Man_4\\midi\\Mega_Man_IV_01_Mega_Man_IV_-_Minae_Fujii\\_v1.mid'
+
+
+============================================================
+Processing: Metroid
+NSF: Metroid (1986-08)(Nintendo R&D1)(Nintendo).nsf
+Tracks: 12
+Duration cap: 134.441s
+============================================================
+=== Song 12: Mission Completed Successfully ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Metroid\midi\Metroid_12_Mission_Completed_Successfully_v1.mid
+    Notes: P1=167 P2=147 Tri=283 Noise=41
+    CCs:   P1=1321 P2=1181 Tri=283
+  REAPER: C:\Dev\NESMusicStudio\output\Metroid\reaper\Metroid_12_Mission_Completed_Successfully_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Metroid\wav\Metroid_12_Mission_Completed_Successfully_v1.wav (90.0s)
+
+
+============================================================
+Processing: Ninja_Gaiden__[Shadow_Warriors]
+NSF: Ninja Gaiden [Ninja Ryukenden] [Shadow Warriors] (1988-12-09)(Tecmo).nsf
+Tracks: 26
+Duration cap: 103.0s
+============================================================
+TIMEOUT: Ninja_Gaiden__[Shadow_Warriors] took >600s
+
+============================================================
+Processing: Ninja_Gaiden_II___The_Dark_Sword_of_Chaos
+NSF: Ninja Gaiden II - The Dark Sword of Chaos [Ninja Ryukenden II - Ankoku no Jashinken] [Shadow Warriors II - Ninja Gaiden II] (1990-04-06)(Tecmo).nsf
+Tracks: 26
+Duration cap: 179.5s
+============================================================
+FAILED: files\midifiles.py", line 457, in save
+    with open(filename, 'wb') as file:
+         ~~~~^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Dev\\NESMusicStudio\\output\\Ninja_Gaiden_II___The_Dark_Sword_of_Chaos\\midi\\Ninja_Gaiden_2_02_Motion_of_the_Ninja_[1-1\\_v1.mid'
+
+
+============================================================
+Processing: Ninja_Gaiden_III___The_Ancient_Ship_of_Doom
+NSF: Ninja Gaiden III - The Ancient Ship of Doom [Ninja Ryukenden III - Yomi no Hakobune] (1991-06-21)(Tecmo).nsf
+Tracks: 29
+Duration cap: 114.0s
+============================================================
+FAILED: on\Python314\site-packages\mido\midifiles\midifiles.py", line 457, in save
+    with open(filename, 'wb') as file:
+         ~~~~^^^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument: 'C:\\Dev\\NESMusicStudio\\output\\Ninja_Gaiden_III___The_Ancient_Ship_of_Doom\\midi\\Ninja_Gaiden_3_18_Truth?_v1.mid'
+
+
+============================================================
+Processing: Punch_Out!!
+NSF: Punch-Out!! (VS)(1984)(Nintendo IRD)(Nintendo).nsf
+Tracks: 17
+Duration cap: 50.393s
+============================================================
+pp
+  WAV: C:\Dev\NESMusicStudio\output\Punch_Out!!\wav\Punch-Out!!_16_Track_16_v1.wav (90.0s)
+
+=== Song 17: Bell ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Punch_Out!!\midi\Punch-Out!!_17_Bell_v1.mid
+    Notes: P1=1 P2=1 Tri=0 Noise=0
+    CCs:   P1=3 P2=3 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Punch_Out!!\reaper\Punch-Out!!_17_Bell_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Punch_Out!!\wav\Punch-Out!!_17_Bell_v1.wav (90.0s)
+
+
+============================================================
+Processing: Super_Mario_Bros
+NSF: Super Mario Bros. (1985-09-13)(Nintendo EAD)(Nintendo).nsf
+Tracks: 18
+Duration cap: 88.0s
+============================================================
+= Song 18: Saved the Princess ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Super_Mario_Bros\midi\Super_Mario_Bros._18_Saved_the_Princess_v1.mid
+    Notes: P1=15 P2=17 Tri=10 Noise=1
+    CCs:   P1=136 P2=131 Tri=10
+  REAPER: C:\Dev\NESMusicStudio\output\Super_Mario_Bros\reaper\Super_Mario_Bros._18_Saved_the_Princess_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Super_Mario_Bros\wav\Super_Mario_Bros._18_Saved_the_Princess_v1.wav (90.0s)
+
+
+============================================================
+Processing: Super_Mario_Bros._2
+NSF: Super Mario Bros. 2 [Yume Koujou - Doki Doki Panic] [Super Mario USA] (Prototype) (1987)(Nintendo EAD)(Nintendo).nsf
+Tracks: (unknown)
+Duration cap: 90s
+============================================================
+0s)
+
+=== Song 34: Song 34 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Super_Mario_Bros._2\midi\Super_Mario_Bros._2_Prototype_34_Song_34_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Super_Mario_Bros._2\reaper\Super_Mario_Bros._2_Prototype_34_Song_34_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Super_Mario_Bros._2\wav\Super_Mario_Bros._2_Prototype_34_Song_34_v1.wav (90.0s)
+
+
+============================================================
+Processing: Super_Mario_Bros._3
+NSF: Super Mario Bros. 3 (1988-10-23)(Nintendo EAD)(Nintendo).nsf
+Tracks: (unknown)
+Duration cap: 90s
+============================================================
+Bros._3_59_Song_59_v1.wav (90.0s)
+
+=== Song 60: Song 60 ===
+  Emulating (5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Super_Mario_Bros._3\midi\Super_Mario_Bros._3_60_Song_60_v1.mid
+    Notes: P1=0 P2=0 Tri=0 Noise=1
+    CCs:   P1=0 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Super_Mario_Bros._3\reaper\Super_Mario_Bros._3_60_Song_60_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Super_Mario_Bros._3\wav\Super_Mario_Bros._3_60_Song_60_v1.wav (90.0s)
+
+
+============================================================
+Processing: Zelda_II___The_Adventure_of_Link
+NSF: Zelda II - The Adventure of Link (1988-12)(Nintendo EAD)(Nintendo).nsf
+Tracks: 23
+Duration cap: 180s
+============================================================
+(5400 frames)... done
+  Extracting channel data... done
+  MIDI: C:\Dev\NESMusicStudio\output\Zelda_II___The_Adventure_of_Link\midi\Zelda_2:_The_Adventure_of_Link_51_Song_51_v1.mid
+    Notes: P1=1 P2=0 Tri=0 Noise=0
+    CCs:   P1=2 P2=0 Tri=0
+  REAPER: C:\Dev\NESMusicStudio\output\Zelda_II___The_Adventure_of_Link\reaper\Zelda_2:_The_Adventure_of_Link_51_Song_51_v1.rpp
+  WAV: C:\Dev\NESMusicStudio\output\Zelda_II___The_Adventure_of_Link\wav\Zelda_2:_The_Adventure_of_Link_51_Song_51_v1.wav (90.0s)
+
+
+============================================================
+BATCH COMPLETE
+  Success: 7
+  Failed:  8
+  Failed games: Castlevania_3___Draculas_Curse, Castlevania_3___Draculas_Curse_JP, Legend_of_Zelda,_The, Mega_Man, Mega_Man_4, Ninja_Gaiden__[Shadow_Warriors], Ninja_Gaiden_II___The_Dark_Sword_of_Chaos, Ninja_Gaiden_III___The_Ancient_Ship_of_Doom
+============================================================

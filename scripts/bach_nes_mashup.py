@@ -36,6 +36,23 @@ sys.path.insert(0, str(REPO_ROOT))
 PROJECTS_DIR = REPO_ROOT / "studio" / "reaper_projects" / "bach_mashups"
 WAV_DIR = REPO_ROOT / "output" / "bach_mashups"
 MIDI_DIR = Path.home() / "Downloads"
+MIDI_DIRS = [
+    Path.home() / "Downloads",
+    REPO_ROOT / "studio" / "midi" / "classical" / "bach_collection",
+    REPO_ROOT / "studio" / "midi" / "classical" / "bach",
+    REPO_ROOT / "studio" / "midi" / "classical" / "mozart",
+    REPO_ROOT / "studio" / "midi" / "classical" / "beethoven",
+]
+MIDI_DIR_ALT = REPO_ROOT / "studio" / "midi" / "classical" / "bach_collection"
+
+def find_midi(filename: str) -> Path | None:
+    """Search all MIDI directories for a file."""
+    for d in MIDI_DIRS:
+        p = d / filename
+        if p.exists():
+            return p
+    return None
+
 
 SAMPLE_RATE = 44100
 FRAMES_PER_SEC = 60
@@ -129,6 +146,145 @@ STAGE_PRESETS = [
         "p2_duty": 0,   # 12.5% thin swell (attack)
         "mood": "ominous",
         "description": "Wide pad lead vs thin staccato - menacing contrast",
+    },
+    # Journey to Silius stages (Sunsoft, 1990) - famous for aggressive NES sound
+    {
+        "game": "JourneyToSilius",
+        "stage": "Stage1",
+        "label": "JtS Stage 1 & 5",
+        "p1_duty": 1,   # 25% bright attack
+        "p2_duty": 1,   # 25% bright attack
+        "mood": "heroic",
+        "description": "Dual bright 25% pulses - classic Sunsoft energy",
+    },
+    {
+        "game": "JourneyToSilius",
+        "stage": "Stage2",
+        "label": "JtS Stage 2",
+        "p1_duty": 0,   # 12.5% thin metallic
+        "p2_duty": 0,   # 12.5% thin metallic
+        "mood": "eerie",
+        "description": "Both pulses at 12.5% - thin, metallic, haunting Sunsoft",
+    },
+    {
+        "game": "JourneyToSilius",
+        "stage": "Stage3",
+        "label": "JtS Stage 3",
+        "p1_duty": 1,   # 25% bright lead
+        "p2_duty": 2,   # 50% warm harmony
+        "mood": "intense",
+        "description": "Bright lead against warm square harmony - driving action",
+    },
+    {
+        "game": "JourneyToSilius",
+        "stage": "Stage4",
+        "label": "JtS Stage 4",
+        "p1_duty": 1,   # 25% bright lead
+        "p2_duty": 2,   # 50% warm pad
+        "mood": "dark",
+        "description": "Bright lead over warm pad - brooding tension",
+    },
+    {
+        "game": "JourneyToSilius",
+        "stage": "Ending",
+        "label": "JtS Ending Theme",
+        "p1_duty": 3,   # 75% wide triumphant
+        "p2_duty": 1,   # 25% bright counterpoint
+        "mood": "heroic",
+        "description": "Wide 75% lead with bright harmony - triumphant resolution",
+    },
+    # Gradius stages (Konami, 1986) - space shooter with distinct alien timbres
+    {
+        "game": "Gradius",
+        "stage": "Mountains",
+        "label": "Gradius Mountains",
+        "p1_duty": 3,   # 75% wide swell
+        "p2_duty": 3,   # 75% wide swell
+        "mood": "heroic",
+        "description": "Dual 75% wide pulses - bold space opera feel",
+    },
+    {
+        "game": "Gradius",
+        "stage": "Beginning",
+        "label": "Gradius Beginning",
+        "p1_duty": 1,   # 25% bright
+        "p2_duty": 3,   # 75% wide contrast
+        "mood": "bright",
+        "description": "Bright lead vs wide pad - optimistic launch feel",
+    },
+    {
+        "game": "Gradius",
+        "stage": "Boss",
+        "label": "Gradius Boss",
+        "p1_duty": 0,   # 12.5% thin threat
+        "p2_duty": 0,   # 12.5% thin threat
+        "mood": "tense",
+        "description": "Both pulses thin 12.5% - alien metallic menace",
+    },
+    # Ghosts 'n' Goblins (Capcom/Micronics, 1986) - horror platformer
+    {
+        "game": "GhostsNGoblins",
+        "stage": "Stage1",
+        "label": "GnG Stage 1",
+        "p1_duty": 1,   # 25% bright
+        "p2_duty": 1,   # 25% bright
+        "mood": "dark",
+        "description": "Dual bright 25% - Capcom gothic energy",
+    },
+    # Bionic Commando stages (Capcom, 1988) - military spy action with varied timbres
+    {
+        "game": "BionicCommando",
+        "stage": "EnemyBase",
+        "label": "BC Enemy Base",
+        "p1_duty": 2,   # 50% warm
+        "p2_duty": 2,   # 50% warm
+        "mood": "dark",
+        "description": "Dual 50% warm squares - dense military infiltration",
+    },
+    {
+        "game": "BionicCommando",
+        "stage": "AlbatrossTower",
+        "label": "BC Albatross Tower",
+        "p1_duty": 3,   # 75% wide aggressive
+        "p2_duty": 3,   # 75% wide aggressive
+        "mood": "intense",
+        "description": "Dual 75% wide pulses - aggressive tower assault",
+    },
+    {
+        "game": "BionicCommando",
+        "stage": "MunitionsBase",
+        "label": "BC Munitions Base",
+        "p1_duty": 1,   # 25% bright lead
+        "p2_duty": 3,   # 75% wide pad
+        "mood": "heroic",
+        "description": "Bright 25% lead against wide 75% pad - action contrast",
+    },
+    {
+        "game": "BionicCommando",
+        "stage": "AlbatrossHQ",
+        "label": "BC Albatross HQ",
+        "p1_duty": 0,   # 12.5% thin
+        "p2_duty": 1,   # 25% bright
+        "mood": "tense",
+        "description": "Thin 12.5% lead + bright 25% harmony - covert tension",
+    },
+    {
+        "game": "BionicCommando",
+        "stage": "NeutralZone",
+        "label": "BC Neutral Zone",
+        "p1_duty": 0,   # 12.5% thin
+        "p2_duty": 0,   # 12.5% thin
+        "mood": "eerie",
+        "description": "Dual 12.5% thin pulses - eerie no-man's-land",
+    },
+    {
+        "game": "BionicCommando",
+        "stage": "StaffRoll",
+        "label": "BC Staff Roll",
+        "p1_duty": 1,   # 25% bright
+        "p2_duty": 0,   # 12.5% thin shimmer
+        "mood": "heroic",
+        "description": "Bright 25% lead with thin shimmer - triumphant finale",
     },
 ]
 
@@ -232,6 +388,32 @@ BACH_PIECES = [
      "voices": 1, "key": "C major", "mood": "atmospheric", "tempo_feel": "flowing"},
     {"file": "toccata1.mid", "title": "Toccata in D minor BWV 565",
      "voices": 3, "key": "D minor", "mood": "dark", "tempo_feel": "dramatic"},
+
+    # ── BWV collection (Prelude & Fugue pairs) ──
+    {"file": "bach_846.mid", "title": "WTC1 Prelude & Fugue No.1 BWV 846",
+     "voices": 4, "key": "C major", "mood": "bright", "tempo_feel": "moderate"},
+    {"file": "bach_847.mid", "title": "WTC1 Prelude & Fugue No.2 BWV 847",
+     "voices": 3, "key": "C minor", "mood": "dark", "tempo_feel": "driving"},
+    {"file": "bach_850.mid", "title": "WTC1 Prelude & Fugue No.5 BWV 850",
+     "voices": 4, "key": "D major", "mood": "heroic", "tempo_feel": "dance"},
+
+    # ── Mozart ──
+    {"file": "rondo_alla_turca_fixed.mid", "title": "Mozart Rondo alla Turca K.331",
+     "voices": 3, "key": "A major", "mood": "bright", "tempo_feel": "fast"},
+    {"file": "symphony40_mv1.mid", "title": "Mozart Symphony No.40 Mvt.1",
+     "voices": 3, "key": "G minor", "mood": "dark", "tempo_feel": "driving"},
+
+    # ── Beethoven ──
+    {"file": "fur_elise.mid", "title": "Beethoven Fur Elise",
+     "voices": 3, "key": "A minor", "mood": "atmospheric", "tempo_feel": "moderate"},
+    {"file": "moonlight_mv1.mid", "title": "Beethoven Moonlight Sonata Mvt.1",
+     "voices": 4, "key": "C# minor", "mood": "dark", "tempo_feel": "slow"},
+    {"file": "moonlight_mv3.mid", "title": "Beethoven Moonlight Sonata Mvt.3",
+     "voices": 4, "key": "C# minor", "mood": "intense", "tempo_feel": "fast"},
+    {"file": "pathetique_mv2.mid", "title": "Beethoven Pathetique Sonata Mvt.2",
+     "voices": 3, "key": "Ab major", "mood": "atmospheric", "tempo_feel": "lyrical"},
+    {"file": "symphony5_mv1.mid", "title": "Beethoven Symphony No.5 Mvt.1",
+     "voices": 4, "key": "C minor", "mood": "heroic", "tempo_feel": "dramatic"},
 ]
 
 # Mood compatibility scoring
@@ -677,14 +859,35 @@ def score_combo(bach: dict, stage: dict) -> int:
     return mood_score(bach["mood"], stage["mood"])
 
 
-def get_all_combos() -> list[dict]:
-    """Generate all valid Bach × Stage combinations with scores."""
+NEW_GAMES = {"JourneyToSilius", "Gradius", "GhostsNGoblins", "BionicCommando"}
+
+
+def get_all_combos(voices: int | None = None,
+                   new_games_only: bool = False,
+                   game: str | None = None,
+                   composer: str | None = None) -> list[dict]:
+    """Generate all valid Bach × Stage combinations with scores.
+
+    Args:
+        voices: If set, filter to Bach pieces with this many voices.
+        new_games_only: If True, only include new game stage presets.
+        game: If set, only include stages from this game.
+        composer: If set, filter pieces by title prefix (e.g. "Mozart", "Beethoven").
+    """
     combos = []
     for bach in BACH_PIECES:
-        midi_path = MIDI_DIR / bach["file"]
-        if not midi_path.exists():
+        if voices is not None and bach["voices"] != voices:
+            continue
+        if composer and not bach["title"].lower().startswith(composer.lower()):
+            continue
+        midi_path = find_midi(bach["file"])
+        if midi_path is None:
             continue
         for stage in STAGE_PRESETS:
+            if new_games_only and stage["game"] not in NEW_GAMES:
+                continue
+            if game and stage["game"] != game:
+                continue
             s = score_combo(bach, stage)
             combos.append({
                 "bach": bach,
@@ -696,15 +899,21 @@ def get_all_combos() -> list[dict]:
     return combos
 
 
-def generate_all_projects() -> list[dict]:
+def generate_all_projects(voices: int | None = None,
+                          new_games_only: bool = False,
+                          game: str | None = None,
+                          composer: str | None = None) -> list[dict]:
     """Generate REAPER projects for all combinations."""
-    combos = get_all_combos()
+    combos = get_all_combos(voices=voices, new_games_only=new_games_only,
+                            game=game, composer=composer)
     generated = []
 
     for combo in combos:
         bach = combo["bach"]
         stage = combo["stage"]
-        midi_path = MIDI_DIR / bach["file"]
+        midi_path = find_midi(bach["file"])
+        if midi_path is None:
+            continue
         rpp_path = PROJECTS_DIR / f"{combo['name']}.rpp"
 
         generate_rpp(midi_path, rpp_path, stage, bach["title"])
@@ -770,11 +979,21 @@ def main():
                        help="Generate projects AND render best WAVs")
     parser.add_argument("--top", type=int, default=12,
                         help="Number of WAVs to render (default: 12)")
+    parser.add_argument("--voices", type=int, default=None,
+                        help="Filter to N-voice Bach pieces (e.g. --voices 3)")
+    parser.add_argument("--new-games", action="store_true",
+                        help="Only use new game presets (Gradius, JtS, GnG, BC)")
+    parser.add_argument("--game", type=str, default=None,
+                        help="Filter to specific game (e.g. BionicCommando)")
+    parser.add_argument("--composer", type=str, default=None,
+                        help="Filter pieces by composer prefix (e.g. Mozart, Beethoven)")
 
     args = parser.parse_args()
+    filt = dict(voices=args.voices, new_games_only=args.new_games,
+                game=args.game, composer=args.composer)
 
     if args.list:
-        combos = get_all_combos()
+        combos = get_all_combos(**filt)
         print(f"{'Score':>5}  {'Bach Piece':<45} {'NES Stage':<25} {'Moods'}")
         print("-" * 100)
         for c in combos:
@@ -785,7 +1004,7 @@ def main():
 
     elif args.generate_all:
         print("Generating REAPER projects...")
-        generated = generate_all_projects()
+        generated = generate_all_projects(**filt)
         print(f"\nGenerated {len(generated)} projects in {PROJECTS_DIR}")
 
     elif args.render_best:
@@ -795,7 +1014,7 @@ def main():
 
     elif args.all:
         print("=== Generating REAPER projects ===")
-        generated = generate_all_projects()
+        generated = generate_all_projects(**filt)
         print(f"\nGenerated {len(generated)} projects in {PROJECTS_DIR}")
         print(f"\n=== Rendering top {args.top} WAV files ===")
         rendered = render_best_wavs(args.top)
