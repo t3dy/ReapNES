@@ -1,0 +1,198 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 150.0 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio Project
+    |MIDI Import - contra_snowfield_v8
+  >
+  <TRACK {76DFB9B8-E39D-4A59-86ED-2CDD92DB7B23}
+    NAME "NES - Pulse 1 [ch0]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {76DFB9B8-E39D-4A59-86ED-2CDD92DB7B23}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DA1B5535-9ADE-4F4D-8E27-C0540DE7EE9E}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 35.199999999999996
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F36E1F9-B572-46EC-BA39-63211708D153}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/output/Contra_v8/midi/contra_snowfield_v8.mid"
+      >
+    >
+  >
+  <TRACK {75EE3D18-E4B8-4E9F-9817-A8674059FC64}
+    NAME "NES - Pulse 2 [ch1]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {75EE3D18-E4B8-4E9F-9817-A8674059FC64}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2C71308A-CBAA-41A0-8361-BC5FD14FD1B1}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 35.199999999999996
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {25DA4E22-078F-470A-8C8C-89EE8F461019}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/output/Contra_v8/midi/contra_snowfield_v8.mid"
+      >
+    >
+  >
+  <TRACK {CEB850DF-332E-4810-82C8-0A27496938B6}
+    NAME "NES - Triangle [ch2]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {CEB850DF-332E-4810-82C8-0A27496938B6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {24E67804-6C0E-4EF3-8ABA-91200FA67A8D}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 35.199999999999996
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9C60B703-FAE8-4549-AD1F-43099A4CC3C1}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/output/Contra_v8/midi/contra_snowfield_v8.mid"
+      >
+    >
+  >
+  <TRACK {00A9FE31-AA2D-4FB8-9F49-9F4B3606227B}
+    NAME "NES - Noise / Drums [ch3]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {00A9FE31-AA2D-4FB8-9F49-9F4B3606227B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0254D1F0-A418-4FC0-8636-D9F01F7264DB}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 35.199999999999996
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {334A64EC-C786-45E6-83BF-34FDEEA034A1}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/output/Contra_v8/midi/contra_snowfield_v8.mid"
+      >
+    >
+  >
+>

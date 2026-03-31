@@ -1,0 +1,198 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 128.60027177524103 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio Project
+    |MIDI Import - contra_gameover_v7
+  >
+  <TRACK {5D97F919-2583-4B79-AE9A-4846C768DE1D}
+    NAME "NES - Pulse 1 [ch0]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {5D97F919-2583-4B79-AE9A-4846C768DE1D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3A47611F-88D8-431F-B77A-628661B03FB1}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 5.716356504166666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {610FBE00-0B53-411C-B260-22444DD0D312}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/output/Contra_v7/midi/contra_gameover_v7.mid"
+      >
+    >
+  >
+  <TRACK {578DED23-AEF5-4628-A8B4-24B3D8159AE5}
+    NAME "NES - Pulse 2 [ch1]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {578DED23-AEF5-4628-A8B4-24B3D8159AE5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C25B4EFE-F0B9-4D0A-B78B-2D53BFB5C43F}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 5.716356504166666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {91E5D141-9428-458F-93A6-BF5768027A4E}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/output/Contra_v7/midi/contra_gameover_v7.mid"
+      >
+    >
+  >
+  <TRACK {5CC08BCC-5636-47D7-A0BF-075B2F1035A3}
+    NAME "NES - Triangle [ch2]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {5CC08BCC-5636-47D7-A0BF-075B2F1035A3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BEB6554B-8D0B-4820-813E-65520BADE54A}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 5.716356504166666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9379B018-52F4-4600-9792-77F910190641}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/output/Contra_v7/midi/contra_gameover_v7.mid"
+      >
+    >
+  >
+  <TRACK {4550BAC2-2F00-4C4F-9F64-09B2EF66CF61}
+    NAME "NES - Noise / Drums [ch3]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {4550BAC2-2F00-4C4F-9F64-09B2EF66CF61}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {6FF5ACB9-574E-48E6-AB61-D3F28F3C1C96}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 5.716356504166666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DA8B5C1C-03E3-4F7D-B364-E528BDE939B3}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/output/Contra_v7/midi/contra_gameover_v7.mid"
+      >
+    >
+  >
+>

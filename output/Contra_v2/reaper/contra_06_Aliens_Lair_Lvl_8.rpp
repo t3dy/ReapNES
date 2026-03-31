@@ -1,0 +1,184 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 128.60027177524103 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio Project
+    |MIDI Import - contra_06_Aliens_Lair_Lvl_8
+  >
+  <TRACK {A343106F-16C6-49B4-B453-439479CCCF88}
+    NAME "NES - Pulse 1 [ch0]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {A343106F-16C6-49B4-B453-439479CCCF88}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2157FF4F-EAA9-4676-90B3-DD3691C05B20}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 39.46628517916666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AE350ABB-F0E1-4EFB-A100-B59B3875B596}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/output/Contra_v2/midi/contra_06_Aliens_Lair_Lvl_8.mid"
+      >
+    >
+  >
+  <TRACK {DD24F0C2-09B5-4F98-ADB1-55D43092F7FD}
+    NAME "NES - Pulse 2 [ch1]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {DD24F0C2-09B5-4F98-ADB1-55D43092F7FD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {81E2EE64-7D7C-4649-B34A-BD87934EBC0D}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 39.46628517916666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8C416830-52FD-45FF-A475-B6BAEE2A9FAB}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/output/Contra_v2/midi/contra_06_Aliens_Lair_Lvl_8.mid"
+      >
+    >
+  >
+  <TRACK {C837BF6A-8B31-44DA-B46B-1084D2CBB03C}
+    NAME "NES - Triangle [ch2]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {C837BF6A-8B31-44DA-B46B-1084D2CBB03C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {ED42ED74-1006-4A38-923F-7691C82CEDED}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 39.46628517916666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {267F4851-B5F9-4C99-BD9C-0DC98D08C9DD}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/output/Contra_v2/midi/contra_06_Aliens_Lair_Lvl_8.mid"
+      >
+    >
+  >
+  <TRACK {57CC3C40-E96C-4EA0-A78C-1FA618F6A897}
+    NAME "NES - Noise / Drums"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {57CC3C40-E96C-4EA0-A78C-1FA618F6A897}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 1 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0CB3E095-BE7E-4FF6-82BB-B6F98BCF9452}
+      WAK 0 0
+    >
+  >
+>
