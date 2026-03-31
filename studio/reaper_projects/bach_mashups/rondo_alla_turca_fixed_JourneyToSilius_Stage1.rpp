@@ -12,7 +12,7 @@
     |Bach × JtS Stage 1 & 5 — Mozart Rondo alla Turca K.331
     |Stage preset: Dual bright 25% pulses - classic Sunsoft energy
   >
-  <TRACK {3605464F-4380-4ECB-AF46-323B699F5694}
+  <TRACK {E1673DE6-8328-487C-808E-95986B94AEFF}
     NAME "NES - Pulse 1 [JtS Stage 1 & 5]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {3605464F-4380-4ECB-AF46-323B699F5694}
+    TRACKID {E1673DE6-8328-487C-808E-95986B94AEFF}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {04140533-C31C-4C63-B6E3-D23EBF93391C}
+      FXID {8C620BF7-771E-41BB-A834-47E159B82CF5}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B6928D7E-974C-461F-80C3-441B90196F8A}
+      IGUID {DA78F754-CA1E-4731-909E-54E195FAF493}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/mozart/rondo_alla_turca_fixed.mid"
       >
     >
   >
-  <TRACK {0B6D2A33-E536-4A52-8E64-E90718796BF9}
+  <TRACK {F0277F5F-AC82-4F60-87CC-3334AE6FE979}
     NAME "NES - Pulse 2 [JtS Stage 1 & 5]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {0B6D2A33-E536-4A52-8E64-E90718796BF9}
+    TRACKID {F0277F5F-AC82-4F60-87CC-3334AE6FE979}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {D890ADA9-E531-4373-90EF-BE1773A70282}
+      FXID {61E23C9E-8990-4BC8-8725-1A210CFED57A}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4A7EF8C7-AE27-4BC1-A142-4D3C829810B2}
+      IGUID {5DDF258C-4279-493E-AC84-09F5097217C9}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/mozart/rondo_alla_turca_fixed.mid"
       >
     >
   >
-  <TRACK {6D412007-BCA3-4F6A-B9DF-E85C4324543F}
+  <TRACK {469F393E-EA7E-412E-AEEF-690CDD32CC75}
     NAME "NES - Triangle [JtS Stage 1 & 5]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {6D412007-BCA3-4F6A-B9DF-E85C4324543F}
+    TRACKID {469F393E-EA7E-412E-AEEF-690CDD32CC75}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {A45213F4-DA9C-40C9-9B4A-27961F317363}
+      FXID {72ABE75C-1D59-40BC-8D22-2BA210119ACD}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4EC1AB1B-016B-4A29-A842-29E2EF1295E8}
+      IGUID {611DDB57-2ABF-4E25-91AA-6DD73F0020C4}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/mozart/rondo_alla_turca_fixed.mid"
       >
     >
   >
-  <TRACK {42DAB23F-261C-4732-A34B-39E7EA19A041}
+  <TRACK {38D1FFDB-0590-42CB-8F35-08EB8E523CBB}
     NAME "NES - Noise / Drums [JtS Stage 1 & 5]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {42DAB23F-261C-4732-A34B-39E7EA19A041}
+    TRACKID {38D1FFDB-0590-42CB-8F35-08EB8E523CBB}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {D42B58D0-B3ED-4794-AF7F-153DAD4399D4}
+      FXID {0E6F4BB8-7352-4091-87F1-E68F20984B06}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3253315C-802B-4D14-AD6D-D551C33BD829}
+      IGUID {9FD4E97A-D309-46FE-BF43-24AE5B115FC8}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/mozart/rondo_alla_turca_fixed.mid"
       >

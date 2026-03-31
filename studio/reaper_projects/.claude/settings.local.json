@@ -69,7 +69,13 @@
       "Bash(cp \"Effects/ReapNES Studio/ReapNES_Studio.jsfx\" \"/c/Users/PC/AppData/Roaming/REAPER/Effects/ReapNES Studio/ReapNES_Studio.jsfx\")",
       "Bash(python -c \"import os; p=''C:/Dev/NESMusicStudio/.git/index.lock''; print\\(os.path.exists\\(p\\), p\\); os.remove\\(p\\) if os.path.exists\\(p\\) else None; print\\(''removed'' if not os.path.exists\\(p\\) else ''still there''\\)\")",
       "Bash(tasklist)",
-      "Bash(python -c \"import subprocess; r=subprocess.run\\([''''tasklist''''], capture_output=True, text=True\\); [print\\(l\\) for l in r.stdout.split\\(''''\\\\n''''\\) if ''''git'''' in l.lower\\(\\)]\")"
+      "Bash(python -c \"import subprocess; r=subprocess.run\\([''''tasklist''''], capture_output=True, text=True\\); [print\\(l\\) for l in r.stdout.split\\(''''\\\\n''''\\) if ''''git'''' in l.lower\\(\\)]\")",
+      "Bash(python scripts/bach_nes_mashup.py --list --game BionicCommando --voices 3)",
+      "Bash(python scripts/bach_nes_mashup.py --list --game BionicCommando)",
+      "Bash(python scripts/bach_nes_mashup.py --generate-all --game BionicCommando)",
+      "Bash(python scripts/bach_nes_mashup.py --generate-all --game JourneyToSilius)",
+      "Bash(python scripts/bach_nes_mashup.py --generate-all --game Gradius)",
+      "Bash(python scripts/bach_nes_mashup.py --generate-all --game GhostsNGoblins)"
     ]
   }
 }

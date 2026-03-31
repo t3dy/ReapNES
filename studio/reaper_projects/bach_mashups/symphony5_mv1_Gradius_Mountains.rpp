@@ -12,7 +12,7 @@
     |Bach × Gradius Mountains — Beethoven Symphony No.5 Mvt.1
     |Stage preset: Dual 75% wide pulses - bold space opera feel
   >
-  <TRACK {31A456E1-E56A-4AED-8939-613CB42C2D68}
+  <TRACK {949DBA94-58A4-421E-9709-1D4679B7FA81}
     NAME "NES - Pulse 1 [Gradius Mountains]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {31A456E1-E56A-4AED-8939-613CB42C2D68}
+    TRACKID {949DBA94-58A4-421E-9709-1D4679B7FA81}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {D45667D8-C188-4BAC-BBE2-0D025CB928DC}
+      FXID {BF7894DB-B3CA-4EE3-BAE9-7E92E59879B5}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EB445100-4B02-46C8-B464-E4A6670C61EA}
+      IGUID {32A0B462-166C-4A56-9672-0304BF238DE6}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/symphony5_mv1.mid"
       >
     >
   >
-  <TRACK {8AD8D71D-D576-40A9-BC6A-F65499E18A1A}
+  <TRACK {D888DB35-A06C-4AAC-9412-0EC058F1C30D}
     NAME "NES - Pulse 2 [Gradius Mountains]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {8AD8D71D-D576-40A9-BC6A-F65499E18A1A}
+    TRACKID {D888DB35-A06C-4AAC-9412-0EC058F1C30D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {00BDDAA7-FC15-4F11-8C5B-0E0A0F4CF798}
+      FXID {E9993B7D-DE14-4F32-9DB5-778981293881}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5130686E-B8F7-4273-9777-A0E730671713}
+      IGUID {078BB59D-C169-4712-BDBF-21EAB88F9863}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/symphony5_mv1.mid"
       >
     >
   >
-  <TRACK {ADF6F8D3-21EE-4FA1-9668-C4016AF9A871}
+  <TRACK {649FA66E-8EE8-42A5-B38E-734D0084A659}
     NAME "NES - Triangle [Gradius Mountains]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {ADF6F8D3-21EE-4FA1-9668-C4016AF9A871}
+    TRACKID {649FA66E-8EE8-42A5-B38E-734D0084A659}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {47A893FA-B8A0-4B4A-8611-B2BF665F7A93}
+      FXID {569CC0E3-6E1C-4CF5-B5A6-3E693653E265}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {C95136D2-9263-4D7F-82FC-2E1511721A51}
+      IGUID {94090C19-9F1D-49EE-AC41-9CBBA87D8AB3}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/symphony5_mv1.mid"
       >
     >
   >
-  <TRACK {662BDFBC-AAE4-484A-B7C7-15855BBC11D3}
+  <TRACK {E80BE6CF-A163-4889-BD27-662769E7BA5B}
     NAME "NES - Noise / Drums [Gradius Mountains]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {662BDFBC-AAE4-484A-B7C7-15855BBC11D3}
+    TRACKID {E80BE6CF-A163-4889-BD27-662769E7BA5B}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9D20445C-AF7F-4930-A64E-9D9B3BEAD551}
+      FXID {702D5A26-F36C-406C-ADD4-8B745B34317B}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {62794AB7-0E10-4D1F-BF26-2863237AF4F7}
+      IGUID {821D7D0B-4660-41E8-80D4-173048871D5D}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/symphony5_mv1.mid"
       >

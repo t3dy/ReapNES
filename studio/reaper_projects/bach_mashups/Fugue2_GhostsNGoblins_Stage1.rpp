@@ -12,7 +12,7 @@
     |Bach × GnG Stage 1 — WTC Fugue No.2 in C minor
     |Stage preset: Dual bright 25% - Capcom gothic energy
   >
-  <TRACK {DEE30791-6294-488D-B9A5-F2CA3F065D8D}
+  <TRACK {F29285F4-4994-41F0-AAD5-218E21C9FE45}
     NAME "NES - Pulse 1 [GnG Stage 1]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {DEE30791-6294-488D-B9A5-F2CA3F065D8D}
+    TRACKID {F29285F4-4994-41F0-AAD5-218E21C9FE45}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8E7E5B94-D58F-41BD-A011-F7163CF0C1D5}
+      FXID {D7174491-EAF9-40A7-963B-5ABFC2E65939}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {25BA2320-D01C-44AC-8DBC-59110A3C9FEC}
+      IGUID {E26D41B2-AA90-45CF-A124-A68DA26BE5D3}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue2.mid"
       >
     >
   >
-  <TRACK {9F5DFB7A-B279-435A-9D0C-28A5419B2CFF}
+  <TRACK {B9278D2A-3D30-4276-BA7F-B08CBD5271C1}
     NAME "NES - Pulse 2 [GnG Stage 1]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {9F5DFB7A-B279-435A-9D0C-28A5419B2CFF}
+    TRACKID {B9278D2A-3D30-4276-BA7F-B08CBD5271C1}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {A60C1745-7CA9-438D-A167-5593AF65B80F}
+      FXID {A531937F-EEF8-4EC9-9095-466CFFBBD2EC}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A7BA613A-46F4-4978-B5E4-EBFC4E10AD1A}
+      IGUID {F6E50224-A231-4011-AF8F-DC6160C5543C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue2.mid"
       >
     >
   >
-  <TRACK {FE1E76C8-D214-4C48-8D41-2816D24E9C38}
+  <TRACK {14186181-FF28-4EA7-A06D-79388D3BE0B8}
     NAME "NES - Triangle [GnG Stage 1]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {FE1E76C8-D214-4C48-8D41-2816D24E9C38}
+    TRACKID {14186181-FF28-4EA7-A06D-79388D3BE0B8}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9AC74592-4B40-4332-B3A3-77631916EA7E}
+      FXID {11CF0DCA-D256-4089-B88E-031870EBB297}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EC88B969-CCDF-4541-9E73-61E67128AAE3}
+      IGUID {DBEC4720-F060-4A6A-8D5E-763BE983D74F}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue2.mid"
       >
     >
   >
-  <TRACK {336F22C3-2441-46EC-8A63-B9542CE3D288}
+  <TRACK {92A1396B-C23A-4AC2-97FC-F0F1355DE5D7}
     NAME "NES - Noise / Drums [GnG Stage 1]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {336F22C3-2441-46EC-8A63-B9542CE3D288}
+    TRACKID {92A1396B-C23A-4AC2-97FC-F0F1355DE5D7}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {69A6C3FC-B8F9-4CAE-BC2A-E5A9A695E141}
+      FXID {CB180804-1EF6-4B6A-92EC-96631E95B56E}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3FBF2902-D564-4ECE-A67B-A5B619888748}
+      IGUID {3132C7A1-A102-4F8E-8136-38A7F68BD073}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue2.mid"
       >

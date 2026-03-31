@@ -1,0 +1,199 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 129.78416892707426 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio — Bach x NES Mashup
+    |Bach × Gradius Mountains — WTC Fugue No.14 in F# minor
+    |Stage preset: Dual 75% wide pulses - bold space opera feel
+  >
+  <TRACK {A78170C9-9ECD-4880-B467-EB215792BED2}
+    NAME "NES - Pulse 1 [Gradius Mountains]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {A78170C9-9ECD-4880-B467-EB215792BED2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E5914957-3436-47FE-A350-7E139CA7D479}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 113.8634626125
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {216E79FB-E287-4AE6-A58C-E5758977A13F}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Fugue14.mid"
+      >
+    >
+  >
+  <TRACK {4817B311-2874-4739-8874-256EFA346535}
+    NAME "NES - Pulse 2 [Gradius Mountains]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {4817B311-2874-4739-8874-256EFA346535}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A7D206E2-4E11-4CE4-A76E-CF6A2B6AA354}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 113.8634626125
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9A63AD9D-478A-42F0-A33A-591303BE62D9}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Fugue14.mid"
+      >
+    >
+  >
+  <TRACK {51A628A9-5962-4993-97B8-6AF648AC4816}
+    NAME "NES - Triangle [Gradius Mountains]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {51A628A9-5962-4993-97B8-6AF648AC4816}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DA287308-FF2F-4DF8-B89C-67B26836A2F9}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 113.8634626125
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6DFA9E08-88F9-4B2A-AA4E-C6231691BDDC}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Fugue14.mid"
+      >
+    >
+  >
+  <TRACK {9E623DF9-A098-4DAA-832F-3E97C1328E20}
+    NAME "NES - Noise / Drums [Gradius Mountains]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {9E623DF9-A098-4DAA-832F-3E97C1328E20}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {16D7832C-0F1F-41A8-8D4D-8C46BFDA35DB}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 113.8634626125
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2A4674F3-67D3-44B7-B737-D31F509013F7}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Fugue14.mid"
+      >
+    >
+  >
+>

@@ -1,0 +1,199 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 83.99996640001343 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio — Bach x NES Mashup
+    |Bach × JtS Stage 4 — Two-Part Invention No.11 in G minor
+    |Stage preset: Bright lead over warm pad - brooding tension
+  >
+  <TRACK {25D8C6A9-9D03-4964-843A-91AF0EF9769B}
+    NAME "NES - Pulse 1 [JtS Stage 4]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {25D8C6A9-9D03-4964-843A-91AF0EF9769B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {58AEAC41-FB23-40F7-B6B8-8419C5AB5C29}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 67.142884
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1BE3799E-4222-4290-806A-93CFB6749103}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/invent11.mid"
+      >
+    >
+  >
+  <TRACK {D1E5CC39-75F7-41EC-8592-BF346C611ECD}
+    NAME "NES - Pulse 2 [JtS Stage 4]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {D1E5CC39-75F7-41EC-8592-BF346C611ECD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {D5533C50-F4B0-449E-A824-117B2CF97EAB}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 67.142884
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1C7528F9-8835-4180-91B9-AE7DDE7768F1}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/invent11.mid"
+      >
+    >
+  >
+  <TRACK {6B36C620-AD11-4B5A-A7F2-F505A04B4B03}
+    NAME "NES - Triangle [JtS Stage 4]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {6B36C620-AD11-4B5A-A7F2-F505A04B4B03}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {26DE2458-52DB-43C2-99B3-AB1FF1BC027D}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 67.142884
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D7639148-B4B0-4835-BB1B-84C38A9AB232}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/invent11.mid"
+      >
+    >
+  >
+  <TRACK {6D6DDD9A-F700-48F8-8B89-E9708551C0C2}
+    NAME "NES - Noise / Drums [JtS Stage 4]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {6D6DDD9A-F700-48F8-8B89-E9708551C0C2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {38AD05DC-F5BF-4207-BCCC-B1169B0A7009}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 67.142884
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FE54DCA3-88B4-4CF4-A64A-4755C372CAF2}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/invent11.mid"
+      >
+    >
+  >
+>

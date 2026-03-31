@@ -1,0 +1,199 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 75.0 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio — Bach x NES Mashup
+    |Bach × Gradius Boss — Goldberg Variation 4
+    |Stage preset: Both pulses thin 12.5% - alien metallic menace
+  >
+  <TRACK {C378584D-2A4B-4CF0-AF77-2F342FA57DC5}
+    NAME "NES - Pulse 1 [Gradius Boss]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {C378584D-2A4B-4CF0-AF77-2F342FA57DC5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {849CF6AC-83E2-42F1-A0E5-2E83DCFFE82A}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 79.59205549166666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D0D0852D-8213-4F12-AAFD-9531D5474517}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/var4.mid"
+      >
+    >
+  >
+  <TRACK {FA92CAF5-31C1-4B6C-B6CB-92A8FDF20BC8}
+    NAME "NES - Pulse 2 [Gradius Boss]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {FA92CAF5-31C1-4B6C-B6CB-92A8FDF20BC8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9D606F5C-6455-43BE-A000-B3901085819E}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 79.59205549166666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C91333B3-E8DC-48AE-A5F2-7F2B2089B201}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/var4.mid"
+      >
+    >
+  >
+  <TRACK {C30ADF5F-B7B0-43BD-9BA4-CF0B2633E8F4}
+    NAME "NES - Triangle [Gradius Boss]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {C30ADF5F-B7B0-43BD-9BA4-CF0B2633E8F4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E7A770F5-1021-48E1-9432-DFC993CD7335}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 79.59205549166666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8EEBBF81-DA1C-4E1D-B1D0-1765BCEB0895}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/var4.mid"
+      >
+    >
+  >
+  <TRACK {EE77387F-7D64-40F6-829E-14D27665FF93}
+    NAME "NES - Noise / Drums [Gradius Boss]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {EE77387F-7D64-40F6-829E-14D27665FF93}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {05E288EA-83ED-4420-8D7D-F2F1657D6E94}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 79.59205549166666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {31A679E0-9457-47CC-A175-2271006F97A8}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/var4.mid"
+      >
+    >
+  >
+>

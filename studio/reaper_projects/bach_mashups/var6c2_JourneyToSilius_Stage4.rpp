@@ -12,7 +12,7 @@
     |Bach × JtS Stage 4 — Goldberg Variation 6 (Canon at 2nd)
     |Stage preset: Bright lead over warm pad - brooding tension
   >
-  <TRACK {A87688C6-BB73-4569-8AC1-A34E88BD4A13}
+  <TRACK {637A9566-7959-4BA3-927A-A8A233F92ED4}
     NAME "NES - Pulse 1 [JtS Stage 4]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {A87688C6-BB73-4569-8AC1-A34E88BD4A13}
+    TRACKID {637A9566-7959-4BA3-927A-A8A233F92ED4}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {B8536BF6-8026-42A8-86CF-8B59A67B28CF}
+      FXID {8B6E4FD4-E63B-4427-BA52-7A8508C93477}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {75FFF75F-9F1B-4980-A2B7-3871D68962E7}
+      IGUID {77E38C42-80A4-4498-8343-429A5FD12941}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >
     >
   >
-  <TRACK {0936631A-938C-48A5-9DF7-867617D65873}
+  <TRACK {9D3C9D3D-BCDA-4C17-9D9C-A120FCC40F3D}
     NAME "NES - Pulse 2 [JtS Stage 4]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {0936631A-938C-48A5-9DF7-867617D65873}
+    TRACKID {9D3C9D3D-BCDA-4C17-9D9C-A120FCC40F3D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {07620462-B8E5-4507-8953-843A4130A110}
+      FXID {47088193-296C-4E7F-B4B3-CE61AA0210AC}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {7353B2E0-9B3E-4ABA-A286-D6EA1DC0647B}
+      IGUID {4DF2A0E2-C49A-4246-8441-81F0A71470CA}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >
     >
   >
-  <TRACK {D2B38C7C-5356-4D07-A735-2E3E71BA2490}
+  <TRACK {DE610E35-15F0-4FFC-90E5-7C95ECACC1E6}
     NAME "NES - Triangle [JtS Stage 4]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {D2B38C7C-5356-4D07-A735-2E3E71BA2490}
+    TRACKID {DE610E35-15F0-4FFC-90E5-7C95ECACC1E6}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {ED4EDC7A-6C74-4322-BB89-26EE4F57FEEF}
+      FXID {19FAAED9-3CA8-40BF-9ACE-5DA451058856}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {1024C655-13EA-4466-955A-1BDAFAE45A9D}
+      IGUID {661952CB-6346-44CC-BCB9-E79B30872F07}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >
     >
   >
-  <TRACK {E8D76AA1-1C6F-43D6-A916-0941B7134340}
+  <TRACK {67879B54-98D6-417F-9E9B-DA7740703455}
     NAME "NES - Noise / Drums [JtS Stage 4]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E8D76AA1-1C6F-43D6-A916-0941B7134340}
+    TRACKID {67879B54-98D6-417F-9E9B-DA7740703455}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {31B3B93A-2431-4AB1-9EA8-3C39F7DA0133}
+      FXID {486349EC-63BC-4480-BE7C-B566D7291C98}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B05BCB54-51EC-4795-82C1-E76597A2AD49}
+      IGUID {4B73A24A-8FFF-4944-8F7D-86FE12F876EF}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >

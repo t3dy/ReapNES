@@ -1,0 +1,199 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 95.00014250021376 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio — Bach x NES Mashup
+    |Bach × BC Enemy Base — Cello Suite 1 - Allemande
+    |Stage preset: Dual 50% warm squares - dense military infiltration
+  >
+  <TRACK {B838FF79-5BD3-40F5-8DAA-BFFB6067DC7D}
+    NAME "NES - Pulse 1 [BC Enemy Base]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {B838FF79-5BD3-40F5-8DAA-BFFB6067DC7D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {04D1FEFA-4A2B-428F-966F-92B6B54CF757}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 192.78797054999998
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E25327A5-9F53-49D0-996A-403DCC57F92A}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/all1.mid"
+      >
+    >
+  >
+  <TRACK {0371E424-2E5E-4CA0-8237-2322DF6044E5}
+    NAME "NES - Pulse 2 [BC Enemy Base]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {0371E424-2E5E-4CA0-8237-2322DF6044E5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {6987454A-F989-4C27-8A0F-62FDAA748560}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 192.78797054999998
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A747BDF4-02CC-432B-8C5E-D8E0EF2A3D73}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/all1.mid"
+      >
+    >
+  >
+  <TRACK {D4D32EDB-D0DA-4336-8C0C-CB52BDB7B5A3}
+    NAME "NES - Triangle [BC Enemy Base]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {D4D32EDB-D0DA-4336-8C0C-CB52BDB7B5A3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {83A0377B-87FD-4FDB-9B96-31E9FE854151}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 192.78797054999998
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA9D0588-7239-4619-BC46-72A829550D52}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/all1.mid"
+      >
+    >
+  >
+  <TRACK {75EDF3F8-D02E-4BEF-9844-1577FD74CB4D}
+    NAME "NES - Noise / Drums [BC Enemy Base]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {75EDF3F8-D02E-4BEF-9844-1577FD74CB4D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9FF4D35B-916A-4501-ADD7-5DDBFBCCA434}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 192.78797054999998
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CDC5805F-F95C-4639-8BC0-FF5E5D687DF4}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/all1.mid"
+      >
+    >
+  >
+>

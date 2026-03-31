@@ -12,7 +12,7 @@
     |Bach × Gradius Boss — WTC Fugue No.2 in C minor
     |Stage preset: Both pulses thin 12.5% - alien metallic menace
   >
-  <TRACK {A3900621-9A2C-48C1-9D39-36A6F00DA371}
+  <TRACK {6329AD56-9F31-4E74-B0A9-E27306C5E9F4}
     NAME "NES - Pulse 1 [Gradius Boss]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {A3900621-9A2C-48C1-9D39-36A6F00DA371}
+    TRACKID {6329AD56-9F31-4E74-B0A9-E27306C5E9F4}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C61D8115-2F6B-43B0-8B25-5F0359C1403C}
+      FXID {930046E4-F7C2-4F3A-97A2-AC2F35B304F2}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {CB0D1EBE-2566-4139-813C-95A9D3C8906D}
+      IGUID {DBE6EE2F-06B6-4854-8C49-FB85D154FD43}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue2.mid"
       >
     >
   >
-  <TRACK {28E324E6-5D66-4381-B565-AA4F6CA066C6}
+  <TRACK {0ACC9B26-3225-4228-9E04-E36EB4CBC7D6}
     NAME "NES - Pulse 2 [Gradius Boss]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {28E324E6-5D66-4381-B565-AA4F6CA066C6}
+    TRACKID {0ACC9B26-3225-4228-9E04-E36EB4CBC7D6}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {648B0455-E42A-4602-935A-6290ABF881EC}
+      FXID {7A7DF6EF-C0BE-4822-8890-EA99FE562646}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A0E75977-9D71-4744-9C1A-2557DBC3D5CF}
+      IGUID {F2A12D13-EC49-4FE0-AD11-C8FAFD1DAB45}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue2.mid"
       >
     >
   >
-  <TRACK {EAA99200-2D92-43AF-8DB3-8F3A01CB4545}
+  <TRACK {1FE203ED-9FFB-4BC3-A4D0-6131EE901226}
     NAME "NES - Triangle [Gradius Boss]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {EAA99200-2D92-43AF-8DB3-8F3A01CB4545}
+    TRACKID {1FE203ED-9FFB-4BC3-A4D0-6131EE901226}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {E61D03C2-E071-4700-A4FC-C46CA5A5D6F7}
+      FXID {2818F6FA-93D3-4DDB-B6FF-21918BEAAEE2}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {9A678C25-AB51-48CE-B2F4-142EB2F323F9}
+      IGUID {441EDC55-96A7-4686-9B37-CCC0D664E9BC}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue2.mid"
       >
     >
   >
-  <TRACK {5F2980A4-24D7-4E8F-A672-AB2A4CBADFFB}
+  <TRACK {E968A52D-81CE-4BA5-B4B9-7BF861A42036}
     NAME "NES - Noise / Drums [Gradius Boss]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {5F2980A4-24D7-4E8F-A672-AB2A4CBADFFB}
+    TRACKID {E968A52D-81CE-4BA5-B4B9-7BF861A42036}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0774AB5F-CD82-40FA-9E47-0793C871BD75}
+      FXID {9BDB23EF-1BF1-4194-8DC3-F9CFC8A3937E}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B9282875-BCF3-4365-AB0A-505036C0592E}
+      IGUID {FA133739-D5D4-4056-834B-11FA7BE2C581}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue2.mid"
       >

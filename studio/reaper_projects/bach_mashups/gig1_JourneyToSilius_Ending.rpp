@@ -12,7 +12,7 @@
     |Bach × JtS Ending Theme — Cello Suite 1 - Gigue
     |Stage preset: Wide 75% lead with bright harmony - triumphant resolution
   >
-  <TRACK {955312B2-0032-4121-907B-B6CDB95E5AC8}
+  <TRACK {5BB9BD1C-3EA3-457C-864A-5422F72EF7DD}
     NAME "NES - Pulse 1 [JtS Ending Theme]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {955312B2-0032-4121-907B-B6CDB95E5AC8}
+    TRACKID {5BB9BD1C-3EA3-457C-864A-5422F72EF7DD}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {BFE79DBB-48EF-4CED-BF09-9A6CE08D1D54}
+      FXID {CDEBF2A0-EEA7-4110-9AB5-5BD6B21437AD}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {BACF6255-F39A-4220-8F40-C35A4D9C310C}
+      IGUID {214EFE05-6C1D-4F7D-AA9D-FF2FA0217C3B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >
     >
   >
-  <TRACK {194830EB-8032-4695-B3F0-F13AF391DC35}
+  <TRACK {DE528A25-7F47-46E0-826C-062AF7DFBE57}
     NAME "NES - Pulse 2 [JtS Ending Theme]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {194830EB-8032-4695-B3F0-F13AF391DC35}
+    TRACKID {DE528A25-7F47-46E0-826C-062AF7DFBE57}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {E0CAA5B6-8D0C-4347-B820-CA338B1DD482}
+      FXID {1E3985D9-012F-4FAA-90F6-9518783B1A97}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {543EC5C8-827B-466E-ADD3-32A6A00C8536}
+      IGUID {2A2DE8F9-5124-49CF-81A6-5B07DE007848}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >
     >
   >
-  <TRACK {43FAEBA2-7437-4EFB-8D0D-7BD9DB1F487C}
+  <TRACK {B8827245-0EE7-4858-8D82-598C7B3E8C50}
     NAME "NES - Triangle [JtS Ending Theme]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {43FAEBA2-7437-4EFB-8D0D-7BD9DB1F487C}
+    TRACKID {B8827245-0EE7-4858-8D82-598C7B3E8C50}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C7F94F15-5569-4632-B7DF-AD158E1F538C}
+      FXID {E81E620B-DDA4-4042-AD91-EE5DA81B0128}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {8BAACD42-5A81-45A1-8870-EBA03A35E070}
+      IGUID {F0CE4BC3-E11D-4831-B75C-59C8189813F2}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >
     >
   >
-  <TRACK {0B32EAA4-9E6A-4DE3-8617-87C07705E059}
+  <TRACK {27BA65C4-092E-487B-8482-596D9ABBB945}
     NAME "NES - Noise / Drums [JtS Ending Theme]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {0B32EAA4-9E6A-4DE3-8617-87C07705E059}
+    TRACKID {27BA65C4-092E-487B-8482-596D9ABBB945}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9446F5BF-AE27-49E7-BA00-7561715886BD}
+      FXID {B386CA24-34DD-4FB9-903D-971725FA7F90}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {27E128CD-1494-4375-A9D7-D3AB84B70B77}
+      IGUID {05C2ED50-C4C0-4745-BBFE-9B879C6CEB68}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >

@@ -12,7 +12,7 @@
     |Bach × JtS Stage 2 — WTC1 Prelude & Fugue No.2 BWV 847
     |Stage preset: Both pulses at 12.5% - thin, metallic, haunting Sunsoft
   >
-  <TRACK {EB3A8CBC-65F0-436E-98FE-C392B3B35B2C}
+  <TRACK {92DD0171-92C5-4B2E-8860-584745AF1E9E}
     NAME "NES - Pulse 1 [JtS Stage 2]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {EB3A8CBC-65F0-436E-98FE-C392B3B35B2C}
+    TRACKID {92DD0171-92C5-4B2E-8860-584745AF1E9E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {F9FDF00F-5091-49DC-8F8F-714580E3B8FC}
+      FXID {2D769533-5F21-4C1C-98D9-17F6E1FE7530}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {7202147A-705E-4E58-AB70-D3B60BA36077}
+      IGUID {34A6C0F8-46CB-423B-A964-C510AA5F21D3}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/bach_collection/bach_847.mid"
       >
     >
   >
-  <TRACK {E871C0CD-CF00-4877-868B-C83ED717D56B}
+  <TRACK {9A90620A-1E7D-481E-8E0C-C0876B3511B1}
     NAME "NES - Pulse 2 [JtS Stage 2]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E871C0CD-CF00-4877-868B-C83ED717D56B}
+    TRACKID {9A90620A-1E7D-481E-8E0C-C0876B3511B1}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {EA72A8C0-F935-43B3-A689-1F2228B8607E}
+      FXID {DF8DA52E-2A90-4A63-A7E3-D435F521DFA4}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B09A375D-99CC-4893-A0CC-F53F04F300AF}
+      IGUID {7A17C821-8182-4029-8462-046A765C867A}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/bach_collection/bach_847.mid"
       >
     >
   >
-  <TRACK {B93D4B03-744D-4D2F-BF86-27094D1F8E0A}
+  <TRACK {9CF2EED8-5177-46E6-B196-4E3D26A85A2D}
     NAME "NES - Triangle [JtS Stage 2]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B93D4B03-744D-4D2F-BF86-27094D1F8E0A}
+    TRACKID {9CF2EED8-5177-46E6-B196-4E3D26A85A2D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {84EA36BE-6F2A-4209-9A2A-4D88FA6D2BFF}
+      FXID {0C50E605-6D22-49EB-991E-ECCF8D4E38EF}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {9E3F7EF1-68B9-4A82-A56C-C85ACABDE975}
+      IGUID {95E4A391-8E81-4AF4-9B20-1EAF6497A14F}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/bach_collection/bach_847.mid"
       >
     >
   >
-  <TRACK {4768F3FC-334F-428A-9461-705D0F9E0DDF}
+  <TRACK {5689A2D4-0B1E-4923-90C9-44B6A3C37034}
     NAME "NES - Noise / Drums [JtS Stage 2]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {4768F3FC-334F-428A-9461-705D0F9E0DDF}
+    TRACKID {5689A2D4-0B1E-4923-90C9-44B6A3C37034}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {D3784008-3127-4391-87A6-6DFD8B058450}
+      FXID {66E31BDB-CF8D-4E9B-934D-AF18EDF2E5EE}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {1664559B-FA0A-4A8C-87DF-0AF3962A3353}
+      IGUID {7429AFD6-22D0-412F-9720-B7C6E2C72EDE}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/bach_collection/bach_847.mid"
       >

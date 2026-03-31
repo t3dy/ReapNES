@@ -12,7 +12,7 @@
     |Bach × Gradius Boss — WTC Fugue No.9 in E
     |Stage preset: Both pulses thin 12.5% - alien metallic menace
   >
-  <TRACK {60982DCB-6BC7-4EAE-AEA4-A0F7AD02700E}
+  <TRACK {40E23DA2-EA2B-4D94-8BEC-B4DA47823C4F}
     NAME "NES - Pulse 1 [Gradius Boss]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {60982DCB-6BC7-4EAE-AEA4-A0F7AD02700E}
+    TRACKID {40E23DA2-EA2B-4D94-8BEC-B4DA47823C4F}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {5E43F8B9-1B91-4FD7-8B85-3751A181ABBC}
+      FXID {14A24482-AEE1-4D73-ADE5-9E067FDED72B}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {47AF5AED-FED8-43DE-B06C-E96203AF51EE}
+      IGUID {5A753A98-27E5-4586-9206-45D544984BA6}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue9.mid"
       >
     >
   >
-  <TRACK {4367FBFB-9A89-4A1A-8712-DDF0866AE9D1}
+  <TRACK {4213C905-ECD5-4FF1-8E81-4A61BFDD819F}
     NAME "NES - Pulse 2 [Gradius Boss]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {4367FBFB-9A89-4A1A-8712-DDF0866AE9D1}
+    TRACKID {4213C905-ECD5-4FF1-8E81-4A61BFDD819F}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {AB718C2F-2432-474D-AB35-65261DE704D5}
+      FXID {3E557BEA-C98D-43D6-9AE6-783D81B94A57}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {2B870169-0E9A-494E-9270-F8AF092CE2BA}
+      IGUID {B8ECA283-B4AB-4EAC-BFCD-31EEDA9E8E09}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue9.mid"
       >
     >
   >
-  <TRACK {76A2B8A6-6E62-412A-86B5-B1C681549529}
+  <TRACK {7626B5E0-3340-4CFC-9089-0EC548220210}
     NAME "NES - Triangle [Gradius Boss]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {76A2B8A6-6E62-412A-86B5-B1C681549529}
+    TRACKID {7626B5E0-3340-4CFC-9089-0EC548220210}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {A67A0962-78A0-4AE1-97B7-C65C860F7608}
+      FXID {968C9BF0-DBD9-4622-A538-4D2F39B2C203}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A755D5A4-4300-4C60-A2ED-D5AD4390A9A8}
+      IGUID {276758E7-0F0C-4D6F-8834-5FEEB0BA66C5}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue9.mid"
       >
     >
   >
-  <TRACK {E493CA6B-F055-464B-BDDE-888AF4725ECA}
+  <TRACK {0516DD82-E56F-48F0-928F-6949F12CF43A}
     NAME "NES - Noise / Drums [Gradius Boss]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E493CA6B-F055-464B-BDDE-888AF4725ECA}
+    TRACKID {0516DD82-E56F-48F0-928F-6949F12CF43A}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {00AB32B0-CAB6-4358-9CDE-234B98BB3517}
+      FXID {74CC62DC-2E77-41FC-9DCB-5A13CD56651A}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4D406FC1-B1E1-4546-83BD-C593ED9F104D}
+      IGUID {30FA6523-9CAC-4649-B1A2-C8BCCD33D587}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue9.mid"
       >

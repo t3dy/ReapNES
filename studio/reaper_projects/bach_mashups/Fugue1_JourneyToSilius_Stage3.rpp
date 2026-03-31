@@ -12,7 +12,7 @@
     |Bach × JtS Stage 3 — WTC Fugue No.1 in C
     |Stage preset: Bright lead against warm square harmony - driving action
   >
-  <TRACK {598A36FC-D6BF-4EAB-8929-4BEFAFB6C754}
+  <TRACK {738581FD-B7F4-44D7-9961-1FC30BC966C9}
     NAME "NES - Pulse 1 [JtS Stage 3]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {598A36FC-D6BF-4EAB-8929-4BEFAFB6C754}
+    TRACKID {738581FD-B7F4-44D7-9961-1FC30BC966C9}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {BE410D5D-5449-4D3C-8756-02D83757DE9A}
+      FXID {8FBCB853-79FD-4311-BF78-6F5836132784}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {1D1ADC89-9926-4DF1-9A2A-F822108E40A9}
+      IGUID {5DBF14A9-A183-46D5-BFDA-D9B52BB70E5C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue1.mid"
       >
     >
   >
-  <TRACK {CCF2981F-C507-4F7A-A010-2455E3F222A9}
+  <TRACK {AF491B5F-EC07-4958-85BC-5CE762978F41}
     NAME "NES - Pulse 2 [JtS Stage 3]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {CCF2981F-C507-4F7A-A010-2455E3F222A9}
+    TRACKID {AF491B5F-EC07-4958-85BC-5CE762978F41}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {99F3C5A9-4109-42C8-9631-454689DCDC65}
+      FXID {1741FEED-3254-430F-90DD-6D2C8BB39811}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {ABEDB7E0-9367-41CA-8842-566D99EBE96D}
+      IGUID {FA6E0646-B789-421F-8ABC-A954D1E4468E}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue1.mid"
       >
     >
   >
-  <TRACK {2002F833-B851-42BD-B688-DCDF49286D2C}
+  <TRACK {9031FC4B-2B24-48B0-9F9C-FEF3ACB27A93}
     NAME "NES - Triangle [JtS Stage 3]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {2002F833-B851-42BD-B688-DCDF49286D2C}
+    TRACKID {9031FC4B-2B24-48B0-9F9C-FEF3ACB27A93}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {936AA58C-BE6E-4F2C-A2E7-8288F7F87E5E}
+      FXID {7F13446C-C4B4-4C7D-98D4-F9AD70CDAA11}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5445C49C-78CD-4874-8A8F-ED6D1C3F5FBD}
+      IGUID {1326D797-4883-4B7B-8A69-E3FF26516FC9}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue1.mid"
       >
     >
   >
-  <TRACK {8405B448-8759-4838-8267-46D588684A19}
+  <TRACK {81DAB954-ED73-4021-87A3-85D4B0803358}
     NAME "NES - Noise / Drums [JtS Stage 3]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {8405B448-8759-4838-8267-46D588684A19}
+    TRACKID {81DAB954-ED73-4021-87A3-85D4B0803358}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {490A2349-D4A1-450E-9AAB-336393E410F6}
+      FXID {AAC4CCF8-7C6A-4DF0-9E8F-445F91541268}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E26A3A61-07B4-4041-AE5D-5293490DD5F7}
+      IGUID {D1C74DBC-F752-47F7-9270-912E2160BF2E}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue1.mid"
       >

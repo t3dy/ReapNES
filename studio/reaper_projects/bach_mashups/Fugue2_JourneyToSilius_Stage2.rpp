@@ -12,7 +12,7 @@
     |Bach × JtS Stage 2 — WTC Fugue No.2 in C minor
     |Stage preset: Both pulses at 12.5% - thin, metallic, haunting Sunsoft
   >
-  <TRACK {654FB27D-A16C-47E7-BCC6-91E7C690BCC5}
+  <TRACK {30C10BF2-DBD6-4473-92E4-E6CEB145B033}
     NAME "NES - Pulse 1 [JtS Stage 2]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {654FB27D-A16C-47E7-BCC6-91E7C690BCC5}
+    TRACKID {30C10BF2-DBD6-4473-92E4-E6CEB145B033}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {54EEFD79-9451-4980-AAB0-90F25E5A01F7}
+      FXID {41F328A4-184A-4C02-A0CF-FA31764D45A5}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {7F57F0E1-55E3-4518-8C5C-2AA18502B28F}
+      IGUID {BD55D7A8-CDD8-47B8-805C-E54EAD957C13}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue2.mid"
       >
     >
   >
-  <TRACK {733F144D-CD6E-4266-8F0D-A39CFBD7C092}
+  <TRACK {61BC6F24-26EA-45D5-A7BA-CAC7196C3795}
     NAME "NES - Pulse 2 [JtS Stage 2]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {733F144D-CD6E-4266-8F0D-A39CFBD7C092}
+    TRACKID {61BC6F24-26EA-45D5-A7BA-CAC7196C3795}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {5496D3E5-D6D3-4389-9D59-82DC0099E2F3}
+      FXID {F5B721FA-F6F3-49FF-9AE1-FC5AE15A2A49}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {50CB0DBF-946D-4A0B-B39A-BBA0F640C6A1}
+      IGUID {C4B78236-7A75-4DDD-80C1-679877C9FC90}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue2.mid"
       >
     >
   >
-  <TRACK {804976CA-AC57-4DFF-A2E5-7D8E75B11349}
+  <TRACK {2AE02F38-BB0F-4C25-AEFE-25F3CE709236}
     NAME "NES - Triangle [JtS Stage 2]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {804976CA-AC57-4DFF-A2E5-7D8E75B11349}
+    TRACKID {2AE02F38-BB0F-4C25-AEFE-25F3CE709236}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {2DBEA250-0CF7-4EE8-91A2-268D35DF9D67}
+      FXID {ED0F09B4-02EB-4364-8D6A-B967647B5A86}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {8CC81D55-8E18-4949-B41B-B2601A0E5049}
+      IGUID {2BE94888-F2D2-4C63-AE68-8F0A9127123B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue2.mid"
       >
     >
   >
-  <TRACK {B75FD654-596B-4686-80B6-89D0D59F7ADC}
+  <TRACK {0E980EA7-0B42-4B2F-AAFF-3FA3690CFB20}
     NAME "NES - Noise / Drums [JtS Stage 2]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B75FD654-596B-4686-80B6-89D0D59F7ADC}
+    TRACKID {0E980EA7-0B42-4B2F-AAFF-3FA3690CFB20}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {691E3DBF-D28F-4265-8A14-A03017E4880E}
+      FXID {C5B2B56E-BFF7-4EF9-A48B-9D67145AFD28}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {12A8D640-2655-49AC-96AE-35DF6EFAEA2F}
+      IGUID {C3FBAAEF-0E6D-4635-9776-34AE801EFD2C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue2.mid"
       >

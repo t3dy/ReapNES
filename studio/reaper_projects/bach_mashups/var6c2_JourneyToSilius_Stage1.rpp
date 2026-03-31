@@ -12,7 +12,7 @@
     |Bach × JtS Stage 1 & 5 — Goldberg Variation 6 (Canon at 2nd)
     |Stage preset: Dual bright 25% pulses - classic Sunsoft energy
   >
-  <TRACK {BB82DD1A-2524-48CF-A15F-0466190513F5}
+  <TRACK {DF7C6F98-2847-4A56-A9BD-BBF1E17D2E72}
     NAME "NES - Pulse 1 [JtS Stage 1 & 5]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {BB82DD1A-2524-48CF-A15F-0466190513F5}
+    TRACKID {DF7C6F98-2847-4A56-A9BD-BBF1E17D2E72}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {A91648C2-523F-4CD2-B20D-238FADCFBFBD}
+      FXID {7E11446D-9392-4073-A3F2-95AC7140C7DB}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {ACA74EC4-A9A5-49D9-BFAA-E49ABE6A2FC5}
+      IGUID {3E187D19-613E-4FEF-9FB3-8037424F4E84}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >
     >
   >
-  <TRACK {FC1E721E-6343-42F5-8130-7F2BFF12E941}
+  <TRACK {C6A28E4A-D433-4A4E-9DB3-41C6E1A176CC}
     NAME "NES - Pulse 2 [JtS Stage 1 & 5]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {FC1E721E-6343-42F5-8130-7F2BFF12E941}
+    TRACKID {C6A28E4A-D433-4A4E-9DB3-41C6E1A176CC}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {16555D7E-70C8-4A56-A41B-46593E8BD2E8}
+      FXID {B138262F-0665-40C5-9289-A03A6627C0C7}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {61A1AC58-F610-4F86-9024-F39A9C7D488F}
+      IGUID {6943E594-F843-4A5F-B6EE-138C0CDC3173}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >
     >
   >
-  <TRACK {B9990A8E-4693-499A-AC85-6D30B03BA053}
+  <TRACK {0F64C3DE-CF4A-45ED-84EA-5DE4C397F487}
     NAME "NES - Triangle [JtS Stage 1 & 5]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B9990A8E-4693-499A-AC85-6D30B03BA053}
+    TRACKID {0F64C3DE-CF4A-45ED-84EA-5DE4C397F487}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9F1E118B-62E3-4E2D-A412-FA98022BF2F6}
+      FXID {83A43463-273B-4251-9EA9-0155DF01BCA6}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {32456407-5AC7-4F01-B5F8-5CD49F438FF5}
+      IGUID {E272B7D9-7D9C-4BB1-9D52-96BAF1F4D35E}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >
     >
   >
-  <TRACK {C5BBBECB-EF0B-44B2-BE2E-AF4B45A09CD1}
+  <TRACK {B2DF5787-30F6-428C-97F3-B0AA58B0F17F}
     NAME "NES - Noise / Drums [JtS Stage 1 & 5]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C5BBBECB-EF0B-44B2-BE2E-AF4B45A09CD1}
+    TRACKID {B2DF5787-30F6-428C-97F3-B0AA58B0F17F}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {31DCC02E-0EDA-41F8-B0E9-C8244B7D9572}
+      FXID {AA5D3625-98FC-4B8B-B322-D20371A99B41}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A09A563F-0574-48D1-9ABD-7EAC7110FD04}
+      IGUID {7F93AC56-6C58-4FF6-8209-CF712C11052E}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >

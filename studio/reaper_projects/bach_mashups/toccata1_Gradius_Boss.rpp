@@ -12,7 +12,7 @@
     |Bach × Gradius Boss — Toccata in D minor BWV 565
     |Stage preset: Both pulses thin 12.5% - alien metallic menace
   >
-  <TRACK {54834B86-E81F-469B-A34D-8A20477C1351}
+  <TRACK {54B42379-1608-455F-A485-6E359988EF5D}
     NAME "NES - Pulse 1 [Gradius Boss]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {54834B86-E81F-469B-A34D-8A20477C1351}
+    TRACKID {54B42379-1608-455F-A485-6E359988EF5D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8ACC9C8E-D450-4296-8CEC-138A6DA21B14}
+      FXID {465F86B6-4DDF-4F0E-B548-786D72198EF3}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DDC7370D-0534-4593-A9B1-090BBBC66C08}
+      IGUID {92445475-BDDB-433B-B885-8889F458E32F}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {2F0D0316-E2E2-4F03-954A-EE5265686745}
+  <TRACK {45A6B286-A48F-40B3-AA88-DD04F0F3CC0E}
     NAME "NES - Pulse 2 [Gradius Boss]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {2F0D0316-E2E2-4F03-954A-EE5265686745}
+    TRACKID {45A6B286-A48F-40B3-AA88-DD04F0F3CC0E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {DE3A5BE0-CABB-48C2-B83D-6BD0F814CF36}
+      FXID {00DAE50D-B2C7-444F-98AA-01CED43C79F6}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B98F61DE-C078-460B-9151-115BD0C57C18}
+      IGUID {4C6A73DB-2090-40E1-8B57-142A095157E3}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {BB1AD4C4-7403-4946-B92D-96E996989571}
+  <TRACK {24BD40CE-92A1-4B56-8DF1-5B68BDB62D71}
     NAME "NES - Triangle [Gradius Boss]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {BB1AD4C4-7403-4946-B92D-96E996989571}
+    TRACKID {24BD40CE-92A1-4B56-8DF1-5B68BDB62D71}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {AEDFCE42-CDF0-457F-81AD-8931BEFBA41A}
+      FXID {7A5583CF-0340-46AE-94EB-74CAEE61C7B0}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {92B83BE8-AAD7-4A6E-A186-03E6115A2F6E}
+      IGUID {7228A8A7-F0CA-4EFF-B678-AA3A87832AF6}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {260A9471-7B55-4549-B7CB-AB015A225706}
+  <TRACK {19C4AAEC-F5BB-4455-B2E6-FF9A72F17146}
     NAME "NES - Noise / Drums [Gradius Boss]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {260A9471-7B55-4549-B7CB-AB015A225706}
+    TRACKID {19C4AAEC-F5BB-4455-B2E6-FF9A72F17146}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C45CBCAD-CA48-4AC2-B48E-98A0D0AAC0ED}
+      FXID {FAA83AE3-691F-46DA-9448-7AB0FAA0B195}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3FFB1DAD-9109-4766-AA7D-FAED78F23C5B}
+      IGUID {C6325CC5-8BB1-402B-BE11-610587CCF117}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >

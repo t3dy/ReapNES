@@ -1,0 +1,199 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 84.000084000084 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio — Bach x NES Mashup
+    |Bach × BC Albatross HQ — Cello Suite 1 - Prelude
+    |Stage preset: Thin 12.5% lead + bright 25% harmony - covert tension
+  >
+  <TRACK {D17DA036-5CFE-42A1-89B2-6C1D3DF6D438}
+    NAME "NES - Pulse 1 [BC Albatross HQ]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {D17DA036-5CFE-42A1-89B2-6C1D3DF6D438}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2EC8E9B9-47A0-41DD-BCA0-E87585A768AE}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 119.76372588333332
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BECDF6AA-0014-4502-B6D5-9FA431F0948A}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/pre1.mid"
+      >
+    >
+  >
+  <TRACK {B2EC0070-B9A6-4B00-8A17-42C69F66D618}
+    NAME "NES - Pulse 2 [BC Albatross HQ]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {B2EC0070-B9A6-4B00-8A17-42C69F66D618}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {2CCF8245-7DCB-498E-9CE8-C3DBFCD403A2}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 119.76372588333332
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {37E9BAF3-CF29-4136-AE02-7DC1A8CD4F30}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/pre1.mid"
+      >
+    >
+  >
+  <TRACK {F3071EF5-4BFE-4486-9849-03020B524355}
+    NAME "NES - Triangle [BC Albatross HQ]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {F3071EF5-4BFE-4486-9849-03020B524355}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {91241597-BE8C-4295-A0F7-0E4645302144}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 119.76372588333332
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {151FB6E2-1DE8-4A64-AEC9-056E6AE8EA8D}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/pre1.mid"
+      >
+    >
+  >
+  <TRACK {F7AA2D81-D2C1-4818-837D-A266C9F57107}
+    NAME "NES - Noise / Drums [BC Albatross HQ]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {F7AA2D81-D2C1-4818-837D-A266C9F57107}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C058B89A-6A4D-4D36-94C3-63AE1022C389}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 119.76372588333332
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9EE820C0-3B33-45F6-A227-6F75745311D5}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/pre1.mid"
+      >
+    >
+  >
+>

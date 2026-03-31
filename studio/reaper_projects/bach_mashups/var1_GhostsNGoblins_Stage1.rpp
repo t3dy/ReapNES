@@ -12,7 +12,7 @@
     |Bach × GnG Stage 1 — Goldberg Variation 1
     |Stage preset: Dual bright 25% - Capcom gothic energy
   >
-  <TRACK {6712E47C-E500-4925-AA72-45CB4BD23D77}
+  <TRACK {469FF555-6E55-4409-B9AE-AA4A328608BE}
     NAME "NES - Pulse 1 [GnG Stage 1]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {6712E47C-E500-4925-AA72-45CB4BD23D77}
+    TRACKID {469FF555-6E55-4409-B9AE-AA4A328608BE}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {FF683424-40EF-45D3-8567-0EC78A01C996}
+      FXID {EAA58C61-6538-403D-BF0F-95B71D43EB09}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A0022020-A5EC-4BF9-A322-BD1691678F05}
+      IGUID {BB347BAA-8938-4328-8013-F534DE0E9074}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var1.mid"
       >
     >
   >
-  <TRACK {56BDC2BD-F8A8-4A4E-9E14-ACE883591147}
+  <TRACK {2EC4F92C-89A4-42C4-93C5-E894B49CE6F3}
     NAME "NES - Pulse 2 [GnG Stage 1]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {56BDC2BD-F8A8-4A4E-9E14-ACE883591147}
+    TRACKID {2EC4F92C-89A4-42C4-93C5-E894B49CE6F3}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {3DBF4244-A0DF-46D4-96A2-5D6638D80EA2}
+      FXID {65379A92-35DC-4144-A147-0A87E3B57BEA}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {7BB02A06-F889-4A66-9279-309DDC5C78A5}
+      IGUID {F79988A9-D4B3-4241-8FD4-428DE9253F69}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var1.mid"
       >
     >
   >
-  <TRACK {456C22F5-43E5-4DC0-A1C4-1181ACDAAB98}
+  <TRACK {692FA435-343B-4FA6-9B61-6C9680200F09}
     NAME "NES - Triangle [GnG Stage 1]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {456C22F5-43E5-4DC0-A1C4-1181ACDAAB98}
+    TRACKID {692FA435-343B-4FA6-9B61-6C9680200F09}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {AB9573F1-D3BA-4E57-8552-92948E94EFA2}
+      FXID {5F597844-8790-41A9-A9FC-1F31FA8F0B8E}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {56887176-C49B-44CB-9580-7A749C15ED6A}
+      IGUID {51B78F71-47E9-4E1A-A1AB-576683DEEC5A}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var1.mid"
       >
     >
   >
-  <TRACK {B2D5CB78-0E13-46BE-B5E7-4731537CEBDB}
+  <TRACK {C7452F45-4B6A-47E7-812E-F855641DD164}
     NAME "NES - Noise / Drums [GnG Stage 1]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B2D5CB78-0E13-46BE-B5E7-4731537CEBDB}
+    TRACKID {C7452F45-4B6A-47E7-812E-F855641DD164}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7EA51D28-5194-4894-9648-91776EB78923}
+      FXID {E9D2725A-FF91-49F3-96F9-BD373AE9638B}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B6F82403-7F3D-4C69-9ADB-12D7B29058D6}
+      IGUID {DF83EDB8-D751-4931-8ECB-B74B6AED6C70}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var1.mid"
       >

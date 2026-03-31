@@ -12,7 +12,7 @@
     |Bach × JtS Ending Theme — WTC Fugue No.3 in C#
     |Stage preset: Wide 75% lead with bright harmony - triumphant resolution
   >
-  <TRACK {DE387785-BF74-4FFE-8A01-7350DE08FD69}
+  <TRACK {0F8D1542-C77E-44E3-980D-152470478E85}
     NAME "NES - Pulse 1 [JtS Ending Theme]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {DE387785-BF74-4FFE-8A01-7350DE08FD69}
+    TRACKID {0F8D1542-C77E-44E3-980D-152470478E85}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {23A446DB-E6F1-4317-9D9E-E0363D496EAA}
+      FXID {FAB0885E-FF6A-4195-8850-D5312D8495BF}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EA5EE521-00AE-4073-A9BF-D8E92A0325FD}
+      IGUID {BD3E2F7B-82D6-4E08-A824-6184EB4E96AE}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue3.mid"
       >
     >
   >
-  <TRACK {CCCF9902-EBFE-43E9-8999-3852C9638994}
+  <TRACK {AB7571B7-DA64-41CD-87A4-E2D6AB8515AF}
     NAME "NES - Pulse 2 [JtS Ending Theme]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {CCCF9902-EBFE-43E9-8999-3852C9638994}
+    TRACKID {AB7571B7-DA64-41CD-87A4-E2D6AB8515AF}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C232BB94-3207-40FD-91DD-5A3E4078F7D3}
+      FXID {890C48BA-A6E5-4687-ADBC-781EEEDB5155}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {868F3C4E-147C-418D-8A5C-72E01BDBFB97}
+      IGUID {D33EF286-8BE8-43BF-AE0C-CBF0AFE89D1B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue3.mid"
       >
     >
   >
-  <TRACK {82F8C8E2-1D49-4CA5-BFA2-BFE2A23E4887}
+  <TRACK {5A072892-00AF-4C5D-AC9C-123A2CEC4A39}
     NAME "NES - Triangle [JtS Ending Theme]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {82F8C8E2-1D49-4CA5-BFA2-BFE2A23E4887}
+    TRACKID {5A072892-00AF-4C5D-AC9C-123A2CEC4A39}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {BD9581B9-7BCD-41E6-A512-88A3CD61AC2F}
+      FXID {4CB3B097-4DD0-45F1-84AB-585F95331944}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {898E7D9F-2152-4B12-96AE-0BC85EB7D66D}
+      IGUID {FAE1AC9F-D1BE-472F-A67B-AC598AE128CB}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue3.mid"
       >
     >
   >
-  <TRACK {B8EFD626-C483-4F75-B17E-22083B7D87C5}
+  <TRACK {046D5D01-CDD9-4D54-9F8F-7D544D3D428F}
     NAME "NES - Noise / Drums [JtS Ending Theme]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B8EFD626-C483-4F75-B17E-22083B7D87C5}
+    TRACKID {046D5D01-CDD9-4D54-9F8F-7D544D3D428F}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8D2A96EA-9517-4AEA-8F7D-B2F4ED537080}
+      FXID {A1EF8070-0410-4047-99DA-FF29A0CCE67B}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D5CA744E-9152-40EA-AAE5-B66C63FC939A}
+      IGUID {0CEFE451-BE5D-4117-897A-B6932E681CA5}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue3.mid"
       >

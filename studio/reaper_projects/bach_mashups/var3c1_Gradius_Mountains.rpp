@@ -12,7 +12,7 @@
     |Bach × Gradius Mountains — Goldberg Variation 3 (Canon)
     |Stage preset: Dual 75% wide pulses - bold space opera feel
   >
-  <TRACK {56782FDA-333E-4CC2-8E4B-0C929EF6208D}
+  <TRACK {4CE91032-BF83-42AE-AA2C-E7C498978172}
     NAME "NES - Pulse 1 [Gradius Mountains]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {56782FDA-333E-4CC2-8E4B-0C929EF6208D}
+    TRACKID {4CE91032-BF83-42AE-AA2C-E7C498978172}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8843C3E9-BD6E-4609-87C8-A884074D148C}
+      FXID {10A476AA-7ABF-42C9-9D96-DF5986C0D529}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EF37E2C5-1C26-4113-A42D-515B1D96234E}
+      IGUID {4756DDC1-D9AF-476B-B586-C89989018978}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var3c1.mid"
       >
     >
   >
-  <TRACK {B6071D52-738D-4E24-A737-ED5F9D26EFB9}
+  <TRACK {0D5D52F9-22A1-49DB-AC77-62D49C561B6C}
     NAME "NES - Pulse 2 [Gradius Mountains]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B6071D52-738D-4E24-A737-ED5F9D26EFB9}
+    TRACKID {0D5D52F9-22A1-49DB-AC77-62D49C561B6C}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {71B1C58A-21AD-461B-BEC1-FAB7F02030AE}
+      FXID {207C50DC-9CB9-4B0B-AC86-4FC476B96838}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {517DF765-7D93-4300-8402-BBED2C0D31A7}
+      IGUID {F26ECC6F-1ABA-419F-9EB6-0E3FB021DC3A}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var3c1.mid"
       >
     >
   >
-  <TRACK {196AFDDB-F0A2-4F6F-A4F9-B75F38899337}
+  <TRACK {1D7A2A33-A05C-4EB8-A68F-F24034E8315A}
     NAME "NES - Triangle [Gradius Mountains]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {196AFDDB-F0A2-4F6F-A4F9-B75F38899337}
+    TRACKID {1D7A2A33-A05C-4EB8-A68F-F24034E8315A}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {E3EECBBE-6C71-4141-9043-0C124D5DC7EF}
+      FXID {1EC8E17E-4F96-4E70-BA11-414B8E4EA207}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {128FCA85-FBF3-43EC-A380-1B9F02477A3E}
+      IGUID {84357ACE-1CFA-4CC3-BE5C-16410E70BFF9}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var3c1.mid"
       >
     >
   >
-  <TRACK {08D1D684-E326-4A08-BCC4-C81B69C00509}
+  <TRACK {F5D9064E-3ECF-40F4-81F0-D9F72EEEB9EB}
     NAME "NES - Noise / Drums [Gradius Mountains]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {08D1D684-E326-4A08-BCC4-C81B69C00509}
+    TRACKID {F5D9064E-3ECF-40F4-81F0-D9F72EEEB9EB}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7D249F17-BC33-4567-8A0A-288FFD6193B2}
+      FXID {CC144B0C-1DF0-4F42-91A3-E8CB56C8281B}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {6163582E-1536-45CF-A524-74246034DFD0}
+      IGUID {A32D520C-9AD6-4179-8A92-066ABF77C0D3}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var3c1.mid"
       >

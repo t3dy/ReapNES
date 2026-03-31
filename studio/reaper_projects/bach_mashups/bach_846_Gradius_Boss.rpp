@@ -1,0 +1,199 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 73.99998273333736 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio — Bach x NES Mashup
+    |Bach × Gradius Boss — WTC1 Prelude & Fugue No.1 BWV 846
+    |Stage preset: Both pulses thin 12.5% - alien metallic menace
+  >
+  <TRACK {A2C02E2D-3E99-4CCF-8833-8B778A14F44E}
+    NAME "NES - Pulse 1 [Gradius Boss]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {A2C02E2D-3E99-4CCF-8833-8B778A14F44E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {245ECBC8-68D2-4A85-8A2D-8A4A6FECF45F}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 296.6695277083333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {60DEAF3E-5A92-4000-AA23-771C9A375F75}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/studio/midi/classical/bach_collection/bach_846.mid"
+      >
+    >
+  >
+  <TRACK {29087321-8BD7-484B-9505-5516ADC557A6}
+    NAME "NES - Pulse 2 [Gradius Boss]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {29087321-8BD7-484B-9505-5516ADC557A6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DD5E8FAE-BA2D-4F9D-883A-04C87D6EF7E8}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 296.6695277083333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5A22C265-6CBE-40F6-B331-E28F6EE3D6C3}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/studio/midi/classical/bach_collection/bach_846.mid"
+      >
+    >
+  >
+  <TRACK {A0896E3C-5E23-4158-8588-CF0099285CD0}
+    NAME "NES - Triangle [Gradius Boss]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {A0896E3C-5E23-4158-8588-CF0099285CD0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DCE7B5DA-0BF4-47DF-A8BA-01D2E898B8DD}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 296.6695277083333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BB5B06D7-18B9-43C8-B188-F15B248D58FB}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/studio/midi/classical/bach_collection/bach_846.mid"
+      >
+    >
+  >
+  <TRACK {BF250BDD-4CF4-4A17-ABC4-3E3B32939A55}
+    NAME "NES - Noise / Drums [Gradius Boss]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {BF250BDD-4CF4-4A17-ABC4-3E3B32939A55}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DB390C90-9E3B-4EB3-AEF9-4A52B4CA0683}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 296.6695277083333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BF1C2C98-3513-4AFC-9610-F948E4E7FEF8}
+      <SOURCE MIDI
+        FILE "C:/Dev/NESMusicStudio/studio/midi/classical/bach_collection/bach_846.mid"
+      >
+    >
+  >
+>

@@ -12,7 +12,7 @@
     |Bach × JtS Stage 4 — Toccata in D minor BWV 565
     |Stage preset: Bright lead over warm pad - brooding tension
   >
-  <TRACK {BF0BA365-E929-4206-A876-4564B1F53190}
+  <TRACK {2DB8E202-C17A-4AC8-B0DA-5CE5675BF375}
     NAME "NES - Pulse 1 [JtS Stage 4]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {BF0BA365-E929-4206-A876-4564B1F53190}
+    TRACKID {2DB8E202-C17A-4AC8-B0DA-5CE5675BF375}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0A373FD7-5EB5-4893-9ACB-616D6AA7EF43}
+      FXID {732FFB07-8AD2-464C-A639-A34356357E32}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {318DEEEB-FB3C-4D57-9E4D-F562536EF116}
+      IGUID {E5F6161A-5A3A-4538-AD89-B67C90655D45}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {98A3EBEE-0A26-4CBE-B20D-22808F5CD087}
+  <TRACK {01D0105B-E747-46DB-8509-2C50B55B9709}
     NAME "NES - Pulse 2 [JtS Stage 4]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {98A3EBEE-0A26-4CBE-B20D-22808F5CD087}
+    TRACKID {01D0105B-E747-46DB-8509-2C50B55B9709}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {BA415CB5-9F4D-497F-A046-6D99D773723A}
+      FXID {B1BE7097-E8BE-4F03-9D0C-F6150AB4F167}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {9C275FC0-270C-4E24-827A-6A466C98AB60}
+      IGUID {18BC6F9D-B3E4-4BBE-8109-ACD4EB078743}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {8643DF7C-495B-4E43-BF34-372DED23BA2B}
+  <TRACK {5CBC570C-3CDE-4015-8565-2FBB3BF2C853}
     NAME "NES - Triangle [JtS Stage 4]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {8643DF7C-495B-4E43-BF34-372DED23BA2B}
+    TRACKID {5CBC570C-3CDE-4015-8565-2FBB3BF2C853}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {31EDAA51-DDAB-45A1-9899-D5090FB6BD99}
+      FXID {A2EB8998-1E1D-4D03-BE21-AFB1378D7A49}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EF83B86F-BB08-448D-B17D-55DF0E998CA4}
+      IGUID {D2B0DCDC-8796-4D1E-96C1-F07A91672923}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {C1B5F5F5-6A14-47B4-9E8F-23CC6A4A985D}
+  <TRACK {7BB71E91-5910-49AE-A666-63D3F6A08427}
     NAME "NES - Noise / Drums [JtS Stage 4]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C1B5F5F5-6A14-47B4-9E8F-23CC6A4A985D}
+    TRACKID {7BB71E91-5910-49AE-A666-63D3F6A08427}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {B1C31148-29BF-4EEA-91CD-53A1FFF4A01D}
+      FXID {8B2AEB56-2040-459A-A407-E96EC6DA82D0}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {BA6A8251-F2F8-4B8A-B5C0-F167910B6249}
+      IGUID {C01A90A1-5362-45A2-9AB8-6BB10785D349}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >

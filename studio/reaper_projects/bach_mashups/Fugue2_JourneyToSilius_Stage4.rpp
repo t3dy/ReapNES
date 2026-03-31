@@ -12,7 +12,7 @@
     |Bach × JtS Stage 4 — WTC Fugue No.2 in C minor
     |Stage preset: Bright lead over warm pad - brooding tension
   >
-  <TRACK {215B5058-174E-4517-8CC4-F1AB2ED731BC}
+  <TRACK {F031927E-08B1-4D59-B8A9-2FEF11C62907}
     NAME "NES - Pulse 1 [JtS Stage 4]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {215B5058-174E-4517-8CC4-F1AB2ED731BC}
+    TRACKID {F031927E-08B1-4D59-B8A9-2FEF11C62907}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {828B6682-A90D-433E-82D3-3FA02BE47BA7}
+      FXID {690D60D9-4821-432D-A87F-B678203D9306}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3B0086A1-60CA-47A0-9143-03D6DB2D10E2}
+      IGUID {DF036838-4E10-4F3A-8745-2D689FDABD1A}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue2.mid"
       >
     >
   >
-  <TRACK {86C5F992-E4DD-4F0C-9AAA-4812D96583B1}
+  <TRACK {AE43530C-B334-41F4-835A-1634DFB60E8C}
     NAME "NES - Pulse 2 [JtS Stage 4]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {86C5F992-E4DD-4F0C-9AAA-4812D96583B1}
+    TRACKID {AE43530C-B334-41F4-835A-1634DFB60E8C}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {AB085B3C-700E-41FA-B883-ACE08327CA09}
+      FXID {5F253407-6C5A-4DD2-B7E1-E5D0C7C09654}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D2CA2304-ED41-44BA-8C50-5FE145EBE33B}
+      IGUID {497CF79A-60CD-467F-BA44-CF645D3FF355}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue2.mid"
       >
     >
   >
-  <TRACK {C826CE2E-E8D6-4790-A00F-D2F26BCC3E72}
+  <TRACK {5298DD8E-CA51-4051-8261-7FE99B888800}
     NAME "NES - Triangle [JtS Stage 4]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C826CE2E-E8D6-4790-A00F-D2F26BCC3E72}
+    TRACKID {5298DD8E-CA51-4051-8261-7FE99B888800}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {4DB97F78-7946-4BE6-AA00-2131ADA60BFB}
+      FXID {BA7878D5-47FA-470B-8B31-3E1B5B129912}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {66CB2461-AB53-4D45-B3DC-466722CB2774}
+      IGUID {F2892FBD-A5BC-4B6B-A3A3-156A04BF6565}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue2.mid"
       >
     >
   >
-  <TRACK {0C8DCDD2-A8EF-4535-97AC-13653FDF3555}
+  <TRACK {EA1EB5A0-0F0F-4E63-AA7B-D66DE33F6CAA}
     NAME "NES - Noise / Drums [JtS Stage 4]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {0C8DCDD2-A8EF-4535-97AC-13653FDF3555}
+    TRACKID {EA1EB5A0-0F0F-4E63-AA7B-D66DE33F6CAA}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9E2086BA-98D1-4FE5-9410-F713947DDE0A}
+      FXID {DBC26A09-B467-4929-AB20-EF3DF85A2A6F}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {C8C7C59E-17FA-4C67-A026-AE9EDBF2649C}
+      IGUID {BC3C8E2F-FE2C-4086-993B-2382805AA99E}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue2.mid"
       >

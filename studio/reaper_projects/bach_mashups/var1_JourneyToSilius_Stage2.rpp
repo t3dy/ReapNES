@@ -12,7 +12,7 @@
     |Bach × JtS Stage 2 — Goldberg Variation 1
     |Stage preset: Both pulses at 12.5% - thin, metallic, haunting Sunsoft
   >
-  <TRACK {3C1627E7-95B3-48B7-91EF-0E99299C02BF}
+  <TRACK {DA6BC8ED-7FAE-46F1-B71A-6E61D7438913}
     NAME "NES - Pulse 1 [JtS Stage 2]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {3C1627E7-95B3-48B7-91EF-0E99299C02BF}
+    TRACKID {DA6BC8ED-7FAE-46F1-B71A-6E61D7438913}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C2D1B3E7-FBC9-4FED-BC83-D802771D6860}
+      FXID {FE5E2AC6-1C6C-4EEF-A206-E6CB7D23BDC4}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {610C07EE-CEEF-4536-8379-86ED0695F1BA}
+      IGUID {AE042970-399F-4753-848A-523127854798}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var1.mid"
       >
     >
   >
-  <TRACK {C3717082-2C85-4181-B9C9-F967949C55DE}
+  <TRACK {0B69A6B8-3CFA-4278-854B-8049E6FDB054}
     NAME "NES - Pulse 2 [JtS Stage 2]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C3717082-2C85-4181-B9C9-F967949C55DE}
+    TRACKID {0B69A6B8-3CFA-4278-854B-8049E6FDB054}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7C2358F7-3B4A-4208-8160-126E06C893FE}
+      FXID {0E8EDEED-884A-41F4-9786-0506A48E4092}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {36A97E25-0DAF-481A-8A80-74F30123A677}
+      IGUID {B72D6CD4-BF64-466E-B092-FF1F26E35A09}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var1.mid"
       >
     >
   >
-  <TRACK {E6146782-D48E-4AAA-8EE6-76BD0F929592}
+  <TRACK {654821D4-E437-4BF9-8BAD-429D75087B47}
     NAME "NES - Triangle [JtS Stage 2]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E6146782-D48E-4AAA-8EE6-76BD0F929592}
+    TRACKID {654821D4-E437-4BF9-8BAD-429D75087B47}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {4BE3D622-0058-4F65-B6D8-5582C1355617}
+      FXID {CB1E6D3B-B684-4A6E-A662-DCE3DCC6A76E}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {55E35F40-E7C0-415F-96BA-C8102F224A16}
+      IGUID {B6BB375F-4491-49B0-9B55-95DAE916B139}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var1.mid"
       >
     >
   >
-  <TRACK {E9342105-4ED5-4B01-B5C3-CC1F1BE1D171}
+  <TRACK {A982BB6A-8331-4311-9A42-EFCBBBAA6C9E}
     NAME "NES - Noise / Drums [JtS Stage 2]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E9342105-4ED5-4B01-B5C3-CC1F1BE1D171}
+    TRACKID {A982BB6A-8331-4311-9A42-EFCBBBAA6C9E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8F96FAA1-50B8-4A2C-8554-B3710AD1ED07}
+      FXID {E4187E57-DEDC-4E6F-88B5-BF0B44B84689}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D8B11142-0348-43CA-8C4B-430A74B608C4}
+      IGUID {98A23DB9-2F95-4AD6-AD4A-0AC35FEB2751}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var1.mid"
       >

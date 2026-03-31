@@ -12,7 +12,7 @@
     |Bach × GnG Stage 1 — WTC Prelude No.9 in E
     |Stage preset: Dual bright 25% - Capcom gothic energy
   >
-  <TRACK {788DB0E7-8556-4FA3-B8C8-B9332876FBE6}
+  <TRACK {B6DD3507-6E3F-4606-AED6-B61A89C11D6A}
     NAME "NES - Pulse 1 [GnG Stage 1]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {788DB0E7-8556-4FA3-B8C8-B9332876FBE6}
+    TRACKID {B6DD3507-6E3F-4606-AED6-B61A89C11D6A}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C7AFD6E1-142D-425B-8D06-B22A5BB4C77A}
+      FXID {BAB5460A-95FC-4751-B176-1879706A4705}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {8521D622-E5A0-4DA9-B401-D1AB55E5CEF0}
+      IGUID {BDA20CF8-C539-4C39-B765-98B1FA88BB7C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >
     >
   >
-  <TRACK {357BE3E7-6700-4830-8B97-6349010BC7E5}
+  <TRACK {4F0401AF-113B-4169-844A-E1A3CB623265}
     NAME "NES - Pulse 2 [GnG Stage 1]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {357BE3E7-6700-4830-8B97-6349010BC7E5}
+    TRACKID {4F0401AF-113B-4169-844A-E1A3CB623265}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8C5E0095-0325-4EBC-85F6-A146720C10D3}
+      FXID {F37B656A-4D55-4FD5-9D9D-564E69921B50}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4A4A1D95-DD02-466F-BF2F-38BE1C993E7E}
+      IGUID {04F28699-0579-4169-AE77-1419F83353F5}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >
     >
   >
-  <TRACK {B94993BC-8E9E-49F1-ACE3-ABFCEE4F5F58}
+  <TRACK {4E148DA1-0D2C-4C34-9500-A6D0F72CFD80}
     NAME "NES - Triangle [GnG Stage 1]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B94993BC-8E9E-49F1-ACE3-ABFCEE4F5F58}
+    TRACKID {4E148DA1-0D2C-4C34-9500-A6D0F72CFD80}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {03C76508-663A-425F-A72E-274E0561CBDF}
+      FXID {C8F4A719-37E8-47CA-B84A-D487939F792D}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0A380B99-89A5-4B18-9212-03C17EFCEC46}
+      IGUID {74923544-F11C-4D2A-BCAD-C4962182D997}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >
     >
   >
-  <TRACK {F353AECE-0CF2-4DA9-908B-00F7F33F02E9}
+  <TRACK {AD52989B-471D-4590-83A6-1291D78C948E}
     NAME "NES - Noise / Drums [GnG Stage 1]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {F353AECE-0CF2-4DA9-908B-00F7F33F02E9}
+    TRACKID {AD52989B-471D-4590-83A6-1291D78C948E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {D2695848-C394-41D4-A1EA-5BFA015C3387}
+      FXID {7D155845-7077-4DBA-AE59-542A2A71C127}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EB8C94DA-5931-4D3B-A843-131A6CA0ADCA}
+      IGUID {C99CECDB-48D0-4065-86E6-0D6E1D189DFB}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >

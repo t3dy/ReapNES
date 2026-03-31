@@ -12,7 +12,7 @@
     |Bach × Gradius Mountains — Cello Suite 1 - Gigue
     |Stage preset: Dual 75% wide pulses - bold space opera feel
   >
-  <TRACK {371CA328-060B-4D24-ADEC-8AE6FE3081B7}
+  <TRACK {E6AC8BBD-EDE1-4596-A603-D14D38EF3827}
     NAME "NES - Pulse 1 [Gradius Mountains]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {371CA328-060B-4D24-ADEC-8AE6FE3081B7}
+    TRACKID {E6AC8BBD-EDE1-4596-A603-D14D38EF3827}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {3E1DC5E5-9528-4090-8673-C7A4A3A7E8D6}
+      FXID {C838B734-90E9-4D7D-A439-734C08EEE764}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D11193FD-D0C4-45AA-97B8-F6F2F6F3880F}
+      IGUID {1CD0F465-7431-4D8D-9822-F43E3B2D47B5}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >
     >
   >
-  <TRACK {B4F72C57-1BBC-4DFC-8B01-69C51616A411}
+  <TRACK {1213DDA6-A627-45EA-A22B-968232C57881}
     NAME "NES - Pulse 2 [Gradius Mountains]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B4F72C57-1BBC-4DFC-8B01-69C51616A411}
+    TRACKID {1213DDA6-A627-45EA-A22B-968232C57881}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {726646AF-2EDD-47B1-BD8D-0651377B019B}
+      FXID {6C2FDBAD-8580-4330-BC81-BB8D2FE9CB87}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F0D42850-A6C9-4A23-B774-021D9D114D5C}
+      IGUID {8129DC5E-A2BD-4CC3-9050-E6D8A0FD3F90}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >
     >
   >
-  <TRACK {5CD01463-F8B0-42B3-A0D6-7E46CF9E678D}
+  <TRACK {3BCF4A1D-8CA4-44F2-BA2B-9E554899776F}
     NAME "NES - Triangle [Gradius Mountains]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {5CD01463-F8B0-42B3-A0D6-7E46CF9E678D}
+    TRACKID {3BCF4A1D-8CA4-44F2-BA2B-9E554899776F}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {23FE7EF2-7424-49AA-9CA2-257B04D7963F}
+      FXID {788AEE02-3CD6-4D3D-B2EC-99EDB53E1164}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {246B4DC0-3601-47C5-B2EB-A4978CC2B401}
+      IGUID {D0A14B39-ACBB-40A7-9EFE-2F696162C8BF}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >
     >
   >
-  <TRACK {443C6890-FBAE-48EE-B33F-1B55B5985161}
+  <TRACK {274FA107-3417-46B6-80AB-7B659358A8BB}
     NAME "NES - Noise / Drums [Gradius Mountains]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {443C6890-FBAE-48EE-B33F-1B55B5985161}
+    TRACKID {274FA107-3417-46B6-80AB-7B659358A8BB}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {A7FD007D-FFF1-49CF-B86F-5394043007CF}
+      FXID {9DCE7A15-0CA2-4DCB-A844-C11F0F88D06E}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {FA61C9E6-A872-4BE1-ADFE-D564017C64CC}
+      IGUID {C8A87105-9161-4D0C-8F7F-9426F2A0B248}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >

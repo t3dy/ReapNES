@@ -12,7 +12,7 @@
     |Bach × Gradius Mountains — Beethoven Moonlight Sonata Mvt.3
     |Stage preset: Dual 75% wide pulses - bold space opera feel
   >
-  <TRACK {7BF60D78-3E17-476F-9B1B-12141B2BA023}
+  <TRACK {21996E1B-2610-496B-8DD4-A287A6CB3272}
     NAME "NES - Pulse 1 [Gradius Mountains]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {7BF60D78-3E17-476F-9B1B-12141B2BA023}
+    TRACKID {21996E1B-2610-496B-8DD4-A287A6CB3272}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {ED8BA68A-3CA6-4C98-A1AA-8508465E3A3E}
+      FXID {D04789F3-19E3-439B-A704-119FA8ABA09A}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {312F0D31-E065-4487-9B47-F66EB9AA6535}
+      IGUID {5AD05C41-91E8-4416-95A5-C176C84985AB}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/moonlight_mv3.mid"
       >
     >
   >
-  <TRACK {561F43F0-A4A8-4A0D-B0F4-427C7AD54363}
+  <TRACK {CB062EBB-08B4-4206-99BD-595C010E703B}
     NAME "NES - Pulse 2 [Gradius Mountains]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {561F43F0-A4A8-4A0D-B0F4-427C7AD54363}
+    TRACKID {CB062EBB-08B4-4206-99BD-595C010E703B}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {61822E86-BB88-46BD-93CA-857031408511}
+      FXID {76A96E05-801F-444D-ADD3-CFC41D84C13A}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E3712EAC-47EF-4B6C-A499-37E275BE62C5}
+      IGUID {C0227621-2E35-42F3-86BD-A4E7EDDB42C4}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/moonlight_mv3.mid"
       >
     >
   >
-  <TRACK {E0D33637-5367-48E3-94B9-FB766D4E512F}
+  <TRACK {C22D4208-92A4-40E1-8401-7D37F95A2FCF}
     NAME "NES - Triangle [Gradius Mountains]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E0D33637-5367-48E3-94B9-FB766D4E512F}
+    TRACKID {C22D4208-92A4-40E1-8401-7D37F95A2FCF}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7ACCF06E-A033-422B-A2C3-5975B91AA3DB}
+      FXID {4CB9D918-A202-430B-BBAB-7069B78B9688}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {44AB3FDF-386C-4E7A-A452-0AF8D7D77BCC}
+      IGUID {78D639C7-1F2A-420C-BB61-A3866FDF6A8C}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/moonlight_mv3.mid"
       >
     >
   >
-  <TRACK {A2E306DB-8302-4BCB-93D2-4BAB49371FB4}
+  <TRACK {895D5E8C-EC6B-41C0-A575-E36A4C3E5E37}
     NAME "NES - Noise / Drums [Gradius Mountains]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {A2E306DB-8302-4BCB-93D2-4BAB49371FB4}
+    TRACKID {895D5E8C-EC6B-41C0-A575-E36A4C3E5E37}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {4E9DC84A-A57D-4E4E-BE7B-44657DF08371}
+      FXID {C9F802EE-9E94-407F-B8E6-ED5E3C203D11}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {6268777A-E3B7-4819-B11B-C3374C7DF51A}
+      IGUID {A8F1DFE3-A4BC-49BF-BC16-21788F870AD3}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/moonlight_mv3.mid"
       >

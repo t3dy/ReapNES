@@ -1,0 +1,199 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 50.0 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio — Bach x NES Mashup
+    |Bach × BC Albatross HQ — Toccata in D minor BWV 565
+    |Stage preset: Thin 12.5% lead + bright 25% harmony - covert tension
+  >
+  <TRACK {A226B4C2-7B6C-441F-96C9-0E3CF2C09F82}
+    NAME "NES - Pulse 1 [BC Albatross HQ]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {A226B4C2-7B6C-441F-96C9-0E3CF2C09F82}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {96EB8EC4-6240-4ED4-A21C-85C0E4E0A910}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 560.7970644666667
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A9CE2BA1-6D2A-441F-8B84-606C5D701286}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/toccata1.mid"
+      >
+    >
+  >
+  <TRACK {384A111E-576E-4907-B5C6-9F50412D63F0}
+    NAME "NES - Pulse 2 [BC Albatross HQ]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {384A111E-576E-4907-B5C6-9F50412D63F0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9B38F94E-649A-4162-A7B0-7CD2CD28622A}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 560.7970644666667
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB7532ED-416D-439F-AFCC-5BC98A1D4E0C}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/toccata1.mid"
+      >
+    >
+  >
+  <TRACK {7BDB4FCB-B86F-4B17-ACC6-DF65BC3DED5C}
+    NAME "NES - Triangle [BC Albatross HQ]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {7BDB4FCB-B86F-4B17-ACC6-DF65BC3DED5C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4F3F27CD-89C4-4AF0-B097-1F645CE5C354}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 560.7970644666667
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C008F24B-4F0B-4F30-A4DB-5E56648206FA}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/toccata1.mid"
+      >
+    >
+  >
+  <TRACK {F73041EF-23D0-467E-9F3B-FE9D06325052}
+    NAME "NES - Noise / Drums [BC Albatross HQ]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {F73041EF-23D0-467E-9F3B-FE9D06325052}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {6A3F0938-D194-4C30-BF1F-52FFE9E5D61B}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 560.7970644666667
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {50ED9838-D88B-4F23-A493-7798DE2661C7}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/toccata1.mid"
+      >
+    >
+  >
+>

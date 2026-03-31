@@ -12,7 +12,7 @@
     |Bach × JtS Stage 4 — Three-Part Sinfonia No.1 in C
     |Stage preset: Bright lead over warm pad - brooding tension
   >
-  <TRACK {BBD9B0A9-8736-41BB-AED9-2711A2B47CD6}
+  <TRACK {39DE473A-44F6-440F-A554-946CC2174FB3}
     NAME "NES - Pulse 1 [JtS Stage 4]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {BBD9B0A9-8736-41BB-AED9-2711A2B47CD6}
+    TRACKID {39DE473A-44F6-440F-A554-946CC2174FB3}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0ABEDDC1-D202-4A2A-87BB-D8F4DAB77DDA}
+      FXID {EFB37EFB-6644-4848-8706-027CBD9703EA}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F53A794C-3C96-4F17-AAD1-CFBB2ABB20A9}
+      IGUID {ED229A31-A9D6-476D-B422-CC38AEAF71B2}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {29677363-6BB3-4D89-9DAE-B250C8551882}
+  <TRACK {875D923B-4398-4648-A87D-C307627AB3CB}
     NAME "NES - Pulse 2 [JtS Stage 4]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {29677363-6BB3-4D89-9DAE-B250C8551882}
+    TRACKID {875D923B-4398-4648-A87D-C307627AB3CB}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {D71076BA-E86B-4609-8473-C5B1462D83B4}
+      FXID {9122E48A-9727-4656-AF26-7EF8A9CF2D8E}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {04AC7605-2188-44E0-9A31-C125B22C1A71}
+      IGUID {9B9109E9-05DE-4396-93C0-8BFC59EFF133}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {1CCD524B-9B44-4BFA-864C-46E88CFB26D7}
+  <TRACK {DEC14425-3EE0-4C8A-9646-B3945DF2701F}
     NAME "NES - Triangle [JtS Stage 4]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {1CCD524B-9B44-4BFA-864C-46E88CFB26D7}
+    TRACKID {DEC14425-3EE0-4C8A-9646-B3945DF2701F}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {3980D115-F382-4775-84A0-272322CF6703}
+      FXID {5E0E73AA-15B6-411C-BD01-6828A4E68232}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F933575D-A2C9-4640-830C-0FF35800BFEF}
+      IGUID {DC89663A-5B85-4AC3-922B-54B0C321D6CE}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {BF4977A9-44F8-4BB2-A2B2-BB2F7F40BCF4}
+  <TRACK {B42D3964-F2D3-4E8E-B9A4-582D5EF8124E}
     NAME "NES - Noise / Drums [JtS Stage 4]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {BF4977A9-44F8-4BB2-A2B2-BB2F7F40BCF4}
+    TRACKID {B42D3964-F2D3-4E8E-B9A4-582D5EF8124E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {33102C92-F474-4044-A511-2719553E3862}
+      FXID {75A7D0A2-9554-48CE-B142-166C3B1F33DD}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3B102F4B-24DD-4730-B497-FD87E0FF7A55}
+      IGUID {D9714262-D1CA-4CBD-829B-D1C5EBB01232}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >

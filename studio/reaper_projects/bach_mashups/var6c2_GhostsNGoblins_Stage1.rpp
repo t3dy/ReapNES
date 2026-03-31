@@ -12,7 +12,7 @@
     |Bach × GnG Stage 1 — Goldberg Variation 6 (Canon at 2nd)
     |Stage preset: Dual bright 25% - Capcom gothic energy
   >
-  <TRACK {F187600A-8A28-4E66-998B-DC668BC8DF1A}
+  <TRACK {B6CC02F7-64A7-4643-8AC9-E66839883EBF}
     NAME "NES - Pulse 1 [GnG Stage 1]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {F187600A-8A28-4E66-998B-DC668BC8DF1A}
+    TRACKID {B6CC02F7-64A7-4643-8AC9-E66839883EBF}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {4B3C0BD7-E624-42FB-9EB5-6E322A10ABCD}
+      FXID {98DB2F57-A7E2-4352-9F84-834E0A561ACB}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {C8D2788B-3F5C-43FA-A6CC-F085E78387F0}
+      IGUID {E96EB8BB-347B-4820-A954-5C1DBAE89FDD}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >
     >
   >
-  <TRACK {B4668B76-2087-4D6E-8494-6B14B1F6A69B}
+  <TRACK {50E4B730-3935-458F-8FA6-7B6D0339EF16}
     NAME "NES - Pulse 2 [GnG Stage 1]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B4668B76-2087-4D6E-8494-6B14B1F6A69B}
+    TRACKID {50E4B730-3935-458F-8FA6-7B6D0339EF16}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7B09D24B-D8A0-4861-9325-1EC06A554BEE}
+      FXID {46584D2B-616F-498C-826F-AD939CB44C02}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A635FA68-B853-426F-8AE4-6E68FE2748FA}
+      IGUID {9D5EA587-4BFD-4912-83CA-95EE4A63FCB1}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >
     >
   >
-  <TRACK {6638A1BC-6812-4074-86D5-5A9E917CD9B4}
+  <TRACK {771076A7-46D3-44D6-B87F-9B0BEEFA5B70}
     NAME "NES - Triangle [GnG Stage 1]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {6638A1BC-6812-4074-86D5-5A9E917CD9B4}
+    TRACKID {771076A7-46D3-44D6-B87F-9B0BEEFA5B70}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {89F42CFA-A066-4748-B788-C4FC07057525}
+      FXID {6C88555D-C7D4-49AA-9E87-7AC975899D6A}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {6233F008-B418-494B-9C40-8E093F60002E}
+      IGUID {3EC9CC54-8D4E-44BB-B679-C93348B0C162}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >
     >
   >
-  <TRACK {C4AEE094-4FB5-43EB-A3B9-1C2E9A2C9F87}
+  <TRACK {23CE4503-DCA8-45D4-B086-94685DEEA963}
     NAME "NES - Noise / Drums [GnG Stage 1]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C4AEE094-4FB5-43EB-A3B9-1C2E9A2C9F87}
+    TRACKID {23CE4503-DCA8-45D4-B086-94685DEEA963}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7E7DB018-7955-4BD2-8B33-F5A6228BA23F}
+      FXID {7B68FCB3-1839-435D-B10A-A24B0393EEAF}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0370F22B-4864-4F56-AA4D-AF0846FE466B}
+      IGUID {92FA4922-3BED-452B-BDF3-7373334D9622}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >

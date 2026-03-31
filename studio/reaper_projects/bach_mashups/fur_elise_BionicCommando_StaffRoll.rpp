@@ -12,7 +12,7 @@
     |Bach × BC Staff Roll — Beethoven Fur Elise
     |Stage preset: Bright 25% lead with thin shimmer - triumphant finale
   >
-  <TRACK {5A261BE3-E138-4C5C-A9C3-2E64009C934B}
+  <TRACK {7A0978F6-E545-4138-8F3A-305AF51C945B}
     NAME "NES - Pulse 1 [BC Staff Roll]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {5A261BE3-E138-4C5C-A9C3-2E64009C934B}
+    TRACKID {7A0978F6-E545-4138-8F3A-305AF51C945B}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {F81DB74F-6074-4AED-92CF-D942CDA55943}
+      FXID {0F04A27F-AE2A-42F6-BB44-DA991804BDD0}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {40B36D64-0585-4C81-BF8F-AACA0219F47F}
+      IGUID {AA491E47-B022-4226-9912-A1D9DDD2EB20}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/fur_elise.mid"
       >
     >
   >
-  <TRACK {B461DEF6-4328-437E-8C41-8BD2BAEF4CA6}
+  <TRACK {79CDDC91-9B86-4615-8E87-731E66CAE3AD}
     NAME "NES - Pulse 2 [BC Staff Roll]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B461DEF6-4328-437E-8C41-8BD2BAEF4CA6}
+    TRACKID {79CDDC91-9B86-4615-8E87-731E66CAE3AD}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C9B6135A-F535-4B92-8D71-54EBE3C2E116}
+      FXID {9A10FF00-E769-4A96-96DE-3550C873285E}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {BB5B1B86-CF04-4806-B8C9-D9EEDA9AEDC0}
+      IGUID {E9AFB164-7615-467A-964B-B1C2C2284CB0}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/fur_elise.mid"
       >
     >
   >
-  <TRACK {DD64EA56-7130-4FD0-A6DD-D5162079AECA}
+  <TRACK {9CF5DF67-1A9A-4E41-A9CA-529499340AE6}
     NAME "NES - Triangle [BC Staff Roll]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {DD64EA56-7130-4FD0-A6DD-D5162079AECA}
+    TRACKID {9CF5DF67-1A9A-4E41-A9CA-529499340AE6}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {86C45459-2F80-4FC6-AA2D-EB5A1ED45701}
+      FXID {66441520-DFE9-444E-9B3B-5E670E5A4473}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3E4F6F4E-02BB-4DF6-80FF-4E3784DDE334}
+      IGUID {3983A94D-F6A0-4DB8-AA7A-EBEBAF0435E5}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/fur_elise.mid"
       >
     >
   >
-  <TRACK {4357D50A-481D-4722-8A9E-3CF2D7DBD5E0}
+  <TRACK {6F7113FC-DBC7-458C-B80D-787CCB11B6F4}
     NAME "NES - Noise / Drums [BC Staff Roll]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {4357D50A-481D-4722-8A9E-3CF2D7DBD5E0}
+    TRACKID {6F7113FC-DBC7-458C-B80D-787CCB11B6F4}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {F2ACBD79-4BBE-4CF0-BE07-754BC57C89C6}
+      FXID {AF84FF91-B697-4B8F-8C6F-DA35FF549177}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {2DBF56CA-30BA-4903-B4F7-EC35AC3615AD}
+      IGUID {66B4604A-4945-4031-80A4-3DDE41A1B96A}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/fur_elise.mid"
       >

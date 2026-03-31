@@ -12,7 +12,7 @@
     |Bach × JtS Ending Theme — Three-Part Sinfonia No.1 in C
     |Stage preset: Wide 75% lead with bright harmony - triumphant resolution
   >
-  <TRACK {DD89CA94-E25D-4B80-A3D9-2FCD0FB359FD}
+  <TRACK {1F675245-332C-4F1F-A757-774C08638B4E}
     NAME "NES - Pulse 1 [JtS Ending Theme]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {DD89CA94-E25D-4B80-A3D9-2FCD0FB359FD}
+    TRACKID {1F675245-332C-4F1F-A757-774C08638B4E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {45DA1B25-6644-453C-9FB6-7C0AD5A76CE2}
+      FXID {60E59841-FE81-41C9-80B9-16055CFCBC7B}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {AE678FE0-B0B5-461B-903B-CF062900F262}
+      IGUID {01217383-EBBD-4CF2-B74B-8CC7C5F15DF9}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {414A6E05-0BF7-4C80-B674-AFDC965D73B4}
+  <TRACK {D0FF518F-A533-4400-9A3A-ACF91796A5D2}
     NAME "NES - Pulse 2 [JtS Ending Theme]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {414A6E05-0BF7-4C80-B674-AFDC965D73B4}
+    TRACKID {D0FF518F-A533-4400-9A3A-ACF91796A5D2}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {565FCC25-CDEC-4DE0-B9DC-128FF25143AB}
+      FXID {63975EFA-2B20-482D-A147-225E0A86F458}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F1B4570C-B032-448B-A46E-CF3578E620EF}
+      IGUID {E92461A2-9752-4646-81AD-4907D3DCE20A}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {BE3181CE-B9CF-4B13-9509-ACEC8E55A7C7}
+  <TRACK {D51AC982-905C-45A7-AB56-1FFF356CE956}
     NAME "NES - Triangle [JtS Ending Theme]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {BE3181CE-B9CF-4B13-9509-ACEC8E55A7C7}
+    TRACKID {D51AC982-905C-45A7-AB56-1FFF356CE956}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {1915A366-9041-4484-AE1F-004E0083CEBD}
+      FXID {170DF5AC-8F8B-4E6C-BFCC-401F81C40226}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {2AEF7604-9024-47E6-848F-9A30A5B46B2B}
+      IGUID {2CDEF414-CDD7-4A6E-9358-E7CA0EE243EB}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {493E4CCA-BDE7-49FC-94A1-8E5B42438A34}
+  <TRACK {7461D348-7909-4F11-AEA4-BB8487DA1AE2}
     NAME "NES - Noise / Drums [JtS Ending Theme]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {493E4CCA-BDE7-49FC-94A1-8E5B42438A34}
+    TRACKID {7461D348-7909-4F11-AEA4-BB8487DA1AE2}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {D67ACEB3-7B0C-48D9-A282-D4514800750D}
+      FXID {F77DEF81-D23A-498E-9160-673AE4272190}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D192DC3B-7DCD-42AC-8D13-98065B56B929}
+      IGUID {AD63E962-7101-48D1-BDC7-0CB50F39CF1B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >

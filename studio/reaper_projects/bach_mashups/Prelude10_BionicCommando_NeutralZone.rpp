@@ -1,0 +1,199 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 54.00000540000054 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio — Bach x NES Mashup
+    |Bach × BC Neutral Zone — WTC Prelude No.10 in E minor
+    |Stage preset: Dual 12.5% thin pulses - eerie no-man's-land
+  >
+  <TRACK {0DCFAE2B-FFBE-41FB-8D3E-FCD7836D6466}
+    NAME "NES - Pulse 1 [BC Neutral Zone]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {0DCFAE2B-FFBE-41FB-8D3E-FCD7836D6466}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {82A0C3F4-9E2D-49AC-AFDF-6B6C28657F70}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 143.29253173333333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {17A98A9B-0D3F-48F5-8481-5B6B1F4ACEBB}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Prelude10.mid"
+      >
+    >
+  >
+  <TRACK {B63EF98B-23BD-46EB-8BC4-BB12544C5230}
+    NAME "NES - Pulse 2 [BC Neutral Zone]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {B63EF98B-23BD-46EB-8BC4-BB12544C5230}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {69E7009D-9435-4D0A-881E-FA306AAB6A9D}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 143.29253173333333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E6CF4829-8379-4C09-A9D4-98584F35E0A7}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Prelude10.mid"
+      >
+    >
+  >
+  <TRACK {87C968E3-DC77-47BD-9827-DF0E9F8410B4}
+    NAME "NES - Triangle [BC Neutral Zone]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {87C968E3-DC77-47BD-9827-DF0E9F8410B4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1BD4B4D0-4A92-4D50-80C2-E52B2EF8A9A5}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 143.29253173333333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1AD8A634-4E5C-4A8F-8101-58C0ECE05325}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Prelude10.mid"
+      >
+    >
+  >
+  <TRACK {D46DE317-47C8-450F-BEF9-11A36E32189D}
+    NAME "NES - Noise / Drums [BC Neutral Zone]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {D46DE317-47C8-450F-BEF9-11A36E32189D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {BDBC84FA-7893-412F-8FA0-73EF07E1BEC4}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 143.29253173333333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4D7B7AD4-4301-4661-8D97-9FD1DF075757}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Prelude10.mid"
+      >
+    >
+  >
+>

@@ -12,7 +12,7 @@
     |Bach × JtS Stage 3 — Goldberg Variation 1
     |Stage preset: Bright lead against warm square harmony - driving action
   >
-  <TRACK {0BFE7A52-A83B-4AA4-A7D6-679EE6C33401}
+  <TRACK {C7B4C592-5AA7-4814-9034-CB92D2979AE3}
     NAME "NES - Pulse 1 [JtS Stage 3]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {0BFE7A52-A83B-4AA4-A7D6-679EE6C33401}
+    TRACKID {C7B4C592-5AA7-4814-9034-CB92D2979AE3}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {EB0C4BB9-7BF7-483C-AB74-7A31AA77FD2A}
+      FXID {68F55F2B-C396-4AFB-9029-6976364E8C03}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E7C2D628-FB43-4F23-86C3-6AD3041ACFC7}
+      IGUID {4D8BB155-05F7-4ED6-9E88-19CA0C5E0B91}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var1.mid"
       >
     >
   >
-  <TRACK {7F97CC49-E612-431D-8C1B-F40441BC520F}
+  <TRACK {CCC9D8B0-95F2-454F-8BAD-6595B2EA194C}
     NAME "NES - Pulse 2 [JtS Stage 3]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {7F97CC49-E612-431D-8C1B-F40441BC520F}
+    TRACKID {CCC9D8B0-95F2-454F-8BAD-6595B2EA194C}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {4FAE07C9-A826-4A9C-9B3B-585C78B26D6B}
+      FXID {FAF2FBAD-0C90-49C3-816F-1F1AD49F1C08}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {02976B5C-3FFA-4664-BB7D-CC1CD33193B9}
+      IGUID {FE64A620-A24D-49D4-9B9A-EC7E8C64337D}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var1.mid"
       >
     >
   >
-  <TRACK {62076E3C-4F26-4F93-A615-8D83E27DF6D5}
+  <TRACK {734C5A7B-6CEF-473D-8423-9EF0160E503B}
     NAME "NES - Triangle [JtS Stage 3]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {62076E3C-4F26-4F93-A615-8D83E27DF6D5}
+    TRACKID {734C5A7B-6CEF-473D-8423-9EF0160E503B}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {01A70826-F80F-414B-82E0-139D231C7342}
+      FXID {AAA516BA-4A30-4AD6-A60C-237B03681430}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B1C7DA68-2ABD-4164-BF64-1B883BDF6B63}
+      IGUID {EF9C8E2E-D5DA-4BDA-AA21-6559EE60DF27}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var1.mid"
       >
     >
   >
-  <TRACK {455855C8-D048-4140-BBBE-C200389E7471}
+  <TRACK {045549B7-A83C-4C47-82B8-17B1B955D280}
     NAME "NES - Noise / Drums [JtS Stage 3]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {455855C8-D048-4140-BBBE-C200389E7471}
+    TRACKID {045549B7-A83C-4C47-82B8-17B1B955D280}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9EC709F1-0E2D-49D9-AEE7-A690A2CDA598}
+      FXID {615F1311-CEB9-4127-A866-B70827A35191}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E8E4E2D0-084C-4A91-B4D2-BE49E9CF9E63}
+      IGUID {9526B067-42DE-4713-8EC9-2A0828150E1F}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var1.mid"
       >

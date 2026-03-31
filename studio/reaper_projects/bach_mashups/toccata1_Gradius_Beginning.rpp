@@ -12,7 +12,7 @@
     |Bach × Gradius Beginning — Toccata in D minor BWV 565
     |Stage preset: Bright lead vs wide pad - optimistic launch feel
   >
-  <TRACK {0554A33C-3229-47A7-B61B-C0E026F7A087}
+  <TRACK {EA774EEB-715D-4322-8A88-08CF11A8B4E0}
     NAME "NES - Pulse 1 [Gradius Beginning]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {0554A33C-3229-47A7-B61B-C0E026F7A087}
+    TRACKID {EA774EEB-715D-4322-8A88-08CF11A8B4E0}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {EEB8B0D5-6EDB-441D-AFF4-FB689C1F3C7A}
+      FXID {0F6C0DA6-D3E3-4667-A0E0-FBAC081F6D6D}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E3C57022-B2B4-4CC5-8810-BB2DABAD88DB}
+      IGUID {D5CB5FD9-2059-44BB-BA8C-682807A8AC6B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {C8858401-1090-4446-B13E-ED8ABD6E0F97}
+  <TRACK {41E4402C-1859-479E-A691-49167CC05443}
     NAME "NES - Pulse 2 [Gradius Beginning]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C8858401-1090-4446-B13E-ED8ABD6E0F97}
+    TRACKID {41E4402C-1859-479E-A691-49167CC05443}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {A162A970-3E48-410C-BC46-36352D222DFE}
+      FXID {57FEBB4B-33EE-4C47-A55D-B71A71FF7D6B}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {AF652CDE-B759-456D-B0BA-040152C9F1BD}
+      IGUID {10698261-19CF-4F06-BE87-E9DDAD50893E}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {D3AAE388-6B91-4D00-BD5B-C75E4789005C}
+  <TRACK {B99CE4E6-5C32-430C-AD71-D1C434E553E2}
     NAME "NES - Triangle [Gradius Beginning]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {D3AAE388-6B91-4D00-BD5B-C75E4789005C}
+    TRACKID {B99CE4E6-5C32-430C-AD71-D1C434E553E2}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0B14905F-E71D-42E2-B6E1-BCF9051BBEBC}
+      FXID {C56F4BF6-59E4-45AC-A1A5-0E571716BE78}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {06118C19-B702-4DF5-81D9-D1E3D1E1E1FD}
+      IGUID {4D320DC7-F427-4D83-B484-D4D388FDF0A0}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {60B394A0-AD37-46D1-ACA6-F507C8706B55}
+  <TRACK {EAB63A5E-F25C-48E5-85E2-EC08C954AE85}
     NAME "NES - Noise / Drums [Gradius Beginning]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {60B394A0-AD37-46D1-ACA6-F507C8706B55}
+    TRACKID {EAB63A5E-F25C-48E5-85E2-EC08C954AE85}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {DD99392D-E75F-4A0E-8324-EEDDA4279D1A}
+      FXID {E5C68B20-0E4D-4106-B228-CE13040F14D0}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5CDB4975-D68B-4F05-92F9-C55C88A306B1}
+      IGUID {BF979FC2-C8EC-4925-A4D6-9A00876915D7}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >

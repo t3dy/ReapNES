@@ -12,7 +12,7 @@
     |Bach × BC Albatross Tower — Beethoven Symphony No.5 Mvt.1
     |Stage preset: Dual 75% wide pulses - aggressive tower assault
   >
-  <TRACK {98792E23-9BB5-4A86-8C81-2B3438903DF6}
+  <TRACK {F07E31AD-73C1-4E32-9F36-1ABDFC656FC6}
     NAME "NES - Pulse 1 [BC Albatross Tower]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {98792E23-9BB5-4A86-8C81-2B3438903DF6}
+    TRACKID {F07E31AD-73C1-4E32-9F36-1ABDFC656FC6}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {1A9FB913-7361-4CB8-8D9C-76A179F5CC2D}
+      FXID {9D598194-DCED-4EC6-99A3-B51DCE634ED5}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B6A357B0-DC23-4CE7-A63C-130ADA5F2348}
+      IGUID {1836F6C2-D237-401D-8E24-D18A9BCFEE0E}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/symphony5_mv1.mid"
       >
     >
   >
-  <TRACK {27AEE6BA-E7DD-4530-9D95-CECAB61C9B0D}
+  <TRACK {AD842C3A-479A-4B35-BC92-DEAD66FEB609}
     NAME "NES - Pulse 2 [BC Albatross Tower]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {27AEE6BA-E7DD-4530-9D95-CECAB61C9B0D}
+    TRACKID {AD842C3A-479A-4B35-BC92-DEAD66FEB609}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {3059606F-3788-4DDB-BCE4-7929CEA2556E}
+      FXID {BE42E8A8-64FE-411C-B29C-9207CEFAD0D4}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {6EB876A1-F3D4-4CED-BEA7-891496FA0C48}
+      IGUID {55C8191B-894F-489A-98E8-FA73FD39BA88}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/symphony5_mv1.mid"
       >
     >
   >
-  <TRACK {392D33DF-6E27-4EDB-B8C6-1E19774AC28C}
+  <TRACK {92774F1E-962D-4C89-B68C-DA0494F5C6FC}
     NAME "NES - Triangle [BC Albatross Tower]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {392D33DF-6E27-4EDB-B8C6-1E19774AC28C}
+    TRACKID {92774F1E-962D-4C89-B68C-DA0494F5C6FC}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {D8EA435A-7414-43BE-8BF8-B6F059270A8F}
+      FXID {AF281F6E-D429-494F-97D3-23B94FFA83AE}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DC957593-701C-4B3A-89D0-56B0BFACB7C3}
+      IGUID {FFE18835-B1F4-4CF8-882B-966214999B49}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/symphony5_mv1.mid"
       >
     >
   >
-  <TRACK {EF59304D-17AC-4F15-935C-9246E0562EBB}
+  <TRACK {88B80A2D-C6B6-4DB5-BC6B-C4AEFCFAA9FA}
     NAME "NES - Noise / Drums [BC Albatross Tower]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {EF59304D-17AC-4F15-935C-9246E0562EBB}
+    TRACKID {88B80A2D-C6B6-4DB5-BC6B-C4AEFCFAA9FA}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {00FFC74F-F37E-40F6-AE63-A027AC423F16}
+      FXID {FC1E3053-6190-42E8-A631-B5837503AE32}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {70E63CE1-AEF4-4C24-BCD7-DD0B96B1591C}
+      IGUID {F2175287-F0E2-4AAA-9A4A-B5621B58363E}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/symphony5_mv1.mid"
       >

@@ -12,7 +12,7 @@
     |Bach × Gradius Boss — WTC1 Prelude & Fugue No.2 BWV 847
     |Stage preset: Both pulses thin 12.5% - alien metallic menace
   >
-  <TRACK {4B0F900E-4024-4515-9A85-632D6B46AC64}
+  <TRACK {827532F9-919C-4797-A664-D9C37F493E67}
     NAME "NES - Pulse 1 [Gradius Boss]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {4B0F900E-4024-4515-9A85-632D6B46AC64}
+    TRACKID {827532F9-919C-4797-A664-D9C37F493E67}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {B107C9B6-9F88-4EF1-A6A8-321AAED4218C}
+      FXID {37FE64F1-C67F-4730-BB38-C61C28D111D0}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {95F3BD8B-93E0-4A16-B59B-EA084B3BA20A}
+      IGUID {E3ACB8F4-853F-4635-88E6-417685617EC5}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/bach_collection/bach_847.mid"
       >
     >
   >
-  <TRACK {C4E28886-3094-4CF5-835D-1CCFCCE4BDEA}
+  <TRACK {FA1BE6C7-CBB7-4365-8FE5-1FFDC82CA2AF}
     NAME "NES - Pulse 2 [Gradius Boss]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C4E28886-3094-4CF5-835D-1CCFCCE4BDEA}
+    TRACKID {FA1BE6C7-CBB7-4365-8FE5-1FFDC82CA2AF}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {1AECE521-A9CE-475B-A2A6-6FFFD0CFA731}
+      FXID {434E26E2-28E8-46BF-B73C-E34EFD86E998}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {29BBA89E-F657-41FE-A80E-AEA822EEA4D7}
+      IGUID {5A7D25C5-BF05-4852-BF95-4BCFA190FCE5}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/bach_collection/bach_847.mid"
       >
     >
   >
-  <TRACK {709300B5-A768-4FCD-B7E0-87BD05235188}
+  <TRACK {C8BA5AEF-3305-4336-9081-4E441502D757}
     NAME "NES - Triangle [Gradius Boss]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {709300B5-A768-4FCD-B7E0-87BD05235188}
+    TRACKID {C8BA5AEF-3305-4336-9081-4E441502D757}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {DAEDC8D3-282E-497F-A120-D71B667DA60F}
+      FXID {744DAE6F-4C23-4456-9A4F-A337EB8ACD98}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0368680E-FEA1-4895-BC1F-FEF3594631BB}
+      IGUID {77189F2C-1D4A-4D12-90CA-8C125C1A338B}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/bach_collection/bach_847.mid"
       >
     >
   >
-  <TRACK {1E14E09F-1228-4223-A5F6-982C3F6DAC71}
+  <TRACK {750A7CA2-CCF6-4247-AD8A-DDFB56354DED}
     NAME "NES - Noise / Drums [Gradius Boss]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {1E14E09F-1228-4223-A5F6-982C3F6DAC71}
+    TRACKID {750A7CA2-CCF6-4247-AD8A-DDFB56354DED}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {4FA95ECD-E047-4784-9461-B70B21381B94}
+      FXID {3F7DA595-D7FE-4E7F-9E54-D42076A44862}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {2C0BE6D2-E5C0-4B83-AC16-15EDEC562387}
+      IGUID {193E662C-1B6B-4342-B9EE-1A52388FB66E}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/bach_collection/bach_847.mid"
       >

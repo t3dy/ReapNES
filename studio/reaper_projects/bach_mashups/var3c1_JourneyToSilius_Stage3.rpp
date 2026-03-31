@@ -12,7 +12,7 @@
     |Bach × JtS Stage 3 — Goldberg Variation 3 (Canon)
     |Stage preset: Bright lead against warm square harmony - driving action
   >
-  <TRACK {1AD2E64E-F37D-4F72-BD04-B23B55D6510D}
+  <TRACK {9A89F6B4-01FB-4B4A-B894-9BE1E9FC7CD6}
     NAME "NES - Pulse 1 [JtS Stage 3]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {1AD2E64E-F37D-4F72-BD04-B23B55D6510D}
+    TRACKID {9A89F6B4-01FB-4B4A-B894-9BE1E9FC7CD6}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {DF6F1158-D1DA-474E-8077-F9758F0EAE9A}
+      FXID {5D43A321-A3EA-48D5-AF7C-A012376969B5}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {03CB3DEE-BBAF-4CC2-A207-B3C1F504F786}
+      IGUID {64CF2583-CA08-4ABF-B954-9CC5ED7E165F}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var3c1.mid"
       >
     >
   >
-  <TRACK {7D3594FB-295E-4FA8-8E4E-141B139AA684}
+  <TRACK {A35EB9A5-364F-4107-ADE9-73C6BC7FF349}
     NAME "NES - Pulse 2 [JtS Stage 3]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {7D3594FB-295E-4FA8-8E4E-141B139AA684}
+    TRACKID {A35EB9A5-364F-4107-ADE9-73C6BC7FF349}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {A8DB2854-FD0F-4537-A3F3-AA7BBB006AE0}
+      FXID {884D1C46-2824-4BA9-A2F6-9CBBAC9BEFEF}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {AAD9DF8F-A1C2-468E-B572-2A335F6D58F7}
+      IGUID {7F2BB35C-F4B3-41CD-8203-702EFF3CAD19}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var3c1.mid"
       >
     >
   >
-  <TRACK {BB74E116-635B-4F64-8389-BB17A3E5C847}
+  <TRACK {21CE8D37-533B-41F1-81A4-CD9A7EC477E1}
     NAME "NES - Triangle [JtS Stage 3]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {BB74E116-635B-4F64-8389-BB17A3E5C847}
+    TRACKID {21CE8D37-533B-41F1-81A4-CD9A7EC477E1}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {109B8633-1A56-4ADD-83B6-0EF7E2CFAA83}
+      FXID {36B36AB2-297E-4DC9-98F4-E7F0E1E1B678}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {622B6432-2303-4359-B0CB-4FED8487977B}
+      IGUID {C60263E1-80B0-4C6C-8106-FE6B19B1D7E1}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var3c1.mid"
       >
     >
   >
-  <TRACK {C6506E8B-6E2B-4E1D-BAA6-B3B68C7CC862}
+  <TRACK {71CDBD90-9ECE-49FA-9845-CCE723CECC21}
     NAME "NES - Noise / Drums [JtS Stage 3]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C6506E8B-6E2B-4E1D-BAA6-B3B68C7CC862}
+    TRACKID {71CDBD90-9ECE-49FA-9845-CCE723CECC21}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {CCF8F9A8-0094-4DC4-BA70-548E436A4AFD}
+      FXID {C146CB48-3DDC-4843-9B6C-2639D0C2FBA2}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DD40F23F-E93D-4A3D-B221-DA338F6B6D59}
+      IGUID {32764AEF-3813-40A8-9883-17DBCD4729FC}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var3c1.mid"
       >

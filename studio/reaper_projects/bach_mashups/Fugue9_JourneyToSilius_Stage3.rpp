@@ -12,7 +12,7 @@
     |Bach × JtS Stage 3 — WTC Fugue No.9 in E
     |Stage preset: Bright lead against warm square harmony - driving action
   >
-  <TRACK {84B39C60-7EC7-428D-9265-232AF795D9FE}
+  <TRACK {F276187A-CCDF-4B82-AB0E-7B018D3DF277}
     NAME "NES - Pulse 1 [JtS Stage 3]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {84B39C60-7EC7-428D-9265-232AF795D9FE}
+    TRACKID {F276187A-CCDF-4B82-AB0E-7B018D3DF277}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {6DC7695B-1F99-4D67-AEAD-4E942A05D9CF}
+      FXID {5DDF4BC5-A051-48D7-B3EE-B4446AF2E7BB}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {47689BDE-B6F2-429F-94AC-7B69D6D172BE}
+      IGUID {FAAB0F85-F1B1-4E1E-8E30-ED84283390FF}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue9.mid"
       >
     >
   >
-  <TRACK {69EDD246-F931-4652-9927-B80C612D5CE5}
+  <TRACK {5F003AE7-E32F-4597-9436-263715B08AA0}
     NAME "NES - Pulse 2 [JtS Stage 3]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {69EDD246-F931-4652-9927-B80C612D5CE5}
+    TRACKID {5F003AE7-E32F-4597-9436-263715B08AA0}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0638CF89-EB57-43B8-BC19-37C654DC9114}
+      FXID {D99CCE46-4710-4C86-8A22-8636713DED1A}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {AF9BAF8C-73F1-494D-B559-068CBFD663A3}
+      IGUID {BD633D6C-E930-486E-9D7F-300C725E3A3D}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue9.mid"
       >
     >
   >
-  <TRACK {45023E91-D298-40E1-85D2-D72BCE3B7C1B}
+  <TRACK {381A3B10-9778-4AD0-B616-93DC4530D13F}
     NAME "NES - Triangle [JtS Stage 3]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {45023E91-D298-40E1-85D2-D72BCE3B7C1B}
+    TRACKID {381A3B10-9778-4AD0-B616-93DC4530D13F}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {41619ABF-1693-4D32-9534-8F137C4C77AB}
+      FXID {328C998A-5DC1-4C48-987A-2BF7CD5BAD9B}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0C08BEBF-500B-4303-A139-97531D644844}
+      IGUID {5CF53D14-B191-496E-A41E-380C9DBD8A98}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue9.mid"
       >
     >
   >
-  <TRACK {11866DA3-B4E6-4908-8390-CE36646B7FCE}
+  <TRACK {8AE2F5B7-AD66-4C5C-883C-2E117C4BA4D0}
     NAME "NES - Noise / Drums [JtS Stage 3]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {11866DA3-B4E6-4908-8390-CE36646B7FCE}
+    TRACKID {8AE2F5B7-AD66-4C5C-883C-2E117C4BA4D0}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {F975764B-6312-43A5-8C5B-C9926C59E52B}
+      FXID {3CA92372-5578-4012-8733-105ABCD8FB0A}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {70830FF6-A214-42B6-8CC6-C2F3098F085A}
+      IGUID {18FD8261-5D51-4A8B-8AA6-32497C746BFF}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue9.mid"
       >

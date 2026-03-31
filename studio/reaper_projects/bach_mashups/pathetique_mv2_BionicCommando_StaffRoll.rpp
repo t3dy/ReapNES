@@ -12,7 +12,7 @@
     |Bach × BC Staff Roll — Beethoven Pathetique Sonata Mvt.2
     |Stage preset: Bright 25% lead with thin shimmer - triumphant finale
   >
-  <TRACK {D24D8123-7960-4D00-B8DA-EF0BAE5B5EBB}
+  <TRACK {D62DB01A-982A-4D96-8B82-74012AC7F6F4}
     NAME "NES - Pulse 1 [BC Staff Roll]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {D24D8123-7960-4D00-B8DA-EF0BAE5B5EBB}
+    TRACKID {D62DB01A-982A-4D96-8B82-74012AC7F6F4}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {4A69A30A-0811-481F-833F-8E31A4A22252}
+      FXID {5A002A01-7C0D-4BAE-998E-85A47850A9EC}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3C0FC0EF-4C34-49C2-AD62-441E27C19DD4}
+      IGUID {278240DE-71AA-48E0-B30C-F79BA4EA1D42}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/pathetique_mv2.mid"
       >
     >
   >
-  <TRACK {D623512D-B77E-4B25-8D76-9455FA1B3279}
+  <TRACK {D9D425BD-D586-4E50-B2C6-BD33E985431E}
     NAME "NES - Pulse 2 [BC Staff Roll]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {D623512D-B77E-4B25-8D76-9455FA1B3279}
+    TRACKID {D9D425BD-D586-4E50-B2C6-BD33E985431E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {FE019C30-A868-44C9-BDD7-63D861AEFD6C}
+      FXID {D46165DC-D465-4D54-BEDB-AD7C8154EE7F}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EA52C616-5724-47BA-9301-0487748BB4C3}
+      IGUID {B46E4FB8-7466-45A3-9906-CA7BA95BE236}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/pathetique_mv2.mid"
       >
     >
   >
-  <TRACK {91953852-123E-4DEA-93B2-BA64126C452D}
+  <TRACK {C1666A34-97B9-461A-BEC1-9ACD88A985B0}
     NAME "NES - Triangle [BC Staff Roll]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {91953852-123E-4DEA-93B2-BA64126C452D}
+    TRACKID {C1666A34-97B9-461A-BEC1-9ACD88A985B0}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {108D369B-7273-49E6-B791-FAD5DEBC85F2}
+      FXID {BB82F7B9-A380-4031-891F-B5844B640A84}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D01D49ED-66C2-4034-A645-69621D140DB3}
+      IGUID {1796EDDC-2030-4281-A076-44C17E5A99ED}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/pathetique_mv2.mid"
       >
     >
   >
-  <TRACK {2FA421F7-0F38-42CD-944E-AF777321DA6C}
+  <TRACK {BBB03AB2-AF1E-4A2C-95A2-9011EB007EB5}
     NAME "NES - Noise / Drums [BC Staff Roll]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {2FA421F7-0F38-42CD-944E-AF777321DA6C}
+    TRACKID {BBB03AB2-AF1E-4A2C-95A2-9011EB007EB5}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0BC776C2-C325-4536-BF7D-ADDE68E4F13E}
+      FXID {82B64095-B302-4BA5-8AF5-F60B48C16973}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DC3DC171-39FC-4FC8-9D9F-35BBA07406A3}
+      IGUID {C98FDB77-CDC0-49CD-9226-9E40FC67F65C}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/pathetique_mv2.mid"
       >

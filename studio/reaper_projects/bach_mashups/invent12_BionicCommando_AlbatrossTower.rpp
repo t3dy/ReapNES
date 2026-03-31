@@ -1,0 +1,199 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 109.99990833340972 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio — Bach x NES Mashup
+    |Bach × BC Albatross Tower — Two-Part Invention No.12 in A
+    |Stage preset: Dual 75% wide pulses - aggressive tower assault
+  >
+  <TRACK {6F92D053-2980-423E-8986-92C7FAAA7888}
+    NAME "NES - Pulse 1 [BC Albatross Tower]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {6F92D053-2980-423E-8986-92C7FAAA7888}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {867D115D-F109-449A-AF9D-3AC8973B5284}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 68.72733000000001
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {19F68702-6A6B-4BFC-8A27-2B44201BBC91}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/invent12.mid"
+      >
+    >
+  >
+  <TRACK {C435948D-068B-4DF4-8895-77F10506AD74}
+    NAME "NES - Pulse 2 [BC Albatross Tower]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {C435948D-068B-4DF4-8895-77F10506AD74}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {A2BA7289-8892-483B-94B2-3B5A74E6354E}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 68.72733000000001
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F464125B-82EB-44BE-BE05-836CDDCEC520}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/invent12.mid"
+      >
+    >
+  >
+  <TRACK {C27A532F-5802-4AD3-8194-B456959C0317}
+    NAME "NES - Triangle [BC Albatross Tower]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {C27A532F-5802-4AD3-8194-B456959C0317}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {66E484F1-B83F-4049-9ACD-A0BFBA886C18}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 68.72733000000001
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BF342A4A-A5BB-4693-B514-EA3D69A49913}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/invent12.mid"
+      >
+    >
+  >
+  <TRACK {23A26556-1B8A-4AAB-9E12-FF2F46AEECD0}
+    NAME "NES - Noise / Drums [BC Albatross Tower]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {23A26556-1B8A-4AAB-9E12-FF2F46AEECD0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {02977D47-B7A5-4BA4-8CB7-957341F52CD7}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 68.72733000000001
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CAD2EFD6-BF08-4C75-B592-36F53EC033D4}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/invent12.mid"
+      >
+    >
+  >
+>

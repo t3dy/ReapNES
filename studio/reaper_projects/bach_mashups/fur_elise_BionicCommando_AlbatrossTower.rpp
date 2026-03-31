@@ -12,7 +12,7 @@
     |Bach × BC Albatross Tower — Beethoven Fur Elise
     |Stage preset: Dual 75% wide pulses - aggressive tower assault
   >
-  <TRACK {AE743328-4C43-40EE-81F6-EEA498FF13FF}
+  <TRACK {A40747F3-F47B-46A9-A99B-326D8B10D75C}
     NAME "NES - Pulse 1 [BC Albatross Tower]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {AE743328-4C43-40EE-81F6-EEA498FF13FF}
+    TRACKID {A40747F3-F47B-46A9-A99B-326D8B10D75C}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7F55C954-E575-42E4-802C-6AC71FDDE66C}
+      FXID {6BD7F5D7-5AF5-4223-A092-CE8E610F6C03}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {1F1781CB-B9B2-45D5-8125-AB790BB37EF6}
+      IGUID {92F7299C-9491-4D55-9B77-7B2E7CFD8CB4}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/fur_elise.mid"
       >
     >
   >
-  <TRACK {5728BBBB-29BC-4329-9A23-F60B2A6B304C}
+  <TRACK {0995E425-849E-49C3-BDEF-ABC47A7139FF}
     NAME "NES - Pulse 2 [BC Albatross Tower]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {5728BBBB-29BC-4329-9A23-F60B2A6B304C}
+    TRACKID {0995E425-849E-49C3-BDEF-ABC47A7139FF}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {81B4304D-2F3B-42BD-8A85-9497B057B07A}
+      FXID {331B4629-E1D0-4ADD-8C70-ABDBBB3C64AA}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {43468DBD-E197-49BE-AF33-381E2F2310F0}
+      IGUID {BD908F5A-1255-41B0-9E10-0E38D1B1DE75}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/fur_elise.mid"
       >
     >
   >
-  <TRACK {08E0AE53-999B-4487-9CA6-F6773250FCC1}
+  <TRACK {501D4C54-23C5-4191-AE16-19A6797F2844}
     NAME "NES - Triangle [BC Albatross Tower]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {08E0AE53-999B-4487-9CA6-F6773250FCC1}
+    TRACKID {501D4C54-23C5-4191-AE16-19A6797F2844}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0BD0CACA-7888-4786-8528-775B674BD068}
+      FXID {7208D798-C38B-4B3E-83C7-38815626B625}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4CAEB9B1-9ADD-407C-A182-D3471966A191}
+      IGUID {B5DB4073-7E18-4426-B5DC-707570819D6B}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/fur_elise.mid"
       >
     >
   >
-  <TRACK {D38CC8DD-E070-4109-9E85-B41A52324A62}
+  <TRACK {80C2CB40-1DAB-46CE-9BA8-555C39046D1C}
     NAME "NES - Noise / Drums [BC Albatross Tower]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {D38CC8DD-E070-4109-9E85-B41A52324A62}
+    TRACKID {80C2CB40-1DAB-46CE-9BA8-555C39046D1C}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {4C983CCB-7C4B-4682-9950-53D7D69A654A}
+      FXID {81DAE3C5-5DCC-443F-9562-83AC8A8C290A}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {65802522-1EB1-4232-AF26-937954274941}
+      IGUID {BD01BD65-6E9D-4E39-A4A2-336E3BACB596}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/beethoven/fur_elise.mid"
       >

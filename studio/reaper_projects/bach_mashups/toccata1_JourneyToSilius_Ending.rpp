@@ -12,7 +12,7 @@
     |Bach × JtS Ending Theme — Toccata in D minor BWV 565
     |Stage preset: Wide 75% lead with bright harmony - triumphant resolution
   >
-  <TRACK {B3025F2A-F47B-424A-A69B-8608454A189D}
+  <TRACK {B5677C14-A2C4-4750-B526-325E168D3AD0}
     NAME "NES - Pulse 1 [JtS Ending Theme]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B3025F2A-F47B-424A-A69B-8608454A189D}
+    TRACKID {B5677C14-A2C4-4750-B526-325E168D3AD0}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {738C44B0-143D-4273-820B-FBEAB68ECF03}
+      FXID {6F9BB2D1-DE5D-4836-A572-9DC5B2BEEBA8}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {233EAAC1-BF25-43AE-B91F-034D2C617B93}
+      IGUID {345A411D-4382-4F88-A629-19F8D365F381}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {BC21710D-E65A-4FB1-A2EE-45A9180304A0}
+  <TRACK {A968C497-6156-4BB4-B4D6-DECF8F1C94B4}
     NAME "NES - Pulse 2 [JtS Ending Theme]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {BC21710D-E65A-4FB1-A2EE-45A9180304A0}
+    TRACKID {A968C497-6156-4BB4-B4D6-DECF8F1C94B4}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {FA8BABB1-CCB8-4C81-9B81-6ABC009ADADF}
+      FXID {01B678BB-4997-4138-B982-B43469827C3C}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {00C9C074-3D3C-4A17-8382-A65CB5E25E85}
+      IGUID {13C9EB5F-9460-41A0-8193-0829E5051A94}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {F7127FAF-AB23-48A7-97BE-236C765E76CA}
+  <TRACK {92FDE7AA-428F-45D1-BD4D-AF90FD5E763D}
     NAME "NES - Triangle [JtS Ending Theme]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {F7127FAF-AB23-48A7-97BE-236C765E76CA}
+    TRACKID {92FDE7AA-428F-45D1-BD4D-AF90FD5E763D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C88BF95B-ED95-490A-830D-B4FC22A0A566}
+      FXID {8D698C17-A3DB-4054-9F22-5D2FD16F7F51}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {35A7B273-BF9F-42BB-BF7D-366D25CB804C}
+      IGUID {8EBAE6A0-0A53-4020-811E-F5ABBAFF6B31}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {42878012-6F57-4450-96C9-07F4B4F82D3A}
+  <TRACK {34BAFF8B-8FF1-426B-9FBF-604AF5DDCF9F}
     NAME "NES - Noise / Drums [JtS Ending Theme]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {42878012-6F57-4450-96C9-07F4B4F82D3A}
+    TRACKID {34BAFF8B-8FF1-426B-9FBF-604AF5DDCF9F}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {DE029B0F-098F-4ED6-AAE2-C50F5922804A}
+      FXID {A559484C-E669-47EF-9B86-777366B24BD4}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {7029D29F-EE5D-410C-9866-F98CE5F482C0}
+      IGUID {1E0A8897-431C-494C-B28F-955AF5C6D571}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >

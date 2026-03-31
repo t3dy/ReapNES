@@ -12,7 +12,7 @@
     |Bach × Gradius Beginning — Cello Suite 1 - Gigue
     |Stage preset: Bright lead vs wide pad - optimistic launch feel
   >
-  <TRACK {B8CD014E-8983-4302-972E-A1CC7DE82018}
+  <TRACK {B8458519-6BDB-434B-8910-790E7093FF20}
     NAME "NES - Pulse 1 [Gradius Beginning]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B8CD014E-8983-4302-972E-A1CC7DE82018}
+    TRACKID {B8458519-6BDB-434B-8910-790E7093FF20}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9B71DBF3-9809-4D0B-96A0-8DD88FA7B960}
+      FXID {7C7DACF2-C677-4385-BFD7-41FE026CF933}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A7760CE5-CCAD-43F7-B627-6E8B0E21B542}
+      IGUID {B20DCBBB-6EF0-4F57-AF03-82C4BBD504FE}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >
     >
   >
-  <TRACK {43BD810E-4E9E-4AA5-A618-CD925F2CA881}
+  <TRACK {14DE0B38-BEC3-4AB5-90E8-6F70DDCCE7E0}
     NAME "NES - Pulse 2 [Gradius Beginning]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {43BD810E-4E9E-4AA5-A618-CD925F2CA881}
+    TRACKID {14DE0B38-BEC3-4AB5-90E8-6F70DDCCE7E0}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {CEEE0AED-277E-4A59-9FF6-1BF97E179BA1}
+      FXID {9066400D-06A5-4897-94F8-B7116D5948C6}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {91A0327B-9181-42A2-8AD7-690929BA1589}
+      IGUID {F66FFCE9-78AF-4BCD-B274-5750A9B29ED1}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >
     >
   >
-  <TRACK {4709937A-4ACB-48CE-8C22-B58861F867E9}
+  <TRACK {75C93079-4BB2-41DF-8645-3CF162D474E7}
     NAME "NES - Triangle [Gradius Beginning]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {4709937A-4ACB-48CE-8C22-B58861F867E9}
+    TRACKID {75C93079-4BB2-41DF-8645-3CF162D474E7}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {852BA8CB-A11E-4B29-947F-972AEC0ED74F}
+      FXID {4BF0EACB-A05A-498A-B9FF-5CEA447F9556}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {8B2EF505-BE5E-476F-9F3E-0A0D8752E7B2}
+      IGUID {315E5336-895F-4C87-886C-62D7943C0DE0}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >
     >
   >
-  <TRACK {15231E18-AF42-4CC5-8D1C-696196AFB569}
+  <TRACK {3F8336B8-F731-4B0B-8FF7-5B1A505DE523}
     NAME "NES - Noise / Drums [Gradius Beginning]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {15231E18-AF42-4CC5-8D1C-696196AFB569}
+    TRACKID {3F8336B8-F731-4B0B-8FF7-5B1A505DE523}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {AD0B3999-FC93-4691-801C-E250D7096E02}
+      FXID {900786D1-1BA4-4B5B-9584-A329B684F5D3}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {BD6C873A-D05C-4CBE-984E-6857C28B7FCA}
+      IGUID {71E8EB00-BB4C-44E9-8B6E-4003FE7481AE}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >

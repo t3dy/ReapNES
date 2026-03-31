@@ -12,7 +12,7 @@
     |Bach × Gradius Boss — Goldberg Variation 1
     |Stage preset: Both pulses thin 12.5% - alien metallic menace
   >
-  <TRACK {B8AB8D25-FC40-461B-8509-8ADC5DF0C50B}
+  <TRACK {7C80098A-C2D4-4750-8DE1-6144AD9FFAA8}
     NAME "NES - Pulse 1 [Gradius Boss]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B8AB8D25-FC40-461B-8509-8ADC5DF0C50B}
+    TRACKID {7C80098A-C2D4-4750-8DE1-6144AD9FFAA8}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {D2BC2AC7-FBFB-4E17-A6BD-622E6C44D7DF}
+      FXID {AAB6027A-776F-463B-A15B-DA5FE93006F4}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E42602BA-0485-413D-9CF6-0C27A8CF26E3}
+      IGUID {46884C8D-984C-4CB9-BF3C-594ABDD9A5F3}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var1.mid"
       >
     >
   >
-  <TRACK {F28B859D-4FFC-4767-9B44-C07A76F88C80}
+  <TRACK {C91F212F-2640-4E4A-B552-1411D8A1A374}
     NAME "NES - Pulse 2 [Gradius Boss]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {F28B859D-4FFC-4767-9B44-C07A76F88C80}
+    TRACKID {C91F212F-2640-4E4A-B552-1411D8A1A374}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {377EA851-350F-4439-B70F-0E39ACF16D12}
+      FXID {F33C3B72-1A95-4881-9301-62F9D86323A4}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DD0EDE40-80B0-4C8C-8289-D2346BBC5AE2}
+      IGUID {FA305071-3CFC-4B55-A760-7ED32F90D6A0}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var1.mid"
       >
     >
   >
-  <TRACK {2715EB4C-4207-49D3-B0DD-2EA53C83A428}
+  <TRACK {A82D9334-237C-492B-82FF-8C552B4CF1D6}
     NAME "NES - Triangle [Gradius Boss]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {2715EB4C-4207-49D3-B0DD-2EA53C83A428}
+    TRACKID {A82D9334-237C-492B-82FF-8C552B4CF1D6}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {DC057CE1-F77B-4CA9-84D8-4606D03D61C1}
+      FXID {5DA3FB39-E525-4E83-813E-2FF6E000E640}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B2D44E3E-DC14-4B97-94C1-35D674D0D925}
+      IGUID {F7B87593-532B-4AF4-A88B-2E73C8F73D8C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var1.mid"
       >
     >
   >
-  <TRACK {AB6FE691-CA65-47D6-AD97-239B6D000709}
+  <TRACK {DCB5334F-2265-49D0-BD76-9DB872B9C103}
     NAME "NES - Noise / Drums [Gradius Boss]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {AB6FE691-CA65-47D6-AD97-239B6D000709}
+    TRACKID {DCB5334F-2265-49D0-BD76-9DB872B9C103}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {D96661AA-F725-4F93-BD65-281FEA009D4A}
+      FXID {99304F3A-5ECB-47F7-A4D3-F21E09D1D9DF}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {038502BE-B74B-4AF1-9685-8B41DB360135}
+      IGUID {5C56F848-DF5C-4E9A-BF43-299E395073B6}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var1.mid"
       >

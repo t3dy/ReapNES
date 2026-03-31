@@ -12,7 +12,7 @@
     |Bach × GnG Stage 1 — Three-Part Sinfonia No.1 in C
     |Stage preset: Dual bright 25% - Capcom gothic energy
   >
-  <TRACK {DE33AA48-136E-40E2-9FE6-D061472F1511}
+  <TRACK {78234E9E-67B4-4F40-8C30-81FC66E3B22A}
     NAME "NES - Pulse 1 [GnG Stage 1]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {DE33AA48-136E-40E2-9FE6-D061472F1511}
+    TRACKID {78234E9E-67B4-4F40-8C30-81FC66E3B22A}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8D66B008-76D5-416C-8B48-778B1AB6AE1F}
+      FXID {2025FC4F-FF8B-4663-8D71-531C7BA10AD3}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {7625DE76-5316-44FC-9B4C-361780CB1DBF}
+      IGUID {64AF1CFB-866E-4F78-A699-53EC2444FD40}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {C618A1E1-BD94-4FB7-8F51-6AFD9078BEC7}
+  <TRACK {971FDF01-8F96-4C3F-A299-2DDBC1FDB5CC}
     NAME "NES - Pulse 2 [GnG Stage 1]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C618A1E1-BD94-4FB7-8F51-6AFD9078BEC7}
+    TRACKID {971FDF01-8F96-4C3F-A299-2DDBC1FDB5CC}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7245B3BA-58FB-45EF-989C-65E7EC7BA44C}
+      FXID {A9B4CD05-3281-45CF-9709-D989377C672E}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {9BA9BF64-E6B1-46FA-92AD-DFE554E604C0}
+      IGUID {04D7D87D-AA7D-4C6C-BC99-4AB561CD0C6A}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {D34B62BC-7DFB-44C2-8B98-028F7D89A28E}
+  <TRACK {6DF74D85-C864-401F-84F4-9E16A45DDFBD}
     NAME "NES - Triangle [GnG Stage 1]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {D34B62BC-7DFB-44C2-8B98-028F7D89A28E}
+    TRACKID {6DF74D85-C864-401F-84F4-9E16A45DDFBD}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {E96B40F3-AE04-4FFA-A9C5-7731BA7AF5C1}
+      FXID {A59D747F-C424-4D24-8E35-76806AF9E8DF}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {86F30B4F-E0BE-4FA1-AD8F-4740D63A007C}
+      IGUID {AF946C28-8BB1-4B0F-ADFC-6B8E21C70F3A}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {AEC3A775-14ED-453E-8358-7C546B01E848}
+  <TRACK {7C666E5B-F1A5-4C33-945C-71F5D8351605}
     NAME "NES - Noise / Drums [GnG Stage 1]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {AEC3A775-14ED-453E-8358-7C546B01E848}
+    TRACKID {7C666E5B-F1A5-4C33-945C-71F5D8351605}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {51F13964-DE8D-4572-AE51-F161D33447A9}
+      FXID {A571ABB1-5879-413F-BCE8-B581EFA805FA}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4147B9CC-6832-4375-A5A0-CEE993AA455F}
+      IGUID {5FB92785-9DB8-4904-AFA2-E51F56E82768}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >

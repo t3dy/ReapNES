@@ -12,7 +12,7 @@
     |Bach × JtS Stage 3 — WTC Prelude No.9 in E
     |Stage preset: Bright lead against warm square harmony - driving action
   >
-  <TRACK {AA482219-9397-4853-9873-DAD3E4EAF4F4}
+  <TRACK {111C303E-0A01-4BC6-A78F-FCE060B7B2D0}
     NAME "NES - Pulse 1 [JtS Stage 3]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {AA482219-9397-4853-9873-DAD3E4EAF4F4}
+    TRACKID {111C303E-0A01-4BC6-A78F-FCE060B7B2D0}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {5910283F-BB1E-4E35-B62C-E6A3E1373B49}
+      FXID {7FEC7D8A-DDFF-419E-B1E6-132C2B85BE69}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {24F961DC-7B5B-4756-947D-F9BD580112D1}
+      IGUID {EE18A019-374F-4A9D-891D-1CFD368D29A3}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >
     >
   >
-  <TRACK {34C0A9A2-F257-42D8-B7D7-58D0FFA1E0BD}
+  <TRACK {2513E16C-E002-4CE0-A3DA-E79DFD4C5DD8}
     NAME "NES - Pulse 2 [JtS Stage 3]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {34C0A9A2-F257-42D8-B7D7-58D0FFA1E0BD}
+    TRACKID {2513E16C-E002-4CE0-A3DA-E79DFD4C5DD8}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {58ABA4E4-EC65-4DC1-AAFE-158B1B0AD968}
+      FXID {FA37A746-E071-4AEE-9A3F-13503E31123C}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {89A0D707-7B05-4682-85C5-DB485220CFD5}
+      IGUID {AD553849-2CC6-412B-9FAA-0E01E0C6C139}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >
     >
   >
-  <TRACK {8ADA4FC0-94FB-408E-9A13-35ED5CCF69A0}
+  <TRACK {3D022C2A-26BF-43DB-9E09-8A1CB43ED0FA}
     NAME "NES - Triangle [JtS Stage 3]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {8ADA4FC0-94FB-408E-9A13-35ED5CCF69A0}
+    TRACKID {3D022C2A-26BF-43DB-9E09-8A1CB43ED0FA}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {2CCA7FBB-A2F0-434F-84C0-5073E909ECD7}
+      FXID {CA701B51-506B-48C4-AE7E-83FDAA69A522}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {07086E4C-8721-4771-BABB-CE10D74B79FD}
+      IGUID {300F68E0-0946-4325-9EE3-977379CC3FBB}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >
     >
   >
-  <TRACK {85DBAA2D-04BF-45A2-A4CE-BB0D0E881A2D}
+  <TRACK {15F098A5-2750-4344-BF84-A1A9E6112017}
     NAME "NES - Noise / Drums [JtS Stage 3]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {85DBAA2D-04BF-45A2-A4CE-BB0D0E881A2D}
+    TRACKID {15F098A5-2750-4344-BF84-A1A9E6112017}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {0082AF93-C4E9-4063-8B4A-1035632EF852}
+      FXID {5A5B6A16-A77C-46F9-8DD1-C1A0F9987CD8}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E6594033-5CED-426B-BF30-02C11B8BD8D0}
+      IGUID {8C43D79C-D2AC-44CA-A752-ED2D491153E8}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >

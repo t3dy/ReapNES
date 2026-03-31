@@ -12,7 +12,7 @@
     |Bach × Gradius Boss — Goldberg Variation 3 (Canon)
     |Stage preset: Both pulses thin 12.5% - alien metallic menace
   >
-  <TRACK {7560013D-683A-47D0-BB35-15C39B351E84}
+  <TRACK {D29F2582-9394-4D9F-B2BC-9F8A5196DB64}
     NAME "NES - Pulse 1 [Gradius Boss]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {7560013D-683A-47D0-BB35-15C39B351E84}
+    TRACKID {D29F2582-9394-4D9F-B2BC-9F8A5196DB64}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {BEFB1ED2-1A72-4118-856F-A0F59A28D968}
+      FXID {18318FCC-773F-4F46-B8A1-0F47F68167C8}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {9184C666-3D8E-44A8-8347-9C93C65B4AA8}
+      IGUID {4689418A-1E40-4D92-B06C-1C8A4968B747}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var3c1.mid"
       >
     >
   >
-  <TRACK {E6054709-2D8A-43F6-9E86-889A39AF4F69}
+  <TRACK {FB942380-EF9C-4FE6-8B2F-0EBD2405C472}
     NAME "NES - Pulse 2 [Gradius Boss]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E6054709-2D8A-43F6-9E86-889A39AF4F69}
+    TRACKID {FB942380-EF9C-4FE6-8B2F-0EBD2405C472}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C0031A92-632D-45E2-A029-D074EAF4B089}
+      FXID {53E078EB-6E6E-470C-8D38-F56BB5270282}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B255642D-504A-4B5A-B309-C950C138619B}
+      IGUID {0AD09BF1-C06E-4089-BC38-F47EA5ECFFD4}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var3c1.mid"
       >
     >
   >
-  <TRACK {93E47DC0-51E6-417F-B687-19B902F38989}
+  <TRACK {A8D462A4-B882-4B16-A90C-633E16390E5E}
     NAME "NES - Triangle [Gradius Boss]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {93E47DC0-51E6-417F-B687-19B902F38989}
+    TRACKID {A8D462A4-B882-4B16-A90C-633E16390E5E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {6605A041-D9F7-47C7-8638-22E529FF51D2}
+      FXID {82DE4757-53AC-4720-B8A7-8158BDDDD6BF}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {2DCF3D57-90F1-40DB-AF44-E65B0CDC699A}
+      IGUID {1901A815-115E-49BC-A124-4D6640ACAB86}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var3c1.mid"
       >
     >
   >
-  <TRACK {38F0FD52-04F0-4249-80F6-B4628B37CC7B}
+  <TRACK {881500A0-4D16-4490-B0B4-2B8966E7EBF4}
     NAME "NES - Noise / Drums [Gradius Boss]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {38F0FD52-04F0-4249-80F6-B4628B37CC7B}
+    TRACKID {881500A0-4D16-4490-B0B4-2B8966E7EBF4}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {F9B1DD3D-2F2D-4A7D-A26F-CCAB1FD78173}
+      FXID {4925049A-2E13-4EA7-A40A-9C06BC3BFC41}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {1AA4F2EF-44A4-4291-85B7-ABBE6FE78BED}
+      IGUID {AC757190-F04F-4871-9128-CCC353BD75CB}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var3c1.mid"
       >

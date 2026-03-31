@@ -12,7 +12,7 @@
     |Bach × JtS Stage 2 — Toccata in D minor BWV 565
     |Stage preset: Both pulses at 12.5% - thin, metallic, haunting Sunsoft
   >
-  <TRACK {228CD75F-237D-4D06-8C77-CD408DA597AC}
+  <TRACK {4E26164C-3EF0-46F4-BA88-C22EE66E8490}
     NAME "NES - Pulse 1 [JtS Stage 2]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {228CD75F-237D-4D06-8C77-CD408DA597AC}
+    TRACKID {4E26164C-3EF0-46F4-BA88-C22EE66E8490}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {BB33C842-A9B7-471F-B3CE-E244541622C2}
+      FXID {D60EBCF1-1469-4D98-B0FF-6984A873E190}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0F9C445F-A836-436B-9114-CD02F37694A4}
+      IGUID {09C8D556-8DA2-4986-95A8-54821EF70746}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {B36C6B92-DBE4-4E54-A225-6FE97D5B6D31}
+  <TRACK {81C61F00-7CE5-46F4-AA9A-AAC4B9A143E4}
     NAME "NES - Pulse 2 [JtS Stage 2]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B36C6B92-DBE4-4E54-A225-6FE97D5B6D31}
+    TRACKID {81C61F00-7CE5-46F4-AA9A-AAC4B9A143E4}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {ADD9C592-1573-46BF-A6B2-F810B75B9893}
+      FXID {27FDAC18-7480-43E0-8F89-A0118B589A9F}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A265ACE5-F7E7-4415-B5F2-0C8208892C9A}
+      IGUID {3AA1A9AE-AE09-4583-810B-4375AFFF78C1}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {F55A3362-FE34-440E-BEEC-EF9E14612727}
+  <TRACK {77ABD73A-7044-4FE8-95F0-96A4F271382D}
     NAME "NES - Triangle [JtS Stage 2]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {F55A3362-FE34-440E-BEEC-EF9E14612727}
+    TRACKID {77ABD73A-7044-4FE8-95F0-96A4F271382D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {5B0FABBA-E0BE-4803-A76A-D3ABF6FB302A}
+      FXID {C6EE4AB8-F14F-4EF1-8A1E-859E162EE27E}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {366FA00F-E280-4CFD-9E6A-B38BA248D839}
+      IGUID {B3718024-2B04-4B56-9A5F-61083822283C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {505AE230-DA2B-4582-9383-66EECD9041E7}
+  <TRACK {25D27A4A-8BCB-42F7-96B2-66A319918029}
     NAME "NES - Noise / Drums [JtS Stage 2]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {505AE230-DA2B-4582-9383-66EECD9041E7}
+    TRACKID {25D27A4A-8BCB-42F7-96B2-66A319918029}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {AEAD2D56-DD7D-4D36-A1B7-95597DB28F92}
+      FXID {B1AA8CB2-D699-4103-B2B3-98BE2124DF08}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {6A7D59F5-8310-4C6F-8F1F-0A1B1FF1A59C}
+      IGUID {645A7EE1-AFCC-4A31-A4EE-EB4834C6CB6C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >

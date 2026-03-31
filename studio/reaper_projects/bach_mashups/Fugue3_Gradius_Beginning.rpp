@@ -12,7 +12,7 @@
     |Bach × Gradius Beginning — WTC Fugue No.3 in C#
     |Stage preset: Bright lead vs wide pad - optimistic launch feel
   >
-  <TRACK {2A473F17-6526-425B-AED8-E35EE33079F9}
+  <TRACK {3FC5956E-756B-4C2B-8F48-37B7D43FE7A8}
     NAME "NES - Pulse 1 [Gradius Beginning]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {2A473F17-6526-425B-AED8-E35EE33079F9}
+    TRACKID {3FC5956E-756B-4C2B-8F48-37B7D43FE7A8}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {6B919EB5-D030-496C-8E92-B91975A6BC15}
+      FXID {D389232B-60AE-4173-BE15-D485BFCD6CCB}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {1792E202-3AC1-4B25-B9D9-288E85FD5D7B}
+      IGUID {11CDF3C9-9799-4036-BC5F-E668860F4FDF}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue3.mid"
       >
     >
   >
-  <TRACK {E63BFA1C-8E2A-49BF-BA05-4C1F047EE838}
+  <TRACK {29DF750C-FF57-47CC-8EAF-1B154342E310}
     NAME "NES - Pulse 2 [Gradius Beginning]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E63BFA1C-8E2A-49BF-BA05-4C1F047EE838}
+    TRACKID {29DF750C-FF57-47CC-8EAF-1B154342E310}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {1E39CF3F-E745-40C3-9437-6EC1E67E0D2A}
+      FXID {A40F0A16-FB7C-4C6D-943C-4CFBD2FBDBEF}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {1DDCBEF0-40E9-4341-ACC9-6E76A17AA753}
+      IGUID {49D603E4-149C-473D-A4EE-1F53668D6AD9}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue3.mid"
       >
     >
   >
-  <TRACK {2BE44F98-28EC-445E-A3E2-AD1B318AF32D}
+  <TRACK {7DC22085-19CC-472D-A63F-74809841E5B2}
     NAME "NES - Triangle [Gradius Beginning]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {2BE44F98-28EC-445E-A3E2-AD1B318AF32D}
+    TRACKID {7DC22085-19CC-472D-A63F-74809841E5B2}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {98703B32-C0DE-4A82-B6CE-D8AD9A4BC7B4}
+      FXID {3C5503BA-AD0A-4B44-8D8C-F7C9AF1FD70B}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {1DD233CA-C803-4A23-8511-80103E6F6DF6}
+      IGUID {79022A41-A54C-4A20-90D7-B580CA899B21}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue3.mid"
       >
     >
   >
-  <TRACK {F402DEB4-84A5-433B-8DDB-0879919CD11F}
+  <TRACK {D5033259-7061-4729-A8A6-DF3461173156}
     NAME "NES - Noise / Drums [Gradius Beginning]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {F402DEB4-84A5-433B-8DDB-0879919CD11F}
+    TRACKID {D5033259-7061-4729-A8A6-DF3461173156}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {490DB558-9813-431E-BC1B-E8ECC58D4CC6}
+      FXID {2EFFBFAF-6C5C-4226-9761-D364B579DDA5}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {7E2F65BF-6AA2-4A91-933F-2E97014CACC1}
+      IGUID {1EA34881-7263-41D5-9445-B4614D87C3AE}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue3.mid"
       >

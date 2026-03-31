@@ -12,7 +12,7 @@
     |Bach × JtS Stage 2 — Cello Suite 1 - Gigue
     |Stage preset: Both pulses at 12.5% - thin, metallic, haunting Sunsoft
   >
-  <TRACK {1BCEE398-8A37-4C2A-AB0E-7FEA5D3A009B}
+  <TRACK {03E9F84B-7A08-4DD8-85DE-A5B3748684A4}
     NAME "NES - Pulse 1 [JtS Stage 2]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {1BCEE398-8A37-4C2A-AB0E-7FEA5D3A009B}
+    TRACKID {03E9F84B-7A08-4DD8-85DE-A5B3748684A4}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {233D7AE8-F2CE-4CD1-B6EF-023350118FD0}
+      FXID {2836C025-FEEC-48DE-A01F-6F7A56B1103D}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {25DAA0ED-63DA-4267-8AFB-77CFEE09C396}
+      IGUID {019F6E9E-D35F-4338-9A28-F74BE874E5B0}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >
     >
   >
-  <TRACK {7BEDCB35-5083-48EB-8D28-F22CD1CB7056}
+  <TRACK {BB8120B6-DF5C-4DDA-A46A-4175D2BFDFE6}
     NAME "NES - Pulse 2 [JtS Stage 2]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {7BEDCB35-5083-48EB-8D28-F22CD1CB7056}
+    TRACKID {BB8120B6-DF5C-4DDA-A46A-4175D2BFDFE6}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {F585AEA1-94EF-4A4B-9A08-53438F9A031B}
+      FXID {9DF885BF-3406-4C0E-8E13-65AD22366183}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {452A864A-0F4F-4614-833E-EFBF62CE80C0}
+      IGUID {DDEFB6A1-680D-4A17-AF68-E1CEB073AC51}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >
     >
   >
-  <TRACK {21B2CAE3-3F3F-4B77-B8C3-6AF98C82D511}
+  <TRACK {E57BD272-BB9F-42FC-8FB7-9BD0E3D38A04}
     NAME "NES - Triangle [JtS Stage 2]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {21B2CAE3-3F3F-4B77-B8C3-6AF98C82D511}
+    TRACKID {E57BD272-BB9F-42FC-8FB7-9BD0E3D38A04}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {DC724387-805A-4862-BD9C-5D45A55E931A}
+      FXID {DA485626-DAB9-49FB-9C29-93A25D4D8FC9}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B815A4DF-288E-421C-82F0-21BA83AC6BC1}
+      IGUID {4ECE8E1B-2959-42F5-800B-770C02575B59}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >
     >
   >
-  <TRACK {A950D3D5-F1CB-43B4-A543-30A6CB0BEB92}
+  <TRACK {AAA72AFE-0F65-4134-B63E-852F09EE4821}
     NAME "NES - Noise / Drums [JtS Stage 2]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {A950D3D5-F1CB-43B4-A543-30A6CB0BEB92}
+    TRACKID {AAA72AFE-0F65-4134-B63E-852F09EE4821}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {44F98B91-4B72-4AA7-A7E8-F45A4D77895C}
+      FXID {9413D41B-50E6-4337-AA1D-AA2239155853}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {CFB1BEF1-8E51-49F0-910F-BB9D923D9E95}
+      IGUID {1AC014F7-7CA2-4C24-B20E-E6D4961113E4}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >

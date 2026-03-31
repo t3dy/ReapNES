@@ -12,7 +12,7 @@
     |Bach × GnG Stage 1 — Toccata in D minor BWV 565
     |Stage preset: Dual bright 25% - Capcom gothic energy
   >
-  <TRACK {6005B95D-20E4-488C-92C5-1545058F42FE}
+  <TRACK {D32FD5B3-1C0D-4EBD-B6B7-8EC2DE9D46FB}
     NAME "NES - Pulse 1 [GnG Stage 1]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {6005B95D-20E4-488C-92C5-1545058F42FE}
+    TRACKID {D32FD5B3-1C0D-4EBD-B6B7-8EC2DE9D46FB}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {E40C19F8-0202-4D2E-B91C-CA59D11F7307}
+      FXID {72033508-EEEF-4F67-BEB5-F877939E9B84}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0E012E26-52FD-4D4B-97A3-80373DDF73E9}
+      IGUID {CD47609A-F75B-46BF-BF28-D30F3BB40779}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {02B2CAB9-7FEA-49D4-B093-A8FDFF1D2203}
+  <TRACK {3F6E14C0-BC69-406A-AD9A-5C27DBF90AE1}
     NAME "NES - Pulse 2 [GnG Stage 1]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {02B2CAB9-7FEA-49D4-B093-A8FDFF1D2203}
+    TRACKID {3F6E14C0-BC69-406A-AD9A-5C27DBF90AE1}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {DB68E443-CC99-49D2-B8FE-5539D20F113D}
+      FXID {9D39C946-86B1-41E1-ABA7-E2A1ED8B21BB}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {53AE7D66-E0E0-4609-BF3F-D60535843143}
+      IGUID {7167E6CD-971B-4CE2-BB8E-E4B7C72B1DCE}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {E0BB3867-C0EA-49E0-89AB-9CE7859204FD}
+  <TRACK {7470E814-7383-427F-A977-79D40032DE95}
     NAME "NES - Triangle [GnG Stage 1]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {E0BB3867-C0EA-49E0-89AB-9CE7859204FD}
+    TRACKID {7470E814-7383-427F-A977-79D40032DE95}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9CEB1C5D-2A6F-4026-BFBC-3D31DA0B153A}
+      FXID {66330756-7C07-4595-B3C6-3B0237AA9756}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {29D5498E-4302-4AD8-A249-1B2EB8785622}
+      IGUID {F4C7F35B-A59D-4336-9D14-B89E18B4C5A2}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >
     >
   >
-  <TRACK {9E3A775C-EEAC-4054-B0A4-9D884038E322}
+  <TRACK {46B3C161-1206-4BCF-A302-70A940C80E9A}
     NAME "NES - Noise / Drums [GnG Stage 1]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {9E3A775C-EEAC-4054-B0A4-9D884038E322}
+    TRACKID {46B3C161-1206-4BCF-A302-70A940C80E9A}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {052ADE2D-3DF4-47DB-A416-E75AD4718C04}
+      FXID {A5F01232-56EC-44AB-9F6D-CE8F509C9FD0}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DB063A13-DF76-44F0-8451-6B42FC5337BB}
+      IGUID {6EB5F717-FC68-4CFB-A1ED-8E633941E52F}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/toccata1.mid"
       >

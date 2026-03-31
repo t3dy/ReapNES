@@ -12,7 +12,7 @@
     |Bach × JtS Stage 4 — Cello Suite 1 - Gigue
     |Stage preset: Bright lead over warm pad - brooding tension
   >
-  <TRACK {C23868E3-FFE7-4597-BFCD-36CA8E13CE7F}
+  <TRACK {39F9B9A3-1DF6-43B8-823B-0732E5FA9B21}
     NAME "NES - Pulse 1 [JtS Stage 4]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C23868E3-FFE7-4597-BFCD-36CA8E13CE7F}
+    TRACKID {39F9B9A3-1DF6-43B8-823B-0732E5FA9B21}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {2C33D370-046B-4E12-BC91-86919B8E750B}
+      FXID {3418DAA8-848F-40CE-ABD8-3BBB3A8838AB}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4B48AF4B-4A7E-4EC7-9F7B-DD9FD081BC48}
+      IGUID {FBD21D04-2B54-49C0-8DB4-464A79C5D614}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >
     >
   >
-  <TRACK {50978F68-F3BD-4631-83CA-832FD2CA694F}
+  <TRACK {B41E20C2-1C86-41A7-8C27-BC0AAB8AD123}
     NAME "NES - Pulse 2 [JtS Stage 4]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {50978F68-F3BD-4631-83CA-832FD2CA694F}
+    TRACKID {B41E20C2-1C86-41A7-8C27-BC0AAB8AD123}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 2 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {F4F30B40-5D74-4A9C-8479-6FED65CFC29A}
+      FXID {4CB5FB0F-0E69-4136-98A6-F47D9E8AE3BD}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E5D9B114-23F7-49CB-8F76-B67690F28819}
+      IGUID {1E558644-5F45-475B-A12A-894B56E82290}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >
     >
   >
-  <TRACK {83682A93-DEFF-4F50-83D8-AA52203998BB}
+  <TRACK {AEC6C33D-C4F5-466F-9C24-6ACF719400C8}
     NAME "NES - Triangle [JtS Stage 4]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {83682A93-DEFF-4F50-83D8-AA52203998BB}
+    TRACKID {AEC6C33D-C4F5-466F-9C24-6ACF719400C8}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {38480FCE-9778-4BDD-83CA-0E2EE362D6F7}
+      FXID {3A430B3B-15A7-4C1C-8914-C78A07B26A35}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {74ACC37D-B733-409A-8ED6-904543E8B290}
+      IGUID {CA508E52-D804-4E0D-934D-5B771D850A5E}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >
     >
   >
-  <TRACK {5CA67D2E-1DFA-450B-BABC-FC298FC08B19}
+  <TRACK {22A62A97-0E4F-43FE-A2C7-1D88766AD2CC}
     NAME "NES - Noise / Drums [JtS Stage 4]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {5CA67D2E-1DFA-450B-BABC-FC298FC08B19}
+    TRACKID {22A62A97-0E4F-43FE-A2C7-1D88766AD2CC}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {AD9F1C5D-A06C-43ED-8820-9C8FA294F529}
+      FXID {EECCB1DC-879C-46C1-8BD9-F08EE70BD6E8}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DB605643-27AB-478B-9D33-B11B5E12EDE5}
+      IGUID {5C881968-ECFD-411A-987D-0F7783F334C7}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/gig1.mid"
       >

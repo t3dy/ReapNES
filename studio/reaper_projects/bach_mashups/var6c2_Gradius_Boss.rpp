@@ -12,7 +12,7 @@
     |Bach × Gradius Boss — Goldberg Variation 6 (Canon at 2nd)
     |Stage preset: Both pulses thin 12.5% - alien metallic menace
   >
-  <TRACK {A6BCDD87-7A0A-4D4D-BB01-3425AC32FEF7}
+  <TRACK {90FDA7BD-9AED-4E7A-AD9D-6629BEC88CA4}
     NAME "NES - Pulse 1 [Gradius Boss]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {A6BCDD87-7A0A-4D4D-BB01-3425AC32FEF7}
+    TRACKID {90FDA7BD-9AED-4E7A-AD9D-6629BEC88CA4}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {F427E79A-8F26-4C70-BE5B-CD2CB5259EB8}
+      FXID {1DDB3841-F646-4F8B-8144-B8A995205761}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {79CE6067-25DD-4F84-A114-B51F8A133F0B}
+      IGUID {90E7D077-1D91-4BF8-A70E-B9952E58EB2B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >
     >
   >
-  <TRACK {587923A8-C20C-40D2-9669-B342023130F4}
+  <TRACK {6DC7CBB9-B33B-425B-9C6E-6E1CDCCDE905}
     NAME "NES - Pulse 2 [Gradius Boss]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {587923A8-C20C-40D2-9669-B342023130F4}
+    TRACKID {6DC7CBB9-B33B-425B-9C6E-6E1CDCCDE905}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7024EB12-F1BB-4B6B-98CD-5A3444336A72}
+      FXID {8B64AD78-7E5C-4086-AB4E-0B7AEC60BAD4}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0B32BCD0-6FB5-416E-8AC2-E24C92E78BEF}
+      IGUID {702B66DB-D327-4335-94E0-2B119DC41BB5}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >
     >
   >
-  <TRACK {CA4622D2-8533-4E87-9828-5933E5C2A3EB}
+  <TRACK {E408D4F6-31A6-411B-916E-A905149DDD7B}
     NAME "NES - Triangle [Gradius Boss]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {CA4622D2-8533-4E87-9828-5933E5C2A3EB}
+    TRACKID {E408D4F6-31A6-411B-916E-A905149DDD7B}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {81B3432C-DC47-4B34-8A68-0D8CB174F164}
+      FXID {AC91C7EF-F0B2-4451-B2D5-EDC73932EA4A}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {72A9DA64-7FCB-4B4B-8E75-112DB5340AC2}
+      IGUID {BC6043D9-88C6-4C81-8A0A-65039945DE79}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >
     >
   >
-  <TRACK {BFC329BA-1FE4-420F-BC43-8F057A80E9F7}
+  <TRACK {A917DA47-3648-4311-A53B-CE89B4A6115C}
     NAME "NES - Noise / Drums [Gradius Boss]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {BFC329BA-1FE4-420F-BC43-8F057A80E9F7}
+    TRACKID {A917DA47-3648-4311-A53B-CE89B4A6115C}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {298F2CC2-C053-4E1F-9B51-13D08437C21B}
+      FXID {8D6B64BB-A6E1-4E23-9DF1-DDA2BB659A52}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {32197DC0-A1F9-4538-A342-1F9F1DE38E0F}
+      IGUID {A5BF0D4B-E530-4942-936F-15174DB74B6C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >

@@ -12,7 +12,7 @@
     |Bach × GnG Stage 1 — WTC Prelude No.10 in E minor
     |Stage preset: Dual bright 25% - Capcom gothic energy
   >
-  <TRACK {8B838F28-0428-4B32-AF60-5C54AA1715D3}
+  <TRACK {96B6DADE-BC15-44C1-808A-E00FE1B57097}
     NAME "NES - Pulse 1 [GnG Stage 1]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {8B838F28-0428-4B32-AF60-5C54AA1715D3}
+    TRACKID {96B6DADE-BC15-44C1-808A-E00FE1B57097}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {60199987-E1B8-4F00-8B96-2004B40786A4}
+      FXID {D6EDB107-A0EC-4536-9C80-A8348930A786}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DCB194B8-B295-406D-9AA8-EF9F8720F3B9}
+      IGUID {ED364A1C-D2CB-42FF-B403-11168DFB4B13}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude10.mid"
       >
     >
   >
-  <TRACK {ED5DDB87-5B8F-4390-AF2E-B6B22AC73B7A}
+  <TRACK {B82CB9A9-948D-4DAF-8DBE-B6C664C59975}
     NAME "NES - Pulse 2 [GnG Stage 1]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {ED5DDB87-5B8F-4390-AF2E-B6B22AC73B7A}
+    TRACKID {B82CB9A9-948D-4DAF-8DBE-B6C664C59975}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {FC2588B4-7EBA-4FB9-A471-3A1B83905DCA}
+      FXID {B9F82639-BC58-4BB5-A018-E566D19D76CC}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {403A8205-32A5-4727-BBFA-D4F5275D3943}
+      IGUID {6288827B-5949-46FD-A13D-C2C3EC39096E}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude10.mid"
       >
     >
   >
-  <TRACK {96005C34-2DDD-48E0-B8FA-1969C8CF2728}
+  <TRACK {3D8D9262-FE83-4C7C-B931-1D3E09DEF3D9}
     NAME "NES - Triangle [GnG Stage 1]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {96005C34-2DDD-48E0-B8FA-1969C8CF2728}
+    TRACKID {3D8D9262-FE83-4C7C-B931-1D3E09DEF3D9}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {E68860BE-3CFA-4C74-A62E-862E07FCE17E}
+      FXID {70D248A5-9CCD-41CB-B752-FF72C3C6A3D2}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {86D5793A-416D-46E1-B81B-78EAD693B19B}
+      IGUID {1CAF433E-8044-4205-AE6F-49B9E59511D6}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude10.mid"
       >
     >
   >
-  <TRACK {39F2342F-C39A-44F6-BB3A-021EA8719CA5}
+  <TRACK {C83DE1E6-D877-40B3-AB24-7DD985415332}
     NAME "NES - Noise / Drums [GnG Stage 1]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {39F2342F-C39A-44F6-BB3A-021EA8719CA5}
+    TRACKID {C83DE1E6-D877-40B3-AB24-7DD985415332}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C96BB7A9-8A10-4E94-BA0A-6FE7FB0227BD}
+      FXID {2FEE7FB4-0DF4-431B-902F-0815EA056C8D}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EA8C0777-A638-41B8-AE71-142DCC804351}
+      IGUID {1421549A-C5FD-45A1-A34D-EB938421958E}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude10.mid"
       >

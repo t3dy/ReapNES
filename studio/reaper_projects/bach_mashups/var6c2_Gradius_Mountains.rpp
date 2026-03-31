@@ -12,7 +12,7 @@
     |Bach × Gradius Mountains — Goldberg Variation 6 (Canon at 2nd)
     |Stage preset: Dual 75% wide pulses - bold space opera feel
   >
-  <TRACK {B97B987E-E88E-407A-8721-6A96847FC930}
+  <TRACK {6EFF5D18-E07F-438F-AC1C-2C8C60874B26}
     NAME "NES - Pulse 1 [Gradius Mountains]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B97B987E-E88E-407A-8721-6A96847FC930}
+    TRACKID {6EFF5D18-E07F-438F-AC1C-2C8C60874B26}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {FF186C00-B398-41C4-A9DA-1F48E966D38A}
+      FXID {8CC6B0A6-5548-47B4-A380-873AE28F4335}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {FEE68171-221A-41A7-8672-0C12B7EC6F9D}
+      IGUID {64D4DEF4-FFF5-45A3-ADA1-936D305A13AD}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >
     >
   >
-  <TRACK {1550A9F5-FDF4-4060-8882-895BDCE9C440}
+  <TRACK {6D38DA31-2874-4915-AFEF-61DF3DF636C1}
     NAME "NES - Pulse 2 [Gradius Mountains]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {1550A9F5-FDF4-4060-8882-895BDCE9C440}
+    TRACKID {6D38DA31-2874-4915-AFEF-61DF3DF636C1}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {3E428A13-B87A-4FC1-8357-D364EE9901AE}
+      FXID {4816285A-36B8-4ECB-96D7-D73FDF6C9410}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3A116E3A-8C0F-4734-953D-64352E88016B}
+      IGUID {C5347E43-8F0A-4651-9326-99144EBABECA}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >
     >
   >
-  <TRACK {7B412CE8-5B01-4D03-8224-B087B9017C09}
+  <TRACK {408AB557-2D17-456A-9AF4-011EF98B0724}
     NAME "NES - Triangle [Gradius Mountains]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {7B412CE8-5B01-4D03-8224-B087B9017C09}
+    TRACKID {408AB557-2D17-456A-9AF4-011EF98B0724}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {4047A312-E254-43F6-A805-D3D6B10B8A4B}
+      FXID {D57C3187-4C3A-421D-A25C-1E91471342FF}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {1C9A43F0-5124-4566-B2A8-EF2E2E0C21D6}
+      IGUID {D90D2884-3372-4502-9A65-EA87FFA384FC}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >
     >
   >
-  <TRACK {D9F52546-23D0-4C84-B726-E0874A7F26EA}
+  <TRACK {EA71011A-54FE-405B-9DD7-5F1D10C1CF9E}
     NAME "NES - Noise / Drums [Gradius Mountains]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {D9F52546-23D0-4C84-B726-E0874A7F26EA}
+    TRACKID {EA71011A-54FE-405B-9DD7-5F1D10C1CF9E}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {38C39CC3-CBF8-4749-8F39-DD3EAE927908}
+      FXID {D3E06E02-3872-4849-8F01-9FCBBE64248F}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {34759AE7-7EE3-42DE-829B-F3C585A782AF}
+      IGUID {B3157BC1-37A1-4AA6-B9D7-09CF7F60239D}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var6c2.mid"
       >

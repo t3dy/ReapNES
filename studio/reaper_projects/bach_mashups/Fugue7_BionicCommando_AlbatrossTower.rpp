@@ -1,0 +1,199 @@
+<REAPER_PROJECT 0.1 "7.27/win64" 1707000000
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  TEMPO 75.99996960001216 4 4
+  PLAYRATE 1 0 0.25 4
+  MASTERAUTOMODE 0
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_NCH 2 2
+  <NOTES
+    |ReapNES Studio — Bach x NES Mashup
+    |Bach × BC Albatross Tower — WTC Fugue No.7 in Eb
+    |Stage preset: Dual 75% wide pulses - aggressive tower assault
+  >
+  <TRACK {D19A7EEF-53BD-4738-A033-EF4C06E7ECF4}
+    NAME "NES - Pulse 1 [BC Albatross Tower]"
+    PEAKCOL 16576606
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {D19A7EEF-53BD-4738-A033-EF4C06E7ECF4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E30DDF11-3B45-4187-81E8-BE75D75E7101}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 117.7913075875
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9B4A1396-B1BD-47A6-A2B0-9240454EB47D}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Fugue7.mid"
+      >
+    >
+  >
+  <TRACK {071AE055-3F34-4BE6-BE7B-28FE64CA3DED}
+    NAME "NES - Pulse 2 [BC Albatross Tower]"
+    PEAKCOL 10092441
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {071AE055-3F34-4BE6-BE7B-28FE64CA3DED}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B1EACB5F-5149-4107-8FAC-A17C0C059A70}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 117.7913075875
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {46CCBB01-EA70-4971-80BD-8C3680C926F2}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Fugue7.mid"
+      >
+    >
+  >
+  <TRACK {231522F7-05CE-40F3-B7DF-615FD70D21FA}
+    NAME "NES - Triangle [BC Albatross Tower]"
+    PEAKCOL 16744192
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {231522F7-05CE-40F3-B7DF-615FD70D21FA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B683683F-19D8-4F15-A3B4-D085BA15A7BC}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 117.7913075875
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9BEED5C5-42FF-48A2-A1F7-6E77EFA7C269}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Fugue7.mid"
+      >
+    >
+  >
+  <TRACK {78674F6B-49B1-4531-90C3-49B53411BEE9}
+    NAME "NES - Noise / Drums [BC Albatross Tower]"
+    PEAKCOL 11184810
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    NCHAN 2
+    FX 1
+    TRACKID {78674F6B-49B1-4531-90C3-49B53411BEE9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "ReapNES Studio/ReapNES_APU.jsfx" ""
+        2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {6A6ACCEF-4E4D-46D9-B4A7-B4BA8E52D654}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      LENGTH 117.7913075875
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0 0 0 0 0 0
+      FADEOUT 0 0 0 0 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {14B77E67-94B8-425D-8133-80E460BD7AC9}
+      <SOURCE MIDI
+        FILE "C:/Users/PC/Downloads/Fugue7.mid"
+      >
+    >
+  >
+>

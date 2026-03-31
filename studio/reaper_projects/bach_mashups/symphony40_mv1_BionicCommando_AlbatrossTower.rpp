@@ -12,7 +12,7 @@
     |Bach × BC Albatross Tower — Mozart Symphony No.40 Mvt.1
     |Stage preset: Dual 75% wide pulses - aggressive tower assault
   >
-  <TRACK {C5C274A9-636C-422C-A532-5B0A3D7FE6A1}
+  <TRACK {9B50429E-DA50-466A-925B-6D53373E51F8}
     NAME "NES - Pulse 1 [BC Albatross Tower]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C5C274A9-636C-422C-A532-5B0A3D7FE6A1}
+    TRACKID {9B50429E-DA50-466A-925B-6D53373E51F8}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9C6189FE-6006-4D83-B72E-7FD4B37C284D}
+      FXID {CC088DFA-E673-4743-9E93-C6DA56585F13}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {337E93C7-AFFB-4C2E-B1B6-2D00047E72F7}
+      IGUID {8944C1AE-F5D3-44E0-9247-25D70B38B3D8}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/mozart/symphony40_mv1.mid"
       >
     >
   >
-  <TRACK {822F0AFE-95B9-46D8-B5B9-4DEC82A54942}
+  <TRACK {41E8DF60-6E00-48DA-839B-B23E114D219C}
     NAME "NES - Pulse 2 [BC Albatross Tower]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {822F0AFE-95B9-46D8-B5B9-4DEC82A54942}
+    TRACKID {41E8DF60-6E00-48DA-839B-B23E114D219C}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8B50808A-DE8F-452A-97E2-1482C98DDBB6}
+      FXID {79141608-B2B1-4EA7-A804-A092221CFCD4}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {2F74A812-F58E-4E4B-ADFC-8DD2794596F9}
+      IGUID {4169A805-9AB8-4250-BE1A-DF0BF7756D16}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/mozart/symphony40_mv1.mid"
       >
     >
   >
-  <TRACK {FA692E16-9273-4AF4-8A65-1B4FCC7A0392}
+  <TRACK {9D71E65E-FB1B-4A1F-ADB0-A330C5243A2A}
     NAME "NES - Triangle [BC Albatross Tower]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {FA692E16-9273-4AF4-8A65-1B4FCC7A0392}
+    TRACKID {9D71E65E-FB1B-4A1F-ADB0-A330C5243A2A}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {1AFFAC2A-E4A4-4D47-B832-4FF8F6459112}
+      FXID {6D2BDF5C-0C8B-4950-A007-3BCA6D666AD2}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5263B703-1515-4857-B507-39C0C826F8A0}
+      IGUID {99B95AD3-C28C-4149-82E9-3C61DC7A7B90}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/mozart/symphony40_mv1.mid"
       >
     >
   >
-  <TRACK {45AB5451-9E6B-4C30-8A64-E79CD9F2B2A6}
+  <TRACK {59BE1A57-91D5-4060-80F2-9C24922829FA}
     NAME "NES - Noise / Drums [BC Albatross Tower]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {45AB5451-9E6B-4C30-8A64-E79CD9F2B2A6}
+    TRACKID {59BE1A57-91D5-4060-80F2-9C24922829FA}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {134F9652-9AFE-41CA-87DC-23EF5783E08A}
+      FXID {4A92A038-FC8B-4052-8271-D9ACCE4453B2}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {75D3FE05-83C8-4A82-8BDB-8F3824081808}
+      IGUID {31D54773-9207-439B-8EAC-012CFA6EFD03}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/mozart/symphony40_mv1.mid"
       >

@@ -12,7 +12,7 @@
     |Bach × Gradius Mountains — WTC Fugue No.7 in Eb
     |Stage preset: Dual 75% wide pulses - bold space opera feel
   >
-  <TRACK {F33D4CC1-20EF-4A0A-815C-E59516607B0A}
+  <TRACK {0B450B4C-1003-4354-BE60-9C34BE594FAE}
     NAME "NES - Pulse 1 [Gradius Mountains]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {F33D4CC1-20EF-4A0A-815C-E59516607B0A}
+    TRACKID {0B450B4C-1003-4354-BE60-9C34BE594FAE}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {39CCB01E-115D-4672-905D-53E96E4F4896}
+      FXID {C269215E-ED19-4B5E-9317-0131172F4758}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {2BC84D9D-E33B-4B2C-8904-BFDFCA2E1535}
+      IGUID {67B22D33-A2DC-4F89-B8CE-80E1CE1F2A2B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue7.mid"
       >
     >
   >
-  <TRACK {D6967191-209A-4533-8D37-D568B964443D}
+  <TRACK {0DAB2111-CA87-4BC8-A903-CD39DFF8CE0A}
     NAME "NES - Pulse 2 [Gradius Mountains]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {D6967191-209A-4533-8D37-D568B964443D}
+    TRACKID {0DAB2111-CA87-4BC8-A903-CD39DFF8CE0A}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {EDB5263D-AA9C-4887-B2AA-B2371915E88E}
+      FXID {69D2849A-846C-4C56-8EB9-93214BFC2119}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3729B36F-5B29-4BAB-AC18-679EB3AD52D6}
+      IGUID {D64E9F42-D7EE-4022-8F51-22D22E2309DD}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue7.mid"
       >
     >
   >
-  <TRACK {13DF02FD-2C12-4F9E-A0A9-5F677CDDC299}
+  <TRACK {C6EED252-65C1-4F8B-8D52-6AE594BF2AE8}
     NAME "NES - Triangle [Gradius Mountains]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {13DF02FD-2C12-4F9E-A0A9-5F677CDDC299}
+    TRACKID {C6EED252-65C1-4F8B-8D52-6AE594BF2AE8}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {B1AA9968-0F85-4C8F-B5CA-3726A00D2C0D}
+      FXID {37E94507-F2EE-498C-8E9A-C3DBD44D9D48}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A9E82CE6-5ADC-49C5-9501-392B5546535E}
+      IGUID {A0C39EDE-1648-452E-BBC8-8F216076F3EA}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue7.mid"
       >
     >
   >
-  <TRACK {29BCC3B9-5BF6-449E-9B7E-3F888BEC2918}
+  <TRACK {A647A7A7-87B7-499A-9C6A-0E8E2C1CA668}
     NAME "NES - Noise / Drums [Gradius Mountains]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {29BCC3B9-5BF6-449E-9B7E-3F888BEC2918}
+    TRACKID {A647A7A7-87B7-499A-9C6A-0E8E2C1CA668}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {59882BE1-E334-4DE2-812B-978EE7763801}
+      FXID {CF517C04-7DBA-4C74-BDAE-7F2B68ADA070}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {61C454F2-9B40-47E5-918B-9CF4940B4126}
+      IGUID {BB60EA1F-B3A9-408F-8C3E-F5613489B3C1}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue7.mid"
       >

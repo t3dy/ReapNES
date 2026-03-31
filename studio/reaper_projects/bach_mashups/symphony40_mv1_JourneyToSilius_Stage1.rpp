@@ -12,7 +12,7 @@
     |Bach × JtS Stage 1 & 5 — Mozart Symphony No.40 Mvt.1
     |Stage preset: Dual bright 25% pulses - classic Sunsoft energy
   >
-  <TRACK {0560E319-650C-4D20-8D25-CAD31C13799C}
+  <TRACK {DB94DDCE-D85E-4FD7-B19C-02825CAB3463}
     NAME "NES - Pulse 1 [JtS Stage 1 & 5]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {0560E319-650C-4D20-8D25-CAD31C13799C}
+    TRACKID {DB94DDCE-D85E-4FD7-B19C-02825CAB3463}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {D7F59831-B9F8-476C-8D89-C58A61E37304}
+      FXID {D4EB58A2-1339-4F12-8099-C87446016D25}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {36C06F94-59C3-4B6E-84DF-504EBC61F5AF}
+      IGUID {BE0C356E-705C-433A-BBC3-5E7C81F2FA06}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/mozart/symphony40_mv1.mid"
       >
     >
   >
-  <TRACK {BBCA80FD-91BF-41F8-9D3E-DFA6E731B900}
+  <TRACK {DB6F8FE0-852C-41EF-B45C-187722CDE82B}
     NAME "NES - Pulse 2 [JtS Stage 1 & 5]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {BBCA80FD-91BF-41F8-9D3E-DFA6E731B900}
+    TRACKID {DB6F8FE0-852C-41EF-B45C-187722CDE82B}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {B8E90112-AE81-4205-964F-0164E9944C1A}
+      FXID {62A3F31A-3568-484B-9AD6-336AF6EED655}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D04A48F5-E64A-4E8D-89F4-B40E7B64DE6A}
+      IGUID {996EAFE6-2268-4DB8-90C6-C36BB7BF74F7}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/mozart/symphony40_mv1.mid"
       >
     >
   >
-  <TRACK {26AD7CE0-1446-4593-952C-5545E50B587B}
+  <TRACK {5054C4FB-20FD-4AF5-AD32-42DF0380F73C}
     NAME "NES - Triangle [JtS Stage 1 & 5]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {26AD7CE0-1446-4593-952C-5545E50B587B}
+    TRACKID {5054C4FB-20FD-4AF5-AD32-42DF0380F73C}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9001851B-A8B3-47E4-9231-20B9376139B0}
+      FXID {AF05B86A-CC13-4896-AC45-4272E7B3BA44}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5B529EC4-AC14-4F40-877A-D8E3E571F2B7}
+      IGUID {2C523D3D-B8AC-4078-9D0A-44BDF646EA5D}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/mozart/symphony40_mv1.mid"
       >
     >
   >
-  <TRACK {27040229-206E-4253-B890-7DC02A32237F}
+  <TRACK {88CAE703-E007-42C9-82FD-CC1DFB9F84B4}
     NAME "NES - Noise / Drums [JtS Stage 1 & 5]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {27040229-206E-4253-B890-7DC02A32237F}
+    TRACKID {88CAE703-E007-42C9-82FD-CC1DFB9F84B4}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {46601A02-CA58-4EBE-97D0-2A0572743703}
+      FXID {1B6DA42C-E4C3-43BB-8560-B88D5C3F132A}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E8D47FCE-916C-4B3D-9E9E-3731C2EBDBAA}
+      IGUID {FD2017D9-63B1-4DDE-A26B-42754CB8536B}
       <SOURCE MIDI
         FILE "C:/Dev/NESMusicStudio/studio/midi/classical/mozart/symphony40_mv1.mid"
       >

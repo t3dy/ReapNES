@@ -12,7 +12,7 @@
     |Bach × Gradius Mountains — WTC Prelude No.10 in E minor
     |Stage preset: Dual 75% wide pulses - bold space opera feel
   >
-  <TRACK {9B93D697-4FA2-49A3-966E-D1E83233BADB}
+  <TRACK {89F58CE2-4DFB-4209-A8FA-375C0707653C}
     NAME "NES - Pulse 1 [Gradius Mountains]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {9B93D697-4FA2-49A3-966E-D1E83233BADB}
+    TRACKID {89F58CE2-4DFB-4209-A8FA-375C0707653C}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9CA0E6E0-8183-4DB5-98D8-0FB67CF8D952}
+      FXID {28AF3311-2F59-4EF7-8FF0-753E7F834F03}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {BA333455-1909-44D0-8036-FC9818ED9049}
+      IGUID {6B80D895-4A65-4111-BD38-D583DFFF992D}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude10.mid"
       >
     >
   >
-  <TRACK {C45F4EF7-9C4A-4685-B028-4DF4D84096A0}
+  <TRACK {D8DE84A8-DF94-4400-8126-A8F3961124F6}
     NAME "NES - Pulse 2 [Gradius Mountains]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C45F4EF7-9C4A-4685-B028-4DF4D84096A0}
+    TRACKID {D8DE84A8-DF94-4400-8126-A8F3961124F6}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {82721D9E-D199-485C-948C-AC53FBBA2DC2}
+      FXID {2C3127A5-D6F7-4A8D-8CAB-3F67DFF2C75F}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {FEE95407-348C-471A-8154-90BA208DE515}
+      IGUID {59B11EA6-44BC-4E61-8E12-ECE963449AEA}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude10.mid"
       >
     >
   >
-  <TRACK {B3510CA1-53AC-47EA-978E-DB7420DCAE77}
+  <TRACK {3A17CB95-58C1-463A-8EA3-DE66A6FB1F06}
     NAME "NES - Triangle [Gradius Mountains]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B3510CA1-53AC-47EA-978E-DB7420DCAE77}
+    TRACKID {3A17CB95-58C1-463A-8EA3-DE66A6FB1F06}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {694A80E1-E7BB-468C-958C-337FE5E2A285}
+      FXID {8593A5CF-B07E-4894-AE91-E443F734A5FD}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {72BCDCF5-93B4-4139-96FB-9359FA74FA5F}
+      IGUID {0F1B0B2D-F63A-40A8-B691-0521AF194412}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude10.mid"
       >
     >
   >
-  <TRACK {8C7DEA5F-31B0-4E65-88ED-FD20E431701B}
+  <TRACK {82824058-6144-4A95-BD7C-6C2A64FB243D}
     NAME "NES - Noise / Drums [Gradius Mountains]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {8C7DEA5F-31B0-4E65-88ED-FD20E431701B}
+    TRACKID {82824058-6144-4A95-BD7C-6C2A64FB243D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C2AD6AB7-0EEA-47E8-A75D-66D5C31305FC}
+      FXID {AC36E9DC-1528-457B-8F69-E1595EC08D03}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DFD0D5C3-B132-4568-B710-02A01CF174B8}
+      IGUID {95D5C756-5745-42FA-BBD8-B1490BC1425C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude10.mid"
       >

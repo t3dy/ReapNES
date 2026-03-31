@@ -12,7 +12,7 @@
     |Bach × Gradius Boss — WTC Fugue No.3 in C#
     |Stage preset: Both pulses thin 12.5% - alien metallic menace
   >
-  <TRACK {0E29A588-0FAA-48B5-95BC-B1D51D7249E0}
+  <TRACK {2E9508CF-3C74-4EB0-A399-961B6B7720DF}
     NAME "NES - Pulse 1 [Gradius Boss]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {0E29A588-0FAA-48B5-95BC-B1D51D7249E0}
+    TRACKID {2E9508CF-3C74-4EB0-A399-961B6B7720DF}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {AF67208F-5CB6-4FA6-8251-615131C59D2E}
+      FXID {940787CE-43CB-4A06-9296-6AF32B0D8C25}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E3DD08DB-3E1F-4707-8687-0D2396496FEC}
+      IGUID {155644A4-D7F3-4EFB-BD73-BEBE5F88D083}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue3.mid"
       >
     >
   >
-  <TRACK {9314B008-D889-4974-BF47-169E63A4804E}
+  <TRACK {DC5C3121-2370-4979-B87A-835D02ECDBB0}
     NAME "NES - Pulse 2 [Gradius Boss]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {9314B008-D889-4974-BF47-169E63A4804E}
+    TRACKID {DC5C3121-2370-4979-B87A-835D02ECDBB0}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {634AC3C5-1AB3-49D9-9DAF-93983C7CAA75}
+      FXID {50779F62-592A-4741-9221-DEEE2F5949D7}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {73FC5D78-EB7B-42C8-B8C3-4B8089E231E6}
+      IGUID {30AC9126-0734-4F7E-82D3-71CBA415AAA1}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue3.mid"
       >
     >
   >
-  <TRACK {BD63B0D8-21A8-465E-9AC2-776C05E3B7F2}
+  <TRACK {6F7A0646-BF14-48A7-B5F8-A72F7983CF09}
     NAME "NES - Triangle [Gradius Boss]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {BD63B0D8-21A8-465E-9AC2-776C05E3B7F2}
+    TRACKID {6F7A0646-BF14-48A7-B5F8-A72F7983CF09}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7908B76C-2E8C-4EC2-B0F9-63DBD9811F2F}
+      FXID {BFBED85A-449C-4641-96CB-CE8494BC1CDE}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5DE55DA2-B909-494A-AF95-B74E2219E377}
+      IGUID {90134469-1FFA-498A-8719-0D1835B3D0D3}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue3.mid"
       >
     >
   >
-  <TRACK {D45F4582-E0B8-46E7-9205-4B50B81E9546}
+  <TRACK {13C6BF90-B4FF-4BCD-A715-3978D34B0EA6}
     NAME "NES - Noise / Drums [Gradius Boss]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {D45F4582-E0B8-46E7-9205-4B50B81E9546}
+    TRACKID {13C6BF90-B4FF-4BCD-A715-3978D34B0EA6}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7AA5FACD-ADA0-4F83-A704-28350FB26538}
+      FXID {4F716BFA-DB0E-4B72-9163-54AC85D98BE6}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {85CFE829-5805-4D71-B19A-341756456C88}
+      IGUID {888A53CA-8D49-453F-AD00-9C97FCFBC59C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Fugue3.mid"
       >

@@ -12,7 +12,7 @@
     |Bach × JtS Stage 1 & 5 — WTC Prelude No.9 in E
     |Stage preset: Dual bright 25% pulses - classic Sunsoft energy
   >
-  <TRACK {63CADDB9-538E-427C-9DA2-A05FF4648040}
+  <TRACK {0E077AFA-41AB-4FBD-BFD1-F8C37D97502D}
     NAME "NES - Pulse 1 [JtS Stage 1 & 5]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {63CADDB9-538E-427C-9DA2-A05FF4648040}
+    TRACKID {0E077AFA-41AB-4FBD-BFD1-F8C37D97502D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {52EA1CFB-CC98-45F8-ACA9-F2813CB8335E}
+      FXID {181D4978-2C95-4352-B3B0-B5E0F5AB8A1E}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E3CC9F2B-D940-41D3-8EA0-CECA3724D9FB}
+      IGUID {C2FA84B7-E242-414D-BCFD-DED30ED50F66}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >
     >
   >
-  <TRACK {1CDA423D-E1F5-4D04-9C57-B87E271785C6}
+  <TRACK {2AFB8DC7-F5A7-4C65-9CD6-09A5E476CE69}
     NAME "NES - Pulse 2 [JtS Stage 1 & 5]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {1CDA423D-E1F5-4D04-9C57-B87E271785C6}
+    TRACKID {2AFB8DC7-F5A7-4C65-9CD6-09A5E476CE69}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8233C65B-8E38-4EEF-A05B-5EC3DE72846F}
+      FXID {C9339A70-02BC-48D3-89B6-AC9C1493B9C3}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {8CCF2433-34AD-4E73-BB39-2A583CCAF2E8}
+      IGUID {582B7964-F209-403D-B043-108E32327A0A}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >
     >
   >
-  <TRACK {3BF5A9B9-F72E-45B7-9B5F-095E7B5670E5}
+  <TRACK {D5E2F0B9-BA16-48E6-8868-67359BC7E707}
     NAME "NES - Triangle [JtS Stage 1 & 5]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {3BF5A9B9-F72E-45B7-9B5F-095E7B5670E5}
+    TRACKID {D5E2F0B9-BA16-48E6-8868-67359BC7E707}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {9FB20C38-E734-4617-939D-6251F4727324}
+      FXID {CABA4CE2-213B-4119-91C3-6DF3C3C0C786}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {BAFE2E4A-5533-4BF3-9102-0C059A222857}
+      IGUID {A77C6CE9-4547-4A6F-B717-9C237EB5627E}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >
     >
   >
-  <TRACK {ABE4559E-32E6-411F-9D57-9FAB670ACD6B}
+  <TRACK {0FE97266-01BE-4372-B76C-E719121ADEBF}
     NAME "NES - Noise / Drums [JtS Stage 1 & 5]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {ABE4559E-32E6-411F-9D57-9FAB670ACD6B}
+    TRACKID {0FE97266-01BE-4372-B76C-E719121ADEBF}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {5A6FAAE6-5DAA-4A21-9E87-8DB9A52488CE}
+      FXID {2A455A7B-CA44-48CF-918E-9EF78EC64D0F}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D8446134-5BC8-4BDF-B5CB-7CEF93F997FD}
+      IGUID {CB9C9989-C968-4882-A6BF-C5C1C8CCE833}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >

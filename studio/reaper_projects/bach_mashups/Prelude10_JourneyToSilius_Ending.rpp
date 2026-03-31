@@ -12,7 +12,7 @@
     |Bach × JtS Ending Theme — WTC Prelude No.10 in E minor
     |Stage preset: Wide 75% lead with bright harmony - triumphant resolution
   >
-  <TRACK {5BD06146-4A37-44E1-A89A-6239A94CBB4A}
+  <TRACK {9E2DF6E6-A77B-49FA-A155-DD483CBE107A}
     NAME "NES - Pulse 1 [JtS Ending Theme]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {5BD06146-4A37-44E1-A89A-6239A94CBB4A}
+    TRACKID {9E2DF6E6-A77B-49FA-A155-DD483CBE107A}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C189A2F8-F779-42D9-813C-B4E992CEC209}
+      FXID {02B85FA7-2C63-4B75-B291-D6E14FC62AB4}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0631DC04-335B-4B81-B172-73B5F2C98A58}
+      IGUID {4BF8EEE0-EB05-4D74-BCA4-127C32B5A1D7}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude10.mid"
       >
     >
   >
-  <TRACK {F872D043-5D16-44DC-845F-EF23BB68B75A}
+  <TRACK {89D6B4A3-A456-496E-84AD-CA1B3C6E6621}
     NAME "NES - Pulse 2 [JtS Ending Theme]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {F872D043-5D16-44DC-845F-EF23BB68B75A}
+    TRACKID {89D6B4A3-A456-496E-84AD-CA1B3C6E6621}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {5361EBB3-3EB8-4AF1-8540-693DF9D4A4CA}
+      FXID {148A7C06-CE26-4767-9143-6DFB3C2A0110}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4D5B5176-A571-4380-907B-8E2EB6F30ABB}
+      IGUID {74777F51-CF7C-40B8-BAA5-C23FC25A9683}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude10.mid"
       >
     >
   >
-  <TRACK {5E0389A4-DA30-46E3-A14F-7EFC8986E910}
+  <TRACK {974DB75D-3B89-4120-9A71-D8FB894AD391}
     NAME "NES - Triangle [JtS Ending Theme]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {5E0389A4-DA30-46E3-A14F-7EFC8986E910}
+    TRACKID {974DB75D-3B89-4120-9A71-D8FB894AD391}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {EEB0E57F-8D1F-4ADE-AA4C-57B2A641C03E}
+      FXID {1507CE46-42CB-4CD7-8489-A4B3D7223450}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DE94884A-F28C-4AEF-B404-D1EA09573A39}
+      IGUID {E11FE11A-6BE4-4B02-AFD4-26ADC24DE4AF}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude10.mid"
       >
     >
   >
-  <TRACK {AB7E66D4-FAF3-4DFD-B203-0F2A0CCDAD03}
+  <TRACK {A41B9609-DA56-412B-A7C0-D5603936E4C0}
     NAME "NES - Noise / Drums [JtS Ending Theme]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {AB7E66D4-FAF3-4DFD-B203-0F2A0CCDAD03}
+    TRACKID {A41B9609-DA56-412B-A7C0-D5603936E4C0}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7810521B-0358-42B7-8EB7-8E0BD3314CAB}
+      FXID {802B2CDA-7478-4E43-93E7-3919AD7E857E}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {23FF6947-8A00-4A86-A75F-5E2D710767BB}
+      IGUID {8BA4AFE1-2C62-4634-923F-20CEE779F95B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude10.mid"
       >

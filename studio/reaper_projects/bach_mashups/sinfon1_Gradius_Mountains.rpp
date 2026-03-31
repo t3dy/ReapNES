@@ -12,7 +12,7 @@
     |Bach × Gradius Mountains — Three-Part Sinfonia No.1 in C
     |Stage preset: Dual 75% wide pulses - bold space opera feel
   >
-  <TRACK {55370103-1291-4F2D-8E65-AE80DAA687C9}
+  <TRACK {FF79A693-66AC-4BA7-8CA9-8271EB8AB04D}
     NAME "NES - Pulse 1 [Gradius Mountains]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {55370103-1291-4F2D-8E65-AE80DAA687C9}
+    TRACKID {FF79A693-66AC-4BA7-8CA9-8271EB8AB04D}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         3 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {40BC3A5A-1FC7-4D26-9DD0-CAE97F0E1A38}
+      FXID {539F951F-65E3-4D17-BC29-A1481C719887}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {81CEEB1D-2319-4B80-9202-202D5D757AF0}
+      IGUID {5522B6C9-0E28-4207-A868-0A68E937542E}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {07F133B7-1AD4-418C-8825-D259AA873822}
+  <TRACK {74F25BFF-41D9-41C3-B2F1-E2446785EC30}
     NAME "NES - Pulse 2 [Gradius Mountains]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {07F133B7-1AD4-418C-8825-D259AA873822}
+    TRACKID {74F25BFF-41D9-41C3-B2F1-E2446785EC30}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {2C98EF74-CA12-4F58-A7CF-27B13A1BB878}
+      FXID {83CA7524-55B9-4275-83FD-50B22A6CD94C}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {46EFCD1A-7BB2-4917-AA18-2A50DE035F26}
+      IGUID {7F474F4C-94CC-4B85-98AC-653E9BEC6908}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {AC3850BB-E3B3-4513-B6F3-BA2A134798FC}
+  <TRACK {1056DBB3-3DC5-4D75-8900-8125A0F1BF51}
     NAME "NES - Triangle [Gradius Mountains]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {AC3850BB-E3B3-4513-B6F3-BA2A134798FC}
+    TRACKID {1056DBB3-3DC5-4D75-8900-8125A0F1BF51}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {55C0F1B7-5A9D-4F42-9AB8-19F0C204277B}
+      FXID {07CB2DAA-B906-4C4A-80F4-8D6D2277479C}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {209D425B-7589-45A6-9160-2189F3237757}
+      IGUID {7E48A7CB-5301-45AC-A028-BE2D91C219FF}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >
     >
   >
-  <TRACK {49C5B2C3-57BE-4F34-905F-2138A0205BBB}
+  <TRACK {1F4D6A03-7CBE-4EA4-A43B-1BBAE9EECBCD}
     NAME "NES - Noise / Drums [Gradius Mountains]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {49C5B2C3-57BE-4F34-905F-2138A0205BBB}
+    TRACKID {1F4D6A03-7CBE-4EA4-A43B-1BBAE9EECBCD}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {F91EAE9D-E193-42B9-BEE3-D9EDFDCFA8E8}
+      FXID {E8E60085-59D0-4E96-8762-59EF82B7EE51}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {26042115-3363-4AC2-BEBC-EC2668A72649}
+      IGUID {8675AC9F-7105-4853-BD71-52C2D016142F}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/sinfon1.mid"
       >

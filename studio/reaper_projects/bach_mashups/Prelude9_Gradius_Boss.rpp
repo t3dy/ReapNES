@@ -12,7 +12,7 @@
     |Bach × Gradius Boss — WTC Prelude No.9 in E
     |Stage preset: Both pulses thin 12.5% - alien metallic menace
   >
-  <TRACK {A2FDCD88-DE4E-451E-9D7C-EAAB54C4F2DF}
+  <TRACK {C8BD5DEF-58F6-4C9D-BA8C-88945D4B3076}
     NAME "NES - Pulse 1 [Gradius Boss]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {A2FDCD88-DE4E-451E-9D7C-EAAB54C4F2DF}
+    TRACKID {C8BD5DEF-58F6-4C9D-BA8C-88945D4B3076}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         0 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {B2D5CDE3-9273-4BD2-84BD-E34CA7D7BD34}
+      FXID {6BEE2E45-16A2-4052-A43E-BEDCE742B682}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5C1EC8A0-9724-4F80-BFE7-21480858775B}
+      IGUID {153B8044-3573-4BB1-AFBE-C52447C77A7C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >
     >
   >
-  <TRACK {BFE7FAED-6F40-4041-906B-ECA87B9444EF}
+  <TRACK {1204C7A7-D543-49F2-B840-8403F163BED5}
     NAME "NES - Pulse 2 [Gradius Boss]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {BFE7FAED-6F40-4041-906B-ECA87B9444EF}
+    TRACKID {1204C7A7-D543-49F2-B840-8403F163BED5}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 0 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {AC735B62-F2A6-4B88-ADA8-2E6E5F8F525B}
+      FXID {8C3B308D-3774-49DE-8F02-9C5F5C3CD023}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {86085E3B-B4AC-4B95-A632-ACEEAC5802D0}
+      IGUID {79CF76E0-4DD1-4BB5-9F4F-E755BD5CFC87}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >
     >
   >
-  <TRACK {054CE8D2-FA7D-4D37-B64D-F38A00B52C99}
+  <TRACK {BB9E1B21-3717-42C9-A311-3D6F388E4FFD}
     NAME "NES - Triangle [Gradius Boss]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {054CE8D2-FA7D-4D37-B64D-F38A00B52C99}
+    TRACKID {BB9E1B21-3717-42C9-A311-3D6F388E4FFD}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {45117F0C-E171-4765-93C3-17DCC5E40489}
+      FXID {A0A9B7E3-1D9B-43E2-A517-1BC6E7AA069C}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B9951B8C-379E-4260-A24B-2FA864B5EB5F}
+      IGUID {49B2F0DF-C399-4B68-8843-79618400CC59}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >
     >
   >
-  <TRACK {4D55CF6F-3093-4B40-BDB4-F9D8D39902D6}
+  <TRACK {E05942C2-564B-40E7-8A2E-FEB8067F8BC6}
     NAME "NES - Noise / Drums [Gradius Boss]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {4D55CF6F-3093-4B40-BDB4-F9D8D39902D6}
+    TRACKID {E05942C2-564B-40E7-8A2E-FEB8067F8BC6}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {8D70DCC2-16A5-4ACE-A334-D59B669AEA9C}
+      FXID {1A543232-BAAD-4091-B63B-83C9A3708CE1}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {FDD36F92-8E51-489C-B7C6-EF988A2694DD}
+      IGUID {DD2453D0-A895-4438-A7AF-911F4D753429}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >

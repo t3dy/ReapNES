@@ -1,6 +1,6 @@
 # Classical x NES Mashups — Sources and Design Rationale
 
-This directory contains 681 REAPER projects that pair classical MIDI
+This directory contains 1,246 REAPER projects that pair classical MIDI
 performances with NES synthesizer timbres ripped from game ROMs. Each
 project uses the ReapNES APU JSFX plugin to render the classical music
 through authentic Nintendo pulse and triangle wave synthesis.
@@ -264,10 +264,21 @@ patterns all land correctly without transposition.
 
 | Category | Pieces | Stages | Projects |
 |----------|--------|--------|----------|
-| Bach | 44 | 24 | 513 |
+| Bach | 44 | 24 | 1,078 |
 | Mozart | 2 | 24 | 48 |
 | Beethoven | 5 | 24 | 120 |
-| **Total** | **51** | **24** | **681** |
+| **Total** | **51** | **24** | **1,246** |
+
+### Per-Game Breakdown
+
+| Game | Bach | Mozart | Beethoven | Total |
+|------|------|--------|-----------|-------|
+| Castlevania 1 | 215 | 10 | 25 | 250 |
+| Contra | 172 | 8 | 20 | 200 |
+| Journey to Silius | 230 | 10 | 25 | 265 |
+| Gradius | 139 | 6 | 15 | 160 |
+| Ghosts 'n' Goblins | 46 | 2 | 5 | 53 |
+| Bionic Commando | 276 | 12 | 30 | 318 |
 
 ---
 

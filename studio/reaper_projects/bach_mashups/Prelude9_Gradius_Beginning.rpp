@@ -12,7 +12,7 @@
     |Bach × Gradius Beginning — WTC Prelude No.9 in E
     |Stage preset: Bright lead vs wide pad - optimistic launch feel
   >
-  <TRACK {93D33EBC-B33B-4D1B-B0C5-DD524C685D5A}
+  <TRACK {D1FB3CC0-BDDD-4A1D-B060-E04401C6E30B}
     NAME "NES - Pulse 1 [Gradius Beginning]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {93D33EBC-B33B-4D1B-B0C5-DD524C685D5A}
+    TRACKID {D1FB3CC0-BDDD-4A1D-B060-E04401C6E30B}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {EA400B74-555C-44E8-940F-DE22E79D1B41}
+      FXID {ABB15C3B-D03F-4333-98C8-2733678AC839}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {56B6ABEF-BFBA-4055-9116-04C8087095D5}
+      IGUID {2BA476C2-55DF-48AB-BF4C-9EFFB95281BD}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >
     >
   >
-  <TRACK {642B4344-281F-4675-8AD6-EBD448ADE006}
+  <TRACK {B243D2F0-9580-41CC-872C-B38361083E55}
     NAME "NES - Pulse 2 [Gradius Beginning]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {642B4344-281F-4675-8AD6-EBD448ADE006}
+    TRACKID {B243D2F0-9580-41CC-872C-B38361083E55}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 3 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {761DD9AA-AEB6-4275-93E8-A056F446923C}
+      FXID {7EB732D4-A05D-4D5A-8031-AC705287BECE}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3CEC9B5B-D986-45D7-B1E3-EACC1B0F6A43}
+      IGUID {8054A859-BD41-4ABA-8FEF-0A67F068504B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >
     >
   >
-  <TRACK {B50A8C65-8248-4D65-9661-7740378430D3}
+  <TRACK {E44A5FDA-BA74-47F9-9C2F-37081D4F3EDE}
     NAME "NES - Triangle [Gradius Beginning]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {B50A8C65-8248-4D65-9661-7740378430D3}
+    TRACKID {E44A5FDA-BA74-47F9-9C2F-37081D4F3EDE}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {7A2D1E7A-046F-4F5E-B648-14C6B2F5D7B7}
+      FXID {6DDD1742-662E-40F5-972A-D72C7D58269C}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {2BB4091C-304A-4CD2-99F0-8E82C341E590}
+      IGUID {0FD22F36-D755-49D8-A226-1A0197E0E131}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >
     >
   >
-  <TRACK {0F27A2BD-12A0-4CA5-B6A8-664A9D12F7A9}
+  <TRACK {62DD6A6B-1645-4CA7-8F44-4E03E9140FE2}
     NAME "NES - Noise / Drums [Gradius Beginning]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {0F27A2BD-12A0-4CA5-B6A8-664A9D12F7A9}
+    TRACKID {62DD6A6B-1645-4CA7-8F44-4E03E9140FE2}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {DEDB46AB-1F43-4A63-9893-CE586FC384FC}
+      FXID {E2937A05-41B2-4EB0-8A1C-D99647AD4105}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F932BC49-9EE1-4AAC-80EC-2A70F3447C8E}
+      IGUID {44B836BB-478F-4C4F-AF15-3F6E7E32DD6C}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/Prelude9.mid"
       >

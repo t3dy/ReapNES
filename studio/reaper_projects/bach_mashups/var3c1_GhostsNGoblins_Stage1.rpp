@@ -12,7 +12,7 @@
     |Bach × GnG Stage 1 — Goldberg Variation 3 (Canon)
     |Stage preset: Dual bright 25% - Capcom gothic energy
   >
-  <TRACK {6F92BEF8-6407-4FD4-9087-924A216D11E1}
+  <TRACK {696747FF-1557-4021-BC16-4218FEE70D23}
     NAME "NES - Pulse 1 [GnG Stage 1]"
     PEAKCOL 16576606
     BEAT -1
@@ -25,7 +25,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {6F92BEF8-6407-4FD4-9087-924A216D11E1}
+    TRACKID {696747FF-1557-4021-BC16-4218FEE70D23}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -40,7 +40,7 @@
         1 15 1 1 15 1 1 0 0 15 1 0.800000 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {54C84483-2B3E-495E-9660-4663A566A90B}
+      FXID {B1C36AD5-F6BA-452E-ADA4-0AB265AFAAC3}
       WAK 0 0
     >
     <ITEM
@@ -52,13 +52,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {FC9231E0-0541-48FE-987C-37FB4251FC3E}
+      IGUID {DE7BD159-77B2-48E0-BEEA-B32E7C95C4BE}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var3c1.mid"
       >
     >
   >
-  <TRACK {C0985227-E9BF-4E21-B2E5-FF4FC61B49E0}
+  <TRACK {04841E52-120F-4A00-97D4-DB2FA9D1F09C}
     NAME "NES - Pulse 2 [GnG Stage 1]"
     PEAKCOL 10092441
     BEAT -1
@@ -71,7 +71,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {C0985227-E9BF-4E21-B2E5-FF4FC61B49E0}
+    TRACKID {04841E52-120F-4A00-97D4-DB2FA9D1F09C}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -86,7 +86,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {F40B64E4-5747-4290-8462-E52768393D50}
+      FXID {C1117A49-5198-447A-81EA-558F6D1823D2}
       WAK 0 0
     >
     <ITEM
@@ -98,13 +98,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A8DE3C42-21B0-46FA-BBA7-D22AEA43E51F}
+      IGUID {B01761D5-43F8-49C1-8A02-96D6FA410969}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var3c1.mid"
       >
     >
   >
-  <TRACK {00979804-EBCE-4888-98DF-21EB6827AC2A}
+  <TRACK {8D8AB883-246A-4234-9215-95EE78C8E13C}
     NAME "NES - Triangle [GnG Stage 1]"
     PEAKCOL 16744192
     BEAT -1
@@ -117,7 +117,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {00979804-EBCE-4888-98DF-21EB6827AC2A}
+    TRACKID {8D8AB883-246A-4234-9215-95EE78C8E13C}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -132,7 +132,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {C4590F2C-B6ED-4719-86F4-4160457B0296}
+      FXID {28B88DEC-3586-48A1-95A0-3E0598C97A9B}
       WAK 0 0
     >
     <ITEM
@@ -144,13 +144,13 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D4440477-FA77-4BC9-847D-1DB823D4E859}
+      IGUID {B812BDBE-8E1A-4D20-861F-F587C2EE1127}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var3c1.mid"
       >
     >
   >
-  <TRACK {940B45C1-141A-432C-99CC-597CF43561D8}
+  <TRACK {57FDBB6D-3D02-4EAC-AD20-91AC831538CC}
     NAME "NES - Noise / Drums [GnG Stage 1]"
     PEAKCOL 11184810
     BEAT -1
@@ -163,7 +163,7 @@
     BUSCOMP 0 0 0 0 0
     NCHAN 2
     FX 1
-    TRACKID {940B45C1-141A-432C-99CC-597CF43561D8}
+    TRACKID {57FDBB6D-3D02-4EAC-AD20-91AC831538CC}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -178,7 +178,7 @@
         2 15 1 1 15 1 1 0 0 15 1 0.800000 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
       FLOATPOS 0 0 0 0
-      FXID {F7173ED1-7634-4EA7-A63B-524074D2EEF5}
+      FXID {1DCA2C36-D037-4935-A6AD-38323362E0DC}
       WAK 0 0
     >
     <ITEM
@@ -190,7 +190,7 @@
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4B647311-5EE1-429B-A66D-BB2E68B53235}
+      IGUID {7F481C82-B7D2-4308-9CF0-57D15CE1562B}
       <SOURCE MIDI
         FILE "C:/Users/PC/Downloads/var3c1.mid"
       >
