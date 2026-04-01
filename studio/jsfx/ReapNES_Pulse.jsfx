@@ -1,5 +1,5 @@
 desc:ReapNES Pulse — Wire-Accurate 2A03 Pulse Channel
-//tags:synthesizer chiptune NES 8-bit instrument
+tags:synthesizer chiptune NES 8-bit instrument
 //author:ReapNES Studio
 in_pin:none
 out_pin:Left

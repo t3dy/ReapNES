@@ -45,13 +45,15 @@ CHANNEL_LABELS = {
 
 MIDI_CHANNELS = {"pulse1": 0, "pulse2": 1, "triangle": 2, "noise": 3}
 
-# ReapNES_APU slider defaults (sequential 1-13, no gaps):
+# ReapNES_APU slider defaults (sequential 1-15, no gaps):
 #  1: P1 Duty (2=50%)      2: P1 Volume (15)     3: P1 Enable (1)
 #  4: P2 Duty (1=25%)      5: P2 Volume (15)     6: P2 Enable (1)
 #  7: Tri Enable (1)
 #  8: Noise Period (0)     9: Noise Mode (0)    10: Noise Vol (15)   11: Noise Enable (1)
 # 12: Master Gain (0.8)
 # 13: Channel Mode: 0=P1 Only, 1=P2 Only, 2=Tri Only, 3=Noise Only, 4=Full APU
+# 14: Live Patch: 0=Off, 1=NES Sustain, 2=NES Decay
+# 15: Debug Overlay: 0=Off, 1=On
 FULL_APU_DEFAULTS = [
     2, 15, 1,       # P1: duty=50%, vol=15, enable=on
     1, 15, 1,       # P2: duty=25%, vol=15, enable=on
@@ -59,6 +61,8 @@ FULL_APU_DEFAULTS = [
     0, 0, 15, 1,    # Noise: period=0, mode=long, vol=15, enable=on
     0.8,            # Master gain
     4,              # Channel Mode: Full APU (for keyboard play)
+    0,              # Live Patch: Off (MIDI files carry their own CC automation)
+    0,              # Debug Overlay: Off
 ]
 
 # Per-channel mode values for slider13

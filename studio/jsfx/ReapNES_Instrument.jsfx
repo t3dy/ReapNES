@@ -1,5 +1,5 @@
 desc:ReapNES Instrument — Preset-Driven NES Synth
-//tags:synthesizer chiptune NES 8-bit preset instrument
+tags:synthesizer chiptune NES 8-bit preset instrument
 //author:ReapNES Studio
 in_pin:none
 out_pin:Left
